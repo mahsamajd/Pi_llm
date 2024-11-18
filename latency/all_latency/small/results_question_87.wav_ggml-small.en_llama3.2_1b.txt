@@ -1,0 +1,29 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context
+   The word pharmacy is derived from its root word pharma which was a term used since the 15th-17th
+   centuries. However, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice
+   and a range of services that are now performed solely by other specialist practitioners
+   such as surgery and midwifery. The pharma, as it was referred to, often operated through a retail
+   shop which, in addition to ingredients for medicines, sold tobacco and patent medicines.
+   Often the place that did this was called an apothecary and several languages have this as
+   the dominant term, though their practices are more akin to a modern pharmacy. In English the term
+   apothecary would today be seen as outdated or only appropriate if herbal remedies were on offer to
+   a large extent. The pharmas also used many other herbs not listed. The Greek word pharmacia, Greek
+   pharmacia, derives from pharmacin, pharmacin, meaning "drug," "medicine," or "poison," N1.
+   How would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, here is a detailed and specific answer to address the information given:
+
+The word "apothecary" has its roots in Greek, specifically from the words "pharmakon," meaning "drug," "medicine," or "poison." In English, this term was used to describe a pharmacy or a place that sold medicinal substances. The original apothecary typically operated as a retail shop offering general medical advice and various services, such as surgery, midwifery, and the sale of tobacco and patent medicines.
+
+In modern times, other languages have adopted "apothecary" as the dominant term for the profession or occupation, although its practices may differ from those of pharmacies. However, in English, a more accurate description would be that an apothecary is someone who administers general medical advice and offers various services, similar to what pharmacists do today.
+
+In contrast, the word "apothecary" itself has a somewhat outdated connotation, suggesting sorcery or even poison. This connotation may have been perpetuated by historical associations with traditional medicine practices that were often shrouded in mysticism and superstition. As such, it's essential to acknowledge the complexities surrounding this term and its evolution over time.
+
+In summary, if contemporary English speakers were to use the word "apothecary," they would be describing someone who administers general medical advice and offers various services, similar to what pharmacists do today. However, the connotations associated with this term are still present and should be taken into account when using it in modern contexts.
+Transcription Time: 53.66 seconds
+Words per Second: 3.28 WPS
+Inference Time: 86.54 seconds
+Tokens per Second: 2.80 TPS

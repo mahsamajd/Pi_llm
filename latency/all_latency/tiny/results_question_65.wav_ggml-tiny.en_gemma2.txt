@@ -1,0 +1,27 @@
+Audio File: question_65.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2.gguf
+Transcription:    Context, chemical barriers also protect against infection.
+   The skin and respiratory tracts accrete antimicrobial peptides such as the beta defensions.
+   Enzymes such as lysizym and phospholipase A2 in saliva, tears, and breast milk are also antibacterials.
+   Vaginal secretions serve as a chemical barrier following menarky.
+   When they become slightly acidic, while semen contains defensions and zinc to kill pathogens.
+   In the stomach, gastric acid and proteases serve as powerful chemical defenses against ingested pathogens, question.
+   What compounds in the stomach protect against ingested pathogens?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, chemical barriers also protect against infection.
+   The skin and respiratory tracts accrete antimicrobial peptides such as the beta defensions.
+   Enzymes such as lysizym and phospholipase A2 in saliva, tears, and breast milk are also antibacterials.
+   Vaginal secretions serve as a chemical barrier following menarky.
+   When they become slightly acidic, while semen contains defensions and zinc to kill pathogens.
+   In the stomach, gastric acid and proteases serve as powerful chemical defenses against ingested pathogens, question.
+   What compounds in the stomach protect against ingested pathogens?
+Answer:
+
+The stomach is lined with a mucus layer that secretes hydrochloric acid and enzymes that break down the proteins, fats, and carbohydrates in food.
+The mucous lining contains a large number of goblet cells that secrete mucus, which is a viscous fluid that
+Transcription Time: 5.94 seconds
+Words per Second: 14.13 WPS
+Inference Time: 62.94 seconds
+Tokens per Second: 2.37 TPS

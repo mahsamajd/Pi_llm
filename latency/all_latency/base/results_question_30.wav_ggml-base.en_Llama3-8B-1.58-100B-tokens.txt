@@ -1,0 +1,30 @@
+Audio File: question_30.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Answer: 1. The use of internet pharmacies is not new. The US Food and Drug Administration's
+FDA's Office of Criminal Investigations has been aware of the practice for years, and
+has taken steps to discourage it. 2. The most common
+Transcription Time: 14.82 seconds
+Words per Second: 6.88 WPS
+Inference Time: 49.26 seconds
+Tokens per Second: 3.31 TPS

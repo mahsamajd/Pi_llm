@@ -1,0 +1,29 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    context. Historically, forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces cancelled each other out. Such experiments
+   demonstrate the crucial properties that forces are additive vector quantities.
+   They have magnitude and direction. When two forces act on a point particle, the resulting force,
+   the resultant, also called the net force, can be determined by following the parallelogram
+   rule of vector addition. The addition of two vectors represented by sides of a parallelogram
+   gives an equivalent resultant vector that is equal in magnitude and direction to the transversal of
+   the parallelogram. The magnitude of the resultant varies from the difference of the magnitudes of
+   the two forces to their sum, depending on the angle between their lines of action. However,
+   if the forces are acting on an extended body, their respective lines of application must also
+   be specified in order to account for their effects. On the motion of the body, question,
+   What geometric shape is used in equations to determine net force?
+Response: In physics, when determining the net or resultant force acting on an object due to multiple forces, we use a specific method called vector addition which involves geometrical representation. The transcription mentions that for two forces acting upon a point particle, their summed effect is calculated using what's referred to as 'the parallelogram rule of vector addition'.
+
+To find the resultant force (also known as net or total force), you construct a diagram with each individual force represented by an arrow. The magnitude and direction of these arrows represent the magnitudes and directions of forces respectively, adhering to their crucial property that they are additive vector quantities having both magnitude and direction.
+
+To apply the parallelogram rule: 
+1. Draw two vectors representing individual forces acting on a point particle (or extended body). These should originate from the same point which represents where these forces act upon an object or system under investigation. Make sure that each force vector is drawn to scale, maintaining their actual magnitudes and directions as accurately as possible according to measurement tools available at your disposal such as a protractor for angles, etc..
+2. Construct the parallelogram using these two vectors by drawing lines parallel to them from each arrowhead (point of application). The intersection point on this extended shape represents where their combined effect acts - hence it symbolizes our resultant force vector. 
+3. Finally, draw a new line that starts at one vertex and ends at the diagonally opposite vertex in your parallelogram drawing to represent the magnitude and direction (or the 'transversal') of this resulting or net force. This can be measured using a ruler for length with respects to scale used earlier while diagramming, thus determining both its resultant magnitude as well as associated angle indicating direction - providing you full details on how these forces interactively work upon your object under investigation when they act simultaneously at the same point or line of application.
+ 
+To summarize: The parallelogram shape is used in equations to determine net force, specifically applying 'the Parallelogram Rule' for vector addition and representing it with a transversal inside this geometric figure that points along its resultant magnitude direction - thus allowing you calculate both the size (magnitude) of resulting forces as well as their associated effect directions. The precise nature or sense in which these combined effects influence an extended body will depend on additional factors such as friction, momentum and properties like mass distribution etc., but fundamentally it's this parallelogram rule that allows us to calculate the net resultant force when multiple forces are involved initially under consideration of their magnitudes and directions.
+Transcription Time: 62.65 seconds
+Words per Second: 2.65 WPS
+Inference Time: 339.70 seconds
+Tokens per Second: 1.29 TPS

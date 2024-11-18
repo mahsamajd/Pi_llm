@@ -1,0 +1,34 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used
+   since the 15th-17th centuries. However, the original Greek roots from pharmacos imply
+   sorcery or even poison. In addition to pharma responsibilities, the pharma offered general
+   medical advice and a range of services that are now performed solely by other specialist
+   practitioners, such as surgery and midwifery. The pharma, as it was referred to, often operated
+   through a retail shop which, in addition to ingredients for medicines, sold tobacco and
+   patent medicines. Often the place that did this was called an apothecary and several languages
+   have this as the dominant term, though their practices are more akin to a modern pharmacy.
+   In English the term apothecary would today be seen as outdated or only appropriate if herbal.
+   Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word pharmakeia (Greek, φαρμακία) derives from pharmakin, pharmakin, meaning
+   "drug", "medicine", or "poison" (n1).
+Response: Based on the provided transcription, here are some specific details and insights:
+
+1. **Etymology of the word "pharmacy"**: The word "pharmacy" is derived from its root word "pharma," which was used since the 15th-17th centuries. However, this term has a negative connotation as it originates from Greek roots that imply "sorcery or even poison."
+
+2. **Original Greek roots and meanings**: The original Greek roots, specifically "pharmakos" (φαρμακός), refer to "sorcery," "poison," or "drug." This highlights the complex and multifaceted nature of ancient medical practices.
+
+3. **Pharma responsibilities and services**: In addition to dispensing medicines, the pharma offered general medical advice and a range of services that are now performed by specialist practitioners, such as surgery and midwifery. These services were often provided through retail shops that sold not only medicinal ingredients but also tobacco and patent medicines.
+
+4. **Apothecary vs. Pharmacy**: The term "apothecary" is often used interchangeably with "pharmacy," but their practices are more akin to modern pharmacy operations. However, in English, the term "apothecary" would be seen as outdated or only appropriate if herbal remedies were on offer.
+
+5. **Herbal remedies and other uses**: The pharma offered a range of herbs not listed, suggesting that they employed various traditional medicine practices. This further highlights the complexities and nuances of ancient medical practices.
+
+6. **Greek word pharmakeia (φαρμακία)**: The Greek word "pharmakeia" is derived from "pharmakin," meaning "drug," "medicine," or "poison." This etymology underscores the importance of pharmacy in ancient cultures, even if its connotations were often negative.
+
+Overall, this transcription provides insight into the complex history and evolution of the term "pharmacy," highlighting both its modern connotations and its ancient roots.
+Transcription Time: 213.93 seconds
+Words per Second: 0.77 WPS
+Inference Time: 217.50 seconds
+Tokens per Second: 1.26 TPS

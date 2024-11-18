@@ -1,0 +1,40 @@
+Audio File: question_64.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    context. On the other hand, in the late 1980s the Western Atlantic Tina-4 NEMIOPSIS
+   LIDI was accidentally introduced. Into the Black Sea and Sea of Azov via the ballast tanks of ships.
+   And has been blamed for causing sharp drops in fish catches by eating both fish larva and small.
+   Cristations that would otherwise feed the adult fish, NEMIOPSIS is well equipped to invade new
+   territories. Although this was not predicted until after it so successfully colonized the Black Sea.
+   As it can breed very rapidly and tolerate a wide range of water temperatures and salinities.
+   The impact was increased by chronic overfishing. And by eutrophication that gave the entire ecosystem
+   a short-term boost. Causing the NEMIOPSIS population to increase even faster than normal,
+   and above all by the absence of efficient predators on these introduced Tina-4s.
+   NEMIOPSIS populations in those areas were eventually brought under control by the accidental.
+   Introduction of the NEMIOPSIS eating North American Tina-4 baro ovata.
+   And by a cooling of the local climate from 1991 to 1993.
+   Which significantly slowed the animal's metabolism? However the abundance of plankton in the area
+   seems unlikely to be restored to pre NEMIOPSIS.
+   Levels, question, what is blamed for causing the sharp drop in fish catches in the Black Sea and the sea of Azov?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. On the other hand, in the late 1980s the Western Atlantic Tina-4 NEMIOPSIS
+   LIDI was accidentally introduced. Into the Black Sea and Sea of Azov via the ballast tanks of ships.
+   And has been blamed for causing sharp drops in fish catches by eating both fish larva and small.
+   Cristations that would otherwise feed the adult fish, NEMIOPSIS is well equipped to invade new
+   territories. Although this was not predicted until after it so successfully colonized the Black Sea.
+   As it can breed very rapidly and tolerate a wide range of water temperatures and salinities.
+   The impact was increased by chronic overfishing. And by eutrophication that gave the entire ecosystem
+   a short-term boost. Causing the NEMIOPSIS population to increase even faster than normal,
+   and above all by the absence of efficient predators on these introduced Tina-4s.
+   NEMIOPSIS populations in those areas were eventually brought under control by the accidental.
+   Introduction of the NEMIOPSIS eating North American Tina-4 baro ovata.
+   And by a cooling of the local climate from 1991 to 1993.
+   Which significantly slowed the animal's metabolism? However the abundance of plankton in the area
+   seems unlikely to be restored to pre NEMIOPSIS.
+   Levels, question, what is blamed for causing the sharp drop in fish catches in the Black Sea and the sea of Azov?
+Answer: NEMIOPSIS [end of text]
+Transcription Time: 13.37 seconds
+Words per Second: 16.15 WPS
+Inference Time: 44.66 seconds
+Tokens per Second: 5.42 TPS

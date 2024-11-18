@@ -1,0 +1,20 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2
+Transcription:    Context, historically, forces were first quantitatively investigated in conditions of static equilibrium where several.
+   Forces cancel each other out. Such experiments demonstrate the crucial properties that forces are additive vector quantities.
+   They have magnitude and direction. When two forces act on a point particle, the resulting force, the resultant, also called the net force,
+   can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram, gives an equivalent resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of the two forces to.
+   There sum, depending on the angle between their lines of action. However, if the forces are acting on an extended body, their respective lines of application must also be specified in order to account for their effects.
+   On the motion of the body, question. What geometric shape is used in equations to determine net force.
+Response: Based on the transcription provided, a detailed and specific answer can be given as follows:
+
+The geometric shape used in equations to determine the net (resultant) force when two forces are acting on an extended body is a parallelogram.
+
+This conclusion can be drawn from the transcription, which states that "The addition of two vectors represented by sides of a parallelogram, gives an equivalent resultant vector..." This indicates that the parallelogram shape is used to represent the sum of the forces and to calculate the net force acting on an extended body.
+Transcription Time: 10.96 seconds
+Words per Second: 15.15 WPS
+Inference Time: 108.15 seconds
+Tokens per Second: 0.85 TPS

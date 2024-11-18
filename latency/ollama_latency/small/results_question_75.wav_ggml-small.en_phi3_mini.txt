@@ -1,0 +1,22 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context From the Eocene onwards,
+   the ongoing alpine orogeny caused ANS rift system to develop in this zone.
+   The main elements of this rift are the Upper Rhine Graben, in southwest Germany and eastern France
+   and the Lower Rhine Embayment, in northwest Germany and the southeastern Netherlands.
+   By the time of the Miocene, a river system had developed in the Upper Rhine Graben,
+   that continued northward and is considered the first Rhine River.
+   At that time, it did not yet carry discharge from the Alps.
+   Instead, the watersheds of the Rhone and Danube drained the northern flanks of the Alps.
+   Question.
+   What elements from the rift system in the alpine orogeny in southwest Germany?
+Response: The main element from the rift system within the context of alpine orogeny mentioned is the Upper Rhine Graben, which stretches across southeast France and into northwestern Switzerland. This geological feature formed due to the ongoing processes since at least the Eocene epoch as a result of continental movements related to plate tectonics in this region. It has been further developed over time by alpine orogeny, which is directly associated with mountain-building events caused primarily through crustal shortening and folding that occur when large landmasses collide (in the case of Europe's Alps).
+
+The Upper Rhine Graben itself became a significant basin within this rift system during subsequent geological periods, eventually contributing to what we know today as one of the primary sections extending through southwest Germany. The development and expansion have evolved since these initial rifting events in early Eocene times due largely to tectonic forces acting upon Earth's crust along with other processes such as erosion and sediment deposition that continually reshape this geological landscape over time. 
+
+It should be noted, however, the passage provided does not explicitly list additional elements of rift systems in southwest Germany apart from Upper Rhine Graben within its scope; hence a more comprehensive understanding would require further research into other related features if asked for detail beyond what's given herein.
+Transcription Time: 35.62 seconds
+Words per Second: 3.20 WPS
+Inference Time: 208.16 seconds
+Tokens per Second: 1.04 TPS

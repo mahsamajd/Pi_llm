@@ -1,0 +1,29 @@
+Audio File: question_47.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, the 17th century royal oogestau castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year,
+   Zaceta National Gallery of Art, the oldest exhibition site in Warsaw.
+   With a tradition stretching back to the mid-19th century organizes exhibitions of modern art by.
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery weekend is held on last weekend of September, question.
+   How many projects does the center currently realize a year?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the 17th century royal oogestau castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year,
+   Zaceta National Gallery of Art, the oldest exhibition site in Warsaw.
+   With a tradition stretching back to the mid-19th century organizes exhibitions of modern art by.
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery weekend is held on last weekend of September, question.
+   How many projects does the center currently realize a year?
+Answer: 400. 400
+Explain Your Answer
+You have to explain your answer. Do not simply copy paste or quote what you have on the question.
+In 2017, a new gallery weekend was held in Warsaw, Poland. It was
+Transcription Time: 5.91 seconds
+Words per Second: 15.74 WPS
+Inference Time: 48.70 seconds
+Tokens per Second: 3.12 TPS

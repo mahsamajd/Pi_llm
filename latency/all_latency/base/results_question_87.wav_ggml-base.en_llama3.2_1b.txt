@@ -1,0 +1,32 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used since
+   the 15th, 17th. Sentries. However, the original Greek roots from pharmacos imply sorcery or even
+   poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range
+   of services that are now performed solely by other specialist practitioners, such as surgery and
+   midwifery. The pharma, as it was referred to, often operated through a retail shop which,
+   in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that
+   did this was called an apothecary and several languages have this as the dominant term,
+   though their practices are more akin to a modern pharmacy. In English the term apothecary would
+   today be seen as outdated or only a proproryate if herbal. Remedies were on offer to a large extent.
+   The pharma is also used many other herbs not listed. The Greek word "pharmakia", Greek,
+   "pharmakia", derives from "pharmakin", "pharmakin", meaning "drug", "medicine", or "poison",
+   N1. Question. How would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, a detailed and specific answer can be made regarding how the word "aphocarey" would be viewed by contemporary English speakers.
+
+In modern English, "apho-carey" is not a commonly used or accepted term. However, if we consider it as a compound word with its roots in Greek, we can analyze how it might be perceived by contemporary English speakers.
+
+The original Greek root "pharmakia", meaning "drug", "medicine", or "poison", implies that the concept of pharmacy has evolved over time and has branched out into various forms. The modern term "pharmacy" likely emerged as a more specific and technical term for the practice of dispensing medicinal substances.
+
+If we apply this understanding to the transcription, it suggests that the term "apho-carey" might be viewed by contemporary English speakers in a similar light. While the term is not currently widely used or recognized, its roots in Greek imply that there may still be some residual connection to the original concept of pharmacy.
+
+In terms of usage and acceptance, it's possible that a modern pharmaceutical company might use "apho-carey" as a marketing term for their products, suggesting that these remedies are legitimate and safe. However, this would not necessarily reflect an accurate understanding or description of the historical roots of the term.
+
+In general, contemporary English speakers may view the term "aphocarey" with a mix of familiarity and disconnection from its historical context. While they might recognize the Greek root and the evolution of the concept over time, they might also be unfamiliar with the specific practices and services offered by an apothecary in the past.
+
+In summary, based on the transcription, "apho-carey" is likely to be viewed by contemporary English speakers as a term that reflects the historical roots of pharmacy but may not accurately convey its current meaning or significance.
+Transcription Time: 22.77 seconds
+Words per Second: 7.90 WPS
+Inference Time: 98.79 seconds
+Tokens per Second: 3.07 TPS

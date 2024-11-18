@@ -1,0 +1,27 @@
+Audio File: question_47.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The 17th-century royal Ujazdao Castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions. Concerts. Shows and creative workshops.
+   The center currently realizes about 500 projects a year. Zacchetta National Gallery of Art.
+   The oldest exhibition site in Warsaw. With a tradition stretching back to the mid-19th century
+   organizes exhibitions of modern art by Polish and international artists and promotes art in
+   many other ways. Since 2011 Warsaw Gallery weekend is held on last weekend of September,
+   question. How many projects does the center currently realize a year?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The 17th-century royal Ujazdao Castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions. Concerts. Shows and creative workshops.
+   The center currently realizes about 500 projects a year. Zacchetta National Gallery of Art.
+   The oldest exhibition site in Warsaw. With a tradition stretching back to the mid-19th century
+   organizes exhibitions of modern art by Polish and international artists and promotes art in
+   many other ways. Since 2011 Warsaw Gallery weekend is held on last weekend of September,
+   question. How many projects does the center currently realize a year?
+Answer:
+
+   The center currently realizes about 500 projects a year. Zacchetta National Gallery of Art.
+   The oldest exhibition site in Warsaw. With a tradition stretching back to the mid-19th century
+Transcription Time: 10.77 seconds
+Words per Second: 8.54 WPS
+Inference Time: 6.66 seconds
+Tokens per Second: 21.49 TPS

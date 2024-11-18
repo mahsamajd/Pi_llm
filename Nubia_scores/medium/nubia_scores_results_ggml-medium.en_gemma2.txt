@@ -1,0 +1,155 @@
+Question: What was the name of the stadium that the teams played in?
+Response: StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.24253156705274304
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The Nixon administration began multilateral negotiations with the combatants on January
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.0728459110245735
+
+Question: How many items is the University Library home to?
+Response: The answer is 2 million. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.14324865667556075
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1990. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.20664790552421086
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: Rhine [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0827831820290863
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination involves the introduction of a pathogen, antigen, or
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.28227853107054535
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Fresno [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.10992414493732905
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction means that we can solve the problem A by solving the problem B
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.18603151137113405
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The answer is 6.1%. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.11527774720906092
+
+Question: How many prime numbers exist?
+Response: There are infinitely many primes, as demonstrated by Euclid around 300 BC. However, the distribution of primes, that is to say, the statistical behavior of primes in the large, can be modeled. The first result in that direction is the
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.016862462138111267
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The answer should include at least 3 of the following elements:
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.09196418790999372
+
+Question: How many projects does the Centre currently realize a year?
+Response: 500 [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.11026212895317478
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley, one of the most spectacular landscapes in Germany. The
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.20418967454371706
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union (EU) law has direct effect on the laws of member states. This means that EU law has
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.25226752634893856
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of acidified water into molecular oxygen and hydrogen gas. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3003607781042147
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 118.9 men for every 100 women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.10429902342639796
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongke Khan was a Mongol ruler who invaded southern China in 1259 and founded the Yuan dynasty in 1279.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.22414398463942287
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. What must the integer m be less than or equal to when performing Trial Division? The integers m must be less than or equal to the square root of n. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.44276514131567724
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Peptic digestion occurs in the stomach. The stomach produces hydrochloric acid, which
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.12144699007445847
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The answer to this question is The Lazienki Park, which is a popular strolling destination for the Varsovians [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2614403415252503
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Context Engineering News Record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. Each year, ENR publishes a list of the largest companies in
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.574047695006705
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift are the Upper Rhine Graben in southwest Germany and eastern France and the Lower Rhine Embayment in northwest Germany and the southeastern Netherlands. By the time of the Miocene, a river system had developed in the Upper Rhine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5019163011542356
+
+Question: Who discovered this and where did they come from?
+Response: Terra Preta is a type of soil which has a dark reddish color and is rich in organic matter, and has been created by indigenous communities in the Amazon region. This soil type is found in large areas of the Amazon rainforest, which have been
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.28412091094937386
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. The element is found in almost all biomolecules that are important to,
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07741922427683401
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.17787516211957366
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape that is used in equations to determine net force is the parallelogram. The parallelogram is a
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.46349466735305833
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two-thirds of the Rhine water flow outside of Germany would flow north to the North Sea. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2297392348712346
+
+Question: Levels of what things are used to determine emission factors?
+Response: IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07517360697685882
+
+Question: Why does competition among workers drive down wages?
+Response: Because competition among workers tends to drive down wages due to the expendable nature of
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.2506600442397362
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure of the pharmacists was established through the Teiho Code and the Euro Code. The Teiho Code defines the status of the pharmacists in society and redefines the roles and responsibilities of pharmacists in the Imperial court. The Euro
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.20759727275665496
+

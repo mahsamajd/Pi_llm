@@ -1,0 +1,26 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. Historically, forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces canceled each other out. Such experiments demonstrate
+   the crucial properties that forces are additive vector quantities. They have magnitude and direction.
+   When two forces act on a point particle, the resulting force, the resultant, also called
+   the net force, can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram gives an equivalent
+   resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of
+   the two forces to their sum, depending on the angle between their lines of action. However,
+   if the forces are acting on an extended body, their respective lines of application must also be
+   specified in order to account for their effects. On the motion of the body, question, what geometric
+   shape is used in equations to determine net force.
+Response: Based on the provided transcription, a detailed and specific answer can be made regarding what geometric shape is used in equations to determine net force.
+
+In order to accurately determine net force when two forces act on an extended body, scientists use vectors. The parallelogram is a fundamental concept that plays a crucial role in this process. A parallelogram is defined as the sum of adjacent sides and the angle between them.
+
+When applying the parallelogram rule of vector addition, the resulting net force (resultant) can be determined by adding two vectors represented by opposite sides of the parallelogram. This process helps to calculate the magnitude and direction of the resultant force.
+
+The key geometric shape used in equations to determine net force is therefore a **parallelogram**. The dimensions of the parallelogram are defined by the difference and sum of the magnitudes of the two forces acting on the extended body, which depends on the angle between their lines of action. By applying this rule, scientists can accurately calculate the net force when dealing with complex motion scenarios involving multiple forces acting on an object.
+Transcription Time: 20.50 seconds
+Words per Second: 8.10 WPS
+Inference Time: 64.68 seconds
+Tokens per Second: 2.86 TPS

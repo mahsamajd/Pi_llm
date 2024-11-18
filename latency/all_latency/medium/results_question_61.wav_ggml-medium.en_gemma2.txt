@@ -1,0 +1,46 @@
+Audio File: question_61.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2.gguf
+Transcription:    Context.
+   Mongke Khan commenced a military campaign against the Chinese Song dynasty in southern China.
+   The Mongol force that invaded southern China was far greater than the force they sent to invade the
+   Middle East in 1256. He died in 1259 without a successor.
+   Kublai returned from fighting the Song in 1260 when he learned that his brother,
+   Arik Boke, was challenging his claim to the throne.
+   Kublai convened a keraltai in Kaiping that elected him Great Khan.
+   A rival keraltai in Mongolia proclaimed Arik Boke Great Khan.
+   Beginning a civil war, Kublai depended on the cooperation of his Chinese subjects to
+   ensure that his army received ample resources. He bolstered his popularity among his subjects
+   by modeling his government on the bureaucracy of traditional Chinese dynasties and adopting
+   the Chinese-era name of Zhongtong. Arik Boke was hampered by inadequate supplies and surrendered
+   in 1264. All of the three Western khanates, Golden Horde, Chagatai Khanate and Ilkhanate,
+   became functionally autonomous, although only the Ilkhan's truly recognized Kublai as Great Khan.
+   Civil strife had permanently divided the Mongol Empire.
+   Question. Where did Hmong-Ki Khan attack the Song dynasty?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context.
+   Mongke Khan commenced a military campaign against the Chinese Song dynasty in southern China.
+   The Mongol force that invaded southern China was far greater than the force they sent to invade the
+   Middle East in 1256. He died in 1259 without a successor.
+   Kublai returned from fighting the Song in 1260 when he learned that his brother,
+   Arik Boke, was challenging his claim to the throne.
+   Kublai convened a keraltai in Kaiping that elected him Great Khan.
+   A rival keraltai in Mongolia proclaimed Arik Boke Great Khan.
+   Beginning a civil war, Kublai depended on the cooperation of his Chinese subjects to
+   ensure that his army received ample resources. He bolstered his popularity among his subjects
+   by modeling his government on the bureaucracy of traditional Chinese dynasties and adopting
+   the Chinese-era name of Zhongtong. Arik Boke was hampered by inadequate supplies and surrendered
+   in 1264. All of the three Western khanates, Golden Horde, Chagatai Khanate and Ilkhanate,
+   became functionally autonomous, although only the Ilkhan's truly recognized Kublai as Great Khan.
+   Civil strife had permanently divided the Mongol Empire.
+   Question. Where did Hmong-Ki Khan attack the Song dynasty?
+Answer:
+Mongke Khan commenced a military campaign against the Chinese Song dynasty in southern China.
+
+Explanation:
+The Mongols conquered and ruled the Song dynasty from 1279-1368. The Mongol dynasty conquered and ruled the Chinese Song
+Transcription Time: 209.31 seconds
+Words per Second: 0.89 WPS
+Inference Time: 91.87 seconds
+Tokens per Second: 2.64 TPS

@@ -1,0 +1,29 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Answer:
+   The answer was not given in the context of the question, so it is not given in this answer.
+   The answer, however, is that both the European and Orientalists were the work of
+   the Geographic scholars.
+Transcription Time: 15.53 seconds
+Words per Second: 6.95 WPS
+Inference Time: 37.23 seconds
+Tokens per Second: 4.46 TPS

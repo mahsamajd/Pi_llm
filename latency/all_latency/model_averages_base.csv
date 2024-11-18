@@ -1,0 +1,10 @@
+Model,Avg Transcription Time,Avg Words per Second,Avg Inference Time,Avg Tokens per Second
+Q2_K,15.21,7.72,40.38,4.22
+Llama3-8B-1.58-100B-tokens,14.93,8.58,58.84,3.15
+phi3_mini,16.27,8.14,183.33,0.70
+bitnet_b1_58-large,14.94,8.58,7.96,22.32
+Q8_0,15.21,7.72,39.34,4.37
+llama3.2,16.27,8.14,96.24,0.65
+K_M,15.21,7.72,36.54,4.72
+ggml-base,15.21,7.72,66.13,2.57
+llama3.2_1b,16.27,8.14,58.51,2.37

@@ -1,0 +1,25 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2
+Transcription:    Context, the word "pharmacy" is derived from its root word "pharma" which was a term used since the 15th-17th.
+   Centuries, however, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by.
+   Other specialist practitioners, such as surgery and midwifery, the pharma, as it was referred to,
+   often operated through a retail shop which. In addition to ingredients for medicines,
+   sold tobacco and patent medicines. Often the place that did this was called an apothecary in
+   several languages have this as the dominant term, though their practices are more akin to a modern
+   pharmacy. In English the term apothecary would today be seen as outdated or only appropriate
+   deferble. Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word "pharmachea" Greek, "pharmachea" derives from "pharmican", "pharmican" meaning "drug",
+   "medicine", or "poison", "n1", "question", how would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, I can infer that if contemporary English speakers were to view the term "apothecary" in a modern context, it would likely be seen as outdated or only appropriate for use in historical or nostalgic contexts.
+
+The reason for this is that the term "apothecary" was previously used to refer to a person who sold medicines and other remedies, but now such services are performed by specialist practitioners. The apothecary's role has largely been taken over by modern pharmacies, which provide a wider range of services, including general medical advice, surgery, midwifery, and more.
+
+Additionally, the term "apothecary" is often associated with older practices and remedies that may not be considered effective or safe by modern standards. The use of herbs and patent medicines, for example, was common in the past but has largely been replaced by evidence-based treatments.
+
+Overall, while the term "apothecary" holds historical significance and nostalgic value, it is unlikely to be used as a contemporary professional title or term. Instead, it would likely be viewed as a relic of the past, evoking images of traditional remedies and outdated medical practices.
+Transcription Time: 12.82 seconds
+Words per Second: 13.73 WPS
+Inference Time: 169.69 seconds
+Tokens per Second: 1.11 TPS

@@ -1,0 +1,140 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by tuition, which is a type of fee. Tuition is a charge for
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.410762402073372
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: 1. What is the specific period that the Amazon rainforest was a narrow band of forest?
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.35498431492200244
+
+Question: What substance is used to make high quality liquid O2?
+Response: <strong>Nitrogen</strong> [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4559273710667454
+
+Question: What makes energy changes in a closed system?
+Response: The change in internal energy of a system is due to the change in the internal energy of the system
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.45326454484858447
+
+Question: What is the French name for the Rhine?
+Response: Answer: The French name of the Rhine, Rhone, is derived from the Celtic name, *Rheno. In the
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.27840244604717956
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In a vaccine, a small amount of antigen is introduced into the host in order to stimulate an immune
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.3808623067367388
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.14569911708691685
+
+Question: How many prime numbers exist?
+Response: The prime number theorem was derived from the fact that there are an infinite number of primes. The theorem is based on the fact that the probability of a random number n being prime is inversely proportional to the number of digits in n. This means that
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09128549891590199
+
+Question: Where is the famous rock the Rhine flows around?
+Response: [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.38686430588823983
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: This question deals with ctenophores, and it is based on a real-world problem that has a lot of people interested. The most important information here is that the ctenophore is a predator, and that the predator is being blamed
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes 300 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.151008223681124
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is considered the epitome of the Rhine Romantic because of its
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.35223146826966545
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law on the laws of the member states is that it imposes duties and
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.12024892222075056
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis is the process of breaking the chemical bond between two elements by applying a direct current (DC) or alternating current (AC) to a molten mixture of the two elements. In the case of electrolysis of water, the elements are oxygen gas and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.069348121687266
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 91.3 [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.16069121584502677
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongke Khan invaded southern China. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.14302935056469723
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.09590649818333519
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The rift system in the Alpine orogeny in southwest Germany is the Lower Rhine Embayment in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.12886985858950684
+
+Question: Who develped the theory of relativity?
+Response: Galileo, Galilei and Sir Isaac Newton [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.09602452318565502
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: What is stratigraphy?
+Response: The process of recording a sequence of events in a geological context is called stratigraphy. This process is important because it provides a chronological record of the events that have happened on Earth. In many cases, it is possible to date the deposition of layers in
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.06458099674837903
+
+Question: Levels of what things are used to determine emission factors?
+Response: IPCC is a specialized agency of the United Nations (UN) whose function is to coordinate the development of
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.13076326609683775
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers tends to drive down wages due to the expendable nature of the worker in relation to his or her particular job. A job where there are many workers willing to work a large amount of time. Competing for a job that few
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6792659743408087
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure of the pharmacists was based on the Teiho Code 701, which was a code of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.16673384224813104
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is a non-specific, generic, and rapidly responding system of defense against
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3513428802828611
+

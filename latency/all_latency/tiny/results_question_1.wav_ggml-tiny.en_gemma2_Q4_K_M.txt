@@ -1,0 +1,20 @@
+Audio File: question_1.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    context, from 2005 to 2014. There were two major league soccer teams in Los Angeles.
+   The LA Galaxy and Chivas USA, that both played at the StubHub Center and were local rivals.
+   However, Chivas were suspended following the 2014 MLS season. With a second MLS team scheduled
+   to return in 2018, question. What was the name of the stadium that the teams played in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, from 2005 to 2014. There were two major league soccer teams in Los Angeles.
+   The LA Galaxy and Chivas USA, that both played at the StubHub Center and were local rivals.
+   However, Chivas were suspended following the 2014 MLS season. With a second MLS team scheduled
+   to return in 2018, question. What was the name of the stadium that the teams played in?
+Answer: StubHub Center
+Context:    From 2005 to 2014, there were two Major League Soccer teams in Los Angeles, the
+   LA Galaxy and Chivas USA, which played at the StubHub Center, a
+Transcription Time: 5.03 seconds
+Words per Second: 12.72 WPS
+Inference Time: 28.79 seconds
+Tokens per Second: 4.03 TPS

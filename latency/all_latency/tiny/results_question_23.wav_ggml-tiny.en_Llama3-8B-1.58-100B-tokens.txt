@@ -1,0 +1,29 @@
+Audio File: question_23.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context, the College of the University of Chicago grants Bachelor of Arts and Bachelor of Science degrees in.
+   50 academic majors and 28 minors.
+   The College's academics are divided into five divisions.
+   The Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division,
+   the Social Sciences Collegiate Division, the Humanities Collegiate Division, and the New Collegiate Division.
+   The first four are sections within their corresponding graduate divisions.
+   While the New Collegiate Division administers interdisciplinary majors and studies which do not fit.
+   In one of the other four divisions, question.
+   What division offers more than one branch of studies that don't fit in with the other four?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the College of the University of Chicago grants Bachelor of Arts and Bachelor of Science degrees in.
+   50 academic majors and 28 minors.
+   The College's academics are divided into five divisions.
+   The Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division,
+   the Social Sciences Collegiate Division, the Humanities Collegiate Division, and the New Collegiate Division.
+   The first four are sections within their corresponding graduate divisions.
+   While the New Collegiate Division administers interdisciplinary majors and studies which do not fit.
+   In one of the other four divisions, question.
+   What division offers more than one branch of studies that don't fit in with the other four?
+Answer: 1. The new division is not part of any of the four divisions. 2. The Social Sciences division is the one with more than one branch of studies.
+Use the following information to complete the table. The College of the University of Chicago
+Transcription Time: 6.17 seconds
+Words per Second: 17.02 WPS
+Inference Time: 51.41 seconds
+Tokens per Second: 3.31 TPS

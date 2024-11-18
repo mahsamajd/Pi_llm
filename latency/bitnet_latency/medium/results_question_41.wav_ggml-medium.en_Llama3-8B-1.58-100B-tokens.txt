@@ -1,0 +1,30 @@
+Audio File: question_41.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. One of its earliest massive implementations was brought about by Egyptians against the
+   British occupation in the 1919 revolution. Civil disobedience is one of the many ways people have
+   rebelled against what they deem to be unfair laws. It has been used in many nonviolent resistance
+   movements in India. Gandhi's campaigns for independence from the British Empire.
+   In Czechoslovakia's Velvet Revolution and in East Germany to oust their communist governments.
+   In South Africa in the fight against apartheid. In the American civil rights movement.
+   In the singing revolution to bring independence to the Baltic countries from the Soviet Union.
+   Recently with the 2003 Rose Revolution in Georgia and the 2004 Orange Revolution in Ukraine.
+   Among other various movements worldwide. Question. In 2004 the Orange Revolution occurred in what
+   country?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. One of its earliest massive implementations was brought about by Egyptians against the
+   British occupation in the 1919 revolution. Civil disobedience is one of the many ways people have
+   rebelled against what they deem to be unfair laws. It has been used in many nonviolent resistance
+   movements in India. Gandhi's campaigns for independence from the British Empire.
+   In Czechoslovakia's Velvet Revolution and in East Germany to oust their communist governments.
+   In South Africa in the fight against apartheid. In the American civil rights movement.
+   In the singing revolution to bring independence to the Baltic countries from the Soviet Union.
+   Recently with the 2003 Rose Revolution in Georgia and the 2004 Orange Revolution in Ukraine.
+   Among other various movements worldwide. Question. In 2004 the Orange Revolution occurred in what
+   country?
+Answer: The Orange revolution occurred in Ukraine.One of the many interesting aspects of the 2004 Orange Revolution is that the movement was not supported by any of the three main political parties in the country (the Party of Regions of Ukraine, the Party of
+Transcription Time: 141.48 seconds
+Words per Second: 0.92 WPS
+Inference Time: 58.16 seconds
+Tokens per Second: 3.35 TPS

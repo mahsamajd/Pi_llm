@@ -1,0 +1,21 @@
+Audio File: question_82.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. Philosophers in antiquity used the concept of force in the study of stationary
+   and moving objects and simple machines, but thinkers such as Aristotle and Archimedes
+   retained fundamental errors in understanding force. In part this was due to an incomplete
+   understanding of the sometimes non-obvious force of friction and a consequently inadequate
+   view of the nature of natural motion. A fundamental error was the belief that a force is required
+   to maintain motion, even at a constant velocity. Most of the previous misunderstandings about
+   motion and force were eventually corrected by Galileo. Galileo and Sir Isaac Newton,
+   with his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved
+   on for nearly 300 years. By the early 20th century, Einstein developed a theory of relativity
+   that correctly predicted the action of forces on objects, with increasing momenta near the
+   speed of light, and also provided insight into the forces produced by gravitation and inertia.
+   Question
+   Who developed the theory of relativity?
+Response: Albert Einstein developed the theory of relativity in the early 20th century. This theory correctly predicted how forces act on objects with increasing momenta near the speed of light, as well as offering insight into gravitational and inertial forces. The development marked a significant advance from previous misunderstandings about motion and force that had been held for centuries since antiquity.
+Transcription Time: 62.23 seconds
+Words per Second: 2.65 WPS
+Inference Time: 132.23 seconds
+Tokens per Second: 0.45 TPS

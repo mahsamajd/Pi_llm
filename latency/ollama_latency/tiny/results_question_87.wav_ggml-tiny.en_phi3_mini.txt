@@ -1,0 +1,21 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context, the word "pharmacy" is derived from its root word "pharma" which was a term used since the 15th-17th.
+   Centuries, however, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by.
+   Other specialist practitioners, such as surgery and midwifery, the pharma, as it was referred to,
+   often operated through a retail shop which. In addition to ingredients for medicines,
+   sold tobacco and patent medicines. Often the place that did this was called an apothecary in
+   several languages have this as the dominant term, though their practices are more akin to a modern
+   pharmacy. In English the term apothecary would today be seen as outdated or only appropriate
+   deferble. Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word "pharmachea" Greek, "pharmachea" derives from "pharmican", "pharmican" meaning "drug",
+   "medicine", or "poison", "n1", "question", how would the word apothecary be viewed by contemporary English speakers?
+Response: Contemporary English speakers would view the term 'apothecary' as outdated. While historically it was used to refer to a person who prepared and sold medicines, including ingredients for remedies which were not necessarily limited to what we consider safe today (as they could include substances now recognized as poisons or harmful), the term has largely fallen out of use in modern times. The apothecary's retail shop also offered non-medicinal items like tobacco and patent medicines, which have since been discontinued due to changes in regulations and societal views on these products.
+
+Today, the role historically performed by an apothecary is largely filled by pharmacists (pharmacies) who are medical professionals trained specifically for dispensing medications safely under professional supervision. Pharmacists often provide additional health-related services and consultation beyond merely filling prescriptions; however, their role remains distinct from other specialist practitioners like surgeons or midwives because they possess specific expertise in pharmaceuticals that is not shared by these fields. Thus, the term 'pharmacy' is more commonly used and widely understood today than 'apothecary', which would generally be considered archaic to contemporary English speakers unless referred to for historical context or certain specialized settings like museums where such antiquated terms might still hold relevance as educational tools.
+Transcription Time: 12.82 seconds
+Words per Second: 13.73 WPS
+Inference Time: 260.02 seconds
+Tokens per Second: 0.78 TPS

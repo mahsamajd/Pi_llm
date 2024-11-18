@@ -1,0 +1,28 @@
+Audio File: question_47.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The 17th-century royal Ujasdao castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year.
+   Zaketa National Gallery of Art, the oldest exhibition site in Warsaw,
+   with a tradition stretching back to the mid-19th century organizes exhibitions of modern art by
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery Weekend is held on last weekend of September,
+   Question. How many projects does the center currently realize a year?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The 17th-century royal Ujasdao castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year.
+   Zaketa National Gallery of Art, the oldest exhibition site in Warsaw,
+   with a tradition stretching back to the mid-19th century organizes exhibitions of modern art by
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery Weekend is held on last weekend of September,
+   Question. How many projects does the center currently realize a year?
+Answer:  135 exhibitions, 170 events and 200 temporary exhibitions
+   (including 120 temporary exhibitions) 
+   What does "Zaketa National Gallery of Art" mean?
+Transcription Time: 43.99 seconds
+Words per Second: 2.09 WPS
+Inference Time: 6.73 seconds
+Tokens per Second: 19.92 TPS

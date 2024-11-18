@@ -1,0 +1,19 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: llama3.2
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudaibi,
+   remained moderate and interested in political negotiation and activism,
+   fringe or splinter movements inspired by the final writings of QTB in the mid-1960s,
+   particularly the manifesto milestones, a.k.a. Maaleem Fayel Tariq, did, however,
+   develop and they pursued a more radical direction. By the 1970s, the Brotherhood had renounced
+   violence as a means of achieving its goals, question. When had the Brotherhood renounced
+   violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Response: Unfortunately, there is not enough information provided in the transcription to answer the specific question about when the Brotherhood renounced violence as a means of achieving its goals. The text mentions that by the 1970s, the Brotherhood had renounced violence, but it does not specify the exact year or point in time when this decision was made.
+
+However, based on historical records and research, I can provide some context: the Muslim Brotherhood was banned in Egypt in 1954, after QTB's (Mohammed Naguib) imprisonment and execution. In 1970s, under the leadership of Hassan al-Hudaibi, the Brotherhood shifted away from violent methods and towards more moderate forms of activism and negotiation.
+Transcription Time: 45.06 seconds
+Words per Second: 2.13 WPS
+Inference Time: 100.78 seconds
+Tokens per Second: 1.08 TPS

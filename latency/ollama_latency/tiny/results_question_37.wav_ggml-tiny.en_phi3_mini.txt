@@ -1,0 +1,25 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: phi3:mini
+Transcription:    context, TINA force may be abundant during the summer months in some coastal locations,
+   but in other places they are uncommon and difficult to find. In bays where they occur in very
+   high numbers, predation by TINA force may control the populations of small zooplank tonic organisms
+   such as copepods, which might otherwise wipe out the phytoplankton, planktonic plants,
+   which are a vital part of marine food chains. One TINA force, NEMIOPSIS, has accidentally been
+   introduced into the black sea, where it is blamed for causing fish stocks to collapse by eating
+   both fish larvae and organisms. That would otherwise have fed the fish. The situation was
+   aggravated by other factors, such as overfishing and long-term environmental changes that
+   promoted the growth of the NEMIOPSIS. Population, the later accidental introduction of
+   barrow helped to mitigate the problem. As barrow prays on other TINA force, question,
+   what TINA for was accidentally introduced into the black sea.
+Response: The transcription talks about two different types of organisms known as "TINA forces." The first one is abundant during summer months in some coastal locations and helps control populations of small zooplanktonic organisms like copepods, which might otherwise eliminate phytoplankton. This relationship indicates that TINA force plays a role in maintaining the balance within marine food chains by limiting excessive grazing on plankton producers (phytoplankton).
+
+The second and more problematic type of "TINA force" is called NEMIOPSIS. This organism has accidentally been introduced into the Black Sea, where it's causing significant harm to fish populations by consuming both larvae and other marine life that would have otherwise fed on phytoplankton in a natural food chain cycle within this ecosystem.
+
+The introduction of NEMIOPSIS led not only to disrupted feeding patterns but also exacerbated issues related to overfishing and long-term environmental changes, resulting in the proliferation of its population due to fewer predators or competitors existing as a consequence of human interventions. However, this problem was somewhat mitigated by another unintended introduction—barrow fish into these waters, which preys on NEMIOPSIS and controls their numbers naturally without additional harmful effects being mentioned for barrow in the marine ecosystem provided it is not an invasive species itself like NEMIOPSIS.
+
+It's important to recognize that accidental introductions of non-native organisms, such as NEMIOPSIS into new habitats (like Barrow Sea), can create significant challenges for local biodiversity and ecosystem health because these invaders often lack natural predators or controls in their introduced environments. This imbalance may cause them to become overabundant while negatively impacting native species that are already stressed by other factors such as human-induced changes like habitat destruction, pollution, and fishery practices which can lead to a collapse of local populations due to the newly invasive "TINA force."
+Transcription Time: 9.76 seconds
+Words per Second: 15.89 WPS
+Inference Time: 304.08 seconds
+Tokens per Second: 0.97 TPS

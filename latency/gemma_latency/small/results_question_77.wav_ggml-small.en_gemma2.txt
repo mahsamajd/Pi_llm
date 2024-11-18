@@ -1,0 +1,28 @@
+Audio File: question_77.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2.gguf
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Brested,
+   mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender
+   Friedrich Hayek, meteorologist Ted Fujita, chemists Glenn T. Seaborg, the developer of
+   the Actinide concept and Nobel Prize-winner Yuan T. Li, Nobel Prize-winning novelist Saul Belo,
+   political philosopher and author Alan Bloom, cancer researchers Charles Brenton Huggins
+   and Janet Rowley, astronomer Gerard Kuiper, one of the most important figures in the early
+   development of the discipline of linguistics Edward Sapper, and the founder of McKinsey & Company,
+   James O. McKinsey, question what mathematician was also a part of the university's faculty.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Brested,
+   mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender
+   Friedrich Hayek, meteorologist Ted Fujita, chemists Glenn T. Seaborg, the developer of
+   the Actinide concept and Nobel Prize-winner Yuan T. Li, Nobel Prize-winning novelist Saul Belo,
+   political philosopher and author Alan Bloom, cancer researchers Charles Brenton Huggins
+   and Janet Rowley, astronomer Gerard Kuiper, one of the most important figures in the early
+   development of the discipline of linguistics Edward Sapper, and the founder of McKinsey & Company,
+   James O. McKinsey, question what mathematician was also a part of the university's faculty.
+Answer:
+
+The transcription above is written from a historical perspective and is used to describe the historical events of the past. The transcription is meant to be used as a reference point in the future. The transcription is a collection of facts that have been taken from the
+Transcription Time: 35.16 seconds
+Words per Second: 2.87 WPS
+Inference Time: 69.30 seconds
+Tokens per Second: 2.45 TPS

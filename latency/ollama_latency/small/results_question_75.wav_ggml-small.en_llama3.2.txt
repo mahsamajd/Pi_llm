@@ -1,0 +1,18 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: llama3.2
+Transcription:    Context From the Eocene onwards,
+   the ongoing alpine orogeny caused ANS rift system to develop in this zone.
+   The main elements of this rift are the Upper Rhine Graben, in southwest Germany and eastern France
+   and the Lower Rhine Embayment, in northwest Germany and the southeastern Netherlands.
+   By the time of the Miocene, a river system had developed in the Upper Rhine Graben,
+   that continued northward and is considered the first Rhine River.
+   At that time, it did not yet carry discharge from the Alps.
+   Instead, the watersheds of the Rhone and Danube drained the northern flanks of the Alps.
+   Question.
+   What elements from the rift system in the alpine orogeny in southwest Germany?
+Response: The answer to the question is that the Upper Rhine Graben is one element from the rift system in the Alpine orogeny located in southwest Germany.
+Transcription Time: 35.62 seconds
+Words per Second: 3.20 WPS
+Inference Time: 70.55 seconds
+Tokens per Second: 0.37 TPS

@@ -1,0 +1,26 @@
+Audio File: question_47.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. The 17th-century Royal Ujazdow Castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year.
+   Zaketa National Gallery of Art. The oldest exhibition site in Warsaw.
+   With a tradition stretching back to the mid-19th century organizes exhibitions of modern art by
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery Weekend is held on last weekend of September.
+   Question. How many projects does the center currently realize a year?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The 17th-century Royal Ujazdow Castle currently houses center for contemporary art.
+   With some permanent and temporary exhibitions, concerts, shows and creative workshops,
+   the center currently realizes about 500 projects a year.
+   Zaketa National Gallery of Art. The oldest exhibition site in Warsaw.
+   With a tradition stretching back to the mid-19th century organizes exhibitions of modern art by
+   Polish and international artists and promotes art in many other ways.
+   Since 2011 Warsaw Gallery Weekend is held on last weekend of September.
+   Question. How many projects does the center currently realize a year?
+Answer: The Royal Ujazdow Castle is a National Cultural Institution, it is not an art gallery, it is the center of contemporary art. It is one of the largest cultural institutions in the country with a large number of permanent exhibitions. The Royal
+Transcription Time: 135.68 seconds
+Words per Second: 0.68 WPS
+Inference Time: 49.60 seconds
+Tokens per Second: 3.14 TPS

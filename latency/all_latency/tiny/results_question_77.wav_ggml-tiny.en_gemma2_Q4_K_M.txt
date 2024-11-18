@@ -1,0 +1,32 @@
+Audio File: question_77.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    Context, past faculty have also included Egyptologist James Henry breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich Hayek.
+   Meteorologist Ted Fujita, chemists Glenn T., Seaborg, the developer of the Actonide concept and Nobel Prize winner Yuan T.
+   Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton-Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline of linguistics Edward.
+   Saper, and the founder of McKinsey & Company. James O, McKinsey, Question, what mathematician was also a part of the university's faculty.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, past faculty have also included Egyptologist James Henry breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich Hayek.
+   Meteorologist Ted Fujita, chemists Glenn T., Seaborg, the developer of the Actonide concept and Nobel Prize winner Yuan T.
+   Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton-Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline of linguistics Edward.
+   Saper, and the founder of McKinsey & Company. James O, McKinsey, Question, what mathematician was also a part of the university's faculty.
+Answer:
+
+Question 1:
+
+I have read the following:
+
+(1)     The 2013 Nobel Prizes in Physics were awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne for the discovery of gravitational waves.
+Transcription Time: 8.86 seconds
+Words per Second: 11.40 WPS
+Inference Time: 35.61 seconds
+Tokens per Second: 4.35 TPS

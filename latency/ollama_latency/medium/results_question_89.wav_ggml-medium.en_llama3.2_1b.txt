@@ -1,0 +1,41 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    context historically forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces cancelled each other out such experiments
+   demonstrate the crucial properties that forces are additive vector quantities they have magnitude
+   and direction when two forces act on a point particle the resulting force the resultant
+   also called the net force can be determined by following the parallelogram rule of vector addition
+   the addition of two vectors represented by sides of a parallelogram gives an equivalent resultant
+   vector that is equal in magnitude and direction to the transversal of the parallelogram the
+   magnitude of the resultant varies from the difference of the magnitudes of the two forces to
+   their sum depending on the angle between their lines of action however if the forces are acting
+   on an extended body their respective lines of application must also be specified in order to
+   account for their effects on the motion of the body question what geometric shape is used in
+   equations to determine net force.
+Response: Based on the provided transcription, here's a detailed and specific answer that addresses the information given:
+
+The equation used to calculate the net force (resultant force) in conditions of static equilibrium is based on the parallelogram rule of vector addition. This rule states that when two vectors are added together, an equivalent resultant vector can be determined by following the lines represented by the sides of a parallelogram.
+
+In this context, the parallelogram represents the combination of the two forces acting on a point particle. The resulting force or net force is also referred to as the "resultant" and has both magnitude and direction.
+
+To calculate the resultant force using the parallelogram rule, you need to follow these steps:
+
+1. Identify the two vectors (forces) acting on the point particle.
+2. Draw an arrow diagram of the two forces in a direction that is perpendicular to each other, creating a right angle between them.
+3. The magnitude of the resultant force is equal to the difference between the magnitudes of the two original forces.
+
+For example, if we have two forces of 10 N and 15 N acting on a point particle, following the parallelogram rule, the net force (resultant force) would be calculated as follows:
+
+Resultant Force = |Force 1| - |Force 2|
+= |10 N| - |15 N|
+= 5 N - 15 N
+= -10 N
+
+In this case, the magnitude of the resultant force is -10 N, indicating that the net force acting on the point particle is directed opposite to both original forces.
+
+It's essential to note that if the forces are acting on an extended body or object, their respective lines of application (the direction in which they act) must be specified to account for their effects on the motion of the body.
+Transcription Time: 186.96 seconds
+Words per Second: 0.89 WPS
+Inference Time: 88.76 seconds
+Tokens per Second: 3.37 TPS

@@ -1,0 +1,36 @@
+Audio File: question_4.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. Private schools, also known as independent schools, non-governmental, or non-state schools,
+   are not administered by local, state or national governments; thus, they retain the right to
+   select their students and are funded in whole or in part by charging their students' tuition,
+   rather than relying on mandatory taxation through public government funding.
+   At some private schools students may be able to get a scholarship.
+   Which makes the cost cheaper? Depending on a talent the student may have,
+   e.g. sport scholarship, art scholarship, academic scholarship, financial need,
+   or tax credit scholarships that might be available, question rather than taxation.
+   What are private schools largely funded by?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Private schools, also known as independent schools, non-governmental, or non-state schools,
+   are not administered by local, state or national governments; thus, they retain the right to
+   select their students and are funded in whole or in part by charging their students' tuition,
+   rather than relying on mandatory taxation through public government funding.
+   At some private schools students may be able to get a scholarship.
+   Which makes the cost cheaper? Depending on a talent the student may have,
+   e.g. sport scholarship, art scholarship, academic scholarship, financial need,
+   or tax credit scholarships that might be available, question rather than taxation.
+   What are private schools largely funded by?
+Answer:
+
+Answer:
+
+Answer:
+
+Answer:
+
+Answer: [end of text]
+Transcription Time: 34.48 seconds
+Words per Second: 3.07 WPS
+Inference Time: 27.76 seconds
+Tokens per Second: 4.86 TPS

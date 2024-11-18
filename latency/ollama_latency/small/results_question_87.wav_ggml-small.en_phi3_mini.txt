@@ -1,0 +1,25 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context
+   The word pharmacy is derived from its root word pharma which was a term used since the 15th-17th
+   centuries. However, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice
+   and a range of services that are now performed solely by other specialist practitioners
+   such as surgery and midwifery. The pharma, as it was referred to, often operated through a retail
+   shop which, in addition to ingredients for medicines, sold tobacco and patent medicines.
+   Often the place that did this was called an apothecary and several languages have this as
+   the dominant term, though their practices are more akin to a modern pharmacy. In English the term
+   apothecary would today be seen as outdated or only appropriate if herbal remedies were on offer to
+   a large extent. The pharmas also used many other herbs not listed. The Greek word pharmacia, Greek
+   pharmacia, derives from pharmacin, pharmacin, meaning "drug," "medicine," or "poison," N1.
+   How would the word apothecary be viewed by contemporary English speakers?
+Response: In a modern context, an apothecary in English-speaking countries is typically seen as outdated and primarily associated with dispensing medicines that are no longer commonly used. However, there may still be some interest among individuals seeking alternative medicine or herbal remedies where this term might carry more relevance than it does today when referring to a standard pharmacy setting.
+
+In current times, the role of apothecaries has mostly been taken over by modern pharmacies and healthcare professionals specializing in various fields such as surgery, dermatology, or gynecology, offering more advanced services than their historical counterparts could provide. In some instances where traditional medicine practices are still relevant to patients' beliefs, they may find apothecaries that offer herbal remedies alongside conventional medicines and medical advice - a blend of old-world charm with modern healthcare accessibility.
+
+The word "apothecary" in contemporary English speakers is more likely associated with history or the historical practice of medicine, rather than as an active term for their everyday source of pharmaceuticals and medical advice like it once was during centuries past when apothecaries had broader roles within society.
+Transcription Time: 53.66 seconds
+Words per Second: 3.28 WPS
+Inference Time: 231.25 seconds
+Tokens per Second: 0.79 TPS

@@ -1,0 +1,30 @@
+Audio File: question_3.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    context. During 2003–04, the gross value of Victorian agricultural production increased by
+   17% to $8.7 billion. This represented 24% of national agricultural production total gross value.
+   As of 2004, an estimated 32,463 farms occupied around 136,000 square kilometers.
+   52,500 square miles. Of Victorian land, this comprises more than 60% of the state's total land surface.
+   Victorian farms range from small horticultural outfits to large-scale livestock and grain.
+   Productions, a quarter of farmland is used to grow consumable crops, question.
+   How much did the gross agricultural product increase from 2003–04?
+Response: Based on the provided transcription, here is a detailed and specific answer:
+
+The gross value of Victorian agricultural production increased by 17% between 2003-04. To break down this information further, we can calculate the percentage increase in the gross value of agriculture as follows:
+
+Original gross value (2003-04) = $8.7 billion
+Increase in gross value (17%) = $8.7 billion x 0.17 = $1.51 billion
+
+So, the gross agricultural product increased by approximately $1.51 billion between 2003-04.
+
+In addition to this increase, we are also informed that:
+
+* The estimated number of farms in Victoria was around 32,463 as of 2004.
+* These farms occupied a total area of around 136,000 square kilometers (or approximately 52,500 square miles).
+* This represents more than 60% of the state's total land surface.
+
+Therefore, we can conclude that the gross agricultural product increased by both an increase in value and an expansion in the overall farm acreage.
+Transcription Time: 6.08 seconds
+Words per Second: 14.63 WPS
+Inference Time: 57.22 seconds
+Tokens per Second: 2.67 TPS

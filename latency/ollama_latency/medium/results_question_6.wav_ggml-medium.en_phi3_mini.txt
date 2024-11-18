@@ -1,0 +1,16 @@
+Audio File: question_6.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. Another important library, the University Library, founded in 1816,
+   is home to over 2 million items The building was designed by architects Marik Bajinski and
+   Zbigniew Badowski and opened on 15 December 1999. It is surrounded by green.
+   The University Library Garden, designed by Irena Bajirska, was opened on 12 June 2002.
+   It is one of the largest and most beautiful roof gardens in Europe with an area of more than 10,000
+   m2 (107,639.10 sq ft) and plants covering 5,111 m2 (55,014.35 sq ft).
+   As the University Garden it is open to the public every day.
+   Question. How many items is the University Library home to?
+Response: The University Library at The State Library of Poland houses over 2 million items within its extensive collection. This impressive array includes books, periodicals, manuscripts, maps, and other forms of media that contribute significantly to the cultural wealth of both national and global communities. With this sizable inventory available in a building designed by Marik Bajinski and Zbigniew Badowski—which opened on 15 December 1999 —the University Library serves as an essential resource for researchers, scholars, students, librarians, readers of various backgrounds. Surrounded by greenery in the form of a beautiful roof garden designed by Irena Bajirska and inaugurated on June 12, 2002, this expansive area covers more than 5,111 square meters (about 54,893.76 sq ft) with plants that add to the library's aesthetic appeal as well as its functional role in fostering connection and tranquility amongst visitors who can access it every day of the week.
+Transcription Time: 148.27 seconds
+Words per Second: 0.72 WPS
+Inference Time: 184.53 seconds
+Tokens per Second: 0.79 TPS

@@ -1,0 +1,21 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2
+Transcription:    context, TINA force may be abundant during the summer months in some coastal locations,
+   but in other places they are uncommon and difficult to find. In bays where they occur in very
+   high numbers, predation by TINA force may control the populations of small zooplank tonic organisms
+   such as copepods, which might otherwise wipe out the phytoplankton, planktonic plants,
+   which are a vital part of marine food chains. One TINA force, NEMIOPSIS, has accidentally been
+   introduced into the black sea, where it is blamed for causing fish stocks to collapse by eating
+   both fish larvae and organisms. That would otherwise have fed the fish. The situation was
+   aggravated by other factors, such as overfishing and long-term environmental changes that
+   promoted the growth of the NEMIOPSIS. Population, the later accidental introduction of
+   barrow helped to mitigate the problem. As barrow prays on other TINA force, question,
+   what TINA for was accidentally introduced into the black sea.
+Response: Based on the provided transcription, a detailed and specific answer is as follows:
+
+A species of TINA force, specifically NEMIOPSIS, has been accidentally introduced into the Black Sea, where it is believed to be responsible for causing fish stocks to collapse. The primary cause of this collapse is attributed to NEMIOPSIS's predation on both fish larvae and organisms that would have otherwise fed the fish. This situation was exacerbated by other factors such as overfishing and long-term environmental changes that promoted the growth and proliferation of the NEMIOPSIS population.
+Transcription Time: 9.76 seconds
+Words per Second: 15.89 WPS
+Inference Time: 113.14 seconds
+Tokens per Second: 0.79 TPS

@@ -1,0 +1,30 @@
+Audio File: question_4.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. Private schools, also known as independent schools, non-governmental,
+   or non-state schools, are not administered by local, state or national governments; thus,
+   they retain the right to select their students and are funded in whole or in part by charging their
+   students' tuition, rather than relying on mandatory taxation through public
+   government funding. At some private schools, students may be able to get a scholarship,
+   which makes the cost cheaper, depending on a talent the student may have, e.g. sports
+   scholarship, art scholarship, academic scholarship, financial need, or tax credit
+   scholarships that might be available. Question. Rather than taxation, what are private schools
+   largely funded by
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Private schools, also known as independent schools, non-governmental,
+   or non-state schools, are not administered by local, state or national governments; thus,
+   they retain the right to select their students and are funded in whole or in part by charging their
+   students' tuition, rather than relying on mandatory taxation through public
+   government funding. At some private schools, students may be able to get a scholarship,
+   which makes the cost cheaper, depending on a talent the student may have, e.g. sports
+   scholarship, art scholarship, academic scholarship, financial need, or tax credit
+   scholarships that might be available. Question. Rather than taxation, what are private schools
+   largely funded by
+Answer:    Private schools are largely funded by tuition. The tuition is used to pay for the
+   teachers, staff, and facilities. There are a few ways that private schools are funded.
+   First, parents can pay tuition directly to the school.
+Transcription Time: 138.01 seconds
+Words per Second: 0.77 WPS
+Inference Time: 39.08 seconds
+Tokens per Second: 4.25 TPS

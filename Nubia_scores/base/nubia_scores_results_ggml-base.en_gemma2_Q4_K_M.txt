@@ -1,0 +1,135 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The StubHub Center [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.14042804408976806
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The answer is private schools are not administered by local, state or national governments
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.10126214270864609
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1994
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.2990896904224988
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: From 66 to 34, the rainforest was located south of 45 degrees latitude and then spread to 30 degrees.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.08082431344802299
+
+Question: What substance is used to make high quality liquid O2?
+Response: [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4622821482094578
+
+Question: What makes energy changes in a closed system?
+Response: The first law of thermodynamics is a conservation law, so the total energy in a closed system is constant.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.19102927127423663
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhone. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.22835787596213153
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine valley, which is approximately 120 km long, is an alluvial plain with a maximum width of 100
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1031205528275223
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Baro [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06617832647067456
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: * Pump to supply water to the boiler during operation.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07959955123732587
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: 11,000 [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.22125030306728644
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine is a river in western Europe that flows from the Swiss Alps to the North Sea. It is a major waterway, carrying a large volume of cargo and shipping in the region. It is also a popular tourist destination, with numerous castles and
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0027717382775233057
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union's primary law, known as European Union law, applies directly to the laws of its member states. European Union law is based on the principle of supremacy, which means that the laws of member states cannot interfere with the laws of the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.48407999110192135
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3222393969058429
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid is a strong acid that helps in the breakdown of ingested protein.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.1791060375631257
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Short-lived immunity [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.43366804624100685
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Top 400, construction company, ENR,
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07604043670509042
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the rift system in the Alpine Orogeny in southwest Germany are the upper Rhine Graben and the Lower Rhine Embayment. The Upper Rhine Graben is located in western Germany, the Lower Rhine Embayment in northwest Germany,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5656876989741297
+
+Question: Who discovered this and where did they come from?
+Response: The soil in the forest is made of humus, a mixture of organic matter.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11006414123746433
+
+Question: Who develped the theory of relativity?
+Response: The philosopher who developed the theory of relativity was Albert Einstein. The theory of
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.4233850200419963
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: carbohydrates, fats and fatty acids, proteins, nucleotides, phosphate groups. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.121206582176692
+
+Question: In what year was the Interstate Highway System created?
+Response: 1980 [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06959455113322377
+
+Question: What is stratigraphy?
+Response: Stratigraphy, the study of rock layers, is an important part of many geology investigations.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.26100142853134356
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: vitamin D receptor [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.2167483056656776
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC does not provide a direct service to the general public. Rather, it produces scientific assessments,
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.10734214750574522
+
+Question: Why does competition among workers drive down wages?
+Response: The job market is very competitive. This is because there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1938046529879457
+

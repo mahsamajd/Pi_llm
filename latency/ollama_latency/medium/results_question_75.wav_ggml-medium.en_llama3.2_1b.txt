@@ -1,0 +1,26 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. From the Eocene onwards, the ongoing Alpine orogeny caused anS rift system to develop
+   in this zone. The main elements of this rift are the Upper Rhine Graben in southwest Germany and
+   eastern France and the Lower Rhine Embayment in northwest Germany and the southeastern
+   Netherlands. By the time of the Miocene, a river system had developed in the Upper Rhine Graben
+   that continued northward and is considered the first Rhine River. At that time, it did not yet
+   carry discharge from the Alps. Instead, the watersheds of the Rhone and Danube drained the
+   northern flanks of the Alps. Question. What elements from the rift system in the Alpine
+   orogeny in southwest Germany?
+Response: Based on the transcription provided, the specific elements that developed as a result of the ongoing Alpine orogeny in southwest Germany by the time of the Miocene (approximately 23-25 million years ago) can be identified as follows:
+
+1. **Upper Rhine Graben**: This is one of the primary rift systems located in southwestern Germany and eastern France, where an ongoing extensional tectonic process caused the formation of a deep fault zone known as the Upper Rhine Graben.
+
+2. **Lower Rhine Embayment**: Also situated in northwest Germany, this is another significant rift system that developed during the Alpine orogeny. It serves as a key location for studying the processes involved in continental rifting and the resulting geological features such as grabens and river systems.
+
+3. **First Rhine River**: The Upper Rhine Graben is considered to be the first major river system within these regions, developing around the time of the Miocene. It played an important role in draining the northern flanks of the Alps and was later diverted by changes in the regional drainage patterns due to tectonic activity.
+
+4. **Drainage of Northern Flanks of the Alps**: During this period, watersheds from the Rhone and Danube rivers drained the northern parts of the Alps. This indicates that the Alpine orogeny was a result of ongoing tectonic stress leading to deformation in the Earth's crust, causing the formation of fault lines, rifts, and subsequently new river systems.
+
+These elements highlight the complex geological processes involved in continental rifting during the Eocene to Miocene epochs, particularly in the Alpine region. The development of these features had significant impacts on the regional tectonic setting and the subsequent evolution of rivers, such as the Rhine River, which continues to play a crucial role in shaping European geography today.
+Transcription Time: 108.56 seconds
+Words per Second: 1.05 WPS
+Inference Time: 85.23 seconds
+Tokens per Second: 3.43 TPS

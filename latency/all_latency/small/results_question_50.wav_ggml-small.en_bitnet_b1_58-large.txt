@@ -1,0 +1,48 @@
+Audio File: question_50.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The university runs a number of academic institutions and programs apart
+   from its undergraduate and postgraduate schools. It operates the University of Chicago Laboratory
+   Schools, a private-day school for K-12 students in daycare, the Sonia Shankman Orthogenic School,
+   a residential treatment program for those with behavioral and emotional problems,
+   and four public charter schools on the south side of Chicago administered by the University's Urban
+   Education Institute. In addition, the Hyde Park Day School, a school for students with learning
+   disabilities, maintains a location on the University of Chicago campus. Since 1983,
+   the University of Chicago has maintained the University of Chicago School Mathematics Project,
+   a mathematics program used in urban primary and secondary schools. The University runs a program
+   called the Council on Advanced Studies in the Social Sciences and Humanities, which administers
+   interdisciplinary workshops to provide a forum for graduate students, faculty, and visiting
+   scholars to present scholarly work in progress. The University also operates the University of
+   Chicago Press, the largest university press in the United States. Question. What is the
+   name of the residential treatment program the university runs?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The university runs a number of academic institutions and programs apart
+   from its undergraduate and postgraduate schools. It operates the University of Chicago Laboratory
+   Schools, a private-day school for K-12 students in daycare, the Sonia Shankman Orthogenic School,
+   a residential treatment program for those with behavioral and emotional problems,
+   and four public charter schools on the south side of Chicago administered by the University's Urban
+   Education Institute. In addition, the Hyde Park Day School, a school for students with learning
+   disabilities, maintains a location on the University of Chicago campus. Since 1983,
+   the University of Chicago has maintained the University of Chicago School Mathematics Project,
+   a mathematics program used in urban primary and secondary schools. The University runs a program
+   called the Council on Advanced Studies in the Social Sciences and Humanities, which administers
+   interdisciplinary workshops to provide a forum for graduate students, faculty, and visiting
+   scholars to present scholarly work in progress. The University also operates the University of
+   Chicago Press, the largest university press in the United States. Question. What is the
+   name of the residential treatment program the university runs?
+Answer:
+
+   The University of Chicago School Mathematics Project
+
+   The University of Chicago Council on Advanced Studies in the Social Sciences and Humanities
+
+   The University of Chicago Press
+
+   The Hyde Park Day School
+
+   The
+Transcription Time: 64.10 seconds
+Words per Second: 2.87 WPS
+Inference Time: 10.03 seconds
+Tokens per Second: 23.73 TPS

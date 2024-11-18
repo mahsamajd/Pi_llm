@@ -1,0 +1,25 @@
+Audio File: question_82.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    context. Philosophers in antiquity used the concept of force in the study of stationary and moving
+   objects and simple machines, but thinkers such as Aristotle and Archimedes retained fundamental
+   errors in understanding force. In part this was due to an incomplete understanding of the sometimes
+   non-obvious force of friction and a consequently inadequate view of the nature of natural motion.
+   A fundamental error was the belief that a force is required to maintain motion even at a constant
+   velocity. Most of the previous misunderstandings about motion and force were eventually corrected
+   by Galileo, Galilei and Sir Isaac Newton. With his mathematical insight, Sir Isaac Newton formulated
+   laws of motion that were not improved on for nearly 300 years. By the early 20th century,
+   Einstein developed a theory of relativity that correctly predicted the action of forces on
+   objects with increasing momenta near the speed of light and also provided insight into the forces
+   produced by gravitation and inertia. Question. Who developed the theory of relativity?
+Response: Based on the provided transcription, the answer to the question "Who developed the theory of relativity?" can be determined as follows:
+
+The transcription states that Sir Isaac Newton formulated laws of motion not improved upon for nearly 300 years after Galileo and Galilei corrected previous misunderstandings about motion and force. This implies that Sir Isaac Newton is the one who developed the theory of relativity, specifically the first part of it.
+
+However, the transcription also mentions that Einstein developed a theory of relativity that correctly predicted the action of forces on objects with increasing momenta near the speed of light and provided insight into the forces produced by gravitation and inertia. Therefore, while Newton is credited with developing the laws of motion, it was actually Albert Einstein who built upon those laws to develop the theory of relativity.
+
+In other words, the development of the theory of relativity involved the contributions of both Sir Isaac Newton and Albert Einstein, although Newton's work laid the foundation for the theory.
+Transcription Time: 187.90 seconds
+Words per Second: 0.88 WPS
+Inference Time: 60.72 seconds
+Tokens per Second: 2.77 TPS

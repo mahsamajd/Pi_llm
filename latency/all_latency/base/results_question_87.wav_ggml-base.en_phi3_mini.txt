@@ -1,0 +1,20 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used since
+   the 15th, 17th. Sentries. However, the original Greek roots from pharmacos imply sorcery or even
+   poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range
+   of services that are now performed solely by other specialist practitioners, such as surgery and
+   midwifery. The pharma, as it was referred to, often operated through a retail shop which,
+   in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that
+   did this was called an apothecary and several languages have this as the dominant term,
+   though their practices are more akin to a modern pharmacy. In English the term apothecary would
+   today be seen as outdated or only a proproryate if herbal. Remedies were on offer to a large extent.
+   The pharma is also used many other herbs not listed. The Greek word "pharmakia", Greek,
+   "pharmakia", derives from "pharmakin", "pharmakin", meaning "drug", "medicine", or "poison",
+   N1. Question. How would the word apothecary be viewed by contemporary English speakers?
+Response: The term 'apothecary' in contemporary English is generally considered outdated, mostly associated with historical contexts and traditional herbal remedies rather than modern pharmaceutical practices. While it may still occasionally refer to a retailer of medicines or ingredients for such purposes today (e.g., specialty stores selling natural supplements), the common term in English-speaking countries has become 'pharmacist.' Apothecaries used to offer both medical advice and services, like surgery and midwifery - which are now solely provided by other specialists; however, their role of dispensing drugs remains somewhat parallel to that of a pharmacy.
+Transcription Time: 22.77 seconds
+Words per Second: 7.90 WPS
+Inference Time: 189.81 seconds
+Tokens per Second: 0.48 TPS

@@ -1,0 +1,37 @@
+Audio File: question_55.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    Context. The modern trend in design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely
+   separate companies, even in the larger firms presently. A firm that is nominally an architecture
+   or "construction management" firm may have experts from.
+   All related fields as employees or to have an associated company that provides each
+   necessary skill. Thus, each such firm may offer itself as one-stop shopping for a construction
+   project. From beginning to end, this is designated as a "design build" contract where the contractor
+   is given a performance. Specification and must undertake the project from design to construction.
+   While adhering to the performance specifications, question. The modern trend in design is toward
+   integration of what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The modern trend in design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely
+   separate companies, even in the larger firms presently. A firm that is nominally an architecture
+   or "construction management" firm may have experts from.
+   All related fields as employees or to have an associated company that provides each
+   necessary skill. Thus, each such firm may offer itself as one-stop shopping for a construction
+   project. From beginning to end, this is designated as a "design build" contract where the contractor
+   is given a performance. Specification and must undertake the project from design to construction.
+   While adhering to the performance specifications, question. The modern trend in design is toward
+   integration of what?
+Answer:
+The modern trend in design is toward integration of previously separated specialties.
+This statement provides a general description of the context. The context describes how the
+modern trend in design integrates previously separated specialties.
+
+The statement provides a specific answer. It explains
+Transcription Time: 16.54 seconds
+Words per Second: 8.16 WPS
+Inference Time: 38.31 seconds
+Tokens per Second: 5.19 TPS

@@ -1,0 +1,28 @@
+Audio File: question_65.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. Chemical barriers also protect against infection. The skin and respiratory tract secrete
+   antimicrobial peptides such as the beta-defensins. Enzymes such as lysozyme and phospholipase A2 in
+   saliva, tears, and breast milk are also antibacterials. Vaginal secretions serve as a chemical barrier
+   following menarche when they become slightly acidic, while semen contains defensins and zinc
+   to kill pathogens. In the stomach, gastric acid and proteases serve as powerful chemical defenses
+   against ingested pathogens. Question. What compounds in the stomach protect against ingested pathogens?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Chemical barriers also protect against infection. The skin and respiratory tract secrete
+   antimicrobial peptides such as the beta-defensins. Enzymes such as lysozyme and phospholipase A2 in
+   saliva, tears, and breast milk are also antibacterials. Vaginal secretions serve as a chemical barrier
+   following menarche when they become slightly acidic, while semen contains defensins and zinc
+   to kill pathogens. In the stomach, gastric acid and proteases serve as powerful chemical defenses
+   against ingested pathogens. Question. What compounds in the stomach protect against ingested pathogens?
+Answer:
+
+Lysozyme, a protein that is produced by the body and also found in saliva. It destroys gram-positive bacteria.
+
+Phospholipase A2, a protein that destroys gram-negative bacteria.
+
+Defensins, which are small
+Transcription Time: 33.91 seconds
+Words per Second: 2.45 WPS
+Inference Time: 36.05 seconds
+Tokens per Second: 3.74 TPS

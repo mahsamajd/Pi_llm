@@ -1,0 +1,32 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2
+Transcription:    Context.
+   Ctenophores may be abundant during the summer months
+   in some coastal locations, but in other places
+   they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by ctenophores may control
+   the populations of small zooplanktonic organisms
+   such as copepods, which might otherwise
+   wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food
+   chains.
+   One ctenophore, Nemeopsis, has accidentally
+   been introduced into the Black Sea, where
+   it is blamed for causing fish stocks to collapse by eating
+   both fish larvae and organisms that would otherwise
+   have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes
+   that promoted the growth of the Nemeopsis population.
+   The later accidental introduction of Barrow
+   helped to mitigate the problem.
+   As Barrow preys on other ctenophores,
+   question, what ctenophore was accidentally
+   introduced into the Black Sea?
+Response: According to the transcription, the ctenophore that was accidentally introduced into the Black Sea is Nemeopsis.
+Transcription Time: 190.62 seconds
+Words per Second: 0.78 WPS
+Inference Time: 88.73 seconds
+Tokens per Second: 0.18 TPS

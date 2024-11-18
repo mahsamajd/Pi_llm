@@ -1,0 +1,35 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context, the word "pharmacy" is derived from its root word "pharma" which was a term used since the 15th-17th.
+   Centuries, however, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by.
+   Other specialist practitioners, such as surgery and midwifery, the pharma, as it was referred to,
+   often operated through a retail shop which. In addition to ingredients for medicines,
+   sold tobacco and patent medicines. Often the place that did this was called an apothecary in
+   several languages have this as the dominant term, though their practices are more akin to a modern
+   pharmacy. In English the term apothecary would today be seen as outdated or only appropriate
+   deferble. Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word "pharmachea" Greek, "pharmachea" derives from "pharmican", "pharmican" meaning "drug",
+   "medicine", or "poison", "n1", "question", how would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, here is a detailed and specific answer to the question:
+
+The term "apothecary" has its roots in ancient Greek, with a complex etymology. The word "pharmacy," which is derived from the root "pharma," can be broken down as follows:
+
+- "Pharma" comes from the Greek word "φarma," which means "sorcery" or "poison."
+- However, this usage of "pharma" implies a more sinister connotation, suggesting that it was associated with dark magic and poison.
+
+In contrast, the term "apothecary" originates from the Greek word "ἄποθeca" (apoteca), which is derived from two words:
+
+- "Από-" (apo-) meaning "without"
+- "Θέκcers" (thekceers) meaning "keeper" or "storehouse"
+
+So, when combined, "αποθέκcers" essentially means a storehouse of medicines and remedies. This word was later adopted into Latin as "apoteca," and then into Middle English as "apothecary."
+
+In modern English, the term "apothecary" has largely fallen out of favor due to its historical connotations. While it is still used in some contexts to describe a specialized store that sells medicinal products, such as herbal remedies or patent medicines (which are not considered genuine medical treatments), it is generally viewed with skepticism by contemporary English speakers.
+
+In fact, the transcription suggests that the term "apothecary" has been somewhat misused or outdated over time. The use of "a pox on them all" to describe pharmaceutical companies seems to be a historical example of how language and terminology can evolve, but also sometimes perpetuate negative connotations or misunderstandings about certain words or concepts.
+Transcription Time: 12.82 seconds
+Words per Second: 13.73 WPS
+Inference Time: 96.57 seconds
+Tokens per Second: 2.58 TPS

@@ -1,0 +1,29 @@
+Audio File: question_4.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2.gguf
+Transcription:    Context, private schools, also known as independent schools, non-governmental,
+   or non-state schools, are not administered by local, state or national governments,
+   thus, they retain the right to select their students and are funded in whole or in part by
+   charging their. Students tuition, rather than relying on mandatory taxation through public,
+   government, funding, at some private schools students may be able to get a scholarship,
+   which makes the cost cheaper. Depending on a talent the student may have,
+   e.g. sports scholarship, art scholarship, academic scholarship, financial need,
+   or tax credit scholarships that might be available, question. Rather than taxation,
+   What are private schools largely funded by?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, private schools, also known as independent schools, non-governmental,
+   or non-state schools, are not administered by local, state or national governments,
+   thus, they retain the right to select their students and are funded in whole or in part by
+   charging their. Students tuition, rather than relying on mandatory taxation through public,
+   government, funding, at some private schools students may be able to get a scholarship,
+   which makes the cost cheaper. Depending on a talent the student may have,
+   e.g. sports scholarship, art scholarship, academic scholarship, financial need,
+   or tax credit scholarships that might be available, question. Rather than taxation,
+   What are private schools largely funded by?
+Answer:
+Private schools are largely funded by parents or individuals who send their children to private schools. Private schools can be non-profit, as the income of a private school can be used to pay teachers, and other educational costs, as well as to cover
+Transcription Time: 8.07 seconds
+Words per Second: 13.14 WPS
+Inference Time: 67.58 seconds
+Tokens per Second: 2.53 TPS

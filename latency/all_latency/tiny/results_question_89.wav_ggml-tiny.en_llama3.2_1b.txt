@@ -1,0 +1,28 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context, historically, forces were first quantitatively investigated in conditions of static equilibrium where several.
+   Forces cancel each other out. Such experiments demonstrate the crucial properties that forces are additive vector quantities.
+   They have magnitude and direction. When two forces act on a point particle, the resulting force, the resultant, also called the net force,
+   can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram, gives an equivalent resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of the two forces to.
+   There sum, depending on the angle between their lines of action. However, if the forces are acting on an extended body, their respective lines of application must also be specified in order to account for their effects.
+   On the motion of the body, question. What geometric shape is used in equations to determine net force.
+Response: Based on the provided transcription, a detailed and specific answer can be made as follows:
+
+The transcription explains that when forces act on an extended body, two important concepts emerge in order to accurately calculate the net force acting upon the body.
+
+Firstly, it states that the magnitude of the resultant force varies between the difference of the magnitudes of the two forces (when they are acting at right angles to each other) and their sum (when the forces are at an angle to each other).
+
+Secondly, when forces act on a body, a geometric shape called a parallelogram is used in equations to determine the net force. The magnitude of the resultant force can be calculated by following the parallelogram rule of vector addition.
+
+In this context, the parallelogram consists of two sides representing the forces acting on the point particle, with the resultant force being the transversal line connecting these two points.
+
+The transcription also mentions that when the forces are acting at an angle to each other, their respective lines of action must be specified in order to account for their effects. This implies that the parallelogram rule can only be applied if the angles between the force lines and the direction of motion are known.
+
+In summary, the correct geometric shape used in equations to determine net force when forces act on an extended body is a parallelogram, which consists of two sides representing the forces and their resultant line connecting them.
+Transcription Time: 10.96 seconds
+Words per Second: 15.15 WPS
+Inference Time: 70.88 seconds
+Tokens per Second: 3.47 TPS

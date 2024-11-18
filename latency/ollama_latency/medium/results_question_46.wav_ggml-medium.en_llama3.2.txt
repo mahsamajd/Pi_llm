@@ -1,0 +1,17 @@
+Audio File: question_46.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2
+Transcription:    Context. The IPCC receives funding through the IPCC Trust Fund. Established in 1989 by the United
+   Nations Environment Programme, UNEP, and the World Meteorological Organization (WMO), costs of the
+   secretariat and of housing the secretariat are provided by the WMO. While UNEP meets the cost of
+   the Deputy Secretary, annual cash contributions to the Trust Fund are made by the WMO, by UNEP,
+   and by IPCC members. The scale of payments is determined by the IPCC panel, which is also
+   responsible for considering and adopting by consensus the annual budget. The organization
+   is required to comply with the financial regulations and rules of the WMO. Question. Who funds the IPCC's secretary?
+Response: According to the transcription, the World Meteorological Organization (WMO) provides funding for the costs associated with housing the IPCC secretariat, specifically covering the expenses of the secretariat itself. However, it does not explicitly mention funding the Secretary.
+
+However, it can be inferred that since the WMO covers the costs of housing the secretariat, this would likely include the cost of employing a secretary or staff to manage and run the organization's day-to-day operations.
+Transcription Time: 145.50 seconds
+Words per Second: 0.76 WPS
+Inference Time: 85.22 seconds
+Tokens per Second: 0.86 TPS

@@ -1,0 +1,25 @@
+Audio File: question_6.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. Another important library, the University Library, founded in 1816,
+   is home to over 2 million items The building was designed by architects Marik Bajinski and
+   Zbigniew Badowski and opened on 15 December 1999. It is surrounded by green.
+   The University Library Garden, designed by Irena Bajirska, was opened on 12 June 2002.
+   It is one of the largest and most beautiful roof gardens in Europe with an area of more than 10,000
+   m2 (107,639.10 sq ft) and plants covering 5,111 m2 (55,014.35 sq ft).
+   As the University Garden it is open to the public every day.
+   Question. How many items is the University Library home to?
+Response: Based on the transcription provided, the University Library is home to over 2 million items. This information can be summarized as follows:
+
+* The University Library building was designed by architects Marik Bajinski and Zbigniew Badowski.
+* It opened on December 15, 1999.
+* The library garden was designed by Irena Bajirska and opened on June 12, 2002.
+* The University Garden is located in a green area surrounded by the building.
+
+As for the item count, the transcription does not provide specific information about the total number of items within the library. However, it mentions that the library garden covers an area of over 10,000 m² (107,639.10 sq ft) with plants covering around 5,111 m² (55,014.35 sq ft). This suggests that there may be many more items stored or displayed in other areas of the library, but the exact number is not specified.
+
+Therefore, while we can confirm that the University Library has over 2 million items housed within its buildings, the exact item count remains uncertain without further information about the specific collections and storage spaces within the library.
+Transcription Time: 148.27 seconds
+Words per Second: 0.72 WPS
+Inference Time: 62.98 seconds
+Tokens per Second: 2.87 TPS

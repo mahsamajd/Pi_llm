@@ -1,0 +1,31 @@
+Audio File: question_5.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, the crisis had a major impact on international relations and created a rift within NATO.
+   Some European nations and Japan sought to disassociate themselves from United States foreign policy.
+   In the Middle East to avoid being targeted by the boycott, Arab oil producers linked any
+   future policy changes to peace between the belligerents. To address this, the Nixon administration began
+   multilateral negotiations with the combatants. They arranged for Israel to pull back from the
+   Sinai Peninsula and the goal in heights. By January 18, 1994, U.S. Secretary of State Henry Kissinger
+   had negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula,
+   the promise of a negotiated settlement between Israel and Syria was enough to convince Arab oil.
+   Producers to lift the embargo in March 1974, question.
+   On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the crisis had a major impact on international relations and created a rift within NATO.
+   Some European nations and Japan sought to disassociate themselves from United States foreign policy.
+   In the Middle East to avoid being targeted by the boycott, Arab oil producers linked any
+   future policy changes to peace between the belligerents. To address this, the Nixon administration began
+   multilateral negotiations with the combatants. They arranged for Israel to pull back from the
+   Sinai Peninsula and the goal in heights. By January 18, 1994, U.S. Secretary of State Henry Kissinger
+   had negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula,
+   the promise of a negotiated settlement between Israel and Syria was enough to convince Arab oil.
+   Producers to lift the embargo in March 1974, question.
+   On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Answer: Question. Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on January 18, 1974.
+Henry Kissinger was the United States Secretary of State during the 1974 Middle East Crisis. He is the person that negotiated the Israeli
+Transcription Time: 15.92 seconds
+Words per Second: 9.04 WPS
+Inference Time: 60.65 seconds
+Tokens per Second: 3.38 TPS

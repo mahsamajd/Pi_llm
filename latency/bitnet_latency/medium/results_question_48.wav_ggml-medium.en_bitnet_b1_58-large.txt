@@ -1,0 +1,26 @@
+Audio File: question_48.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine Gorge between Rudersheim am Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankt-Görshausen, the Rhine flows around the famous Rock Lorelei, with its outstanding
+   architectural monuments. The slopes full of vines. Settlements crowded on the narrow river
+   banks and scores of castles lined up along the top of the steep slopes. The Middle Rhine Valley
+   can be considered the epitome of the Rhine Romanticism. Question. What is considered
+   the epitome of the Rhine Romanticism?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine Gorge between Rudersheim am Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankt-Görshausen, the Rhine flows around the famous Rock Lorelei, with its outstanding
+   architectural monuments. The slopes full of vines. Settlements crowded on the narrow river
+   banks and scores of castles lined up along the top of the steep slopes. The Middle Rhine Valley
+   can be considered the epitome of the Rhine Romanticism. Question. What is considered
+   the epitome of the Rhine Romanticism?
+Answer: The Middle Rhine Valley, as it is known, is the only place in the world
+   where the Rhine River meets the Alps. The Middle Rhine Valley is one of the largest
+   river basins in Europe.
+Transcription Time: 98.83 seconds
+Words per Second: 0.95 WPS
+Inference Time: 7.03 seconds
+Tokens per Second: 21.47 TPS

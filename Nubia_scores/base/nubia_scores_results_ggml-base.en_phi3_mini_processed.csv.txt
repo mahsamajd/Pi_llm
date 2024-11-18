@@ -1,0 +1,507 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy and Chivos USA both played their home matches at StubHub Center from 2005 until its closure for renovations after the end of the 2014 MLS season. Following a hiatus due to
+Correct Answer: StubHub Center
+NUBIA Score: 0.0
+
+Question: What event was the worst example of Huguenot persecution?
+Response: The most devastating and infamous episode of anti-Huguenot violence in France is widely recognized as the St. Bartholomew's Day Massacre, which occurred on August 24, 157
+Correct Answer: St. Bartholomew's Day massacre
+NUBIA Score: 0.4765215485295503
+
+Question: How much did the gross agricultural product increase from 2003-04?
+Response: The gross value of Victorian agricultural production increased by 17 percent during the period of 2003-04. This rise resulted in a total value of $8.7 billion, which accounted for 24 percent
+Correct Answer: $8.7 billion
+NUBIA Score: 0.11824219716389128
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent or non-state schools, operate outside of government administration and control at the local, state, or national level. These institutions have the autonomy to select their own students based on various criteria rather than relying sole
+Correct Answer: tuition
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Based on your query derived from a specific transcription regarding international relations and crisis management during its timeframe: U.S. Secretary of State, Henry Kissinger, successfully negotiated with Israel to commence their partial troop withdrawal from the
+Correct Answer: January 1
+NUBIA Score: 0.03212747811216887
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816 and located within a garden surrounded by greenery designed by Irina Bajerska (who also conceptualized the nearby M2 building with its library), boasts an impressive collection of
+Correct Answer: over two million
+NUBIA Score: 0.0
+
+Question: In what year did William Maclure begin the process of creating the first geological map of the U.S.?
+Response: Based on the transcription provided:
+
+William McClure began the process of creating the first geological map of the United States in **1807** as he commenced a self-imposed task to survey and make
+Correct Answer: 1807
+NUBIA Score: 0.5326066321125611
+
+Question: Stromatoveris is similair to which genus?
+Response: Based on the provided transcription, it appears that stromatoverus has characteristics reminiscent of genera such as Vendo bayanta from Ediacaran period and ancestors associated with tena force evolution in Cambrian sea
+Correct Answer: Vendobionta
+NUBIA Score: 0.0
+
+Question: What type of interpretation of Islam does Salafism promote?
+Response: Based on the context provided, it appears that there is a conservative funding body promoting and interpreting Islam through an extreme lens known as Wahhabism or Saudi-based fundamentalist ideology. This formulation advocates
+Correct Answer: conservative
+NUBIA Score: 0.0
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Based on the context provided, it can be deduced that during the Oligocene epoch (which spans from about 34 to 23 million years ago), when climate fluctinations allowed savanna regions to expand
+Correct Answer: Oligocene
+NUBIA Score: 0.0
+
+Question: Why has the Muslim Brotherhood facilitated inexpensive mass marriage ceremonies?
+Response: Based on your context about Islamist movements like the Muslim Brotherhood and their extensive assistance programs compared with government efforts often hindered by neglect or inefficiency, I will provide a detailed answer to why these groups facilitate inexp
+Correct Answer: avoid prohibitively costly dowry demands
+NUBIA Score: 0.0
+
+Question: How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?
+Response: In the context you provided, Richard Carp made a significant contribution in the field of computational complexity theory with his landmark paper published in 1972. The question asks about how many combinatorial and graph theoretical problems he showed to be nit
+Correct Answer: 21
+NUBIA Score: 0.07989706329868607
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention took place from November to December 1989 and reconvened in April 1990 as a series of public meetings across Scotland with over six million people attending at least one meeting or rally
+Correct Answer: 1989
+NUBIA Score: 0.0196304342922361
+
+Question: What was first battle in 1754?
+Response: Based on your transcription and context provided about Europe's North American Theatre during the Seven Years' War (also known as the French and Indian War), it is evident that the war encompassed a broader time frame, from
+Correct Answer: Battle of Jumonville Glen
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: Based on the provided context, high-purity solid or liquid oxygen (O) can typically be obtained through two methods: fractional distillation of liquified air and condensation out of air using a coolant like liquid nit
+Correct Answer: liquefied air
+NUBIA Score: 0.0130168727718879
+
+Question: What are longer growth spells associated with?
+Response: Longer growth spells are strongly associated with higher levels of equality, particularly regarding reduced inequality within developing countries' population and their distribution of wealth. In contrast to theories from earlier times that falsely linked increased income disparities as a driver for economic
+Correct Answer: more equality in the income distribution
+NUBIA Score: 0.090039917122957
+
+Question: Who did the geographic scholars work for?
+Response: Based on your provided context about the world being divided into climatic zones by colonizing empires and how this belief shaped societal judgments—particularly towards tropical regions with perceived laziness and moral degeneracy,
+Correct Answer: colonizing empires
+NUBIA Score: 0.0
+
+Question: Who was drawn to Jacksonville in the 1910s?
+Response: In the 1910s, New York-based filmmakers were attracted to Jacksonville due to several appealing factors that made it an ideal location for silent film production at that time. The city's warm climate was a
+Correct Answer: New York–based filmmakers
+NUBIA Score: 0.09103233880418093
+
+Question: What makes energy changes in a closed system?
+Response: Based on your transcription regarding non-conservative and conservative forces acting upon macroscopic closed systems, I understand that you're seeking an explanation of how these different types of forces influence the transformation of internal energies within such systems
+Correct Answer: nonconservative forces
+NUBIA Score: 0.0
+
+Question: What is the process by which the immune system identifies tumors called?
+Response: The process through which the immune system identifies and eliminates tumors, based on the transcription you provided, is known as "immune surveillance." Within this mechanism, specific antigens expressed at high levels by transformed cells of
+Correct Answer: immune surveillance
+NUBIA Score: 0.0884871733050171
+
+Question: What percentage of British children are educated at GSCE level in fee-paying schools?
+Response: Approximately 9% of children being educated in the UK attend fee-paying (independent or private) schools, including both girls' and boys' schools. Out of these students attending such institutions for their General Certificate of
+Correct Answer: 9
+NUBIA Score: 0.1287077426518135
+
+Question: What is the French name for the Rhine?
+Response: The modern French name for the river often referred to as "Rhine" or "Rhin" in English comes from its Germanic roots. The original tribal names and place-names were Latinized during Roman expansion, hence we see variations
+Correct Answer: Rhin
+NUBIA Score: 0.0
+
+Question: What division offers more then one branch of studies that don't fit in with the other four?
+Response: The New Collegiate Division at The College of the University of Chicago administers interdisciplinary majors and programs which do not neatly align within any of the traditional disciplines offered by their respective divisions. This division is distinct as it includes
+Correct Answer: the New Collegiate Division
+NUBIA Score: 0.2047402636406922
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Based on your provided transcription about active memory and artificial generation of long-term immunity through vaccination, here's an extensive response:
+
+Long-term active memory for fighting diseases within the human body is developed as part
+Correct Answer: an antigen from a pathogen
+NUBIA Score: 0.3658873672266568
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the context provided, Interstate Highway System was developed with Interstate 5 running along the west side of California's Central Valley during the 1950s, bypassing many population centers and instead upgrading State
+Correct Answer: 99
+NUBIA Score: 0.0
+
+Question: Despite being traditionall described as "eight counties", how many counties does this region actually have?
+Response: The context provided discusses two different definitions or descriptions of what constitutes Southern California based on various factors such as demographics, economic ties, and historical political divisions. Traditionally, the term "Southern California" is often described
+Correct Answer: 10 counties
+NUBIA Score: 0.0057538193393255055
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Based on your context about reductions and their application in problem-solving within computational theory, here'table is a comprehensive answer:
+
+Polynomial time reduction refers to the transformation of one computationally intensive task into another while ens
+Correct Answer: multiplication
+NUBIA Score: 0.0
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percent of East German (former GDR) students attending private schools was 0.5%. This information is provided from the context stating that overall between 1992 and 2008
+Correct Answer: 0.5
+NUBIA Score: 0.1067611656008075
+
+Question: Where did Kublai build his administration's strength?
+Response: Kublay built his government'in strength primarily in Northern China. This strategic decision allowed him to establish a firm foundation before pursuing expansionist policies against the Song dynasty located further south. The objective of this consolidation was presumably
+Correct Answer: northern China
+NUBIA Score: 0.02351824037288386
+
+Question: What practice do some internet pharmacies engage in?
+Response: Based on the transcription provided, it is clear that some internet pharmacies engage in a controversial and potentially hazardous practice: selling prescription drugs without requiring patients to obtain a valid prescription. The context suggests
+Correct Answer: sell prescription drugs without requiring a prescription
+NUBIA Score: 0.06751567314608498
+
+Question: How much more land does the school own in Allston than Cambridge?
+Response: The context provided states that Harvard University now owns approximately 50 percent more land in Alston than it has in Cambridge. This indicates a substantial difference in property holdings between the two locations, with Boston'sugeographical proximity to Massachusetts
+Correct Answer: approximately fifty percent
+NUBIA Score: 0.08992610075987229
+
+Question: Who created an index of health and social problems?
+Response: Based on the context provided, Richard Wilkinson and Kate Pickett are credited for creating an Index that measures Health and Social Problems based on nine factors in developed countries. They discovered a strong correlation between these issues and larger income inequal
+Correct Answer: authors Richard Wilkinson and Kate Pickett
+NUBIA Score: 0.02109639583244105
+
+Question: How many prime numbers exist?
+Response: Based on the transcription provided and using Euclid's work as evidence around 300 BC, it can be concluded that there is no known simple formula separating primes from composite numbers. However, we understand through advanced mathematical
+Correct Answer: infinitely many
+NUBIA Score: 0.0
+
+Question: What gas does the airline exothermic reaction produce?
+Response: Based on the given transcription, it appears that passengers traveling in pressurized commercial aircraft have an emergency supply of oxygen automatically supplied to them in case of sudden cabin pressure loss due to activated chemical oxygen generators above each
+Correct Answer: oxygen gas
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Based on your request, I'd like to inform you that Lorelai Rock (La Lorgne) holds significant cultural and historical importance in France as it stands within sight of the river Moselle near Vosges Mountains. Situated
+Correct Answer: Sankt Goarshausen
+NUBIA Score: 0.0
+
+Question: When did Japan release a statement to tell Israelis to withdraw from the Palestine?
+Response: Based on the provided transcription regarding historical events related to oil dependence and political relations between Japan and the Middle East in November of 1970, there is no specific date mentioned when Japan released a statement demanding that Israel should withdraw from
+Correct Answer: November 22
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The AI is being asked about a specific type of sea creature that has been unintentionally brought into the Black Sea and its impact therein based on provided context. The organism in focus here is 'nemiopsis', which belongs to
+Correct Answer: Mnemiopsis
+NUBIA Score: 0.039233574230550294
+
+Question: What organization predicted that the Amazon forest could survive only three years of drought?
+Response: The Woods Hole Research Center predicted in a July 23, 2curent research article on The Independent (UK newspaper) that the present-day form of the Amazon rainforest might not withstand more than three consecutive years of
+Correct Answer: Woods Hole Research Center
+NUBIA Score: 0.39457596548642804
+
+Question: A multi-tape Turing machine requires what type of time for a solution?
+Response: Based on your request and given context: when considering different models of computation such as single-tape and multiple-tape Turing machines (TMs), we find that the complexity classes, which represent various types of problems solvable within
+Correct Answer: linear time
+NUBIA Score: 0.0
+
+Question: Which country was worried that the US would invade the Middle East?
+Response: The transcription provided does not directly mention a specific country expressing worry about potential U.S. military action against Middle Eastern oil fields. However, it is implied through context and historical events during this time period that British Prime Minister Edward Heath
+Correct Answer: British Prime Minister Edward Heath
+NUBIA Score: 0.0
+
+Question: In 2004 the Orange revolution occurred in what country?
+Response: The context provided discusses several instances where civil disobedience has been used as a tool for resistance against oppressive regimes or policies across different countries and time periods. It highlights how this form of non-violent protest played
+Correct Answer: Ukraine
+NUBIA Score: 0.0
+
+Question: Which country is a traditional ally of Israel?
+Response: Based on the provided context, it's clear that historically and traditionally, the United Kingdom (UK) has been an ally of Israel. This relationship was evident during Harold Wilson'selong reign when his government supported Israeli interests
+Correct Answer: UK
+NUBIA Score: 0.06529938971837124
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The primary component that raises the steam temperature above its saturated vapor point is the superheater. A superheater's function in a boiler system is to increase the heat of wet vapor by heating it beyond the
+Correct Answer: superheaters
+NUBIA Score: 0.11589047831484522
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics, which involves analyzing data and biological patterns related to how certain drugs can provoke an immune response in humans, is commonly referred to as Immunoinformatics
+Correct Answer: immunoinformatics
+NUBIA Score: 0.24734385342566767
+
+Question: The average contractor hired how many employees?
+Response: The transcription does not provide a specific number for the size of each individual contractor's workforce within the United States construction industry as of April 2013. It states that there were an estimated 5.8 million people employed
+Correct Answer: fewer than 10 employees
+NUBIA Score: 0.0
+
+Question: Who funds the IPCC's Secretary?
+Response: The costs related to the Secretary of the Intergovernmental Panel on Climate Change (IPCC) are provided by the World Meteorological Organization (WMO). As stated in your text, while UN Environment Programme provides for Deput
+Correct Answer: World Meteorological Organization
+NUBIA Score: 0.07075537845655255
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center realizes approximately 50 endowment-funded or privately financed programs and initiatives every year to foster contemporary art in Warsaw. This includes permanent and temporary exhibitions, concerts, shows, as well as
+Correct Answer: about 500
+NUBIA Score: 0.0019847394566089305
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Based on the provided context, it appears that in addition to being a UNESCO World Heritage site due to its cultural and natural significance along with vine culture around Lorelai Rock near Sank Ghorshausen as well as numerous cast
+Correct Answer: Middle Rhine Valley
+NUBIA Score: 0.0
+
+Question: What effect does European Union law have on laws of member states?
+Response: Based on the given context regarding European Union (EU) law and its sources, it is clear that EU law has a significant impact on national legal systems within member countries:
+
+1. Direct Effect - Some forms of secondary legislation,
+Correct Answer: direct effect or indirect effect
+NUBIA Score: 0.021690573215668363
+
+Question: What is the name of the residential treatment program the university runs?
+Response: The residence treatment program that the University of Chicago runs for individuals with behavioral and emotional problems is called the Hyde Park Day School's Program for Emotional Growth (PEG). The PEG offers a structured, th
+Correct Answer: the Sonia Shankman Orthogenic School
+NUBIA Score: 0.2602704036644704
+
+Question: What does Rosenfield feel plays the most significant role in expanding the income gap?
+Response: Based on the context provided, sociologist Jake Rosenfield of the University of Washington asserts that the decline of organized labor has played a more significant role than technological changes and globalization in widening the income gap within the
+Correct Answer: decline of organized labor
+NUBIA Score: 0.18588148798625237
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One efficient and widely used method to test the primality of large numbers is the Miller-Rabin primality test. Although it has a small probability of error, this probabilistic algorithm can quickly determine if a number is composite or probably prime with
+Correct Answer: the Miller–Rabin primality test
+NUBIA Score: 0.14204064488342705
+
+Question: What is the German term for segregating students based on their parents' wealth?
+Response: The context provided seems to contain a few errors and inconsistencies that make it difficult to extract information accurately:
+
+1. The terms 'satula', 'grunkazette', and 'Sonderuns' are not recognizable
+Correct Answer: Sonderungsverbot
+NUBIA Score: 0.08231681330099361
+
+Question: An MSP may introduce a bill as what?
+Response: Based on the provided context, an MSP (Member of Scottish Parliament) can introduce a bill to Parliament in one specific way: as a private member' end their statement about how bills are introduced and passed through Parliament; mentioning that this
+Correct Answer: a private member
+NUBIA Score: 0.05098939943446723
+
+Question: The modern trend in design is toward integration of what?
+Response: The modern trend in design towards integration involves incorporating previously separate specialties within large firms into a more cohesive and collaborative model for handling construction projects. Traditionally, different aspects such as architecture, interior designing, engineering, development
+Correct Answer: previously separated specialties
+NUBIA Score: 0.09409085972078435
+
+Question: What is another term used for year 13?
+Response: Based on the provided context, another term used for Year 13 in some secondary education systems, particularly those offering a three-year program concluding with A Levels (Advanced Level), is "upper Six." This designation reflects
+Correct Answer: upper sixth
+NUBIA Score: 0.059357896406011634
+
+Question: How many public charter schools does the university run?
+Response: The University of Chicago runs four public charter schools on the south side of Chicago, administered by the university's Urban Education Institute. These institutions cater to students from various backgrounds and communities in need of quality education opportunities. The
+Correct Answer: four
+NUBIA Score: 0.16867057290959453
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Based on the provided context, water (H2O) is utilized for producing molecular oxygen (O2) and hydrogen through the process of DC electricity-driven electrolysis. The generated gases are obtained
+Correct Answer: water
+NUBIA Score: 0.08373205491839175
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Based on the provided information from a transcription related to demographics of households in an unspecified city as of 2010 update, we can calculate the number of men over the age of 18 per 10
+Correct Answer: 91.3
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Khan (Kublai) attacked the Chinese Song Dynasty in southern China, notably at Kaiping where he convened a karaltai that elected him as Great Khan after Arik Boke's rebell
+Correct Answer: southern China
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: The provided context discusses historical events surrounding World War II in Poland. The Red Army had penetrated deep into Polish territory by July 1944 while pursuing German forces toward Warsaw. Aware of Stalin's hostility
+Correct Answer: 63 days
+NUBIA Score: 0.0
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The context mentions that during a trial division process for checking primality of an integer n (greater than 1), one should divide by all integers greater than 1 and up to the square root of n. Therefore, in this method, m
+Correct Answer: less than or equal to the square root of n
+NUBIA Score: 0.4614832784895594
+
+Question: What is blamed for causing the sharp drop in fish catches in the Black Sea and the Sea of Azov?
+Response: Based on the transcription provided, it was Nemepsis Lighty that has been accidentally introduced into the western Atlantic Ocean's regions like the Black Sea and Sea of Azov via ballast tanks in ships. This invasion caused
+Correct Answer: ctenophore Mnemiopsis leidyi
+NUBIA Score: 0.2305496475599037
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach employs two main types of compounds to safeguard against ingested pathogens: gastric acid and proteases (also known as pepsin). Gastric acid, predominantly hydrochlor
+Correct Answer: gastric acid and proteases
+NUBIA Score: 0.553063326442073
+
+Question: What did AUSTPAC support ', 'answers': {'text': ['supporting applications such as on-line betting, financial applications', 'applications such as on-line betting, financial applications', 'applications such as on-line betting, financial applications'], 'answer_start': [183, 194, 194]}}?
+Response: AUSTPAC, which stands for Australian Universal Telecommunications Packet Access, was an early public packet switched data network in Australia operated by Telstra (formerly known as Telecom Australia). It started its service during the early 19
+Correct Answer: supporting applications such as on-line bettin
+NUBIA Score: 0.2870582909377498
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The answer provided in this context refers to "passive immunity." Passive immunity occurs when a recipient acquires preformed antibodies that are transferred from another individual, rather than producing them internally. In the case described herein
+Correct Answer: passive immunity
+NUBIA Score: 0.5402020061782149
+
+Question: In autoimmune disorders, the immune system doesn't distinguish between what types of cells?
+Response: In normal circumstances, many T-cells and antibodies react with "self" peptides without causing harm to the body since these self-reactive elements are usually eliminated by specialized immune system functions. However, in
+Correct Answer: self and non-self
+NUBIA Score: 0.2032668895654458
+
+Question: How much of the greenhouse effect is due to carbon dioxide?
+Response: Based on the provided context, it appears there are conflicting views regarding human impacts and climate change. The executive summary highlights that some groups believe emissions from human activities substantially increase atmospheric concentrations of greenhouse gases leading
+Correct Answer: over half
+NUBIA Score: 0.0
+
+Question: Even in large firms, architects, interior designers, engineers, developers, construction managers, and general contractors were more likely to be what?
+Response: Based on the context provided, it appears that modern trends are moving towards integrating different specialties within architecture-related fields such as architects, interior designers, engineers, developers, construction managers, and general contractors into one
+Correct Answer: entirely separate companies
+NUBIA Score: 0.30115633006464904
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Based on the context provided, it appears that Krasinski Palace Garden serves as a prominent and beloved strolling destination in Warsaw frequented by locals known as "Varsovians." This attraction boasts over 1
+Correct Answer: Krasiński Palace Garden
+NUBIA Score: 0.03290075969322703
+
+Question: What popular environmentalist is also a university alumni member?
+Response: David Suzuki, the well-known Canadian geneticist and activist who has significantly contributed to promoting awareness about climate change and its impacts on our planet's environment. He received his Bachelor of Arts degree from H
+Correct Answer: David Suzuk
+NUBIA Score: 0.0
+
+Question: Who was Shi Tianze's father?
+Response: Shi Bingzi is mentioned in the text as a historical figure who had inter-ethnic marri intermediate between Han Chinese and Jurchen during his time in the Jin Dynasty (1115–1234).
+Correct Answer: Shi Bingzhi
+NUBIA Score: 0.0
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR (Engineering News-Record) is a trade magazine for the construction industry that annually publishes comprehensive information regarding the sizes of various design and construction firms across multiple market segments. In their reporting, they provide insights into nine
+Correct Answer: ENR
+NUBIA Score: 0.04905572271245995
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: Based on the transcription provided, it appears that there may be some context missing regarding specific details about how and why rivers developed during this time due to continental rifting within an extensional tectonic setting. However, I can provide a
+Correct Answer: Upper Rhine Graben
+NUBIA Score: 0.0
+
+Question: How was the Rhine Gorge formed?
+Response: The formation of the Rhine Gorge can be traced back to natural geological processes over millions of years involving erosion and uplift in the region surrounding it. The middle portion of the river lies within this gorge, which is
+Correct Answer: erosion
+NUBIA Score: 0.039941514145150236
+
+Question: What mathematician was also apart of the university's faculty?
+Response: Based on the provided context, Mathematician Alberto Calderon is confirmed to have been a part of the university's faculty alongside Egyptologist James Henry Breasted and other notable scholars. Therefore, Alberto Calderon was indeed
+Correct Answer: Alberto Calderón
+NUBIA Score: 0.0591009150486248
+
+Question: What is the term for a hyperactive immune system that attacks normal tissues?
+Response: The term you are looking for, which describes a hyperactive immune system attacking its own body's healthy cells and tissues as if they were foreign invaders, leading to autoimmune diseases is "autoimmunity." This
+Correct Answer: autoimmunity
+NUBIA Score: 0.16074952416150667
+
+Question: What type of architecture is represented in the majestic churches?
+Response: Based on the provided context, Gothic architecture was indeed present not only in grand churches but also in secular structures like burger houses and fortifications within a certain region or city during medieval times. The most significant building mentioned as an example of
+Correct Answer: Gothic
+NUBIA Score: 0.016640913687104186
+
+Question: Who discovered this and where did they come from?
+Response: Based on the transcription provided: Terra Preta (Black Earth) in the Amazon forest is now widely recognized as a product of indigenous soil management rather than being naturally occurring. This fertile soil enabled agriculture and silvicult
+Correct Answer: Michael Heckenberger and colleagues of the University of Florida
+NUBIA Score: 0.0
+
+Question: Which countries use the green Greek cross as a symbol of pharmacy?
+Response: Based on the provided context and information regarding symbols commonly associated with pharmacy in various countries throughout history, it is clear that several nations have unique emblems linked to their local traditions or organizations. However, your question specifically asks about the
+Correct Answer: Franc
+NUBIA Score: 0.0
+
+Question: Who develped the theory of relativity?
+Response: Galileo improved upon previous misunderstandings about motion and force through his experiments that disproved Aristotle's belief requiring a continuous application of force to maintain constant velocity – showing objects can move perpetually without an external force, if
+Correct Answer: Einstein
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen among all biologically relevant organic molecules due to their structure that includes multiple carbonyl groups (C=O) and hydroxyl groups (-OH).
+Correct Answer: carbohydrates
+NUBIA Score: 0.13343146922448368
+
+Question: Who wrote a pamphlet outlining the radical ideas of the extremists?
+Response: Based on the transcription provided, it appears that Egyptian Islamic Jihad was responsible for continuing the path of violence and military struggle following Anwar Sadat'static assassination in 1981. The organization targeted
+Correct Answer: Muhammad Abd al-Salaam Farag
+NUBIA Score: 0.056935669356488305
+
+Question: In what year was the Interstate Highway System created?
+Response: The transcription provided does not directly answer the specific question asked; it discusses Fresno's unique situation regarding its transportation infrastructure relative to Interstate 5 in California but fails to mention when exactly the U.S. Federal-
+Correct Answer: 1950s
+NUBIA Score: 0.0
+
+Question: Who founded the Office of Western Medicine?
+Response: The Nestorian physician Jesus the interpreter founded the Office of Western Medicine in China in 1263 during Kublai Khan's reign. The context provided states that Christianity had a significant influence on medical practice at this time
+Correct Answer: Jesus the Interpreter
+NUBIA Score: 0.019257731514470078
+
+Question: How would the word apothecary be viewed by contemporary English speakers?
+Response: In contemporary English, the term "apothecary" may still carry historical connotations but is largely considered outdated in modern times when referring to medical professionals or pharmacists who dispense drugs and medicines. Historically
+Correct Answer: outdated or only approproriate if herbal remedies were on offer to a large extent
+NUBIA Score: 0.5744806558783975
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that focuses on studying sedimentary layers (strata) in order to understand Earth'curent and past events as well as processes happening within our planet's interior over time. It
+Correct Answer: the study of sedimentary layers
+NUBIA Score: 0.04987932917811322
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule and triangle law are two fundamental geometrical concepts that can help you understand how forces acting on an object interact with each other when determining the resultant or net force. In a scenario where multiple forces act simultaneously, these
+Correct Answer: parallelogram
+NUBIA Score: 0.06484433232579001
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a Vitamin D receptor (VDR) -- specifically the gene encoding this receptor known as Cyp27B1 or more commonly named, Calcitriol Receptor. When A T cell recognizes and enc
+Correct Answer: a vitamin D receptor
+NUBIA Score: 0.17228952546855647
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription provided describes various branching streams and estuaries along with their respective paths related to water flow from a river system possibly resembling parts or remnants of Europe's complex hydrology, particularly near what might be assumed
+Correct Answer: west
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on the given transcription, it appears that your query pertains primarily to determining industrial production in relation to default emission factors under UNFCCC regulations as mandated by IPCC activities and guided tasks. It is worth
+Correct Answer: fuel consumptio
+NUBIA Score: 0.0
+
+Question: What is the name for a response of the immune system that damages the body's native tissues?
+Response: The detailed and specific answer to your question would be: Hypersensitivity refers to an abnormal or excessive immune response, wherein the body mistakenly identifies its own healthy cells as foreign intruders, leading them to damage
+Correct Answer: Hypersensitivity
+NUBIA Score: 0.14028738411162878
+
+Question: What is the full official city name of Warsaw?
+Response: The full official city name of Warsaw, according to its etymology and historical context in Polish language (Varsava), is Miyasto Stoletsnay Varsava. It's important to note that this term translates directly
+Correct Answer: miasto stołeczne Warszawa
+NUBIA Score: 0.038618472981276075
+
+Question: When had the Brotherhood renounced violence as a means of achieving its goals?
+Response: In accordance with your request based on the transcription provided: QGB's ideas evolved into increasingly radical positions while he was in prison before his execution took place, which occurred in 1996. The leadership of the Bro
+Correct Answer: By the 1970s
+NUBIA Score: 0.0
+
+Question: How long does it take to know the outcome of a division?
+Response: Based on the provided context regarding parliamentary procedures at MSP (Member's Parliament), I can provide an answer that addresses both your query about how motions and amendments are decided, as well as specifically answering the question concerning the duration
+Correct Answer: seconds
+NUBIA Score: 0.0
+
+Question: Why does competition among workers drive down wages?
+Response: Competition amongst workers can lead to lower wages primarily due to the abundance of labor supply and limited demand for those particular jobs, as seen in industries such as dishwashing or customer service positions. In these fields where there
+Correct Answer: expendable nature of the worker
+NUBIA Score: 0.023241785616070598
+
+Question: What put a hierarchical structure in place?
+Response: Based on the transcription provided, it appears that during various periods such as the end of the Oscar period (538 to 710), early Nara period (710 to 794) and until the Me
+Correct Answer: the pre-Heian Imperial court
+NUBIA Score: 0.0
+
+Question: In which year did a toxic waste spill from a European ship prompt the Commission to look into legislation against waste?
+Response: The specified context refers to an incident in the year 2006 when a toxic waste spill occurred off the coast of Code de Voir. This event led the EU Commission, under Environment Commissioner Stavros Demas's direction
+Correct Answer: 2006
+NUBIA Score: 0.5194088694511112
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Based on your provided context, here's my detailed and specific answer:
+
+The term 'generic', as used to describe the response of an organism' endogenous defense mechanism (innate immune system), refers to its n
+Correct Answer: non-specific
+NUBIA Score: 0.2150852898396859
+

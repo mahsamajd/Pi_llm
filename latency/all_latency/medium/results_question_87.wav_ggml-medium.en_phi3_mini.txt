@@ -1,0 +1,28 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used
+   since the 15th-17th centuries. However, the original Greek roots from pharmacos imply
+   sorcery or even poison. In addition to pharma responsibilities, the pharma offered general
+   medical advice and a range of services that are now performed solely by other specialist
+   practitioners, such as surgery and midwifery. The pharma, as it was referred to, often operated
+   through a retail shop which, in addition to ingredients for medicines, sold tobacco and
+   patent medicines. Often the place that did this was called an apothecary and several languages
+   have this as the dominant term, though their practices are more akin to a modern pharmacy.
+   In English the term apothecary would today be seen as outdated or only appropriate if herbal.
+   Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word pharmakeia (Greek, φαρμακία) derives from pharmakin, pharmakin, meaning
+   "drug", "medicine", or "poison" (n1).
+Response: The term 'pharmacy' has a complex history that originates back to the Greek era. The root word for modern-day pharmacist is derived from 'pharma,' which was used since the 15th through 17th centuries, but this concept of dispensing medications and providing medical advice also had associations with sorcery or even poison due to its original meaning in Greek.
+
+During earlier times, pharmacists often operated as apothecaries—shops offering a wide range of services beyond just selling medicine ingredients; they sold items like tobacco and patent medicines too (n1). Interestingly enough, the term 'apothecary' still dominates in several languages today.
+
+It was not until later that pharmacies evolved into specialized establishments focused on dispensing drugs primarily from prescriptions rather than general medical advice or a variety of services like surgery and midwifery (n1). These changes likely occurred as the science of medicine developed, separating these roles amongst different types of practitioners.
+
+However, even with this evolution in pharmacy practice over time, remedies were still largely herbal-based—and beyond just those listed ingredients which can be found on modern medication labels today (n1). Pharmacies and apothecaries also often sold many other unlisted herbs as part of their offerings.
+
+Lastly, the Greek term 'pharmakina,' meaning "drug," "medicine," or even a form of poison reflects that at some point in history (n1), pharmacies and apothecaries played an integral role not just for healing but potentially also as sites of toxic substance preparation.
+Transcription Time: 213.93 seconds
+Words per Second: 0.77 WPS
+Inference Time: 284.24 seconds
+Tokens per Second: 0.83 TPS

@@ -1,0 +1,27 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Answer: The geographic scholars worked for the European Empire, as they were attempting to gain more knowledge about the world.
+The geographic scholars work is based on the assumption that there is a certain geographical characteristic that is necessary for a specific social structure and that this social
+Transcription Time: 15.53 seconds
+Words per Second: 6.95 WPS
+Inference Time: 38.74 seconds
+Tokens per Second: 4.57 TPS

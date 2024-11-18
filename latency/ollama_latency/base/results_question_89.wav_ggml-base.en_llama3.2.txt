@@ -1,0 +1,26 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2
+Transcription:    Context. Historically, forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces canceled each other out. Such experiments demonstrate
+   the crucial properties that forces are additive vector quantities. They have magnitude and direction.
+   When two forces act on a point particle, the resulting force, the resultant, also called
+   the net force, can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram gives an equivalent
+   resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of
+   the two forces to their sum, depending on the angle between their lines of action. However,
+   if the forces are acting on an extended body, their respective lines of application must also be
+   specified in order to account for their effects. On the motion of the body, question, what geometric
+   shape is used in equations to determine net force.
+Response: The transcription does not provide a direct answer to the specific question about the geometric shape used in equations to determine net force on an extended body.
+
+However, based on the context provided, it can be inferred that when forces are acting on an extended body, their respective lines of application must also be specified. To account for their effects, their lines of action should form a parallelogram with respect to each other. This is because, according to the parallelogram rule of vector addition, the addition of two vectors represented by sides of a parallelogram gives an equivalent resultant vector.
+
+In equations, the net force (resultant) on an extended body can be represented using the law of cosines or the law of sines, which are geometric shapes used to calculate the magnitude and direction of the resultant force. The choice between these two laws depends on the information given about the forces and their angles.
+
+Therefore, while the transcription does not explicitly state the geometric shape, it implies that a parallelogram is involved in determining the net force on an extended body.
+Transcription Time: 20.50 seconds
+Words per Second: 8.10 WPS
+Inference Time: 145.35 seconds
+Tokens per Second: 1.25 TPS

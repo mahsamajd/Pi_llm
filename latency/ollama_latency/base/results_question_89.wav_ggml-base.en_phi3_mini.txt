@@ -1,0 +1,26 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. Historically, forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces canceled each other out. Such experiments demonstrate
+   the crucial properties that forces are additive vector quantities. They have magnitude and direction.
+   When two forces act on a point particle, the resulting force, the resultant, also called
+   the net force, can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram gives an equivalent
+   resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of
+   the two forces to their sum, depending on the angle between their lines of action. However,
+   if the forces are acting on an extended body, their respective lines of application must also be
+   specified in order to account for their effects. On the motion of the body, question, what geometric
+   shape is used in equations to determine net force.
+Response: In physics, when determining the resultant or net force acting on a point particle due to multiple forces in static equilibrium situations, we use vectors and apply principles such as vector addition with specific rules that include using geometrical shapes for visual representation. The parallelogram rule of vector addition is employed where two sides representing individual forces are drawn tail-to-head; the diagonal (transversal) then represents the magnitude and direction of the resultant force, or net force. However, if we're dealing with extended bodies subject to multiple forces along specified lines of application—essentially different points on those entities rather than a single point particle—we often use another geometric shape called the 'tip-to-tail rule'. 
+
+To explain further: When two vectors (forces) act upon an object, you represent each vector as directed line segments drawn from their starting/originating points. In cases where these forces are acting on a single point particle and we're considering static conditions or equilibrium scenarios without rotation, the parallelogram rule is applicable—drawing both force vectors such that they start at a common point (like head-to-tail), completing this 'parallelogram', you then find an equivalent diagonal vector from where these two forces meet outwards to one of their corners. This resulting line segment gives us the magnitude and direction of our resultant net force, which obeys Newton's first law—that is essential for maintaining static equilibrium as it ensures that there are no unbalanced external influences causing translational or rotational motion in a body subjected to multiple forces.
+
+For extended bodies (or objects with more dimensions), when determining the resultant force due to different pairs of vectors acting at distinct points on this object, we use what's known as 'tip-to-tail vector addition'. You draw each individual pair of applied forces from their respective starting/originating point towards a common endpoint or tail. After all these tip-to-tail additions for the entire system have been drawn out, you then find an equivalent line segment that starts at this initial origin and ends at where your last force vector terminated—this resultant represents both magnitude (length of the resulting line) and direction from the original start point to end point. 
+
+Remember these geometric methods are tools used in physics not only for determining net forces but also assisting with understanding torques, leverage points around which rotational motion is induced or balanced within an extended body system—as well as aiding visualizing and solving systems of multiple simultaneous vector quantities.
+Transcription Time: 20.50 seconds
+Words per Second: 8.10 WPS
+Inference Time: 329.77 seconds
+Tokens per Second: 1.22 TPS

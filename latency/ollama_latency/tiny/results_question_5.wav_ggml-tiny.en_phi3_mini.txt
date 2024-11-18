@@ -1,0 +1,19 @@
+Audio File: question_5.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: phi3:mini
+Transcription:    context, the crisis had a major impact on international relations and created a rift within NATO.
+   Some European nations in Japan sought to disassociate themselves from United States foreign policy.
+   In the Middle East to avoid being targeted by the boycott,
+   Arab oil producers linked any future policy changes to peace between the belligerence.
+   To address this, the Nixon administration began multilateral negotiations with the combatants.
+   They arranged for Israel to pull back from the Sinai Peninsula and the Golden Heights.
+   By January 18, 1974, US Secretary of State Henry Kissinger had negotiated an Israeli troop
+   withdrawal from parts of the Sinai Peninsula, the promise of a negotiated settlement between
+   Israel and Syria was enough to convince Arab oil.
+   Producers to lift the embargo in March 1974, question.
+   On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The answer is January 18, 1974. The Nixon administration arranged for Israel to pull back from specific areas of the Sinai Peninsula and Golden Heights as part of multilateral negotiations initiated by Henry Kissinger with various combatant nations in an attempt to address regional tensions caused by a major crisis, likely referring to events leading up to or during the Yom Kippur War. By successfully negotiating these concessions from Israel and ensuring that there was promise of resolving ongoing disputes between belligerent parties such as Egypt and Syria through diplomacy (suggested with "settlement"), Henry Kissinger managed to persuade Arab oil producers to lift the embargo in March 1974. The date when these negotiations concluded, resulting in an Israeli troop withdrawal agreement for parts of the Sinai Peninsula as well as Golden Heights (although this latter detail is less commonly mentioned and could refer to specific points within Egypt or Lebanon that were also influenced by the conflict), was January 18, 1974.
+Transcription Time: 8.69 seconds
+Words per Second: 16.46 WPS
+Inference Time: 196.46 seconds
+Tokens per Second: 0.82 TPS

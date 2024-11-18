@@ -1,0 +1,26 @@
+Audio File: question_23.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor of Science
+   degrees in Fifty Academic Majors and 28 Miners. The College's academics are divided into five
+   divisions. The Biological Sciences Collegiate Division. The Physical Sciences Collegiate Division.
+   The Social Sciences Collegiate Division. The Humanities Collegiate Division. And the New Collegiate
+   Division. The first four sections within their corresponding graduate divisions. While the New
+   Collegiate Division administers interdisciplinary majors and studies which do not fit. In one of
+   the other four divisions, question. What division offers more than one branch of studies that don't
+   fit in with the other four?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor of Science
+   degrees in Fifty Academic Majors and 28 Miners. The College's academics are divided into five
+   divisions. The Biological Sciences Collegiate Division. The Physical Sciences Collegiate Division.
+   The Social Sciences Collegiate Division. The Humanities Collegiate Division. And the New Collegiate
+   Division. The first four sections within their corresponding graduate divisions. While the New
+   Collegiate Division administers interdisciplinary majors and studies which do not fit. In one of
+   the other four divisions, question. What division offers more than one branch of studies that don't
+   fit in with the other four?
+Answer: The College of the University of Chicago has 4 divisions which are divided into 5 departments and 4 colleges. In one of the 4 divisions, question. What division offers more than one branch of studies that don't fit in with the other
+Transcription Time: 11.18 seconds
+Words per Second: 9.31 WPS
+Inference Time: 51.91 seconds
+Tokens per Second: 3.24 TPS

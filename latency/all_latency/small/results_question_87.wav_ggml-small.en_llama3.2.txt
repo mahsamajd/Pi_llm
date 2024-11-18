@@ -1,0 +1,25 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: llama3.2
+Transcription:    Context
+   The word pharmacy is derived from its root word pharma which was a term used since the 15th-17th
+   centuries. However, the original Greek roots from pharmacos imply sorcery or even poison.
+   In addition to pharma responsibilities, the pharma offered general medical advice
+   and a range of services that are now performed solely by other specialist practitioners
+   such as surgery and midwifery. The pharma, as it was referred to, often operated through a retail
+   shop which, in addition to ingredients for medicines, sold tobacco and patent medicines.
+   Often the place that did this was called an apothecary and several languages have this as
+   the dominant term, though their practices are more akin to a modern pharmacy. In English the term
+   apothecary would today be seen as outdated or only appropriate if herbal remedies were on offer to
+   a large extent. The pharmas also used many other herbs not listed. The Greek word pharmacia, Greek
+   pharmacia, derives from pharmacin, pharmacin, meaning "drug," "medicine," or "poison," N1.
+   How would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, I can infer that the word "apothecary" would likely be viewed as outdated or no longer relevant in contemporary English. The text states that the term "apothecary" is still used in several languages but notes that its practices are more akin to a modern pharmacy. Additionally, it mentions that in English, the term "apothecary" today would only be seen as suitable if herbal remedies were on offer to a large extent.
+
+This suggests that while the word "apothecary" may evoke a sense of historical significance or nostalgia, it is no longer widely used or recognized in modern English. Contemporary English speakers might view the term as archaic or associated with traditional practices that have been largely superseded by modern medicine and pharmacy practices.
+
+It's worth noting that this interpretation is based on the specific context provided in the transcription, which highlights the outdated nature of apothecary practices compared to modern pharmacy services.
+Transcription Time: 53.66 seconds
+Words per Second: 3.28 WPS
+Inference Time: 149.62 seconds
+Tokens per Second: 1.05 TPS

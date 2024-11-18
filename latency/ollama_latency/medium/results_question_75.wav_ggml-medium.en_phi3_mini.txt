@@ -1,0 +1,20 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context. From the Eocene onwards, the ongoing Alpine orogeny caused anS rift system to develop
+   in this zone. The main elements of this rift are the Upper Rhine Graben in southwest Germany and
+   eastern France and the Lower Rhine Embayment in northwest Germany and the southeastern
+   Netherlands. By the time of the Miocene, a river system had developed in the Upper Rhine Graben
+   that continued northward and is considered the first Rhine River. At that time, it did not yet
+   carry discharge from the Alps. Instead, the watersheds of the Rhone and Danube drained the
+   northern flanks of the Alps. Question. What elements from the rift system in the Alpine
+   orogeny in southwest Germany?
+Response: The main element from the rift system that developed as part of the ongoing Alpine orogeny and is found in Southwest Germany, specifically mentioned in your transcription, is the Upper Rhine Graben. This geological feature formed during a period when tectonic forces were responsible for creating rifts within the Earth's crust due to the convergence and subduction of tectonic plates that also led to mountain-building processes such as orogeny in this region, which includes parts like Southwest Germany. The Upper Rhine Graben is a significant rift system situated between southwestern France (where it continues into eastern areas) and Northwestern Germany with implications for the geological development of these territories during prehistoric times.
+
+Furthermore, by detailing its significance in your question – not to mention that this region was once home to a river known as Eocene-derived Upper Rhine Graben before becoming part of our modern landscape's hydrology – we can infer how the rift system played an essential role in carving out what is now one of Europe’s most notable geological features. This insight leads us not only to understand its present form but also appreciates it as a historical witness, providing clues about Earth's evolutionary past and humanity's development through time by revealing how the landscapes were shaped that led rivers such as Rhine to flow across Europe today with distinct watersheds.
+
+It is worth noting that during this rift formation period in the Eocene, there was a river system developing northward within the Upper Rhine Graben which eventually became recognized as the first iteration of what we know now as the modern-day Rhine River. However, at its emergence time (which occurred by way around 16 million years ago during Miocene epoch), it did not carry Alpine discharge since most runoff was drained through watersheds that include areas west and north of the Alps such as those supplied by rivers like Rhone and Danube. It wasn't until later periods, particularly around 5-10 million years ago during Miocene epoch continuation when full development occurred – signifying an essential chapter in Europe’s geologic history with implications for its current hydrological system still evident today within the Alpine orogeny region.
+Transcription Time: 108.56 seconds
+Words per Second: 1.05 WPS
+Inference Time: 293.88 seconds
+Tokens per Second: 1.22 TPS

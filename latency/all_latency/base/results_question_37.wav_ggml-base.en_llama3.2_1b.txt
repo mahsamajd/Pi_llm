@@ -1,0 +1,18 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. Tena4s may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find. In bays where they occur in very high
+   numbers. Predation by Tena4s may control the populations of small zooplanktonic organisms such as
+   copods, which might otherwise wipe out the phytoplankton. Planktonic plants, which are a vital part of
+   marine food chains. One Tena4, nemiopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms.
+   That would otherwise have fed the fish. The situation was aggravated by other factors,
+   such as over fishing and long-term environmental changes that promoted the growth of the nemiopsis.
+   Population. The later accidental introduction of Baro helped to mitigate the problem.
+   As Baro preys on other Tena4s, question. What Tena4 was accidentally introduced into the Black Sea?
+Response: Based on the provided transcription, the specific answer to the question is that a Nereoporus (not Tena4s) was accidentally introduced into the Black Sea, which is referred to as "Baro" in the text. This introduction of Baro ( likely a type of nereopore or another species of brown algae) helped mitigate the issue with its predation on other Tena4s, and it preys on Tena4s, implying that the question itself was referring to an existing Nereoporus population in the Black Sea.
+Transcription Time: 17.54 seconds
+Words per Second: 8.55 WPS
+Inference Time: 43.95 seconds
+Tokens per Second: 1.82 TPS

@@ -1,0 +1,32 @@
+Audio File: question_55.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    Context, the modern trend and design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely separate
+   companies. Even in the larger firms presently, a firm that is nominally an architecture or
+   construction management firm may have experts from. All related fields as employees, or to have
+   an associated company that provides each necessary skill. Thus, each such firm may offer itself
+   as one stop shopping for a construction project. From beginning to end, this is designated
+   as a design build, contract where the contractor is given a performance.
+   Specification and must undertake the project from design to construction. While adhering to the
+   performance specifications, question. The modern trend and design is toward integration of what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the modern trend and design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely separate
+   companies. Even in the larger firms presently, a firm that is nominally an architecture or
+   construction management firm may have experts from. All related fields as employees, or to have
+   an associated company that provides each necessary skill. Thus, each such firm may offer itself
+   as one stop shopping for a construction project. From beginning to end, this is designated
+   as a design build, contract where the contractor is given a performance.
+   Specification and must undertake the project from design to construction. While adhering to the
+   performance specifications, question. The modern trend and design is toward integration of what?
+Answer:
+
+* <em><strong>the</strong></em> <em><strong>general</strong></em> <em><strong>and</strong></em> <em><strong>specific</strong></em> <em><strong>and</strong></em> <em><strong>complete</strong></em> <em><strong>text</strong></em> <em><strong>and</strong></em>
+Transcription Time: 8.51 seconds
+Words per Second: 15.98 WPS
+Inference Time: 40.75 seconds
+Tokens per Second: 4.10 TPS

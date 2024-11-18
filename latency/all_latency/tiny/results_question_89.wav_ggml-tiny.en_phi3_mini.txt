@@ -1,0 +1,27 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context, historically, forces were first quantitatively investigated in conditions of static equilibrium where several.
+   Forces cancel each other out. Such experiments demonstrate the crucial properties that forces are additive vector quantities.
+   They have magnitude and direction. When two forces act on a point particle, the resulting force, the resultant, also called the net force,
+   can be determined by following the parallelogram rule of vector addition.
+   The addition of two vectors represented by sides of a parallelogram, gives an equivalent resultant vector that is equal in magnitude and direction to the transversal of.
+   The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of the two forces to.
+   There sum, depending on the angle between their lines of action. However, if the forces are acting on an extended body, their respective lines of application must also be specified in order to account for their effects.
+   On the motion of the body, question. What geometric shape is used in equations to determine net force.
+Response: The geometric shape that is utilized in physics when determining the net or resultant force acting on a system using vector addition methods is a parallelogram. This method allows us to find an equivalent single force, known as the resultant force, which has both magnitude and direction equaling those of the combined forces applied along two sides that form adjacent angles in this shape (often called "opposite corners" or "transversal"). The actual process involves arranging vectors according to their points of application on an extended body.
+
+To delve deeper into how it works, when calculating net force using vector addition and the parallelogram rule:
+- Drawing two forces as sides at a common point where they act gives us our initial setup for this methodology (often these are represented by arrows with their respective magnitudes). 
+- Next is to ensure that each of them lies tail to head, meaning one end touches the start of another force vector. This represents how forces physically affect a body in contact points and ensures directional accuracy when calculating net effect (resultant) on an object or system as per Newton's second law—that every action has its equal and opposite reaction within isolated systems assuming no other external influences are at play apart from the initial two forces.
+- Then, extend these arrows to form a parallelogram shape where their meeting point represents our end resultant vector (magnitude of force), which is drawn as an arrow originating from this endpoint and extending along its diagonals backward towards the starting points on each side's line of action.
+- Finally, measure both magnitude and direction for your resulting 'force'. Magnitude can range anywhere between being equal to zero (in case they cancel out) or up to a maximum which is when forces act parallel and in the same/opposite directions with their initial magnitudes (depending on whether angle θ=180 degrees), while its direction will be along the bisector of that formed by our original vector sides.
+   
+So, for example, if we have a point particle experiencing two forces F₁ and F₂ at different angles from each other without any additional external influences or bodies in between (i.e., an isolated system), you can use this parallelogram rule to determine the magnitude of the resultant force that will dictate its acceleration, taking into account Newton's second law:
+    ∑F = ma  →   Resultant Force= mass x Acceleration as per F=ma Law. Here, 'Resultant Force' is your answer you are looking for which can be calculated using this rule from the given forces and their angles of action on an isolated system (point particle). Remember that every force has a magnitude and direction; thus they must act along straight lines to apply Newtonian mechanics accurately in such systems.
+    
+This parallelogram method gives us not only how to find these resultant net forces but also provides insight into the overall impact of concurrently acting external influences on bodies within isolated or extended frameworks, helping predict and understand physical behavior with quantifiable precision under ideal conditions as specified herein by classical mechanics principles.
+Transcription Time: 10.96 seconds
+Words per Second: 15.15 WPS
+Inference Time: 386.57 seconds
+Tokens per Second: 1.32 TPS

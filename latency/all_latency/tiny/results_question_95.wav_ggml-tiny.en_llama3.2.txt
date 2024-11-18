@@ -1,0 +1,16 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: llama3.2
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his execution in.
+   1,966, the leadership of the Brotherhood, led by Hassan al-Hudabe, remained moderate and interested in political negotiation and activism.
+   Fringe or splinter movements inspired by the final writings of QTB in the mid-1960s.
+   Particularly the manifesto milestones, AKA Maum file Tarik, did, however, develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals, question.
+   When had the Brotherhood renounced violence as a means of achieving its goals?
+Response: Unfortunately, the transcription does not provide explicit information on when the Brotherhood renounced violence. However, based on the information provided, we can infer that it was by the 1970s.
+
+The transcription states: "By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals."
+Transcription Time: 7.75 seconds
+Words per Second: 12.26 WPS
+Inference Time: 71.99 seconds
+Tokens per Second: 0.65 TPS

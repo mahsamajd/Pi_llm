@@ -1,0 +1,40 @@
+Audio File: question_8.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    Context, the early Cambrian sessile-froned like fossil stromatovirus.
+   From China's Changjong Logarstat and dated to about 515 million years ago.
+   Is very similar to Vendo Bayanta of the preceding Ediacran period.
+   De Gond Shoo, Simon Conway Morris et al.
+   Found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatovirus was an evolutionary
+   ant of tina force, and that tina force originated from sessile animals whose
+   descendants became swimmers and changed.
+   The cilia from a feeding mechanism to a propulsion system, question.
+   Stromatovirus is similar to which genus.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the early Cambrian sessile-froned like fossil stromatovirus.
+   From China's Changjong Logarstat and dated to about 515 million years ago.
+   Is very similar to Vendo Bayanta of the preceding Ediacran period.
+   De Gond Shoo, Simon Conway Morris et al.
+   Found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatovirus was an evolutionary
+   ant of tina force, and that tina force originated from sessile animals whose
+   descendants became swimmers and changed.
+   The cilia from a feeding mechanism to a propulsion system, question.
+   Stromatovirus is similar to which genus.
+Answer:
+
+Stromatovirus is similar to the genus
+
+A.  GondShoo
+
+B.  GondShoo-like
+
+C. GondShoo-like-like
+
+D. GondShoo-like-like-like [end of text]
+Transcription Time: 6.65 seconds
+Words per Second: 14.28 WPS
+Inference Time: 34.56 seconds
+Tokens per Second: 3.88 TPS

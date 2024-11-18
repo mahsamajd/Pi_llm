@@ -1,0 +1,26 @@
+Audio File: question_89.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    context. Historically, forces were first quantitatively investigated in conditions
+   of static equilibrium where several forces cancelled each other out. Such experiments
+   demonstrate the crucial properties that forces are additive vector quantities.
+   They have magnitude and direction. When two forces act on a point particle, the resulting force,
+   the resultant, also called the net force, can be determined by following the parallelogram
+   rule of vector addition. The addition of two vectors represented by sides of a parallelogram
+   gives an equivalent resultant vector that is equal in magnitude and direction to the transversal of
+   the parallelogram. The magnitude of the resultant varies from the difference of the magnitudes of
+   the two forces to their sum, depending on the angle between their lines of action. However,
+   if the forces are acting on an extended body, their respective lines of application must also
+   be specified in order to account for their effects. On the motion of the body, question,
+   What geometric shape is used in equations to determine net force?
+Response: Based on the provided transcription, a detailed and specific answer can be made regarding what geometric shape is used in equations to determine net force.
+
+The geometric shape that is typically used in equations to determine net force is the parallelogram. When two forces act on an object, they can be represented by sides of a parallelogram, with the resultant force being the equivalent vector that represents the total effect of both forces. This concept is exemplified by the "parallelogram rule of vector addition," which allows for the calculation of the net force based on the magnitudes and directions of the two forces involved.
+
+In order to determine the net force, the parallelogram rule states that the magnitude of the resultant force can be calculated by adding the vectors represented by the sides of the parallelogram. This results in an equivalent resultant vector that is equal in magnitude and direction to the transversal (or diagonals) of the parallelogram. The angle between the lines of action of the forces also plays a crucial role in determining the net force, with the magnitude varying depending on the angle between the vectors.
+
+Therefore, based on this transcription, it can be concluded that the geometric shape used to determine net force is the parallelogram.
+Transcription Time: 62.65 seconds
+Words per Second: 2.65 WPS
+Inference Time: 69.55 seconds
+Tokens per Second: 3.02 TPS

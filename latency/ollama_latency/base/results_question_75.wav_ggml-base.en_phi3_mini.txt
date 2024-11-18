@@ -1,0 +1,24 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: phi3:mini
+Transcription:    context, from the Eocene onwards, the ongoing alpine orogeny caused ANS rift system to develop
+   in this zone. The main elements of this rift are the upper Rhine Graban. In southwest Germany
+   and eastern France and the lower Rhine Embayment. In northwest Germany and the southeastern Netherlands.
+   By the time of the Miocene, a river system had developed in the upper Rhine Graban,
+   that continued northward and is considered the first Rhine river. At that time, it did not yet
+   carry discharge from the Alps. Instead, the watersheds of the Rhone and Danube drained
+   the northern flanks of the Alps, question. What elements from the rift system in the alpine
+   orogeny in southwest Germany?
+Response: The main element of the rifting within the context of alpine orogeny occurring since Eocene and specifically mentioned as part of this process are found within the upper Rhine Graben. This depression extends from Southwest Germany towards Eastern France, encompassing regions such as Alsace-Lorraine in northeastern France due to its geological connection with eastern France's westernmost areas like Strasbourg and Mulhouse located along this graben’s northern border.
+
+The lower Rhine Embayment is another critical element of the rift system that stretches into northwest Germany, connecting up through various regions such as Düsseldorf-Krefeld in North Rhine-Westphalia state near Cologne to Duisburg situated at its convergence with the southeastern Netherlands.
+
+These rifting processes within both the Upper and Lower parts of the Rhine Graben have resulted from tectonic forces that initiated during Eocene times, contributing significantly to shaping Europe's current topography through continual alpine orogeny since then with a series of complex geological activities including crustal thinning, faulting, tilting and folding.
+
+Furthermore, the Upper Rhine Graben is distinguished by its stratigraphic sequence which includes several layers that represent different depositional environments ranging from marine to non-marine settings over time due to changing sea levels during various geological periods like Miocene orogeny in this area’s history. The graben also features a mix of igneous and metamorphosed rocks, indicating significant volcanic activity at some point since its formation.
+
+In sum, elements from the rift system within alpine orogeny found along with southwest Germany are mainly represented by Upper Rhine Graben - stretching into northeastern France's Alsace-Lorraine and through northwestern regions of Germany including Düsseldorf-Krefeld near Cologne to Duisburg at its boundary in the southeastern Netherlands. These elements demonstrate a significant geological history shaped over millions of years by tectonic activities within this active rift zone, creating complex stratigraphic sequences with diverse rock types and depositional environments across Europe's central part due to varying sea levels during different periods since Eocene times when the orogeny initiated.
+Transcription Time: 11.93 seconds
+Words per Second: 9.55 WPS
+Inference Time: 293.43 seconds
+Tokens per Second: 1.09 TPS

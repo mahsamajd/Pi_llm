@@ -1,0 +1,27 @@
+Audio File: question_8.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    context, the early Cambrian sessile frond like fossil stromatoverus.
+   From China's Changjong Lagerstadt and dated to about 515 million years ago,
+   is very similar to Vendo Bayanta of the preceding Ediacaran period.
+   Dagon Shue, Simon Conway Morris et al. found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatoverus was an evolutionary ant of tena force.
+   And that tena force originated from sessile animals whose descendants became swimmers and
+   changed. The cilia from a feeding mechanism to a propulsion system, question. Stromatoverus is
+   similar to which genus.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the early Cambrian sessile frond like fossil stromatoverus.
+   From China's Changjong Lagerstadt and dated to about 515 million years ago,
+   is very similar to Vendo Bayanta of the preceding Ediacaran period.
+   Dagon Shue, Simon Conway Morris et al. found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatoverus was an evolutionary ant of tena force.
+   And that tena force originated from sessile animals whose descendants became swimmers and
+   changed. The cilia from a feeding mechanism to a propulsion system, question. Stromatoverus is
+   similar to which genus.
+Answer:
+Stromatoverus is similar to a genus called Tena force, which evolved from a sessile filter-feeding form into a swimming form. Tena force is a member of the genus Tena force, which is a form of sea sponge.
+Transcription Time: 15.00 seconds
+Words per Second: 6.34 WPS
+Inference Time: 33.94 seconds
+Tokens per Second: 4.54 TPS

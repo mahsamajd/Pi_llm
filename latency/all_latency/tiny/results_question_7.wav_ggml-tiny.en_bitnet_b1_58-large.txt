@@ -1,0 +1,33 @@
+Audio File: question_7.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context, the first geological map of the U.S. was produced in 1809 by William McClure.
+   In 1807, McClure commenced the self-imposed task of making a geological survey of the United States.
+   Almost every state in the Union was traversed and mapped by him.
+   The Allegheny Mountains being crossed and re-crossed some 50 times. The results of his unaided
+   labors were submitted to the American Philosophical Society in a memoir.
+   Entitled observations on the geology of the United States explanatory of a geological map.
+   And published in the Society's transactions. Together with the nation's first geological map,
+   this antidates William Smith's geological map of England by six years. Although it was
+   constructed using a different classification of rocks, question. In what year did William McClure
+   begin the process of creating the first geological map of the U.S.?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the first geological map of the U.S. was produced in 1809 by William McClure.
+   In 1807, McClure commenced the self-imposed task of making a geological survey of the United States.
+   Almost every state in the Union was traversed and mapped by him.
+   The Allegheny Mountains being crossed and re-crossed some 50 times. The results of his unaided
+   labors were submitted to the American Philosophical Society in a memoir.
+   Entitled observations on the geology of the United States explanatory of a geological map.
+   And published in the Society's transactions. Together with the nation's first geological map,
+   this antidates William Smith's geological map of England by six years. Although it was
+   constructed using a different classification of rocks, question. In what year did William McClure
+   begin the process of creating the first geological map of the U.S.?
+Answer:  1809.
+   The work was published in 1809.
+   The first geological map of the United States was completed in 1809.
+   The geologic map of the United States
+Transcription Time: 9.02 seconds
+Words per Second: 15.08 WPS
+Inference Time: 8.58 seconds
+Tokens per Second: 21.45 TPS

@@ -1,0 +1,160 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by tuition, rather than taxation. Private schools are
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.4707094392271094
+
+Question: What substance is used to make high quality liquid O2?
+Response: − 297.31 °C
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.24203620804205983
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars were the European Empire. The geographic scholars were the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10409692612883858
+
+Question: What is the French name for the Rhine?
+Response: The name Rinos is derived from the Latin Rinos, which is a variant of the name Rinos, which is a variant of the name Rinos, which is a variant of the name Rinos, which is a variant of the name R
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.08136923048749034
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The process of vaccination is the process of introducing an antigen from a pathogen in order to stimulate the immune system and develop.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.41585901037988116
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Transcription: State Route 99 is the major interstate highway in the Central Valley.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.10754481702144181
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The problem of squaring an integer can be reduced to the problem of multiplying two integers.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.3111228218530734
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06741396481779283
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge is a natural formation of the Rhine River. It is a natural formation of the Rhine River. The Rhine Gorge is a natural formation of the Rhine River. The Rhine Gorge is a natural formation
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.34990172813547193
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The superheater is a device that is used to raise the temperature of the steam.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.3963046774361333
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics is the study of large sets of proteins. Proteomics,
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1438448219420715
+
+Question: The average contractor hired how many employees?
+Response: 1. The industry in 2014 has around $960 billion in annual revenue
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.07857750700084454
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Gorge between Rudeshaym and Rhine and Coblands is listed as a UNESCO World Heritage Site. Near Sank Gorsehausen, the Rhine flows around the famous rock Lorelai, with its outstanding
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.1322767929680202
+
+Question: What effect does European Union law have on laws of member states?
+Response: Transcription: The European Union is a political union of 27 member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4871600273212304
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller Raven primality test is a fast algorithm that is used to test the
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.12089516867652905
+
+Question: An MSP may introduce a bill as what?
+Response: A private bill can be introduced by a member of the Scottish Parliament.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.29304222228388865
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: DC electricity must be used.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.05165058186008353
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire was divided into three parts: the Golden Horde, the Chagatai Khanate and the
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.11239754121634027
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. The trial division is performed by dividing each integer m by each integer n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.31140412833029196
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach is a barrier to pathogens.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2067391670322518
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. The mother's immune system is responsible for protecting the infant from infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.1506944255293906
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Transcription: The park around the Krollicarnia Palace is situated on the old escarpment of the Viscula.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.0870277621462131
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: Context, engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08223862795493553
+
+Question: Who discovered this and where did they come from?
+Response: 1. The Shingu tribe is a group of indigenous people who live in the Amazon rainforest. They are
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08620005415213994
+
+Question: Who develped the theory of relativity?
+Response: 1. Aristotle
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.10100087448155115
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. The carbohydrates contain the largest proportion of oxygen by mass.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.22812944071772667
+
+Question: What is stratigraphy?
+Response: * 1. Geologists use a number of field, laboratory, and numerical modeling methods to decipher
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.11006199607660372
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: context. When AT cell encounters a foreign pathogen. It extends a vitamin D receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.16390303498643866
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow of water from the north to the south is called the North Sea. The flow of water from the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.17921052706679985
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08928786663026944
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The job is a job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13774106376384943
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were the most respected and highly respected members of society.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06873983373555015
+

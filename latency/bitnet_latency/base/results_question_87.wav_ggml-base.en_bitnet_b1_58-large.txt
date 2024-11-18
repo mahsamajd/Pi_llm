@@ -1,0 +1,35 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used since
+   the 15th, 17th. Sentries. However, the original Greek roots from pharmacos imply sorcery or even
+   poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range
+   of services that are now performed solely by other specialist practitioners, such as surgery and
+   midwifery. The pharma, as it was referred to, often operated through a retail shop which,
+   in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that
+   did this was called an apothecary and several languages have this as the dominant term,
+   though their practices are more akin to a modern pharmacy. In English the term apothecary would
+   today be seen as outdated or only a proproryate if herbal. Remedies were on offer to a large extent.
+   The pharma is also used many other herbs not listed. The Greek word "pharmakia", Greek,
+   "pharmakia", derives from "pharmakin", "pharmakin", meaning "drug", "medicine", or "poison",
+   N1. Question. How would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used since
+   the 15th, 17th. Sentries. However, the original Greek roots from pharmacos imply sorcery or even
+   poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range
+   of services that are now performed solely by other specialist practitioners, such as surgery and
+   midwifery. The pharma, as it was referred to, often operated through a retail shop which,
+   in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that
+   did this was called an apothecary and several languages have this as the dominant term,
+   though their practices are more akin to a modern pharmacy. In English the term apothecary would
+   today be seen as outdated or only a proproryate if herbal. Remedies were on offer to a large extent.
+   The pharma is also used many other herbs not listed. The Greek word "pharmakia", Greek,
+   "pharmakia", derives from "pharmakin", "pharmakin", meaning "drug", "medicine", or "poison",
+   N1. Question. How would the word apothecary be viewed by contemporary English speakers?
+Answer: In the context of medicine, the word "apothecary" is used to refer to a pharmacist. The word
+   "apothecary" means a pharmacist, although the term can be used to refer
+Transcription Time: 22.92 seconds
+Words per Second: 7.85 WPS
+Inference Time: 10.98 seconds
+Tokens per Second: 21.04 TPS

@@ -1,0 +1,22 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Ollama Model: phi3:mini
+Transcription:    context, from the Eocene onwards, the ongoing alpine orogeny caused ANS rift system to develop
+   in this zone. The main elements of this rift are the Upper Rhine Graban. In southwest
+   Germany and eastern France and the Lower Rhine Embayment, in northwest Germany and the
+   southeastern Netherlands. By the time of the Mayocene, a river system had developed in the Upper
+   Rhine Graban. That continued northward and is considered the first Rhine River. At that
+   time, it did not yet carry discharge from the Alps. Instead, the watersheds of the Rhone
+   and Danube drained the northern flanks of the Alps, question. What elements from the rift
+   system in the alpine orogeny in southwest Germany?
+Response: The main element of the rift system that developed during the alpine orogeny (mountain-building process) is known as the Upper Rhine Graben, which occurred within a zone extending from northwestern Italy to eastern France and Switzerland. This geological structure formed due to ANS rifting since Eocene times when compressive forces acted upon this region but later transitioned into an extensional regime leading to continental breakup in late Miocene timeframes around 7-9 Ma ago, which marked the formation of a new oceanic basin.
+
+The Upper Rhine Graben is characterized by its northward extension and lies between two significant mountain ranges: the Alps to the west and the Black Forest/Vosges Massif in western Germany to the east within southwest Europe's geographical area, including parts of Switzerland as well. The region primarily experiences intraplate extensional forces due to slab rollback at depth along a transform fault extending from Lake Geneva towards Italy via Valais and Aosta Valley – known colloquially in English literature sometimes under the term 'Genevian Trough' although not used by specialists. The Upper Rhine Graben shows signs of reactivating structures within this geological formation, indicating that it still possesses a tectonic significance for earth movements and deformation today, which may lead to future seismic events along its transform faults in the near term as well due to their ongoing movement.
+
+The Lower Rhine Graben is another key element of the rift system within northwest Germany but lies outside southwestern Europe's scope. It extends from west France towards Belgium, splitting into two different systems – one along with an eastern arm that terminates in northern Holland and a western branch ending at the lower reaches of today's Rhine River Delta (the Holbox). This basin also represents significant extensional features within continental Europe where rifting activities have led to substantial landscape transformations over geological timescales.
+
+In conclusion, regarding your question about specific elements from the rift system in alpine orogeny of southwest Germany – it is mainly defined by two key structural components: The Upper Rhine Graben and its extension that forms part of a broader Alpine-Cenozoic basement fault zone. These features indicate an extensive history, going back to the Eocene period when they started forming due to ANS rifting in response to compressive forces acting on this region before transitioning into extensional regimes contributing towards continental breakup during late Miocene timeframes about 7-9 Ma ago. The Upper Rhine Graben, along with Lower Rhine Graben and the Alpine orogeny processes themselves (which encompasses not only tectonic but also sedimentary aspects), represent essential components of this rift system within southwestern Europe's geological evolution during these timescales.
+Transcription Time: 6.79 seconds
+Words per Second: 16.78 WPS
+Inference Time: 347.26 seconds
+Tokens per Second: 1.25 TPS

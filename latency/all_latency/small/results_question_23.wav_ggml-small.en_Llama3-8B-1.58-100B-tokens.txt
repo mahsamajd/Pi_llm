@@ -1,0 +1,26 @@
+Audio File: question_23.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor
+   of Science degrees in 50 academic majors and 28 minors. The college's academics are divided
+   into five divisions. The Biological Sciences Collegiate Division, the Physical Sciences
+   Collegiate Division, the Social Sciences Collegiate Division, the Humanities Collegiate Division,
+   and the New Collegiate Division. The first four are sections within their corresponding graduate
+   divisions, while the New Collegiate Division administers interdisciplinary majors and studies
+   which do not fit in one of the other four divisions. Question. What division offers
+   more than one branch of studies that don't fit in with the other four?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor
+   of Science degrees in 50 academic majors and 28 minors. The college's academics are divided
+   into five divisions. The Biological Sciences Collegiate Division, the Physical Sciences
+   Collegiate Division, the Social Sciences Collegiate Division, the Humanities Collegiate Division,
+   and the New Collegiate Division. The first four are sections within their corresponding graduate
+   divisions, while the New Collegiate Division administers interdisciplinary majors and studies
+   which do not fit in one of the other four divisions. Question. What division offers
+   more than one branch of studies that don't fit in with the other four?
+Answer: The Division of New Collegiate Division offers more than one branch of studies that don't fit in with the other four.Biology and Environmental Studies - Division of Biological Sciences - Department of Biology - Department of Environmental Studies - Division of Physical Sciences -
+Transcription Time: 32.84 seconds
+Words per Second: 3.20 WPS
+Inference Time: 51.82 seconds
+Tokens per Second: 3.30 TPS

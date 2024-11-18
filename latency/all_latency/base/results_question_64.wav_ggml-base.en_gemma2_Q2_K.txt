@@ -1,0 +1,44 @@
+Audio File: question_64.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    context, on the other hand, in the late 1980s the western Atlantic Tinafore Nemepsis Lighty
+   was accidentally introduced. Into the Black Sea and Sea of Azov via the ballast tanks of ships.
+   And has been blamed for causing sharp drops in fish catches by eating both fish larva and small.
+   Crystations that would otherwise feed the adult fish. Nemepsis is well equipped to invade new
+   territories. Although this was not predicted until after it so successfully colonized the Black Sea.
+   As it can breed very rapidly and tolerate a wide range of water temperatures and salinities.
+   The impact was increased by chronic overfishing. And by eutrophication that gave the entire ecosystem
+   a short-term boost. Causing the Nemepsis population to increase even faster than normal, and above all
+   by the. Absence of efficient predators on these introduced Tinafores. Nemepsis populations in those
+   areas were eventually brought under control by the accidental. Introduction of the Nemepsis
+   eating North American Tinafore Barrow Ovata. And by a cooling of the local climate from 1991 to 1993.
+   Which significantly slowed the animals metabolism. However the abundance of plankton in the area
+   seems unlikely to be restored to pre- Nemepsis.
+   Levels. Question. What is blamed for causing the sharp drop in fish catches in the Black Sea and
+   the Sea of Azov.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, on the other hand, in the late 1980s the western Atlantic Tinafore Nemepsis Lighty
+   was accidentally introduced. Into the Black Sea and Sea of Azov via the ballast tanks of ships.
+   And has been blamed for causing sharp drops in fish catches by eating both fish larva and small.
+   Crystations that would otherwise feed the adult fish. Nemepsis is well equipped to invade new
+   territories. Although this was not predicted until after it so successfully colonized the Black Sea.
+   As it can breed very rapidly and tolerate a wide range of water temperatures and salinities.
+   The impact was increased by chronic overfishing. And by eutrophication that gave the entire ecosystem
+   a short-term boost. Causing the Nemepsis population to increase even faster than normal, and above all
+   by the. Absence of efficient predators on these introduced Tinafores. Nemepsis populations in those
+   areas were eventually brought under control by the accidental. Introduction of the Nemepsis
+   eating North American Tinafore Barrow Ovata. And by a cooling of the local climate from 1991 to 1993.
+   Which significantly slowed the animals metabolism. However the abundance of plankton in the area
+   seems unlikely to be restored to pre- Nemepsis.
+   Levels. Question. What is blamed for causing the sharp drop in fish catches in the Black Sea and
+   the Sea of Azov.
+Answer:
+   1.   Tinafore in the Black Sea and Azov
+   2.   Neepters in the Black Sea and the Sea of Azov,
+   3.   Tinafore Ovata,
+   4.   Tinafore
+Transcription Time: 23.98 seconds
+Words per Second: 9.01 WPS
+Inference Time: 58.70 seconds
+Tokens per Second: 4.46 TPS

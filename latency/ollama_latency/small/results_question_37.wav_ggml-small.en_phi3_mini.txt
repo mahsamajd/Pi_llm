@@ -1,0 +1,24 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    Context
+   Tenophores may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by tenophores may control the populations of small zooplanktonic organisms such as
+   copepods, which might otherwise wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food chains,
+   one tenophore, nemeopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larva and organisms.
+   That would otherwise have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes that promoted the growth of the nemeopsis.
+   Population
+   The later accidental introduction of Barrow helped to mitigate the problem.
+   As Barrow prays on other tenophores,
+   question what tenophore was accidentally introduced into the Black Sea.
+Response: The specific answer from the given transcription is that a type of tenophore known as Nemeopsis has been accidentally introduced into the Black Sea. The introduction and subsequent proliferation of this species in its new environment have disrupted local ecosystems, particularly affecting fish stocks by consuming larvae and organisms which would typically serve as food for juvenile fishes. This issue was further exacerbated due to overfishing and long-term environmental changes that favored the growth of Nemeopsis populations in the Black Sea. The accidental introduction likely refers to a specific event, possibly associated with human activity or natural migration patterns leading to this species ending up outside its native range without direct intentional release into the ecosystems mentioned above.
+Transcription Time: 52.39 seconds
+Words per Second: 2.84 WPS
+Inference Time: 172.78 seconds
+Tokens per Second: 0.68 TPS

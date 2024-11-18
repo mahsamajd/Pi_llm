@@ -1,0 +1,28 @@
+Audio File: question_75.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    context, from the Eocene onwards, the ongoing alpine orogeny caused ANS rift system to develop
+   in this zone. The main elements of this rift are the upper Rhine Graban. In southwest Germany
+   and eastern France and the lower Rhine Embayment. In northwest Germany and the southeastern Netherlands.
+   By the time of the Miocene, a river system had developed in the upper Rhine Graban,
+   that continued northward and is considered the first Rhine river. At that time, it did not yet
+   carry discharge from the Alps. Instead, the watersheds of the Rhone and Danube drained
+   the northern flanks of the Alps, question. What elements from the rift system in the alpine
+   orogeny in southwest Germany?
+Response: Based on the provided transcription, here is a detailed and specific answer:
+
+The main elements of the Alpine Orogeny rift system that developed in the Eocene onwards in the zone of interest (southwest Germany and eastern France) include:
+
+1. The upper Rhine Graben: This is one of the primary structures within the Alpine Orogeny rift system, specifically located in southwest Germany and eastern France.
+2. A river system in the upper Rhine Graban by the Miocene age: As mentioned in the transcription, a river system developed in the upper Rhine Graban during this time period. This initial river system would have continued northward, potentially forming one of the first major river systems within the Alpine Orogeny rift system.
+
+Regarding the elements from the rift system itself that contributed to the development of the first Rhine River:
+
+1. Watershed contribution: The watersheds of the Rhone and Danube rivers drained the northern flanks of the Alps, contributing to the formation of this initial river system.
+2. Drainage processes: These drainage processes, driven by tectonic uplift and erosion, likely played a significant role in shaping the morphology of the region and ultimately leading to the development of the first Rhine River.
+
+It is essential to note that the transcription does not provide explicit information about the specific characteristics or features of this initial Rhine River system. Therefore, it cannot be stated with certainty what exact elements contributed to its formation.
+Transcription Time: 11.93 seconds
+Words per Second: 9.55 WPS
+Inference Time: 71.71 seconds
+Tokens per Second: 3.30 TPS

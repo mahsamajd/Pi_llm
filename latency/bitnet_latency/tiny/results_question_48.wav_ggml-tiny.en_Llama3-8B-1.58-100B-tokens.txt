@@ -1,0 +1,24 @@
+Audio File: question_48.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, the dominant economic sectors in the Middle Ryan area are vina culture and tourism.
+   The Rhine Gorge between Rudishhaim and Rhine and Coblands is listed as a UNESCO World Heritage
+   Site. Near St. Gorsehausen, the Rhine flows around the famous rock Lorelai,
+   with its outstanding architectural monuments. The slopes full of vines.
+   Settlements crowded on the narrow river banks and scores of castles lined up along the top of
+   the steep slopes. The Middle Rhine Valley can be considered the epitome of the Rhine Romanticism,
+   question. What is considered the epitome of the Rhine Romanticism?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the dominant economic sectors in the Middle Ryan area are vina culture and tourism.
+   The Rhine Gorge between Rudishhaim and Rhine and Coblands is listed as a UNESCO World Heritage
+   Site. Near St. Gorsehausen, the Rhine flows around the famous rock Lorelai,
+   with its outstanding architectural monuments. The slopes full of vines.
+   Settlements crowded on the narrow river banks and scores of castles lined up along the top of
+   the steep slopes. The Middle Rhine Valley can be considered the epitome of the Rhine Romanticism,
+   question. What is considered the epitome of the Rhine Romanticism?
+Answer:  The epitome of the Rhine Romanticism is the Rhine Romanticism. Rhine Romanticism is a style of music that emerged in the early 19th century in France and spread to other parts of Europe, particularly to Germany. It
+Transcription Time: 6.12 seconds
+Words per Second: 15.69 WPS
+Inference Time: 50.37 seconds
+Tokens per Second: 3.08 TPS

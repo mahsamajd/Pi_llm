@@ -1,0 +1,24 @@
+Audio File: question_48.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine gorge between Rudeshimam Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankh-Gorshausen, the Rhine flows around the famous Rock Lorelai,
+   with its outstanding architectural monuments, the slopes full of vines, settlements crowded on the
+   narrow river banks and scores of castles lined up along the top of the steep slopes.
+   The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+   Question. What is considered the epitome of the Rhine romanticism?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine gorge between Rudeshimam Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankh-Gorshausen, the Rhine flows around the famous Rock Lorelai,
+   with its outstanding architectural monuments, the slopes full of vines, settlements crowded on the
+   narrow river banks and scores of castles lined up along the top of the steep slopes.
+   The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+   Question. What is considered the epitome of the Rhine romanticism?
+Answer:  The epitome of Rhine romanticism is the Middle Rhine Valley. [end of text]
+Transcription Time: 46.23 seconds
+Words per Second: 2.01 WPS
+Inference Time: 25.90 seconds
+Tokens per Second: 4.94 TPS

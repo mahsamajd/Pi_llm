@@ -1,0 +1,32 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Ollama Model: llama3.2:1b
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used
+   since the 15th-17th centuries. However, the original Greek roots from pharmacos imply
+   sorcery or even poison. In addition to pharma responsibilities, the pharma offered general
+   medical advice and a range of services that are now performed solely by other specialist
+   practitioners, such as surgery and midwifery. The pharma, as it was referred to, often operated
+   through a retail shop which, in addition to ingredients for medicines, sold tobacco and
+   patent medicines. Often the place that did this was called an apothecary and several languages
+   have this as the dominant term, though their practices are more akin to a modern pharmacy.
+   In English the term apothecary would today be seen as outdated or only appropriate if herbal.
+   Remedies were on offer to a large extent. The pharmas also used many other herbs not listed.
+   The Greek word pharmakeia (Greek, φαρμακία) derives from pharmakin, pharmakin, meaning
+   "drug", "medicine", or "poison" (n1).
+Response: Based on the transcription provided, here is a detailed and specific answer:
+
+The original root word of the term "pharmacy" is indeed "pharma". The Greek roots imply that pharmacies originated from a sense of sorcery or even poison. This suggests that in ancient times, pharmacists may have been viewed with suspicion due to their supposed ability to concoct potions or elixirs.
+
+As for the specific origins and evolution of the term "pharmacy", it is clear that the modern concept of pharmacy as we know it today did not emerge until much later. The term "pharmakeia" (φαρμακία) in Greek, which comes from the root words pharmakin and pharmakeia, refers to a type of medicine or poison.
+
+Interestingly, the word pharmakeia has undergone significant changes over time. In ancient times, it was used to describe both medicinal substances and poisonous ones. The term "pharma" itself is derived from the Greek verb φάω (faō), which means "to eat" or "to consume", likely referring to the idea that pharmacists were seen as providers of food for the body.
+
+In contrast, the word pharmakeia in Greek refers specifically to substances used for medicinal purposes. This distinction may have arisen due to the fact that early medical practices emphasized the use of natural remedies rather than concocting potions or elixirs.
+
+Throughout history, pharmacies continued to operate through a combination of retail shops and apothecaries, which sold ingredients for medicines as well as tobacco and patent medicines. The term "apothecary" has been used in many languages to refer to pharmacists and their practices, although the exact meaning may vary depending on the language.
+
+In English-speaking countries, the term "aphthectary" (or apothecary) was historically used to refer to a pharmacist or physician who dispensed medicine. However, this term is now largely obsolete in favor of more modern terms such as "pharmacist" and "medical doctor".
+Transcription Time: 213.93 seconds
+Words per Second: 0.77 WPS
+Inference Time: 101.12 seconds
+Tokens per Second: 3.03 TPS

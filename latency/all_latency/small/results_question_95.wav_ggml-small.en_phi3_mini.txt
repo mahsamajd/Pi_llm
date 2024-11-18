@@ -1,0 +1,23 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Ollama Model: phi3:mini
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudaibi,
+   remained moderate and interested in political negotiation and activism,
+   fringe or splinter movements inspired by the final writings of QTB in the mid-1960s,
+   particularly the manifesto milestones, a.k.a. Maaleem Fayel Tariq, did, however,
+   develop and they pursued a more radical direction. By the 1970s, the Brotherhood had renounced
+   violence as a means of achieving its goals, question. When had the Brotherhood renounced
+   violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Response: The transcription provided discusses Tariq's ideas and their impact on various factions within the Brotherhood. It is clear that while QTB himself adopted more radical positions during his imprisonment, especially towards the end of his life in mid-1960s with writings like Maaleem Fayel Tariq (the manifesto), these views did not reflect those of the mainstream Brotherhood leadership under Hassan al-Hudaibi. This core group maintained a moderate stance, focusing on political negotiation and activism rather than adopting radical approaches to their goals.
+
+The transcription concludes with an unfinished sentence about when the Brotherhood renounced violence as a means of achieving its goals but then abruptly cuts off without providing specific information related directly to this question within that given text. However, in reference to historical events and based on contextual knowledge outside our current transcription, it is known from general history records that while the Brotherhood's mainstream faction under al-Hudaibi did not formally renounce violence until later periods, many of its radical splinter groups had already embraced more violent means in different times.
+
+If we consider this question within a broader historical context and aim to fill out what appears to be missing information from the transcription itself: by the 1970s, these fringe or splinter movements influenced by QTB's ideas had indeed pursued radical directions but still might not fully represent when the main Brotherhood leadership officially renounced violence. The formal declaration of such a stance often occurs at conferences and meetings where policies are discussed rather than in isolated writings, which suggests that this could have happened sometime after 1966 and particularly noted during political shifts or under new leadership post-QTB's death if the text was indeed referring to these events.
+
+Without further specific information from the original transcription related directly about a formal renunciation of violence by the main Brotherhood, we cannot accurately answer that part based solely on this given context alone and would need additional sources or evidence outside our current scope for complete accuracy in history-related answers like these.
+Transcription Time: 45.06 seconds
+Words per Second: 2.13 WPS
+Inference Time: 285.32 seconds
+Tokens per Second: 1.17 TPS

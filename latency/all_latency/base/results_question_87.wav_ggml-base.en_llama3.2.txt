@@ -1,0 +1,24 @@
+Audio File: question_87.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2
+Transcription:    Context. The word "pharmacy" is derived from its root word "pharma" which was a term used since
+   the 15th, 17th. Sentries. However, the original Greek roots from pharmacos imply sorcery or even
+   poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range
+   of services that are now performed solely by other specialist practitioners, such as surgery and
+   midwifery. The pharma, as it was referred to, often operated through a retail shop which,
+   in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that
+   did this was called an apothecary and several languages have this as the dominant term,
+   though their practices are more akin to a modern pharmacy. In English the term apothecary would
+   today be seen as outdated or only a proproryate if herbal. Remedies were on offer to a large extent.
+   The pharma is also used many other herbs not listed. The Greek word "pharmakia", Greek,
+   "pharmakia", derives from "pharmakin", "pharmakin", meaning "drug", "medicine", or "poison",
+   N1. Question. How would the word apothecary be viewed by contemporary English speakers?
+Response: Based on the provided transcription, it can be inferred that if contemporary English speakers were to view the term "apothecary" today, they might consider it as outdated or only a proper noun if referring to herbal remedies. This is because the term "apothecary" was historically used to describe a professional who sold medicines, including patent medicines and tobacco, in addition to offering general medical advice and other services that are now performed by specialist practitioners.
+
+In contrast to modern pharmacies, apothecaries were often associated with retail shops that sold a range of products beyond just medicinal ingredients. The term "apothecary" has become somewhat archaic, and its connotations may evoke an image of a traditional or old-fashioned approach to medicine and sales.
+
+However, it's worth noting that the word "herbal" is still used as an adjective to describe remedies or products derived from herbs, suggesting that there is some recognition of the importance of herbalism in contemporary English. Nevertheless, for most people, the term "apothecary" would likely be seen as a relic of the past, rather than a modern concept.
+Transcription Time: 22.77 seconds
+Words per Second: 7.90 WPS
+Inference Time: 160.14 seconds
+Tokens per Second: 1.12 TPS

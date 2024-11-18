@@ -1,0 +1,34 @@
+Audio File: question_8.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    Context, the early Cambrian sessile-froned like fossil stromatovirus.
+   From China's Changjong Logarstat and dated to about 515 million years ago.
+   Is very similar to Vendo Bayanta of the preceding Ediacran period.
+   De Gond Shoo, Simon Conway Morris et al.
+   Found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatovirus was an evolutionary
+   ant of tina force, and that tina force originated from sessile animals whose
+   descendants became swimmers and changed.
+   The cilia from a feeding mechanism to a propulsion system, question.
+   Stromatovirus is similar to which genus.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the early Cambrian sessile-froned like fossil stromatovirus.
+   From China's Changjong Logarstat and dated to about 515 million years ago.
+   Is very similar to Vendo Bayanta of the preceding Ediacran period.
+   De Gond Shoo, Simon Conway Morris et al.
+   Found on its branches what they considered rows of cilia.
+   Used for filter feeding, they suggested that stromatovirus was an evolutionary
+   ant of tina force, and that tina force originated from sessile animals whose
+   descendants became swimmers and changed.
+   The cilia from a feeding mechanism to a propulsion system, question.
+   Stromatovirus is similar to which genus.
+Answer:   According to the given information, the correct answer is :
+
+* According to the given information, the description of the organism, which is given in this question, is :
+
+According to the given information, the description of the organism, which is
+Transcription Time: 6.65 seconds
+Words per Second: 14.28 WPS
+Inference Time: 37.09 seconds
+Tokens per Second: 4.26 TPS

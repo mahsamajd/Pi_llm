@@ -1,0 +1,20 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Ollama Model: llama3.2
+Transcription:    Context. Tena4s may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find. In bays where they occur in very high
+   numbers. Predation by Tena4s may control the populations of small zooplanktonic organisms such as
+   copods, which might otherwise wipe out the phytoplankton. Planktonic plants, which are a vital part of
+   marine food chains. One Tena4, nemiopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms.
+   That would otherwise have fed the fish. The situation was aggravated by other factors,
+   such as over fishing and long-term environmental changes that promoted the growth of the nemiopsis.
+   Population. The later accidental introduction of Baro helped to mitigate the problem.
+   As Baro preys on other Tena4s, question. What Tena4 was accidentally introduced into the Black Sea?
+Response: The transcription does not provide information about which specific type of Tena4 (Tena4 genus) was accidentally introduced into the Black Sea. It only mentions "nemiopsis" as a specific example of a Tena4 that has been introduced into the Black Sea and blamed for causing fish stocks to collapse.
+
+However, based on external knowledge, nemiopsis is actually a type of zooplanktonic copepod (a small crustacean) belonging to the genus Neomysis or Nemertes, not a member of the Tena4 genus.
+Transcription Time: 17.54 seconds
+Words per Second: 8.55 WPS
+Inference Time: 106.49 seconds
+Tokens per Second: 0.73 TPS
