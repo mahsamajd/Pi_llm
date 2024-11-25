@@ -1,0 +1,185 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy, a team located in the city of Los Angeles,
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.09944729814615205
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: - Private schools are largely funded by tuition, but they are not funded by government funding. They get their funding from tuition, which makes them independent schools.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.46386799319182226
+
+Question: How many items is the University Library home to?
+Response: The University has 28,400 items: 1,280 of which are books, 2,070 are media, 4,000 are videos and 8,000 are
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.18147499166017256
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest had a narrow-based formation during the early and intermediate stages of
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2115747853740243
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make liquid O, two is liquid oxygen, O, two, which is a colorless,
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2311056824722839
+
+Question: Who did the geographic scholars work for?
+Response: According to the text, they were employed by the colonial powers.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1722401019637465
+
+Question: What makes energy changes in a closed system?
+Response: 1. Non-conservative forces are not necessarily associated with a transfer of heat. In a macroscopic
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.12233444027974583
+
+Question: What is the French name for the Rhine?
+Response: I have always been interested in this issue, and in my research I have found many sources,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.14851006393542643
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5157159963642656
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I’m not quite sure about this part of it, but I’d like to explain a little more about it, but I’ll try and make it as detailed as possible, and you will have access to it, as well
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.32431837890815973
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The school regulations from 1972 apply to private schools. However, in 1993 they are also not allowed to be suspended in a state of emergency.   This article did not apply to the West German states.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.03004815480398826
+
+Question: How many prime numbers exist?
+Response: The prime number theorem was proved by
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09479889319015788
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Plankton: the cells of the tenhoids are very large,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06037143127090161
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: (1) In the case of coal, a screw-in-feed mechanism, or a screw-in-feed-in-feed-in, and drive engine, or
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.17066826829752602
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 1999-2017 The 2017-2020. (2020-2017)
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.09848584906964497
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: (1) The region of the Middle Rhine is not a region, but a region, but a region has a region.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.1970858194849867
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of a directive or a regulation is determined by the effect of the directive or
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1918901524958856
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for conveniently testing the Pramality of large numbers:
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.1485472987075136
+
+Question: An MSP may introduce a bill as what?
+Response: Bills are introduced to Parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.15233838271504008
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen and hydrogen are elements and compounds are found in many different parts of the universe,
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.11434530387660247
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There were 896,497 females age 18 and over. The number of males age 18 and over was therefore 366,074.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.11298523775794822
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Home Army was an organization of Polish soldiers,
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.07073846882865498
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Given a number n, we write:
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5733231465240557
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The skin, respiratory, and vaginal systems are protected by antimicrobial peptides, such as defensins,
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.08175815152027588
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: A short-term example of short-lived immunity is an antibody-rich serum. This is a serum
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.19798388952927515
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: * The park of the Krolikarnia Palace, which is situated on a plot of 9.32 hectares, is situated on the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.14136385398246065
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The data on this report was compiled and published by ENR (ENR 2014) on the size of design and construction
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.2653708258782663
+
+Question: Who discovered this and where did they come from?
+Response: The site of the discovery, which was found in the Shengu tribe, lies in the region of the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.07780973153049131
+
+Question: Who develped the theory of relativity?
+Response: In part this was due to an incomplete understanding of the forces involved, and consequently a
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.10843976941548339
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The most common complex biomolecules are lipids, which are made up of fatty acids and
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.11523017197207774
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the structure and the layers of the earth's surface. The layer is
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.301854686458059
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The direction of the force is the direction of the line of application of the force, while the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.14234071381991875
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Answer:
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5050456059513933
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: de West, continues with the 3rd, and continues in the 4th, continues 5th, continues with the 6th, continues 7th, continues with the 8th, continues 9th, continues
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.33412471274070843
+
+Question: Levels of what things are used to determine emission factors?
+Response: Part of the activities of the Intergovernmental Panel on Climate Change (IPCC) is to support
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.18597658253673655
+
+Question: Why does competition among workers drive down wages?
+Response: The answer is related to the type of jobs that are being performed. Jobs like customer service or customer
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.12033631208004147
+
+Question: What put a hierarchical structure in place?
+Response: Question 718: The pharmacist was in place by the 718, and the status was defined in the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07701718638232469
+

@@ -1,0 +1,120 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition fees. Tuition fees are the fees parents pay for
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3743928372564561
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: What makes energy changes in a closed system?
+Response: I am not sure what the question is. The answer may be in the question. In the following, I am
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.18283131837327526
+
+Question: What is the French name for the Rhine?
+Response: Answer: Rhéne [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.07395276388608507
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: <blockquote>It can be reduced to multiplication,
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1479444107282496
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1 percent [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.09561294388409425
+
+Question: How many prime numbers exist?
+Response: Let’s say you have 1000000 numbers. Each number has 7 digits. Let’s say the probability that a number is prime is 1/7. (Actually, it is much less than that
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.29259103365450523
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: nemeopsis [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06699422280487266
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: (1) The stoker moves the coal from a storage bin to the firebox.  (2) A mechanical stoker uses a screw or chain to move the coal to the firebox.  (3) A mechanical stoker raises
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09172307424197024
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: The average contractor hired how many employees?
+Response: To answer this question, we need to determine how many employees the average contractor employs. According to the
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.5901550026267048
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effects of European Union law on a member state's law depends on the source of the law,
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1322389367923138
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water produces O2 and H2. There are other ways to produce O2. Electrocatalytic
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.29555821474963795
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The answer is 84.4 [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.06246999028707345
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: -The stomach acid is the main component of the stomach protection. It has a pH of 1.5. The main effect of the acid is the destruction of the pepsinogen. It is the main peptidolytic enzyme of the stomach
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.45972681168524665
+
+Question: Who discovered this and where did they come from?
+Response: The Shinggu people were the first to discover this black soil. This soil is found in the Amazon region of
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06539795338323284
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.17361260796148759
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the branch of geology that deals with the study of sedimentary layers or rock units. It
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.368503086819
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition states that when two forces act on a point particle,
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.10704433301897309
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T-cell encounters a foreign pathogen, it extends a vitamin D receptor. This is essentially a signaling device that allows the T-cell to bind to the active form of vitamin D. This vitamin D is a steroid hormone. The T-
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5642295335970096
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The given information is a transcription. It means that a transcription is a sequence of events, a particular
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10870353112148157
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The IPCC has been involved in a number of activities related to the UNFCCC process.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.11493022341634929
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages because the workers are very expendable and
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.14588532237679053
+
+Question: What put a hierarchical structure in place?
+Response: The Teho Code, 701, and restated in the Euro Code, 718, established the hierarchal structure of the <em>bakufu</em> (Japanese feudal government) system and the hierarchical structure of the pharmacist profession
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.24262830388375312
+

@@ -1,0 +1,140 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium is StubHub Center, which is a soccer-specific stadium in Carson, California. It is the home stadium of the Los Angeles Galaxy and the Los Angeles Chargers. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.5392464211980725
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: a
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.19166315373613485
+
+Question: How many items is the University Library home to?
+Response: M2, 107,639.10 square feet and plants covering 5,111 square meters, 55,014.35 square feet. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.07957091841768471
+
+Question: Who did the geographic scholars work for?
+Response: In 19th century Europe, scholars were commissioned to study the people of different regions. They
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1752326792640968
+
+Question: What is the French name for the Rhine?
+Response: [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.2967806368897665
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The algorithm used to reduce the squaring problem to the multiplication problem is called a polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.43911599814424984
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: East German students attending private schools in 1992 was 6.1% of the total. This was a 0.5% increase from the previous year, and a 2% increase from 1990. In 1992,
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.5562741751175624
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine gorge between Rudishaimum Rhine and Koblenz is listed as a UNESCO World Heritage
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.07192374176231164
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The population of the Tena4s was controlled by a zooplanktonic organism that was known as Baro. The Tena4s were able to outcompete the other organisms that it was competing with. The Tena4s
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.30136577405346054
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics is the study of immunogenicity through bioinformatics.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.35785319265221893
+
+Question: The average contractor hired how many employees?
+Response: A) 3
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.14239397712294732
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: In the middle Rhine area, the dominant economic sectors are tourism and viticulture, both of
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.07513564470215361
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has direct effect on laws of member states, because they are the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.12702410726834212
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.11583088351087112
+
+Question: How many men older than 18 are there for every 100 women?
+Response: I think there are 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.31080965725603416
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Let n = 37. The trial division routine would be as follows:
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4926662092163092
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach is a strong barrier to pathogens. The stomach's pH is 1.8 to 3.0, which is an acidic environment that kills many bacteria.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.43797498663181034
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Varsovians are the people who live in Warsaw. Varsovians love their parks and green spaces, so parks are a popular destination for them. Parks are also popular because they are generally free, and you don't have to pay to enter.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.43709153742806706
+
+Question: Who discovered this and where did they come from?
+Response: 1) The 2003 discovery of the Shingu settlements came from the work of the University of
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06982806113456608
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Sir Isaac Newton
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.06463051101406125
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The elements that are found in almost all biomolecules that are important to life are:
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.11295903616022762
+
+Question: What is stratigraphy?
+Response: Geologists use a number of field, laboratory, and numerical modeling methods to decipher Earth history and understand the processes that occur on. And inside the Earth, in typical geological investigations, geologists use primary information related to patrology. The study of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.07470216168045307
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The force is a vector that has magnitude and direction. The direction can be determined by looking at the direction of the force and the force acting on it. The magnitude can be determined by looking at the magnitude of the force and the force acting on it
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.056955486007230105
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1. The T cell extends a vitamin D receptor. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin D. The steroid hormone calcitriol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.3761755638561727
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3497882749640656
+
+Question: Why does competition among workers drive down wages?
+Response: There are many workers willing to work a large amount of time because it is a very high supply of workers. There are few able or willing workers because there is a low demand for them. The high supply of workers means that there is competition amongst them
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5722596718677766
+
+Question: What put a hierarchical structure in place?
+Response: [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.4455127612143077
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

@@ -1,0 +1,175 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent schools, non-governmental, or non-state schools, are not governed by local, state, or national governments. As a result, they have the autonomy to select their students
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3169591631164602
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The text specifically mentions that U.S. Secretary of State Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula on January 18, 1 employee at a small company has a
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.33607710640396116
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816 and designed by architects Marik Bajinski and Zbigniew Badowski, is home to over 2 million items. It was opened on 15 December
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3977758641274449
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forest during the Oligocene period. This occurred after the Cretaceous-Paleogene extinction event, which allowed for the expansion of the tropical rainforest across the continent.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.47137821360052923
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. This convention was a pivotal event in the movement for a Scottish Parliament. It brought together various organizations, including Scottish churches, political parties, and representatives from industry, to
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.05989131039027373
+
+Question: What substance is used to make high quality liquid O2?
+Response: High quality liquid oxygen (O2) is typically produced by the fractional distillation of liquefied air. This process involves cooling the air until it liquefies, then separating the components based on their different bo
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4693887234415922
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars, as per the provided transcription, worked for the Colonizing Empires. These scholars were associated with European colonizing powers and operated under their patronage. Their work, which involved dividing the world
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3834463619536006
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes occur due to the interplay of macroscopic non-conservative forces and microscopic conservative forces. These forces lead to transformations of the system's internal energy and are often related to
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.4884160692940285
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhin. The name "Rhin" reflects the influence of Germanic vocalism, as mentioned in the transcription. While other European languages like Italian, Occitan, and Portuguese retain the Latin
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.3744701723885985
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced to stimulate the immune system and develop specific immunity against that particular pathogen without causing the disease associated with that organism. This deliberate induction of an
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5562807842142294
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to the concept of polynomial time reduction, if a problem A can be reduced to another problem B in polynomial time, it implies that a solution to B can be used to solve A. In the context provided, the problem of squaring
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.06742276802701219
+
+Question: How many prime numbers exist?
+Response: There are infinitely many prime numbers, a fact that has been demonstrated by Euclid around 300 BC. Despite the lack of a simple formula that separates prime numbers from composite numbers, the distribution of primes, which refers to the
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.05837651057850124
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is located near Sankt-Görshausen. This particular rock, known as the Rock Lorelei, has outstanding architectural monuments around it and is situated in a region where the Rh
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.42669950539692514
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea, as mentioned in the transcription, is Nemeopsis. It is blamed for causing fish stocks to collapse by eating fish larvae and organisms that would
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.12015155717969561
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above its saturated vapor point are called superheaters. Superheaters are used in boilers to increase the temperature of the steam produced by the boiler beyond the boiling point, resulting in dry
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09993412429561399
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is referred to as immunoinformatics. Immunoinformatics is the emerging field that leverages computational methods to predict and analyze the immune response to
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5598182197970074
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the United States employment industry, as of the data provided, employs fewer than 10 employees. This detail is specifically mentioned in the transcription provided, which gives a snapshot of the employment landscape within the
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.4565134675762871
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism is considered to be the Middle Rhine Valley, as it encapsulates the essence of Rhine Romanticism with its combination of outstanding architectural monuments, vine
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4886337474439917
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law influences the laws of member states through two primary mechanisms: direct effect and indirect effect. Direct effect refers to the ability of EU law to create rights or obligations that individuals can enforce in their national courts. This mechanism means
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4729596216499251
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm useful for conveniently testing the primality of large numbers, as mentioned in the transcription, is the Miller-Rabin primality test. This test is noted for being fast, though it does have a small probability of error.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.434438938246129
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP, or Member of the Scottish Parliament, may introduce a bill as a private member's bill. This means that the bill is being presented by an individual MSP who is not a government minister. Private members' bills are a
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.1762116502115254
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: According to the provided transcription, Hmong-Khan, who is likely a misspelling or a confusion with Mongke Khan (who is also known as Mongol Khan), commenced a military campaign against the Chinese Song dynasty in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4055457795371755
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing Trial Division to check the primality of a given integer n, the integer m must be less than or equal to the square root of n. This is because, if n is a composite number (not a prime), it can be
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4480829424231718
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The antibodies transported from the mother to an infant via the placenta is an example of passive immunity. This type of immunity is short-lived, as stated in the transcription, lasting from a
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.524339629394674
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden is a popular strolling destination for the Varsovians. This area was once part of the Krasinski Palace Garden, which was a royal garden. It covers an area of 15.5
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.5104064312838986
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The trade magazine that compiles and reports on data about the size of design and construction companies is the Construction Engineering News Record (ENR). ENR publishes a list of the largest companies in the United States, referred to as TOP4
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5246710936145513
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: From the rift system in the Alpine Orogeny in southwest Germany, the primary element is the Upper Rhine Graben. It is a significant geological structure that formed due to the tectonic forces associated with the Al
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4900107598123635
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger, who is affiliated with the University of Florida, led a team that discovered remains of large settlements in the middle of the Amazon forest in 2003. These settlements were evidence of roads, bridges,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1898116126133731
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds that contain the greatest amount of oxygen by mass are carbohydrates. This is because, in their structure, carbohydrates contain a high proportion of oxygen. This is primarily due to
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.6013214438709719
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that involves the study of sedimentary layers.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.36873246295209305
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a vitamin D receptor when it encounters a foreign pathogen. This receptor acts as a signaling device, allowing the T cell to bind to the active form of vitamin D, known as calcitri
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5151151541882688
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the water flow volume of the Rhine, after flowing through the Wall and merging with the Merweed and New Merweed, De Biesbosch, subsequently merging with the Meuse, through
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3064461119741445
+
+Question: Levels of what things are used to determine emission factors?
+Response: The Intergovernmental Panel on Climate Change (IPCC) focuses on tasks assigned by the relevant World Meteorological Organization (WMO) executive council in United Nations Environment Programme (UNEP) governing council resolution
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2570051549693143
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages primarily because it increases the supply of labor for a particular job. When there are many workers willing to work a large amount of time for a specific position, the supply of labor is high. In
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6212451401441781
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure put in place for pharmacists and their assistants in Japan, especially during the periods mentioned, was likely a result of the formal codification of their roles and status within the society. The Teiho Code
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.4287333197173483
+

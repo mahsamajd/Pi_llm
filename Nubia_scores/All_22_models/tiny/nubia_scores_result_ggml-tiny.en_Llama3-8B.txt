@@ -1,0 +1,190 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by the tuition fees that students pay to attend them.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3328762103850601
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.38179373235679526
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The narrowest band of the Amazon Rainforest was during the Oligocene epoch which
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.32817290146042355
+
+Question: What substance is used to make high quality liquid O2?
+Response: In order for liquid oxygen to form, the temperature of the substance must be at least 90.20 K, which is equal to − 182.95 °C or − 297.31 °F. Oxygen does not freeze until the temperature
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4076623823749196
+
+Question: Who did the geographic scholars work for?
+Response: The scholars mentioned above worked for the Europeans, who were in the process of colonizing other lands. They were looking for a reason to justify their actions. The scholars used the information of the land and its people as a means to their end.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.171296386378069
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics states that in a closed system, the entropy of the system cannot decrease, but can only increase. The second law of thermodynamics is based on the statistical mechanical definition of entropy, which is a measure of the number of
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.05797123141199434
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination is designed to introduce an antigen in order to stimulate the immune system and develop specific immunity against a particular pathogen. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5038880437203246
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 5 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.11627937536507726
+
+Question: How many prime numbers exist?
+Response: The prime number theorem is a mathematical statement that is used to describe the distribution of prime numbers. It states that the probability of a randomly chosen number n being prime is inversely proportional to its number of digits. This means that the larger the number,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.057044656269951144
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The TINA force may be abundant during the summer months in some coastal locations, but in other places they are uncommon and difficult to find. In bays where they occur in very high numbers, predation by TINA force may control the populations of
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Components to raise the steam temperature above its saturated vapor point are superheaters. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.31923810278612974
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics, or immunoinformatics, is the study of immune system function and immunology through bioinformatics.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.4205355645709917
+
+Question: The average contractor hired how many employees?
+Response: The number of employees hired by an average contractor is around 10. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.36958033344449215
+
+Question: How many projects does the Centre currently realize a year?
+Response: The Royal Łazienki Museum currently hosts approximately 500 projects per year. The oldest exhibition space in Warsaw is the National Gallery of Art, which stretches back to the mid-19th century. Exhibitions of modern art from Polish and international
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.14225274411394795
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley is considered the epitome of Rhine Romanticism because it is a picturesque region of the Rhine River, with its steep slopes, castles, and vineyards, that inspired the Romantic Movement in the 19th century
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5282553735423
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has a direct effect on the laws of its member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3921666923205499
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS Primality test is one algorithm useful for conveniently testing the primality of large numbers. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.15804114846435746
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is an idea, a proposed law, which can be introduced to parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3106232559682254
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Context, oxygen gas can also be produced through electrolysis of water into molecular oxygen and hydrogen.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.38835810369851564
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Let's assume that the answer is a percentage.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.06701673606526315
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublai Khan, Mongolian conqueror who made an attempt to conquer the Song dynasty, a Chinese dynasty that ruled over a part of China. Kublai Khan's attack on the Song dynasty took place in Southern China. The Mongol force
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.16465885022924842
+
+Question: How many days did the Warsaw Uprising last?
+Response: context. By July 1944, the Red Army was deep into Polish territory and pursuing the Germans
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.08426692681565451
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid and proteases serve as powerful chemical defenses against ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.31445604810257033
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Short-lived immunity [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.43366804624100685
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden and the Willanau Palace Park are both popular strolling destinations for Varsovians. The Krasinski Palace Garden has a variety of trees and shrubs, a pond with ducks on it, and a playground for
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.43396208608984577
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The question asks, "What compiles and reports on data about the size of design and construction companies?". The answer is "ENR" because the transcript says "Transcription: Context, engineering news record, ENR, is a trade magazine
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5724599609374501
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the rift system in the alpine orogeny in southwest Germany is the Upper Rhine Graban.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.24358498600482903
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of these large settlements in the middle of the Amazon forest was made in 2003
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.07838471830895977
+
+Question: Who develped the theory of relativity?
+Response: The theory of relativity was developed by Albert Einstein. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.3288561535024074
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Context, the element is found in almost all biomolecules that are important too.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0662586173152665
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the deposition, age, and correlation of sedimentary rocks.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.24816636290667704
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram is the geometric shape used in equations to determine net force. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.38344597208441167
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The answer to the question posed is that the T cell extends a vitamin D receptor. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin D, which is calcitriol. The T cell has a
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5963728699016109
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine flows outside of Germany in a westward direction. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3832603634543642
+
+Question: Levels of what things are used to determine emission factors?
+Response: Context, the IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive Council and UNIP governing Council resolutions and decisions as well as on actions in support of. The UNFCCC process, while the preparation of the assessment reports
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2556854650294852
+
+Question: Why does competition among workers drive down wages?
+Response: The answer is because supply is higher than demand.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6440518390321281
+
+Question: What put a hierarchical structure in place?
+Response: The Tejo Code, 701, and the Euro Code, 718, ranked positions in the pre-high and
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.08066480195880088
+

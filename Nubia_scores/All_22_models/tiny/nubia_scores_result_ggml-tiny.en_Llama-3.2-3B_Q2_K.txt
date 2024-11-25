@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy was based in the Los Angeles Memorial Sports Center, which was later renamed the StubHub Center, where Chivas USA played at. Chivas USA's owner at the time, Jorge Mendoza, purchased the naming rights for the stadium.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.48038268457028643
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on January 18, 1974, which led to an agreement for Arab oil producers to lift the embargo in March 1974. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.36535720134858285
+
+Question: How many items is the University Library home to?
+Response: I was only able to find one answer. This is because the answer was not in the answer.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.12822756399645585
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest expanded again during the middle Mayocene, then retracted to a
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.07158003413786551
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2392650780703025
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance is high-quality liquid O, two, and the liquid O, two is made by condensing oxygen out of air. The liquid O, two is usually obtained by the fractional distillation of liquified air. It is a highly reactive substance
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.49895768045557987
+
+Question: Who did the geographic scholars work for?
+Response: Orientalism is a view of a people based on their geographical location. A European Empire is a
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.12216835003762583
+
+Question: What makes energy changes in a closed system?
+Response: Macroscopic non-conservative forces can be described by using statistical mechanics, which is based on the second law of thermodynamics. The connection between macroscopic non-conservative forces and microscopic conservative forces is described by a detailed treatment with statistical mechanics. In macro
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.23545696832904428
+
+Question: What is the French name for the Rhine?
+Response: The name of the Rhine in modern languages is the result of the Gollish's name of the Rhine in Roman-era geography.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.19310558207230444
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The pathogen is introduced in order to develop a specific immunity.  This is achieved through the development of an immune response against a specific pathogen.  This is achieved through the development of an immune response against the pathogen.  This is
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6052020874425947
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means that the reduction process takes polynomial time. For example, the problem of squaring
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.19158969307491558
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 1/2" 1" 1/2" 1/2" 2 [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.08463504150755108
+
+Question: How many prime numbers exist?
+Response: The prime number theorem is a mathematical statement about the distribution of primes, not in the sense of the mathematical distribution of primes in the sense of a mathematical statement about the distribution of primes in the sense of the distribution of primes. [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0830284038992507
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The middle Rhine Valley is considered the epitome of the Rhine Romanticism. The Rhine flows around the famous rock. Sank Gorsehausen, the Rhine flows around the Rhine flows around the famous rock. Sank Gorse
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.47051735931697924
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: This question is related to the fact that the temperature of the steam above its saturated vapor point is not a factor of the steam. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.3136138775983769
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: (a) This is an example of an answer that is not a solution.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.09965332692939266
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a collection of treaties and legislation.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.43532647703606875
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5014116198792506
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is a draft law which is presented by the Scottish government. The Scottish government can introduce new laws or amendments to existing laws as a bill. A committee of the Parliament can present a bill in one of the areas under its remit. An
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.038161868568628576
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The information given in the passage is about the use of hydrogen and oxygen in electrolysis, the production of hydrogen and oxygen from water and the use of water as a chemical catalyst. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.42388137836147843
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The information given here is not specific to the answer. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.07333526452522832
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising was a Polish rebellion against the German occupation that occurred between August 1, 1944, and August 27, 1944, when the Germans were forced to capitulate. The rebels were able to take control of Warsaw
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.11055586498556624
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The context of m, which is the largest integer that is less than or equal
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3666484215476239
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: This is an answer [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.10739603301385336
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: I hope you are enjoying the article. If you have any questions, you can contact me. [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.14116916222596998
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: In what year was the Interstate Highway System created?
+Response: 2016
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.028297742277869964
+
+Question: What is stratigraphy?
+Response: The term stratigraphy is used to describe the study of rock units and their deformation. In this case, it refers to the study of rock layers, which is used to understand the earth's history and the processes that occur on. It is a common
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.07986015639644117
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The above answer fully addresses the information given. The parallelogram is a geometric representation of vector addition. It is used to determine the net force on an extended body. The resultant vector is the sum of the two vectors, each represented by the two
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.049131047184077015
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The AT cell, which extends a vitamin D receptor, is essentially a signaling device that allows the T cell to bind to the active form of vitamin D. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5792700794789557
+
+Question: Levels of what things are used to determine emission factors?
+Response: The UNFCCC process, while the preparation of the assessment reports is a major IPCC function.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0764818044586556
+
+Question: Why does competition among workers drive down wages?
+Response: There are many reasons why wages are lower for a job that has low demand and high supply of workers than a job that has high demand and low supply of workers. However, the supply and demand of workers will depend on the competition between workers for jobs
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6550379068071512
+

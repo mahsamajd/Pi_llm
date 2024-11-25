@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the StubHub Center. It was a multi-purpose stadium that was built in 2003 and was designed by Populous (formerly HOK Sport) with an initial cost of approximately $150 million
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.50844267037808
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by the students. They may be funded by
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.22584376107750836
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: In my opinion, the Amazon rainforest was a narrow band of forest during the Oligocene period. The Oligocene period spans from 34.6 to 23 million years ago. The Amazon rainforest was a narrow band of forest during
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4476781197269202
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. The Scottish Constitutional Convention was a
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.36646087366986546
+
+Question: What substance is used to make high quality liquid O2?
+Response: It is made by fractional distillation of liquid oxygen from air. It is a highly reactive substance and must be segregated from combustible materials. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.32323073614856046
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars under colonizing empires, the world could be split into climatic zones. These scholars believe that northern Europe and the mid-Atlantic temperate climate produced a hard-working, moral, and upstanding human being, alternatively, tropical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.25257932487455126
+
+Question: What makes energy changes in a closed system?
+Response: In this question, we can see that the non-conservative forces act to change the internal energy
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.259894358450966
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is RIN. The old Frankish giving old English RIN, Old High German RIN, Dutch RIN, and formerly also spelled Rhine, the Diphthong in modern German Rhine, also
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.37293186277910007
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, a dead or a weakened form of a microorganism is given to the
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.15244000296089633
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The correct answer is SR99.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.12287504655408998
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The problem of squaring an integer can be logically reduced to the problem of multiplying two integers. This is because the problem of squaring an integer can be solved by multiplying two integers by using the same inputs given to the multiplication problem. Thus, we
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.13015931552579085
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: According to the question, we need to find the percent of students in private high schools in the East Germany in 1992. In order to solve this problem, we need to follow these steps:
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3624639993364662
+
+Question: How many prime numbers exist?
+Response: Based on the information provided in the transcription, it is important to first define what a prime number is. A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. For example, 2,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.03158630265231899
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is Lorelai, which is located in the Rhine Gorge between Rudeshaym and Rhine and Coblands, Germany. This question is based on the following transcription: "The Rhine G
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.3924531339830307
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The transcription is asking about the accidental introduction of a particular TINA force into the Black Sea. The TINA force in question is NEMIopsis, which has been blamed for causing fish stocks to collapse by eating both fish larvae and other organisms in
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.022013727094856717
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The boiler is a key component in thermal power plants. It converts the heat energy from coal into steam, which is used to rotate the turbine and generate electricity. The boiler is made up of various components, including the furnace, economizer, air pre
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.036775360079581376
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: The total number of projects realized by the center in a year is 500. The center was founded in the 17th century, and since then it has been developing and growing. In the 19th century, the center started organizing exhibitions
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.24430384256748516
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley can be considered the epitome of the Rhine Romanticism. The Rhine River flows through the Rhine valley and is home to a variety of settlements, castles, and vineyards. The Rhine River valley is
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.553042335588902
+
+Question: What effect does European Union law have on laws of member states?
+Response: Context: European Union law is a body of treaties and legislation, such as regulations and directives. The three sources of European Union law are primary law, secondary law and supplementary law. The main sources of primary law are the treaties establishing the European Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.46450189243541995
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: A Merced number is a type of Mersenne number with the form 2p−1, where p is a prime number.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.10235239379573524
+
+Question: An MSP may introduce a bill as what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: Transcription: Context, bills can be introduced to Parliament in a number of ways. The Scottish government can introduce new laws or amendments to
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water is a process in which electric current is passed through the water and it is split into hydrogen and oxygen. Oxygen is produced in the anode while hydrogen is produced in the cathode. This is an electrochemical process and the
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.11460433223631894
+
+Question: How many days did the Warsaw Uprising last?
+Response: The answer to this question is 63 days. The Warsaw uprising began on August 1, 1944, and lasted until September 2, 1944, a total of 63 days. The uprising was part of the larger Polish resistance
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.15592617742527382
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Lazynke Park covers the area of 76 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.057305274953387886
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Context, engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08173543545547834
+
+Question: Who discovered this and where did they come from?
+Response: Context is the idea that humans have been changing the Earth’s surface and environment for thousands of years. There are three main types of context:
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.09744653629661615
+
+Question: Who develped the theory of relativity?
+Response: The correct answer is Albert Einstein.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.17942351982985394
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The correct response is that all fats, fatty acids, amino acids, and proteins contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.42548999778406316
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956. This was the year when the Federal-Aid Highway Act was signed into law, which provided a large amount of funding for the construction of interstate highways across the United States. The Act was signed by
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.055024284728408035
+
+Question: What is stratigraphy?
+Response: The word stratigraphy is derived from the Greek words stratē, meaning layer, and graphō, meaning to write. It is the study of stratified rocks, or sedimentary layers. Geologists use it to understand the processes that occur on earth
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.44505805175748436
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used in equations to determine net force. The parallelogram rule is a method to add two vectors graphically, which can be represented as two sides of a parallelogram. The magnitude of the resultant
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.2958262761942746
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: From the information provided, it can be inferred that two-thirds of the Rhine flow volume flows farther west, through the Netherlands. The main flow of the Rhine river flows through Germany, but two-thirds of the river's volume flows westward through
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.12044058228008403
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC has been established under the auspices of the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO) in 1988. Its main tasks are to assess scientific and technical information related to climate change, to
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3984027512998365
+
+Question: Why does competition among workers drive down wages?
+Response: There are a number of reasons why competition among workers can result in lower wages. One reason is that there are often many workers competing for the same job. This means that each worker is competing against other workers for the job. This competition can cause each
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7147023499622307
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists’ high status in Japan was due to the high importance of pharmacists as “medicine” experts in the traditional Asian medical system. This can be seen in the “Tejo Code” of 701. The “Tejo Code”
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3138673619976242
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: Transcription: Context, microorganisms are toxins that successfully enter an organism encounter the cells and mechanisms of. The innate immune system, the
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

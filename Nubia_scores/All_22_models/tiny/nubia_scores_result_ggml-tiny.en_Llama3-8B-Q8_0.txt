@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy and Chivas USA played at the StubHub Center in Carson, California. The name of the stadium changed from Home Depot Center to StubHub Center in 2013. The second MLS team returning to Los Angeles is LAFC, which
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4710802560065105
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition. This means that students and their families pay for the education. Private schools are not funded by the government or other organizations. However, some private schools may receive grants or donations from foundations or other organizations.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.07464965819577218
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On January 18, 1974, US Secretary of State Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4745694643410552
+
+Question: How many items is the University Library home to?
+Response: Based on the information in the transcription, the University Library is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.45726332650133217
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forest during the Oligocene period. During this period, the rainforest spanned a relatively narrow band, as the climate was drier and the temperatures were cooler. The rainforest then expanded again during
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4880163352358132
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3093880592424232
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars work for the European Empire, because their theory was that the people of the tropical climate were incapable of governing their own social structure. The geographic scholars were in fact, racist. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3508976414202367
+
+Question: What makes energy changes in a closed system?
+Response: The answer to this question is that energy changes in a closed system are caused by non-conservative forces acting on the system. These forces can be caused by a variety of factors, such as friction, air resistance, or gravity. As these forces act
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16164050719029244
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is le Rhin. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.2652371026089525
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 has been in discussion to upgrade to interstate standards. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.25309935144481344
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Context, the most commonly used reduction is a polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1480603241558347
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of students attending private schools in the former East Germany in 1992 was 0.5 percent. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.38351833186472795
+
+Question: How many prime numbers exist?
+Response: A prime number is a whole number greater than 1 that is divisible only by 1 and itself.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.29772983505610406
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: TINA force may be abundant during the summer months in some coastal locations, but in other places they are uncommon and difficult to find. In bays where they occur in very high numbers, predation by TINA force may control the populations of small
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The boiler, superheater, and condenser are all components used in a steam power plant. The boiler is used to generate steam by heating water, the superheater is used to increase the temperature of the steam after it leaves the boiler,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09789260174244219
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the construction industry in 2014 has an annual revenue of around $960 billion.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.15806332721200322
+
+Question: How many projects does the Centre currently realize a year?
+Response: The Royal Castle in Warsaw is a palace currently houses the Center for Contemporary Art. With some permanent and temporary exhibitions, concerts, shows and creative workshops, the center currently realizes about 500 projects a year. The National Gallery of Art is the oldest exhibition
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.002417798557583506
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley is the epitome of the Rhine Romanticism because of its vineyards, tourism, and the cultural significance of the Rhine River. The Rhine River is one of Europe's most important rivers, and it flows through
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5398219529565502
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: There are a number of algorithms that can be used to test for the normality of a given number.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3058059367872258
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Water can be used to produce oxygen and hydrogen. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3222149876746654
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The question is: How many men older than 18 are there for every 100 women? We can see in the transcribed passage that there are 94.1 men for every 100 women, so the answer is 94.1.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3335176289344718
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols were a nomadic people who lived in Central Asia. They were skilled horsemen and warriors and had a strong sense of honor and loyalty. In 1211, a Mongol leader named Temujin (later known as Geng
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.26481992167093327
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.289587431366801
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: To find out if an integer is prime, we need to divide it by all integers less than it and greater than 1. If we find an integer that divides the integer evenly, then it is not prime. For example, if we have
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.35224606092449295
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Stomach acid and proteases protect against ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.27594902295085333
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a type of immunity that occurs when antibodies are transferred from one individual to another.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.41169119820044986
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden was a royal garden, which was then remodeled by Francesc Schani in the 19th century. The Krasinski Palace Garden, Lazienki Park, Wilanow Palace Park, and Royal Castle Park are all
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.22275487569751207
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The transcript is from an online video. ENR (short for Engineering News Record) is a magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. The transcript also states that
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5261658089293964
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the rift system in the alpine orogeny in southwest Germany were the Upper Rhine Graban and the Lower Rhine Embayment. Both of these elements were part of the Ans rift system, and were caused by the ongoing al
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.48567058817817177
+
+Question: Who discovered this and where did they come from?
+Response: The first part of the question refers to the discovery of terra preta, which is a type of soil that is
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11413669140330418
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Oxygen-containing organic compounds, such as carbohydrates, fats, fatty acids, amino acids, and proteins, contain the greatest amount of oxygen by mass.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5583964965708995
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the 1950s.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.41707411233498903
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary rock layers. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2843761567121361
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Context, historically, forces were first quantitatively investigated in conditions of static equilibrium where several forces cancel each other out.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.08050637836902619
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When AT cell encounters a foreign pathogen. It extends a vitamin D receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.1575780860467647
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine River flows into the Netherlands from Switzerland through a series of lakes and canals.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.12755685872565659
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC was created to serve a specific purpose in regard to climate change. The United Nations Framework Convention on Climate Change (UNFCC) was signed in Rio de Janeiro in 1992, with the purpose of stabilizing the greenhouse gas concentrations in
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5159922841184836
+
+Question: Why does competition among workers drive down wages?
+Response: In this situation, there are many people willing to work a large amount of time, and there are few people who require the job. This means that there is a high supply of workers and low demand for workers. This results in low wages for those
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6697259634325079
+
+Question: What put a hierarchical structure in place?
+Response: During the Nara period, Japan had a strict social hierarchy. The Tejo Code of 701 and
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10866039760436952
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: the innate immune system responds in a generic way. Meaning it is nonspecific.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.43340917586375816
+

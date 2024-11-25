@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The answer would be "The StubHub Center", which was built in 2003. The stadium has a capacity of 27,000 people and is located in Carson, California. It is the home stadium of the Los Angeles Galaxy of Major League
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.49105572845980516
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. This number represents the total number of items housed within the library’s collection. The library’s collection is diverse and includes a wide variety of materials such as books, journals, newspapers, audiovisual
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4567217573103308
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. This group of organizations and people, including Scottish churches, political parties, and representatives of industry, published its blueprint for devolution in 1995. The blueprint provided the structure of the Parliament.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.006732649532017354
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is a colorless, odorless gas that is used as an oxidizing agent and to make a number of other compounds.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.28188166274475035
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars were working for the European Empire. The European Empire is
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.12164864386866725
+
+Question: What makes energy changes in a closed system?
+Response: Yes, the entropy increases in a closed system. The first law of thermodynamics states that the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.2068276058698183
+
+Question: What is the French name for the Rhine?
+Response: In this transcript, the variant forms of the name of the Rhine in modern languages are all derived from the Gollish.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.14160854850692806
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: There are two types of vaccination that we are interested in, the subunit vaccine, and the whole
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.10297128518179544
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the information provided, I believe that the correct answer is State Route 99. Interstate 5 is the highway that runs along the west side of the Central Valley, but State Route 99 is the highway that runs through the middle of the
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.21673237708887183
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percent of students in private high schools reached 0.5 percent. (From: Wikipedia) [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.26265469844118894
+
+Question: How many prime numbers exist?
+Response: There are infinitely many prime numbers. This is demonstrated by Euclid around 300 B.C.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.2648650691795177
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rudeshaym and Rhine and Coblands is listed as a UNESCO World Heritage Site. Near Sank Gorsehausen, the Rhine flows around the famous rock Lorelai, with its outstanding architectural monuments.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.29327359544973397
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: TINA force may be abundant during the summer months in some coastal locations, but in other places they are uncommon and difficult to find. In bays where they occur in very high numbers, predation by TINA force may control the populations of small
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components of a steam power plant include the boiler, superheater, steam turbine, condenser, feed water pump, and fuel feed system. The boiler converts water into steam and provides it to the turbine. The superheater raises the steam
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09008999260548411
+
+Question: The average contractor hired how many employees?
+Response: This question is about the construction industry in the United States. The industry had revenue of $960 billion in 2014, according to the US Census Bureau. This revenue was split between private and public sectors, with $680 billion going to private
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.26745231967391714
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3091889948442622
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley can be considered the epitome of the Rhine Romanticism because of the dominant economic sectors in the middle Rhine are vine culture and tourism. The Rhine Gorge between Rudeshaym and Rhine and Coblands
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.38377187755697606
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is the body of treaties and legislation,
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4201968257176467
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The fastest algorithms for testing normality of a large number are known as AKS primality tests. AKS
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.10720972533803974
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: To produce oxygen and hydrogen, electrolysis of water can be used. This process involves the use of DC electricity to split water molecules into hydrogen and oxygen. If AC is used, the gases in each limb consist of hydrogen and oxygen in the explosive ratio
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.06813351863949368
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Khan attacked the Song dynasty in southern China. Based on the given information, Monkey Khan attacked the Song dynasty in southern China. The Mongol force that invaded southern China was far greater than the force they sent in 1256. The Mongol
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.06658572697412546
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. In the example, 37, we know that the integer m must be less than or equal to 6, since 6 is the largest prime less than or equal
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.44580389554343824
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach produces hydrochloric acid and pepsin, which help break down proteins in the food. This allows the stomach to kill any pathogens that may be present in the food. The stomach also produces mucus, which protects the stomach lining from
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5069442106933336
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.21475691228252092
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Lazynke Park covers the area of 76 hectares. The unique character and history of the park is reflected in its landscape architecture. Pavilion, sculptures, bridges, cascades, ponds, and vegetation. Domestic and foreign species of trees and bushes
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2455586985704139
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The ENR report is a trade magazine that compiles and reports on data about the size of design and construction companies. Each year, ENR publishes lists of the largest companies in the United States and Top 250, by amount of work they
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5093825224753604
+
+Question: Who discovered this and where did they come from?
+Response: Context, terraprata, black earth, which is distributed over large areas in the Amazon forest, is now widely accepted as a product of indigenous soil management. The development of this fertile soil allowed agriculture and silviculture in the previously hostile environment,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11623504095965742
+
+Question: Who develped the theory of relativity?
+Response: Isaac Newton. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0758862921804706
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: All fats, fatty acids, amino acids, and proteins contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2710768338061974
+
+Question: In what year was the Interstate Highway System created?
+Response: The year of 1956 was when the Interstate Highway System was created. This is shown in the video. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.26473101983109537
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of rock layers, or strata. It is a branch of geology that
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.40027773018398116
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The equation used to determine net force is the triangle rule, also called the triangle law of vectors. It is also used to calculate resultant vectors. The triangle rule can be used to calculate the resultant of any three vectors acting at one point, as long
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.04207315346687024
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: In this scenario, the AT cell extends a vitamin D receptor, which allows the T cell to bind to the active form of vitamin D. This is essentially a signaling device that allows the T cell to bind to the steroid hormone calcitrile. T
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5262532231155319
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In Germany, the Rhine River flows through a region known as the Upper Rhine, where it flows northward. However, two-thirds of the Rhine's flow volume flows westward, through the Netherlands, and then through the North Sea.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.4390813184389185
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are used to determine emission levels. [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.1999762822472274
+
+Question: Why does competition among workers drive down wages?
+Response: In a free market, where there are many workers willing to work a large amount of time, the supply of labor is high and the demand for labor is low. This results in a low wage for that job. Competition between workers drives down the wage
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6462483946977913
+
+Question: What put a hierarchical structure in place?
+Response: The answer to the question is that the pharmacists in Japan were highly respected, and their role was well defined in the Tejo Code, 701, and the Euro Code, 718. They were given higher ranking positions in the pre-high and
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.15946687334567722
+

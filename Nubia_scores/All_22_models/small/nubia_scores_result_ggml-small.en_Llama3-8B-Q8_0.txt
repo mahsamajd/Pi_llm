@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The answer to the question is the name of the stadium that the teams played in was StubHub center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4776124406871831
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on January 18, 1974. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.3451503756878851
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over two million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.37060273981440606
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene, the Amazon rainforest was a narrow band of forest. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.35741668811057303
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance that is used to make high-quality liquid O, two, is liquid nitrogen. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.18154169920984808
+
+Question: Who did the geographic scholars work for?
+Response: The scholars were working for the European Empire. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10579563348807919
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy is conserved, meaning that energy is neither created nor destroyed.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16628800361303364
+
+Question: What is the French name for the Rhine?
+Response: Rhine. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.11761639017069092
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the information given, it seems that State Route 99 has been in discussion to upgrade to interstate standards. This is because the interstate highway system was created in the 1950s, and the decision was made to build Interstate 5 on
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5457711047698759
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: I don’t know what the number is, but I know it’s very low. Because, before the reunification, there were not many private schools, and, after the reunification, it was just a few years ago, and there were not
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.028468404903619127
+
+Question: How many prime numbers exist?
+Response: The prime number theorem was a breakthrough in that direction, and it's a result that says that the proportion of prime numbers up to n goes to 1/n times the logarithm of n. That is to say, if you consider numbers 1
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.019343961231248152
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Context
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.04804016925907173
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Superheaters and re-heaters. Superheaters are typically placed in the steam piping between the boiler and the turbine and consist of multiple parallel pipes of which each pipe is typically coiled around a pipe or finned tube in the boiler. In
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.019655888794020582
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics, or the field of studying immunogenicity through bioinformatics, is the process of understanding the relationship between specific proteins and the immune system. This field is important to understanding how the body responds to foreign proteins, as well as how
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.07052469488118873
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of the European Union law on laws of member states is that it has a direct effect or indirect effect on the laws of the European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law. The
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5698203019278846
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS Pramality test is one algorithm useful for conveniently testing the Pramality of large numbers. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.13809357248942433
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3712328332909629
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water is used to produce oxygen and hydrogen.  A process that uses electrolysis
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5439627499467425
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 0.913. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.1599667787490886
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.289587431366801
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.563321455942217
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach acid and proteases serve as powerful chemical defenses against ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3388553311180871
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular strolling destination for the Varsovians is the Krasinski Palace Garden. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2780886809959022
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Context Engineering News Record (ENR)
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.0935801990010775
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger discovered this in the middle of the Amazon forest with the help of his team.  He and his team discovered it in 2003 and they are from the University of Florida.  Heckenberger and his team did not only
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3645489694276174
+
+Question: Who develped the theory of relativity?
+Response: Einstein developed the theory of relativity. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2902809782929351
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion of oxygen by mass among organic compounds
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3581359673244132
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers and how they are formed. It is a branch
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.35868747587081085
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule is used in equations to determine net force. The parallelogram
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3718084797675085
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine River flows through six European countries, but two-thirds of the water flow volume
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.18437697811163756
+
+Question: Levels of what things are used to determine emission factors?
+Response: Context. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive Council in UNEP governing council resolutions and decisions as well as on actions in support of the UNFCCC process. While the preparation of the assessment reports
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2817774688043223
+
+Question: Why does competition among workers drive down wages?
+Response: In the case of a large pool of workers for a job with a low demand, competition amongst workers drives down the wages of the job. The workers have to compete against one another for the same jobs. The more workers that are willing to work,
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6930688202039399
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure was in place because of the Teho Code of 701 and the Euro Code of 718. These codes outlined the social roles and responsibilities of the men who fulfilled roles similar to those of modern pharmacists. Pharmacists in Japan,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.04811750042874685
+

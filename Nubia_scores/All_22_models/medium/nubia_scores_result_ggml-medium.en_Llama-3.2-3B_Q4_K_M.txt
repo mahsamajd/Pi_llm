@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the StubHub Center. This was the home of the LA Galaxy and Chivas USA, who were both local rivals. Chivas were suspended following the 2014 MLS season, with a second
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.42697254034820475
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The word 'private' in the passage is defined as 'not publicly owned or controlled, and
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12359601640821649
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Based on the information given, the Israeli troop withdrawal from the Sinai Peninsula occurred on January 18, 1974. This is the date listed in the table under "date." The table lists the events that led to the troop withdrawal, as
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.46961389534727616
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816, is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4179905319464483
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forest during the Oligocene period. The Oligocene is a time period during the Cenozoic era, which is the current geological era. The Cenozoic era began 66 million
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.5028536893783178
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. The Scottish Constitutional
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.33196382857177364
+
+Question: What substance is used to make high quality liquid O2?
+Response: In the process of the distillation of liquid air, Oxygen is a colorless and odorless gas. The oxygen that is obtained is the one that is the most purest. It is made in a process called fractional distillation. Fractional dist
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4991170046045391
+
+Question: Who did the geographic scholars work for?
+Response: 1.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4622897195272365
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics states that in a closed system, the total entropy of the universe must increase. It is a result of the fact that in the universe, the microscopic systems are in constant motion with each other and they are in contact with
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Ren. The name of the river is derived from the Germanic root Rhy-, which means 'to flow'. The river Rhine is also known as Ren in French, as it is in most of the
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0890147808809052
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In order to develop a specific immunity, a specific antigen from a pathogen is introduced into
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.32758767650998477
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: California State Route 99 (SR 99) is the main highway serving the Central Valley and the San Joaquin Valley in California. SR 99 is the main north-south route from the Central Valley to the San Joaquin Valley and
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5845102636215505
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The following transcript is taken from the context of the most commonly used reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means that an
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.06990036678112721
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: As per the given context, it is known that the right to create private schools in Germany is
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.09752055160375928
+
+Question: How many prime numbers exist?
+Response: The number of prime numbers is infinite. This is because there are infinitely many prime numbers. This is demonstrated by Euclid around 300 BC. There is no known simple formula that separates prime numbers from composite numbers. However, the distribution of primes,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.04475286624707253
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock is the Lorelei. The Lorelei is a rock outcrop in the Rhine Gorge. It is a steep cliff with a height of 122 metres. The cliff is located about 1 kilometre from the village of S
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.18320279579813248
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The Ctenophore that was accidentally introduced into the Black Sea was the Nemeopsis. The Nemeopsis is a predator of small zooplanktonic organisms such as copepods. Planktonic plants are a vital part of
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.31551913975189205
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Components that increase the temperature of steam above its saturated vapor point include a superheater. This device is typically located in the boiler. As the steam passes through the superheater, it absorbs the heat energy from the gases that would otherwise be released
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09060517771634424
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3810126223843011
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: The transcription provided in the question suggests that the center currently realizes approximately 500 projects a year. This number can be obtained by subtracting the number of projects realized in the previous year, which is 1000, from the total number of projects realized
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0995881674951914
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine Romanticism.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4017237618197439
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law on the laws of member states is direct effect or indirect effect.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.24912558290174924
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Miller-Rabin primality test [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4843189676299462
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.33917379913705226
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 91.3 men older than 18 for every 100 women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3852093553741731
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Hmong-Ki Khan attacked the Song dynasty in southern China. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2176649132999826
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23588956761010949
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid and proteases protect against ingested pathogens. Gastric acid has a pH of 1-2,
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2648076622846045
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Active immunity is a response to an infection that causes the body to make memory cells and antibodies to fight off the same infection in the future. In contrast, passive immunity is an artificially introduced or naturally transferred antibody, which the body can use immediately to fight
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.43895275148797874
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: There are over 100 different species of trees and the avenues are a place to sit and relax.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.13443167180778137
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Context Engineering News Record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07680192470456726
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: This question is asking about the percentage of oxygen in biomolecules by mass. The answer can be found in the table provided in the question. The most abundant oxygen-containing compound by mass is glucose (C6H1206), which contains 6.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.373285163528983
+
+Question: In what year was the Interstate Highway System created?
+Response: The answer is: 1956. In 1956, President Dwight D. Eisenhower signed the National Interstate and Defense Highway Act. The goal of the act was to increase the amount of interstate highways in the United States from 42,000 miles
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.03168644882270344
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the net force. The parallelogram rule is a geometric shape that is used in equations to determine net force. The magnitude of the net force can vary depending on the angle between the lines
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.14360970557040953
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a vitamin D receptor when it encounters a foreign pathogen. This allows the T cell to bind to the active form of vitamin D, calcitriol. T cells have a symbiotic relationship with vitamin D. Not only does
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5530497496477044
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine flow westward, through the Wall and then, via the Merweed and New Merweed,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.16034099576516703
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is an intergovernmental body established by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO) to assess scientific, technical and socioeconomic information relevant for the understanding of climate change, its causes, its impacts
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4467563938252366
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers results in low wages because there are many workers willing to work a large amount of time. This creates a high supply, which competes for a job that few require. The low demand means there is a low wage for that job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6243747120687926
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Innate immunity is the body's first line of defense against pathogens. It provides immediate protection against pathogens, but does not confer long-lasting immunity against a pathogen. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.31481895050803466
+

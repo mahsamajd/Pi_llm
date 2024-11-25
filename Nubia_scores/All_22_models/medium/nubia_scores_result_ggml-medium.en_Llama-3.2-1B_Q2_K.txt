@@ -1,0 +1,155 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Chivas, the LA Galaxy and the LA
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.0833736854053716
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Rather than taxation, what are private schools largely funded by? [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.347839176542591
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The Nixon administration began to negotiate for a mutually agreed upon settlement
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.0833177039672135
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention is held for a short period of time in 1991. The Scottish Constitutional Convention was the subject of a meeting on 25 March 1991. The meeting was the result of a meeting in which the participants were interested in
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.05898537069359766
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars believe that in the north of Europe, a hard-working, moral, and upstanding human being (homo
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09143675750789859
+
+Question: What makes energy changes in a closed system?
+Response: Answer: It makes sense that the more you make energy changes in a closed
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1656888497864879
+
+Question: What is the French name for the Rhine?
+Response: The French name is the Rhone. The name of the Rhin. The Rhin. The Rhin is the Rhin. The Rhin is the Rhin. The Rhine is the Rhine. The Rhine is the Rhine
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.6453658301417093
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most common reduction of a polynomial is to a quadratic form.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.17337240236226703
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is not only in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0862756669936614
+
+Question: How many prime numbers exist?
+Response: Answer: As demonstrated by Euclid around 300 BC, there are infinitely many prime numbers,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.32713526965907136
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Question. Where is the famous Rhine Gorge that stretches through the Middle Rhine
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.16160845553389702
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The situation was mitigated by the addition of Barrow. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0732945691842205
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: C. Mechanical stoker question. What components can be raised and set to a higher temperature than the one that is set to be the lowest temperature. The components to raise the steam temperature above its saturated vapor are. The most basic of which is the
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.05761884971061826
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: A publically accessible database has been established for the cataloging of epitopes from pathogens known
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1387261620524819
+
+Question: How many projects does the Centre currently realize a year?
+Response: Since 2011, the center has a total of 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.30138232510940977
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union has set the following objectives: The European Union is a
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3663946752113497
+
+Question: An MSP may introduce a bill as what?
+Response: A private member of parliament can submit a bill to the governing party. An MSP can submit a bill to the governing party. An MSP can submit a bill to the governing party. An MSP can submit a bill to the governing party. An MSP can
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.19497072678904248
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of what is a chemical reaction in which the compound is called by the chemical formula. In other words, the chemical formula is the chemical formula of a compound. It is the chemical formula of a substance. It is the chemical formula of
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.07633513093150213
+
+Question: How many men older than 18 are there for every 100 women?
+Response: As of 2010, there were 366,273 households out of which 11.8% were vacant. 43.8% were married couples. 29.8% of all households were made up of individuals and 36.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.13540242891663234
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublai sent the Mongol to the East
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0608355700924591
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The following table, table 4.1.3: Table 4.1.3. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5544177014825392
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The second half of the 17th century, the Wilanow Palace Park is a popular strolling destination
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.1411772657663113
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The data is divided into two categories, transportation and non-transportation. The following is the definition of non-transportation:
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.10714674574143335
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: This element is part of the first Rhine River, a river from the Alps. And the first river to get in the Alps. It is the Rhine River. But this is a river that carries to the Alps. But this is the Alpine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5020922391872877
+
+Question: Who discovered this and where did they come from?
+Response: Question. Where did you come from? How do you know this? The Amazon rain forest is the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.07531367501954744
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Answer: The element is found in almost all biomolecules that are important to make a long list of the element, and are in fact, only a few of the elements. Among the natural elements, only a few are so important that they are only
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary and/or structural stratification in the laboratory and
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.20698987203592456
+
+Question: What geometric shape is used in equations to determine net force?
+Response: To make an accurate and precise physical
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06084837548605648
+
+Question: Why does competition among workers drive down wages?
+Response: The answer is that the nature of the job that the job is required to be able to
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1498212190768441
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists of the Shinto religion and the Shinto religion were
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07142057429276594
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate response system is the dominant system of host defense. The innate response system is the dominant system of host defense in most organisms' answer. The innate immune system responds in a generic way to pathogens. The innate immune system responds in a generic way
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.14989122410926292
+
