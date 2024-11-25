@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The answer to this question can be found by looking at the context provided in the passage. In the passage, it states that the two soccer teams, the LA Galaxy and Chivos USA, played at the StubHub Center. The StubHub Center is
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2838661279720639
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items, making it one of the largest libraries in Europe. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.556907736822707
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon Rainforest during the Oligocene period was a narrow band of forest. It was a period of climate
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.31860664654776727
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was a pressure group that was initiated in 1989.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.17930582272523965
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high-quality liquid O. Two is liquid helium.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.10482782901023757
+
+Question: Who did the geographic scholars work for?
+Response: According to the given transcription, the geographic scholars were under the colonizing empires. The world could be split into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic temperate climate produced a hard-working, moral, and up
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3003877473636877
+
+Question: What makes energy changes in a closed system?
+Response: 1. A closed system is a physical system that has a well-defined boundary which prevents the exchange of any matter with its surroundings. Closed systems may be thermally isolated, mechanically isolated or isolated from other forms of energy exchange (e.g. radiation
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.04308672543015435
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: context. The agent that is used to develop a specific immunity is referred to as an antigen,
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.22829494572930975
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the given transcription, the state route that has been in discussion to upgrade to interstate standards is Interstate 5.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.16407224426705513
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: context. The most commonly used reduction is a polynomial time reduction. This means that
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.21542645475783007
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.14569911708691685
+
+Question: How many prime numbers exist?
+Response: The first part of the transcript describes the history and current state of knowledge about prime numbers. This is followed by a brief description of the prime number theorem, which provides a mathematical model for the behavior of prime numbers. The question then asks for an estimate
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0447383241991125
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The dominant economic sectors in the middle Rhine area are vina culture and tourism.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.06064647290380398
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise steam temperature above its saturated vapor point are the superheaters.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.2882005780196025
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired 10 employees. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.1918133974997117
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine valley can be considered the epitome of the Rhine Romanticism, which is the most beautiful landscape in Germany. The middle Rhine valley can be considered the epitome of the Rhine Romanticism, which is the most beautiful
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.6698259330678762
+
+Question: What effect does European Union law have on laws of member states?
+Response: Context: European Union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4818514324967772
+
+Question: An MSP may introduce a bill as what?
+Response: Context. Bills can be introduced to Parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.16756804982084128
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen gas can also be produced through electrolysis of water into molecular oxygen and hydrogen. DC electricity must be used. If AC is used, the gases in each limb consist of hydrogen and oxygen in the explosive ratio 2 to 1. Contrary
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.032021423203288935
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Manki Khan attacked the Song dynasty in southern China. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.19539708440714743
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4634333959746253
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden is a popular strolling destination for the Varsovians. The Krasinski Palace Garden is a popular strolling destination for the Varsovians. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.6645268022302668
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Based on the information provided, it can be inferred that ENR is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5519352882882348
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In southwest Germany and eastern France, the main elements of the rift system are the upper Rhine Graban. In the upper Rhine Graban, there is a river system that is the first Rhine River. This river system did not carry discharge
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.44203982002634923
+
+Question: Who discovered this and where did they come from?
+Response: Terra Prada is a black soil, and it is now widely accepted as a product of indigenous soil management.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06234046569987073
+
+Question: In what year was the Interstate Highway System created?
+Response: In 1956, the Interstate Highway System was created by the Federal-Aid Highway Act of 1956 (Public Law 84-627). The law was passed with bipartisan support and was signed into law on June 29, 1956
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.3362970140968311
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the sequence and arrangement of rock layers. It includes the study
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.36930019263669045
+
+Question: What geometric shape is used in equations to determine net force?
+Response: I would say a polygon. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07205100703923584
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: This is a question of flow direction, and the best way to solve this is to look at a map. This will show
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.21296512180771576
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: Workers are competing for jobs, which means that they are competing to provide a service in a market environment. This means that there is no one employer, but rather there is a whole market of employers, so the wage will be set based on the market
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.48417080794579304
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, the pharmacists were highly respected during the 6th to 8th century. They were ranked higher than physicians and acupuncturists in the Imperial court. This was because they had the responsibility of dispensing herbal medications and
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2763840133756533
+

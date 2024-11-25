@@ -1,0 +1,145 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The answer is that private schools are largely funded by tuition. The private school does not receive tax dollars to fund the school. In addition, the private school does not receive tax dollars for the students. This is because the tuition covers the cost of the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12773293667189167
+
+Question: What makes energy changes in a closed system?
+Response: The change in entropy of a closed system is equal to the change in the sum of the energy of the system and the entropy of the environment. The change in energy of a closed system is equal to the change in the sum of the energy of the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1834822683108278
+
+Question: What is the French name for the Rhine?
+Response: The name for the Rhine in French is the Rhin. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.30168128378322023
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination is the deliberate introduction of an antigen (usually a killed or attenuated pathogen) into the body of an individual or animal in order to stimulate the immune system and develop a specific immunity against that particular pathogen without causing disease associated with that
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5583759984722885
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Squaring is not more difficult than multiplication. If we want to solve the problem of squaring an integer using polynomial time reduction, we can just take the multiplication algorithm for squaring and use it to multiply two integers. We know that squaring can
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.07126758925818744
+
+Question: How many prime numbers exist?
+Response: 2
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09001726909848917
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rock Lorelei is located in the middle Rhine gorge, near Koblenz.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.10619151222342138
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Nemeopsis
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.04809212898061943
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The superheater is a device that raises the temperature of the steam above its saturated vapor point. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.4446482943536225
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.12112904404776015
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism is the Rhine Gorge, which is a UNESCO World Heritage Site. Near Sankt-Görshausen, the Rhine flows around the famous Rock Lorelei, with its outstanding architectural monuments
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.2822265605829709
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union (EU) is a political and economic union of 28 member states. It has an area of 4,20,000 km2 with a
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.20442526365509883
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The primality test can be conducted by repeatedly halving the number. If the result is zero,
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.1048688343717109
+
+Question: An MSP may introduce a bill as what?
+Response: A
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.16578914383933707
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 91.3 men for every 100 women. This means that there are more men than women in the city, and it is important for the city to make sure that there are more women than men in order for the city to have
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.15607289230976562
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongke Khan commenced a military campaign against the Chinese Song dynasty in southern China. The Mongol force that invaded southern China was far greater than the force they sent to invade the Middle East in 1256. He died in 1259 without a
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.002580323436276011
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The number of trial divisions performed by the routine is dependent on the number of primes in
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.11906024505068646
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds found in the stomach protect against ingested pathogens by producing an acid environment. This helps kill any bacteria that may have been ingested.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.47469792112812026
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Transcription: Context. Newborn infants have no prior exposure to microbes and are particularly vulnerable to
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07169507583207546
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The answer is the park is a popular strolling destination for the Varsovians. The monument of the Warsaw Ghetto Uprising is also situated here. The Lazienki Park covers the area of 76 hectares. The unique character and history of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.358401958037203
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Lower Rhine Embayment and the Upper Rhine Graben were two rifts in southwest Germany and eastern France that formed during the Alpine orogeny. [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.3418271735207852
+
+Question: Who discovered this and where did they come from?
+Response: 1) Michael Heckenberger and colleagues of the University of Florida found that remnants of some of these large settlements in the middle of the Amazon forest were found in 2003. [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.19176798031195996
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates, fatty acids, amino acids, and proteins all contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues. Oxygen also occurs in phosphate groups in the biologically important energy-carrying molecule
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3918501987361329
+
+Question: What is stratigraphy?
+Response: stratigraphy is a scientific discipline that studies the formation and evolution of rocks.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.250307008743721
+
+Question: What geometric shape is used in equations to determine net force?
+Response: a geometric shape used to determine net force is a parallelogram. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.330020772511484
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Dendritic cells are the immune system cells that express 27 billion Cypriot pounds one and thus activate vitamin D calcidiol. [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.09274296395392678
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: The answer to this question is competition among workers drives down wages. Competition among workers tends to drive down wages due to the expendable nature of the worker in relation to his or her particular job. A job where there are many workers willing to work a
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7667105185950067
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacist had a position of status in the imperial household that was superior to that of the emperor's personal physicians. Pharmacists were also considered to be among the most respected members of society and were held in high esteem for their role in maintaining public health
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

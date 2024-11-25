@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was StubHub Center.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4128182546192696
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition. Private schools are schools that are not supported by the government. They are supported by students and their families. They charge tuition to cover costs. These costs are used to provide their students with the best education possible.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0942573816048885
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1974, 01 18, Henry Kissinger, Israeli troop, Sinai Peninsula, troop withdrawal, Israel, Arab oil, question, March 1974, Henry Kissinger, Israeli troop withdrawal, Sinai Peninsula, troop withdrawal from the Sinai
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.36163420053446205
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen (O2). [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.3352703324271643
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the European imperialist states, which were the European
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.113306597581046
+
+Question: What makes energy changes in a closed system?
+Response: According to the second law of thermodynamics, non-conservative forces cause the internal
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1347119876000762
+
+Question: What is the French name for the Rhine?
+Response: The Rhine River runs through the German state of Bavaria in the south to the North Sea in the Netherlands.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.19694632387102617
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, a part of a pathogen, called an antigen, is introduced into the body to trigger an immune response to that specific pathogen. Vaccination is used to prevent a disease without having to get sick. The immune system
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5914987666647437
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The State Route that has been in discussion to upgrade to interstate standards is State Route 99. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.33101921889865515
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The problem of multiplying two integers can be logically reduced to the problem of squaring an integer. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.3887358360567291
+
+Question: How many prime numbers exist?
+Response: context, there are infinitely many crimes. As demonstrated by Euclid around 300 BC,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09355889358892222
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: NEMIopsis, which is an example of a TINA force, is known to cause the collapse of fish stocks by eating fish larvae and organisms that would otherwise have fed the fish. This problem has been aggravated by other factors, such as over
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A superheater is a boiler component that is used to raise the temperature of the steam above its saturated vapor point, which is typically done by passing it through a coil of tubing that is located in a section of the boiler that is hotter than the
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.08259920791530051
+
+Question: The average contractor hired how many employees?
+Response: The number of employees in the construction industry is 5.8 million. Of these, 828,000 are women.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.1658188160128269
+
+Question: How many projects does the Centre currently realize a year?
+Response: I was very happy to have a chance to visit the Royal Castle in Warsaw.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.09182297734827483
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley is considered the epitome of the Rhine Romanticism because it is known for its outstanding architectural monuments, such as the rock Lorelei, and for its vineyards, which line the steep slopes of the river. The settlements
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4062879165919312
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of European Union member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.35262512215273867
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS algorithm is an algorithm that decides, in polynomial time, whether a given
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.09045712284383889
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The context of the passage is about the production of oxygen gas. Electrolysis of water can produce oxygen gas as well as hydrogen gas. When AC is used to electrolyze water, the gases in each limb are a mixture of hydrogen and oxygen in
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0632985652616741
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted 63 days. The Polish government in exile in London gave orders to the
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.2961861615548741
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: To perform trial division of a given integer n, we must divide n by each integer m greater than one and less than or equal to the square root of n. If the result of any of these divisions is an integer, then n is not a
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.44717529911994447
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Stomach acid, also known as gastric acid, is a digestive fluid that protects against ingested pathogens by preventing pathogens from surviving in the stomach. Stomach acid consists primarily of hydrochloric acid and pepsin, a protease enzyme
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5891491647174177
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.21475691228252092
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Context, the Saxon Garden, covering the area of 15.5 hectares, was formerly a royal garden. There are over 100 different species of trees and the avenues are a place to sit and relax. At the east end of the park
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.29416755318176846
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The alpine orogeny in southwest Germany caused the ANS rift system to develop. The
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.12839122349646004
+
+Question: Who discovered this and where did they come from?
+Response: In 2003, Michael Hackenberger and colleagues from the University of Florida discovered
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11526179637701084
+
+Question: Who develped the theory of relativity?
+Response: Einstein developed the theory of relativity, which was a theory that was developed by Einstein. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.45790206737040584
+
+Question: In what year was the Interstate Highway System created?
+Response: 1950s, question.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.08154668989110803
+
+Question: What is stratigraphy?
+Response: Stratigraphy, the study of sedimentary layers, is a key component of the geologic field investigation.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2639621661354584
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells do not encounter pathogens. Rather, they detect pathogens. T cells and pathogens do not bind directly to one another; T cells and their receptors bind to other cells, such as dendritic cells (DCs), which are then able to bind
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.46400325131691733
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Outside of Germany, the Rhine flows north, west and south. Two-thirds of the water flows west and north via the wall, and then via the moorweed and new moorweed, debis Bosch, and the muse. The remaining
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.34390777398562467
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: In this particular context, competition among workers refers to the number of workers available in the market for a particular job. The number of workers in the market determines the supply, and the number of jobs available in the market determines the demand. When there are
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6323730610450464
+
+Question: What put a hierarchical structure in place?
+Response: The Tejo Code and the Euro Code were documents that were used to organize the court. They defined the status of each person in the court, and the Tejo Code is believed to have been written between 701 and 703 and the Euro Code
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.01681516059172483
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the first line of defense against pathogens. It is also called the non-specific immune system, and it provides a generic response to pathogens. The innate immune system is the dominant system of host defense in most organisms, including humans.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.1382770408687536
+

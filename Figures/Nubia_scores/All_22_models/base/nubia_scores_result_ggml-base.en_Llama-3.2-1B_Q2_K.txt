@@ -1,0 +1,145 @@
+Question: What was the name of the stadium that the teams played in?
+Response: 2005 to 2008, the Los Angeles Galaxy, were playing at the StubHub Center and
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.15387777448025808
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: private schools
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.056300056819270305
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The U.S. Secretary of State Henry Kissinger was a negotiated settlement between Israel and Syria. It was not clear to Henry Kissinger whether the secret in the Middle East. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.2046748092074573
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 1 million items. The building is designed by architect Smerik
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.21819596412315578
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon Rainforest is a narrow strip of rainforest, with a maximum area of 10,000 km2, and a minimum depth of 1,000 km (or 3,600 mi). Its maximum depth of 1,000
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.43398315252444275
+
+Question: Who did the geographic scholars work for?
+Response: The European Empire, or the European Empire, is a geographic and
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1624452525138954
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: context. Long-term active memory is acquired following infection by active B and T cells.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.06148136172207763
+
+Question: Where is the famous rock the Rhine flows around?
+Response: the Rhine gorge. In the Rhine gorge. The Rhine gorge. Rhine gorge. River Rhine. Rhine gorge. Rhine gorge. Rhine gorge. Rhine gorge. Rhine gorge. Rhine gorge. Rhine
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.5618255833799816
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: The average contractor employed how many employees.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.21943503331831293
+
+Question: How many projects does the Centre currently realize a year?
+Response: The Center is currently working on the question 'How many projects does the center currently realize a year?
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.512380750831832
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: A. The most important economic activity is in the Rhine Gorge. In the Rhine Gorge,
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.09621352605132938
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union has its most important effect on member states of the European Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.14157869775621956
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as what? [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3979565779100783
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer:
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5085801867794659
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublai the Great was a Mongolian leader who was in charge of the Mongol Empire. Kublai the Great was a Mongol leader who was in charge of the Mongol Empire. Kublai the Great was a Mongol leader
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4200506436786162
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In some cases, a number, say, n, is prime.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5789407625023792
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: It is true that the skin and the digestive tract are both a protective barrier and the stomach is acid and protease to protect against. The skin and the digestive tract are a protective barrier and the stomach is acid and protease to protect against. The
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.12291845198699058
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park around the Palace of the Varsovians is situated on the old escarpment of the Vistula. The park has lanes running on a few levels of the old escarpment of the old escarpment of the park.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4170895414593154
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transporting the data about the size of design and construction companies is a trade
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09402561331687176
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift are the upper Rhine Graben and Rhin
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.11950100824139465
+
+Question: Who discovered this and where did they come from?
+Response: It has been suggested that the name "Amazonia" is from the word "amazonia," which is from the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08406762773214982
+
+Question: In what year was the Interstate Highway System created?
+Response: As well as the desirability of federal funding, much discussion has been made to upgrade it to
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07038397977232125
+
+Question: What is stratigraphy?
+Response: Context. Geologists use a number of field, laboratory, and geologic models to decipher
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.11029596443161294
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer:
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.5880139276648986
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4930027313973231
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is a UN special organization and also has the power to produce the results
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.09785492737198598
+
+Question: What put a hierarchical structure in place?
+Response: In 1848, in the Tejo Code, the pharmacists, and the man who was
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07276286983606717
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms. The innate immune system is the dominant system of host defense in most organisms. The innate immune system is the dominant system of host defense in most organisms. The innate immune system is
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.13300936528932128
+

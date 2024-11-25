@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was StubHub Center. The stadium was built in 2003 and opened in 2004. It has a capacity of 27,000 people and is the home of the LA Galaxy and Ch
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.5410585428885271
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.4134609831577236
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. It is one of the largest and most beautiful roof gardens in Europe with an area of more than 10,000 m2 (107,639.10 sq ft) and plants covering
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4804663517879748
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989, in part because the government of
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.25518949234915045
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars under Colonizing Empires, the world could be split into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate climate produced a hard-working, moral, and upstanding human being. Alternatively, tropical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.2639609361057603
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics states that the transfer of energy from a system to its
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1603443937831076
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhin. The spelling with Rh is due to the influence of Greek orthography, while the vocalization I is due to the proto-Germanic adoption of the Gaulish name as *Rhinos via Old
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.03582959169190991
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine is an antigen that is introduced in order to develop a specific immunity. The
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.33818516006201516
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I-5 is the route that has been in discussion to upgrade to interstate standards. The reason for this is that I-5 is the route that is being bypassed by the Interstate Highway System. As a result, many of the population centers in
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4749262896988896
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: 1. Polynomial time reduction is a way of finding a polynomial-time algorithm for a problem P from another problem Q if Q has a polynomial-time algorithm.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.36117022939702126
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Transcription: Context. The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06514386786709125
+
+Question: How many prime numbers exist?
+Response: The answer to the question is infinitely many. In the context of this answer, the question is about prime numbers in the large. A number is prime if it is only divisible by itself and one. There are infinitely many prime numbers. The first prime
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09715262689642334
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The correct answer is: The Rock Lorelei is located near Sankt-Görshausen.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1810885544724118
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise steam temperature above its saturated vapor point include superheaters and reheaters. Superheaters are located downstream of the boiler and are used to further increase the steam temperature. They are usually located in a separate chamber, called a super
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07100286438453773
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: How many projects does the Centre currently realize a year?
+Response: Based on the information given, I can deduce that the center currently realizes about 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.5110066611931567
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives,
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.12489041685559776
+
+Question: An MSP may introduce a bill as what?
+Response: The answer is that an MSP may introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.32560719905869207
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water can be used to produce oxygen and hydrogen. Electrolysis is the process of converting a compound into ions, the oppositely charged particles that make up compounds, by passing an electric current through the compound. This is done
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1448451648270862
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 90.6 men older than 18 for every 100 women. The number of men older than 18 is given by the number of men of age 25 to 44 plus the number of men of age 45 to
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.09956031474617966
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol invasion of southern China in 1260, under the leadership of Kublai Khan, was a major part of the Mongol Empire.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.35809261462521036
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.32705391116410376
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. For example, if n=37, then the integer m must be less than or equal to the square root of 37, which is 5.63. So
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4792539223196707
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach produces hydrochloric acid that helps destroy many pathogens, such as bacteria and viruses that are ingested in food. Hydrochloric acid kills these pathogens by disrupting the cellular membranes of the pathogens. In addition, the stomach produces an enzyme called
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5171256662282986
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Context. Newborn infants have no prior exposure to microbes and are particularly vulnerable to
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.0723268487350498
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden is a popular strolling destination for the Varsovians. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3307525950655428
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States, TOP40, and also a list the largest global firms, Top250, by amount of work they
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5024721957174056
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift system are the Upper Rhine Graben in southwest Germany and the Lower Rhine Embayment in northwest Germany and the southeastern Netherlands. By the time of the Miocene, a river system had developed in the Upper Rhine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5160353249525288
+
+Question: Who discovered this and where did they come from?
+Response: The Brazilian anthropologist Michael Heckenberger of the University of Florida discovered
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11076282638408708
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein. Albert Einstein was a German theoretical physicist who developed the theory of relativity
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.434820486752301
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956 by President Eisenhower. The original 41,000 miles of highway included 13,500 miles of Interstate highways, 22,000 miles of U.S. highways, and 6,000 miles
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.42659970817519055
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers, or layers in the crust of the Earth.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.375508198421319
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the resultant of two forces acting on an extended body. The parallelogram rule is an extension of the triangle rule of addition for vectors which is used to determine the magnitude and direction of the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.052117238772879326
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Context. From here, the situation becomes more complicated, as the Dutch name "Rien" no longer coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther west, through the Wall and then
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10405639508253173
+
+Question: Levels of what things are used to determine emission factors?
+Response: Context is the part of the transcription that is not directly related to the main topic or purpose of a text. It can include background information, explanations, or supporting details. Context can help readers understand the meaning or significance of certain words or phrases in a
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.49276603337939195
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists in Japan were ranked above other health care professions during the Asuka period and early Nara period. Pharmacists in Japan had a high level of respect in society. Pharmacists were the most respected people in the health care field in Japan
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

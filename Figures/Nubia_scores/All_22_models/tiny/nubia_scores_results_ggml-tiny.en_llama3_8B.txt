@@ -1,0 +1,235 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy and Chivas USA, that both played at the StubHub Center and were local rivals. However, Chivas were suspended following the 2014 MLS season. With a second MLS team scheduled to return in 2018, question.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3214850636196086
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition, scholarships, and donations.The following transcription is provided for context, private schools, also known as independent schools, non-governmental, or non-state schools, are not administered by local, state or national governments
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5104846423251739
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.37553173231660253
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items.The University Library is home to over 2 million items.The University Library is home to over 2 million items. The University Library is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.8184745711557418
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest is a narrow band of forest that extends from the Atlantic Ocean to the Andes Mountains. The Amazon rainforest is the largest rainforest in the world and is home to over 30,000 species of plants and animals. The
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.39544322035666435
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1987. The convention was held to discuss the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2691555962638834
+
+Question: What substance is used to make high quality liquid O2?
+Response: The liquid O, two is produced by fractional distillation of liquified air.The liquid O, two is used to make high-quality liquid O, two.The liquid O, two is used to make high-quality liquid O, two.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.6482823753159136
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the colonizing empires. The colonizing empires used the geographic scholars to help them colonize the world. The colonizing empires used the geographic scholars to help them colonize the world. The colonizing empires
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.5712776103969588
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces are the forces that are not conservative. They are the forces that
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3077537154950093
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhine.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.2717751244652675
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The answer is that the antigen is introduced in order to develop a specific immunity.The answer is that the antigen is introduced in order to develop a specific immunity.The answer is that the antigen is introduced in order to develop a specific immunity.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.7309015397230605
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion to upgrade to interstate standards is State Route 99.The state route that has been in discussion to upgrade to interstate standards is State Route 99.The state route that has been in discussion to upgrade
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.596292045272993
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Squaring can be reduced to multiplication, which can be reduced to addition, which can be reduced to subtraction, which can be reduced to multiplication, which can be reduced to squaring, which can be reduced to multiplication, which can be reduced to squ
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.19939282576138817
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 11.1 percent of students in private high schools reached 11.1 percent, question.The answer is 11.1 percent of students in private high schools reached 11.1 percent, question.The answer is 11
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.4980536191943742
+
+Question: How many prime numbers exist?
+Response: The number of primes is infinite.The number of primes is infinite.The number of primes is infinite.The number of primes is infinite.The number of primes is infinite.The number of primes is infinite.The number
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.820836284001937
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge is a UNESCO World Heritage Site. The Rhine Gorge is a UNESCO World Heritage Site. The Rhine Gorge is a UNESCO World Heritage Site. The Rhine Gorge is a UNESCO World Heritage Site. The Rh
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.29291100981582097
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The TINA force, NEMIopsis, was accidentally introduced into the black sea. The
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.20868935661684218
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The following components raise steam temperature above its saturated vapor point: 1. Superheaters 2. Superheaters 3. Superheaters 4. Superheaters 5. Superheaters 6. Superheaters 7
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.5754104026422611
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics known as immunoinformatics, is the study of large sets of proteins. Proteomics, is the study of large sets of proteins. Involved in the immune response, question. What is the
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.15530420941604783
+
+Question: The average contractor hired how many employees?
+Response: 1. The average contractor hired how many employees
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.19854242379610543
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year.The 17th century royal oogestau castle currently houses center for contemporary art. With some permanent and temporary exhibitions, concerts, shows and creative workshops, the center currently realizes about
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.43296787158047234
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Romanticism is a style of architecture that is characterized by the use of the Rhine River as a central feature of the design. The Rhine Romanticism is a style that is often associated with the Rhine River Valley, but it
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.15369009298804914
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union law has a direct effect on the laws of member states. The European Union law is a body of treaties and legislation, such as regulations and directives. Which have direct effect or indirect effect on the laws of European Union member states? The
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5900803883984622
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin primality test is a fast algorithm for testing the primality of large numbers. It is
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.21361979650786267
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is a draft law that is introduced to Parliament by a member of the Scottish Parliament. A bill can be introduced by a member of the Scottish Parliament in a number of ways. A bill can be introduced by a member of the Scottish Parliament as
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.16796632608933926
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The answer is:The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The answer is: The
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5435323500065321
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 91.3 men for every 100 women.The average age of the population is 35.5 years. There are 23.9% of households with children under the age of 18. There are 23.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.4631337377198187
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Kong attacked the Song dynasty in southern China.The Mongol Empire was divided into four khanates, the Golden Horde, the Chagatai Khanate, the Il-Khanate and the Golden Horde. The Golden Horde was the
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4469833549322785
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days.The Warsaw uprising lasted for 63 days.The Warsaw uprising lasted for 63 days.The Warsaw uprising lasted for 63 days.The Warsaw uprising lasted for 63 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.8100853133142847
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to 5.The integer m must be less than or equal to 5.The integer m must be less than or equal to 5.The integer m must be less than or
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.7227754507545738
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach is a very acidic environment, which is why it is able to kill off ingested pathogens. The stomach is able to kill off ingested pathogens because of the hydrochloric acid that is in the stomach. The hydrochloric acid is
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5442660537939088
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is short-lived immunity.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.3832859185509321
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krollicarnia Park is a popular strolling destination for the Varsovians.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.11716533236019255
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States. They publish a list of the largest global firms. They publish a list of the largest companies in
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.27839486049708206
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the rift system in the alpine orogeny in southwest Germany are the Upper Rhine Graban, the Lower Rhine Embayment, the Upper Rhine Graban, the Upper Rhine Graban, the Upper Rhine Grab
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5881078792584369
+
+Question: Who discovered this and where did they come from?
+Response: The Shingu tribe discovered this and the Shingu tribe came from the Amazon forest. The Shingu tribe
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10752915890789083
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07124703002639687
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The answer is the element is found in almost all biomolecules that are important too. Are generated by life, only a few common complex biomolecules, such as squalene and the carotines. Are generated by life, only a few common
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2882143710477737
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.14056548992224638
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of rock layers. What is structural geology?
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2562850172994148
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule is used to determine net force. The parallelogram rule is used to determine net force. The parallelogram rule is used to determine net force. The parallelogram rule is used to determine net force. The paralle
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.6969790352433389
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The AT cell extends a vitamin D receptor. When AT cell encounters a foreign pathogen. It extends a vitamin D receptor. When AT cell extends a vitamin D receptor. It extends a vitamin D receptor. When AT cell extends a vitamin D receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.6096565794093287
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows into the Rhine-Maas, which is a part of the North Sea. The Rhine-Maas is a part of the North Sea, which is a part of the Atlantic Ocean. The Atlantic Ocean is a part
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.33088998808465
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is a scientific body that provides the UNFCCC with scientific and technical support. It is responsible for preparing the assessment reports, which are the main scientific basis for the UNFCCC process. The IPCC also supports other activities, such as the
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5065209965452238
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages because of the expendable nature of the worker. Competition among employers drives up wages because of the nature of the job.The following is a transcription of the question:Question: Why does competition among workers drive down wages
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6980556709729651
+
+Question: What put a hierarchical structure in place?
+Response: The answer is that the pharmacists were given a hierarchical structure in place because the pharmacists were given a hierarchical structure in place because the pharmacists were given a hierarchical structure in place because the pharmacists were given a hierarchical structure in place because the pharmac
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.15488892911432517
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms. It is the first line of defense against pathogens. It is nonspecific, meaning it is what it is, it is what it is, it is what it is, it
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.13173574001652888
+

@@ -1,0 +1,170 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium that the teams played in was the Home Depot Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.20993701599803605
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: private schools are largely funded by students' tuition and scholarship and by tuition fees [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.37023678541449156
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: January 18, 1974
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4721807389338355
+
+Question: How many items is the University Library home to?
+Response: 2,000,000 [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3911202340305583
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held on 26 October 1989 in Edinburgh. It was the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.281240398480323
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is a chemical element that is a gas under standard conditions. It is a colorless, odorless, and tasteless gas. Oxygen is a diatomic molecule consisting of two oxygen atoms. The chemical formula for oxygen is O2. Oxygen is
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4854083387591569
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: Rhenish [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.12777686575622038
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: B and T cells were activated following infection by activation of B and T cells. Vaccination represents the most effective manipulation of the immune system mankind has. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.22798828311937647
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means that an algorithm for multiplying two
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.13493602888503753
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The most likely reason for the rise in private school numbers in East Germany is a
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.12642994611668268
+
+Question: How many prime numbers exist?
+Response: The prime number theorem states that the number of primes in a given interval of length 1 is approximately equal to the number of primes in the interval 1/2. Since the interval 1/2 is 0.5, the number of
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11475723234450597
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock that the Rhine flows around is Rock Lorelai, which is located in the Middle Rhine Valley. The Middle Rhine Valley is an area in the German state of Rhineland-Palatinate, between the towns of Koblen
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.4262779177552002
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: the boiler consists of a furnace, a drum, a superheater, and a water wall.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15246821669753108
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism is the Rhine. The Rhine is known for its beauty and its power. The Rhine is known for its power because the Rhine is the longest river in Europe. The Rhine is also
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5267316328132776
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union (EU) has a legal system that is based on the principle of supremacy of Community law over national law. This principle is contained in the Treaty on the Functioning of the EU which is one of the treaties establishing the EU. Article
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.477567353147631
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller–Rabin algorithm is an efficient method of testing the Pramality of a number. It can be used to test the Pramality of numbers of the form $2^n$ with $n \le 10^6$. In
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.407680240502177
+
+Question: An MSP may introduce a bill as what?
+Response: A [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14324371489486698
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The answer is 1.09. The actual number of men is 1,093, while the number of women is 1,093. Therefore, the ratio of the number of men to the number of women is 1,093/
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.5231449433513475
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongol Khanate was formed in 1260. Kublai Khan (Manki Khan) went to fight against Song dynasty in 1260. His brother Arakbok was challenging his claim to the throne. Kublai convened a
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36569931783823073
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: passive immunity
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.11983334983407656
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR publishes a list of the largest construction companies in the United States. In 2014, ENR compiled and reported on data on the size of design and construction companies. They published a list of the largest construction companies in the United States.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5765661600047396
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Graben and the Lower Rhine Embayment are located in southwest Germany and eastern France, and in northwest Germany and southeastern Netherlands respectively. They are both located in the Rhine Rift System. The Upper Rhine Graben is located
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5464218257766278
+
+Question: Who discovered this and where did they come from?
+Response: The Amazon rainforest is very fertile because it is terra preta. It is an ecosystem in the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06619513370991836
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geological science that deals with the stratification of rocks in
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.31635338253292855
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T-cells have a symbiotic relationship with vitamin D. Not only does the T-cell extend a vitamin D receptor. In essence asking to bind to the active form of vitamin D. The steroid hormone calcitriol. But the T-cell expresses
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.45660000243103316
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Rhian flows through the Wall into the Hollands Deep and Herringvleet estuaries. The remaining 2/3 of
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.08018912289283664
+
+Question: Why does competition among workers drive down wages?
+Response: It is because workers are in a race to the bottom. It is because the workers have little choice
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.12635027527585496
+
+Question: What put a hierarchical structure in place?
+Response: 1.  The hierarchical structure in place was the one that existed in the Imperial Household. The Imperial Household was in charge of the emperor. The emperor was the highest power and the emperor’s power was very strong. The imperial family was in charge
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0038805376882298237
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Microorganisms or toxins that successfully enter an organism encounter the cells and mechanisms of the innate immune system. The innate response is usually triggered when microbes are identified by pattern recognition. Receptors. Which recognize components that are conserved among broad groups of microorganisms
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

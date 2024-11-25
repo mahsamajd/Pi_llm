@@ -1,0 +1,205 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by charging their students tuition, as opposed to relying on mandatory taxation through public, government funding. At some private schools, students may also be able to secure scholarships, which can make the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5667651102962601
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula on January 18, 1 ashore, he successfully convinced the Arab oil producers to lift the embargo in March 1
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.19413799668804244
+
+Question: How many items is the University Library home to?
+Response: The University Library, which is another important library at the university, is home to over 2 million items. This information is stated in the transcription. The library was founded in 1816 and its building was designed by architects M
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5200179599140932
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1999. This convention was a significant event in the campaign for Scottish devolution, involving various organizations such as Scottish churches, political parties, and representatives of industry. The convention's blue
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: High-purity liquid oxygen (O2) is usually obtained by the fractional distillation of liquified air. The process involves cooling air until it liquefies, then separating the various components through fractional
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.48288198508219526
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars who proposed the concept of dividing the world into climatic zones and associated certain characteristics with people living in these zones worked for the colonizing empires. These empires included European colonial powers such as Spain, Portugal,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.41934696182563824
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes occur due to the actions of non-conservative forces. These forces, by their very nature, do not preserve the total mechanical energy of a system. Instead, they can cause energy to be transferred
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.42893238098348707
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is "Rhin". In the provided text, it's mentioned that the name "Rhin" is derived from the Latin "Rhenus" which is a variant form of the name of the Rhine
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.33753108839034596
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The information provided in the transcription outlines the process of active immunity, which is the immune response generated either naturally through infection or artificially through vaccination. Active immunity involves the stimulation of the immune system to develop
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4731477468709353
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 has been the subject of discussion for an upgrade to interstate standards with the possibility of its incorporation into the Interstate Highway System as Interstate 9. This consideration comes in light of the rapidly increasing population and traffic in
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5362853976223384
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction involves transforming a problem into another problem that can be solved more efficiently, specifically within polynomial time. In the given context, squaring an integer is mentioned as a problem that can be reduced to the problem of multiplying two integers
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.06788515298105502
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: According to the provided transcription, in 1992, the percentage of East German students attending private schools was 0.5 percent. This detail is specifically mentioned in the sentence: "In 1 employee or former employee of the
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.21506624064108237
+
+Question: How many prime numbers exist?
+Response: The statement from the transcription indicates that while there is no simple formula to separate prime numbers from composite numbers, the behavior of prime numbers can be modeled statistically. The prime number theorem, proven at the end of the 19th century
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is called Lorelai, according to the provided transcription. Lorelai is located near Sank Gorsehausen, where the Rhine Gorge between Rudeshaym and Rhine and Cob
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.4299987040867136
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: In the given transcription, it's mentioned that TINA force has been accidentally introduced into the Black Sea and has been blamed for causing fish stocks to collapse by eating both fish larvae and organisms that
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above its saturated vapor point are the superheaters. A superheater is a device used in steam power plants to increase the temperature of the steam produced by the boiler beyond the saturation
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07243959300732838
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics, as mentioned in the transcription, is referred to as Immunoinformatics. This field combines the disciplines of bioinformatics, immunology, and
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5219026232958055
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the United States construction industry employed fewer than 10 employees. As of April 2013, the industry employed an estimated 5.8 million people, with 13.2% unemployment rate
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.48730999704594513
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Romanticism, as indicated by the transcription, is considered the epitome of the Rhine Romanticism in the middle Rhine Valley. The region's landscapes and architectural structures have been greatly influenced
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5105218556201827
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union (EU) law consists of primary and secondary sources that have direct and indirect effects on the laws of EU member states. Primary sources of EU law include treaties, which set out the foundational legal framework and objectives of the EU
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.48168198052869293
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin primality test is one algorithm useful for conveniently testing the primality of large numbers. This probabilistic primality test is faster than trial division, especially for large numbers. While it's fast and efficient,
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.39392586535874163
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP, which stands for Member of Scottish Parliament, may introduce a bill as a private member's bill. This type of bill is a proposal for a new law or an amendment to an existing law that is sponsored by a
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14495765002146177
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water can be used to produce oxygen and hydrogen. This process involves the use of DC (direct current) electricity to split water into its constituent elements, namely oxygen gas and hydrogen gas. If
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.4957715009250724
+
+Question: How many men older than 18 are there for every 100 women?
+Response: For every 100 women aged 18 and over, there are 91.3 men. To find the number of men older than 18 for every 100 women, we would need additional data, such
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.4717620040242724
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: According to the given transcription, Monkey Khan, also known as Kublai Khan, launched a military campaign against the Chinese Song Dynasty in southern China. This indicates that the conflict took place in that region. The transcription also suggests
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.12435153948581179
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n when performing trial division to check for the primality of the given integer n. This is because if n is divisible by any number greater than its square root,
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4979767737738996
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach that protect against ingested pathogens are gastric acid and proteases. Gastric acid, primarily composed of hydrochloric acid (HCl), creates a highly acidic environment in
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.473609306371666
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcription describes the concept of passive immunity in newborn infants. Passive immunity refers to the process where the infant receives antibodies from the mother, rather than producing them independently, in order to protect against infe
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4964183045187298
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular strolling destination for Varsovians (Warsaw residents) mentioned in the transcription is the Krasinski Palace Garden. This park is part of the Saxon Garden, which covers an area of 15.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.37803806038455623
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR, which stands for Engineering News-Record, compiles and reports on data about the size of design and construction companies. Each year, ENR compiles and reports this data, and publishes a list of the largest companies in the United
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5970834615795668
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The rift system in southwest Germany, which is associated with the alpine orogeny, is mainly characterized by the Upper Rhine Graben. The Upper Rhine Graben is a significant geological feature that developed due to the on
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4927499146650469
+
+Question: Who discovered this and where did they come from?
+Response: Michael Hackenberger, along with colleagues from the University of Florida, discovered evidence of large settlements and road networks in the Amazon rainforest. These discoveries were made in 2003, in the region of the Sh
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.19472867374398162
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription provided seems to contain a mix of statements about biomolecules and their oxygen content, but it appears to be somewhat disjointed and repetitive. It doesn't directly present a clear question. However, based on
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3276059285010239
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. It is an essential part of geology and plays a crucial role in understanding earth's history. Stratigraphy involves the examination of rock layers, or str
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5843895190168253
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine net force when two forces act on a point particle is a parallelogram. This is known as the parallelogram law of vector addition. According to this law, when two vectors (forces
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4171442430792579
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When an AT cell, a type of T cell, encounters a foreign pathogen, it extends a vitamin D receptor (VDR). This is essentially a signaling device that allows the T cell to bind to the active
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5416468365166537
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine's water flow volume travels farther west outside of Germany. It passes through a sequence of water bodies, starting from the wall and moorweed, merging with Debis Bosch and the muse
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.34810742295124963
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are coefficients that quantify the amount of greenhouse gases emitted by a specific activity or source per unit of activity or source quantity. These factors are required by the United Nations Framework Convention on Climate Change (UNFCCC
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5818494403996606
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers tends to drive down wages primarily due to the abundance of available labor for certain jobs. When there is a high supply of workers and few employers seeking labor, workers are often willing to accept lower wages to
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6139635778617423
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure that put pharmacists in a superior position to other health-related fields in Japan during the periods mentioned in the transcription was established and maintained through legal codes and societal recognition. Specifically, the Tejo Code
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3370482989088258
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way, meaning it provides a nonspecific defense mechanism against pathogens. This system does not confer long-lasting immunity against a pathogen, as opposed to the adaptive
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.518408282163839
+

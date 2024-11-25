@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition payments made by their students and their families. Instead of relying on mandatory taxation through public, government funding, private schools generate their income through the fees they charge for their educational
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.35596848179698515
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on January 18, 1974. The negotiation resulted in Israel agreeing to pull back from parts of the S
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4705655134801018
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forest during the oligocene period in history. This period was characterized by climate fluctuations that allowed for the expansion and contraction of the rainforest's range. It
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4730647235589135
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. This event was a significant milestone in the Scottish independence movement, as it brought together various organizations, including Scottish churches, political parties, and industry representatives. The convention resulted in
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.06319180498719157
+
+Question: What substance is used to make high quality liquid O2?
+Response: High-quality liquid oxygen (O2) is usually obtained by the fractional distillation of liquified air. This process involves cooling air to very low temperatures until it liquefies and then separating the different gases
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4752688354408059
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars who classified the world into climatic zones and held prejudiced views about different races and cultures were typically working for colonial powers during the age of imperialism. These scholars often held positions within governmental
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.40152969216767886
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes occur due to the action of non-conservative forces, which are responsible for altering the internal energies of the system. These forces do not conserve the mechanical energy of the system and are typically associated
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1738000881527496
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is "Rhin". In the transcription, it is mentioned that the name "Rhin" is adopted in French from the Germanic vocalism of the Rhine, aligning with the naming conventions seen
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.32438991134700634
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, a specific antigen from a pathogen is introduced into the body to develop a specific immunity without causing disease associated with that pathogen. This deliberate induction of an immune response is successful because it explo
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5170592338581708
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, 0.5 percent of East German students attended private schools. The transcription states, "including rise from 0.5 percent to 6.1 percent in the former GDR." This indicates that in
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.5013016991256621
+
+Question: How many prime numbers exist?
+Response: The transcription discusses the concept of prime numbers and their distribution. Prime numbers, as identified by Euclid around 300 BC, are natural numbers greater than 1 that have no positive divisors other than 1 and themselves
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.12338080829056886
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is called Lorelai. Lorelai is located between the towns of Rudeshaym and Rhine, and near the town of Coblands. It is an outstanding architectural monument,
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.36748744559046287
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The transcription seems to contain placeholder text or typographical errors, replacing the name of a specific TINA force (presumably a predatory organism) that was accidentally introduced into the Black Sea, causing ecological disruptions
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.03666347410321613
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the temperature of the steam above its saturated vapor point in a steam boiler system are the superheaters. A superheater is a critical part of the steam generation process, where it receives saturated steam
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09421359808120455
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is referred to as "Immunoinformatics." Immunoinformatics is an emerging field that focuses on the study of immunogenicity using bioin
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5618912691753812
+
+Question: The average contractor hired how many employees?
+Response: According to the provided transcription, the average contractor in the construction industry employed fewer than 10 employees. This suggests that most contractors operate on a smaller scale, focusing on projects with a relatively limited workforce. Despite the industry'
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.4904513891222091
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism, as described in the transcription, can be considered the middle Rhine Valley. This region is characterized by its picturesque landscapes, historical and cultural significance, and natural beauty
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.518490644484882
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS primality test is an algorithm that is useful for conveniently testing the normality of large numbers. While it always produces the correct answer in polynomial time, it is considered too slow to be practical for most applications. Despite its slowness
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.41987868057577604
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP (Member of the Scottish Parliament) may introduce a bill as a private member. This means the bill is introduced by an individual MSP rather than being sponsored by a government minister or committee. Private member bills are typically not government
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0816573795795088
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription refers to the process of electrolysis as a method to produce oxygen and hydrogen from water. The method requires the use of direct current (DC) electricity, and if alternating current (AC) is used,
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5022304171208591
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In the given information, it is mentioned that for every 100 females age 18 and over, there were 91.3 males. This suggests that in the population aged 18 and over, there are
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.4898174702859779
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Khan, also known as Kublai Khan, attacked the Song dynasty in southern China. His military campaign against the Song dynasty commenced with the Mongol force being far greater than the force he sent in the Middle East in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.15955858437103976
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach employs several compounds to protect against ingested pathogens as part of its chemical barrier defense system. Primarily, gastric acid, which consists of hydrochloric acid (HCl), cont
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.46445801805164866
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcription describes the concept of passive immunity in newborn infants, highlighting the different layers of protection they receive from their mothers. It explains that newborns have no previous exposure to microbes and are highly sus
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.2771933971917808
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the rift system in southwest Germany that developed as a result of the alpine orogeny in the Eocene onwards include the Upper Rhine Graben. This geological feature is part of the complex tectonic
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5031107682594269
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of large settlements in the middle of the Amazon forest was made by Michael Hackenberger and colleagues from the University of Florida in 2003. They found evidence of roads, bridges, and large plazas
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.21792654996929461
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers, also known as strata. It is a branch of geology that focuses on the analysis and interpretation of rock layers and their sequence in time. Stratigraphy allows
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5645157352431879
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine the net force is a parallelogram. When calculating net force, the parallelogram rule of vector addition is applied, which involves constructing a parallelogram using two vectors (forces
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.5265575466993326
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When an antigen-presenting cell (APC), which may be referred to as an "AT cell," encounters a foreign pathogen, it extends a vitamin D receptor, also known as the vitamin D re
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5041069663139246
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine river's flow volume flows farther west outside of Germany. It continues through the wall, past the moorweed and new moorweed, merging with the muse, and flows through the deep
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3865453209854268
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are coefficients that relate the quantity of a pollutant released to the atmosphere with an activity associated with the release of that pollutant. They are used to estimate the emissions of greenhouse gases and other pollutants based
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5752884937149286
+
+Question: Why does competition among workers drive down wages?
+Response: The principle that competition among workers leads to lower wages is rooted in the basic economic theory of supply and demand. When there is a high supply of workers willing to perform a certain job, but the demand for that job is low,
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6324151608284181
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure mentioned in the transcription appears to be a result of a formal codification of roles and responsibilities in society, as seen in the Tejo Code and the Euro Code. These codes would have established the position and authority
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10188501155675345
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way. This means that it is nonspecific, meaning its defense mechanisms are not tailored to a specific pathogen but are rather designed to recognize and respond to common characteristics or patterns
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.19605572205817257
+

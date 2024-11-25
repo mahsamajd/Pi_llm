@@ -1,0 +1,175 @@
+Question: How many items is the University Library home to?
+Response: 2,000,000 [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3911202340305583
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: What substance is used to make high quality liquid O2?
+Response: The key to the answer is in the last sentence, which states that liquid oxygen is usually obtained by fractional distillation of liquified air. Since we are looking for a compound that condenses at 90.20 K, we know that it must
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4611875032456152
+
+Question: What makes energy changes in a closed system?
+Response: The first letter of the transcription (C), the context of the transcription (the connection between macroscopic non-conservative forces and microscopic conservative forces is described by detailed treatment with statistical mechanics), the second letter of the transcription (in macroscopic closed systems,
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.14608902079953956
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In order to develop specific immunity, vaccination consists of an antigen that the immune system is capable of recognizing as a threat to the body. This antigen is introduced into the body so that the immune system can recognize it as a threat and produce antibodies against it
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5553721145027013
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The answer is State Route 99. State Route 99 is the primary route through the San Joaquin Valley, including Fresno and Madera. It is a major east-west highway in the region, and it is a major connector between Interstate
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4982149279426833
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction means that an algorithm to solve the problem can be derived from an algorithm to solve a problem that is easier to solve. In the case of squaring, squaring can be solved by multiplying two integers. So squaring can be reduced
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.09089463774916584
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: A [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.09368224121979274
+
+Question: How many prime numbers exist?
+Response: 5
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.06850412770392389
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rudeshaym and Rhine and Coblands is listed as a UNESCO World Heritage
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.07674187899541884
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: TINA was introduced into the Black Sea through overfishing and long-term environmental changes that promoted the growth of the NEMIopsis. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.20789211746534753
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07425364066827711
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics is the study of immunogenicity through bioinformatics. Immunoproteomics is the study of large sets of proteins. Proteomics is involved in the immune response. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.474211957255652
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center for contemporary art, currently realizes about 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3061678147636755
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Gorge between Rudeshaym and Rhine and Coblands is listed as a UNESCO World Heritage
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.07770399521328775
+
+Question: What effect does European Union law have on laws of member states?
+Response: [end of text]
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.554329814241966
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: 1. The Miller–Rabin primality test is an algorithm for testing whether a given integer is
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.13933297224683738
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish government can introduce new laws or amendments to existing laws as a bill. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2335208337307435
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can produce oxygen and hydrogen. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3614227373089842
+
+Question: How many men older than 18 are there for every 100 women?
+Response: I think I would start with a hypothesis, and then I would write a hypothesis, and then I would write a conclusion. I think that my hypothesis is that the city has a low percentage of children. I think that this could be true because there
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park is popular with the Varsovians because of its large number of trees and the variety of plant species, as well as its history and architecture. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.46450596793890386
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 1. Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.1344679498305753
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift are the Upper Rhine Graben. In southwest Germany and eastern France and the Lower Rhine Embayment, in northwest Germany and the southeastern Netherlands. By the time of the Miocene, a river system had developed in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4544460295352688
+
+Question: Who discovered this and where did they come from?
+Response: The Shingu people lived in the Amazon rainforest in the 1500s and had their settlements in the middle of the forest. They did not have roads or bridges. They were farmers, and the soil was so fertile that it was used for
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.20628052831940846
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Newton, with his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved on for nearly 300 years. By the early 20th century, Einstein developed a theory of relativity that correctly predicted the action of forces
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. The context of the transcription is that the element is found in almost all biomolecules that are important to life. The context of the question is to determine whether or not the element is found in the most abundant biomolecules. The element is
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.006159528901657385
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the 1950s. In 1956, the Federal Aid Highway Act was signed into law by President Dwight D. Eisenhower. This act authorized the interstate highway system and also established the Federal Highway Administration. This
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.10088672705415769
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells are a subset of lymphocytes that are found primarily in the thymus. They are unique in that they express the 27 billion Cypriptone protein which is the enzyme responsible for converting the inactive vitamin D3 to the active
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.36186995203842176
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The direction of the flow of the Rhine river is the same as the flow of the main stem of the Rhine river, which flows through Germany. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.404690679926899
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive. The IPCC also provides technical support for the preparation of the Intergovernmental Panel on Climate Change (IPCC). It also supports other activities, such as the
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3919061385637319
+
+Question: Why does competition among workers drive down wages?
+Response: The relationship between workers and employers is a zero sum game, where there is always a finite amount of money going around and there is only so much that can be produced. Competition between workers drives down wages because it decreases the amount of money that each person
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5394738837040278
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists in Japan were highly respected in society. The place of pharmacists in society was expressly defined in the Tejo Code. 701, and restated in the Euro Code, 718, ranked positions in the pre-high and imperial court
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2844041493647259
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms. This system does not confer long-lasting immunity against a pathogen. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.21432434354558938
+

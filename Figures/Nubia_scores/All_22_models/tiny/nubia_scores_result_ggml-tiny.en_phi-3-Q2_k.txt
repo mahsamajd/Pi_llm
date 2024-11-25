@@ -1,0 +1,70 @@
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: I like to the,
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.07048273983718145
+
+Question: What makes energy changes in a closed system?
+Response: Bob makes energy changes in a closed
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.07361007322378388
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [Endeavor
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5050399013992279
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In the which reality.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1540973348232062
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 0.1 percent to 6.1 percent in the 11.1 percent.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.10610700858946065
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Out the the middle Rhine Valley can be considered the epitone of the Rhine,
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0795310345679382
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Beneer, Aevan, Beneer, Aevan, Aevan, Beneer, Aevan, Aevan, Beneer, Aevan, Beneer, Aevan, Ae
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.4728286261382182
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformat,
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.05099630484526674
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Sette slopes. The middle Rhine Valley can be considered to the epitone.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.09354307579097743
+
+Question: What effect does European Union law have on laws of member states?
+Response: Which the European Union and the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.541287397228748
+
+Question: How many days did the Warsaw Uprising last?
+Response: How many are the, to begin 1944,
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.05665185526046679
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Behend, to
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06592237747180518
+
+Question: Why does competition among workers drive down wages?
+Response: Answer
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6416358162079183
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way. Meaning it is to say it.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.2867958803023716
+

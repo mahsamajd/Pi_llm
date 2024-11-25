@@ -1,0 +1,165 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On January 18, 1974, U.S. Secretary of State Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula. The promise of a negotiated settlement between Israel and Syria was enough to convince Arab oil producers to lift the
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4896574728400839
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3759054753238623
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene, the Amazon rainforest was a narrow band of forest. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.35741668811057303
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in the year 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.34518062389802073
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the colonizing empires. These scholars believed that northern Europe
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.11797343336188115
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces which are usually associated with the transfer of heat, result in the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.13011716503292858
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhine. The English name for the Rhine is Rhine.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.44879953599731826
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination involves the introduction of an antigen from a pathogen to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease associated with that organism. To induce an immune response, the pathogen's antigen must be introduced
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6098678646120936
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1278847244536515
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Context.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10894142670867735
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The number of students attending private schools in Germany was 6.1% in 1992. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.39698783002735283
+
+Question: How many prime numbers exist?
+Response: There are infinitely many primes. As demonstrated by Euclid around 300 BC, there is no known simple formula that separates prime numbers from composite numbers. However, the distribution of primes, that is to say, the statistical behavior of primes in the large
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.015264116828266117
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is called the Lorelei Rock and is located in
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.23250365749327995
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Context.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.05357931864426979
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Steam boilers are often equipped with a superheater which is a heat exchanger which is used to increase the temperature of the steam and improve the thermal efficiency of the steam plant. Superheated steam is required to drive turbines in electrical power stations,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07703440211400225
+
+Question: The average contractor hired how many employees?
+Response: Based on the information provided, the average contractor hired 10 employees.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.27124372281566733
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine Romanticism. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4100152093640663
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.48104386116233666
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The answer to this question is electrolysis of water. As the question states, oxygen can be produced through electrolysis of water. However, it is also possible to produce hydrogen through the electrolysis of water. In addition, the electrolysis of water
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.20509160299237794
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 91.3 men older than 18 for every 100 women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3852093553741731
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongolia
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.050407463156219245
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days, or 10 weeks. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.31166769018220175
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is an adaptive immune response that occurs naturally after exposure to a pathogen.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.11916334419002883
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The most popular strolling destination for the Varsovians is the Krasinski Palace Garden. It is a big garden with old trees, benches, flower carpets, playgrounds, ponds and ducks on them. The park is very beautiful and has a
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4464249283800148
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the rift system in the Alpine orogeny in southwest Germany were the Upper
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.17788611471787774
+
+Question: Who discovered this and where did they come from?
+Response: Heckenberger and colleagues of the University of Florida discovered evidence of roads, bridges
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.0791611796606011
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3142460715721592
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary rock layers and the sequence in which they
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.26545410909724
+
+Question: What geometric shape is used in equations to determine net force?
+Response: In order to determine the net force on an object, the resultant force is calculated using the parallelogram rule of vector addition. The addition of two forces represented by the sides of a parallelogram gives an equivalent resultant force that is equal in magnitude
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.05215464568894701
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine flow outside of Germany. It flows to the west, through the Wall and then,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2882588912792332
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on the information given, the IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive council in UNEP governing council resolutions and decisions as well as on actions in support of the UNFCCC process. It also supports
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2690730663677825
+
+Question: Why does competition among workers drive down wages?
+Response: Competition amongst workers tends to drive down wages due to the expendable nature of the worker in relation to his or her particular job. A job where there are many workers willing to work a large amount of time. High supply. Competing for a job
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6873443408671397
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure put in place in Japan during the Teiho and Euro Code of 701 and 718 respectively was put in place because of the Japanese people's belief that the pharmacists, and even pharmacist assistants were assigned status superior to all others
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

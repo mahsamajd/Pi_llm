@@ -1,0 +1,135 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Context. From 2005 to 2014, there were two major league soccer teams in Los Angeles,
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.09748245368342379
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the European empire. They believed that northern Europe and the mid-Atlantic temperate climate produced a hard-working, moral, and upstanding human being. However, they believed that tropical climates yielded lazy attitudes, sexual promiscuity
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.28992084238746274
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is "la Rhine".
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.20544107386374377
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I-9 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.29776615776724524
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Since squaring can be logically reduced to multiplication, multiplication can ultimately be reduced to squaring.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.32456023029653736
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Context. The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06656717438367132
+
+Question: How many prime numbers exist?
+Response: There are infinitely many primes. There are infinitely many primes.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.5522333686629448
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Context.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.05357931864426979
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Context. Other components are often present. Pumps, such as an injector, to supply water to
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0969297127928962
+
+Question: The average contractor hired how many employees?
+Response: Context. In the United States, the industry in 2014 has around $960 billion in annual revenue
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.09329780286749245
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law on laws of member states depends on the nature of the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.12362027509844475
+
+Question: An MSP may introduce a bill as what?
+Response: Context. Bills can be introduced to Parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.16756804982084128
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 2.5 to 3.2 to 2.55 to 3.21 to 35.5 to 94.1 to 91.3 to 2.5 to 3.2 to 2.55 to
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3437478243415497
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The answer is m equals 5. For the trial division of the prime factor of any number, we require
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.08042627179183226
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Context. Chemical barriers also protect against infection. The skin and respiratory tract
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.07025380951321225
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden was formerly a royal garden. There are over 100 different species of trees and the avenues are a place to sit and relax. At the east end of the park, the Tomb of the Unknown Soldier is situated. In the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.11623178401340672
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the Eocene the Alpine orogeny caused the development of a rift system in the southwest
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1485501392005355
+
+Question: Who discovered this and where did they come from?
+Response: Context. Terra Preta, Black Earth, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.05852030876981118
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein. He developed the theory of relativity. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.33593010376316135
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Of all organic compounds with biological relevance, carbohydrates contain the largest proportion by mass of oxygen. All fats, fatty acids, amino acids, and proteins contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3215203270138518
+
+Question: What is stratigraphy?
+Response: stratigraphy. Stratigraphy is the study of sedimentary rock layers, which are usually
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.4606341095205143
+
+Question: What geometric shape is used in equations to determine net force?
+Response: A parallelogram is the geometric figure that is used to determine net force. The net force is equal in magnitude and direction to the transversal of the parallelogram. The resultant is equal to the difference of the magnitudes of the two
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.15924726485774554
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Context. When a T cell encounters a foreign pathogen it extends a vitamin D receptor, this is essentially a signaling device that allows the T cell to bind to the active form of vitamin D, the steroid hormone calcitriol. T cells have
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5478881393150681
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow of water is from west to east, so two-thirds of the Rhine flows southward.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2555446727431301
+
+Question: Levels of what things are used to determine emission factors?
+Response: I'm not sure why you're asking for a context, but the IPCC stands for the Intergovernmental Panel on Climate Change. It's an international body that provides guidance on the best ways to combat climate change. The IPCC is responsible for coordinating
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.45586162662549423
+
+Question: Why does competition among workers drive down wages?
+Response: In a job where there are many workers willing to work a large amount of time. High supply. Competing for a job that few require. Low demand. Will result in a low wage for that job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.42537088075013374
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Context. Microorganisms or toxins that successfully enter an organism encounter the cells and
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.05888293510333398
+
