@@ -1,0 +1,130 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition, which is a fee that a student pays for
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.42957278195336124
+
+Question: How many items is the University Library home to?
+Response: The university library is home to more than two million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4173536552463023
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars under colonizing empires, the world could be split into climatic zones. These scholars believe that northern Europe and the mid-Atlantic temperate climate produced that. Hardworking, moral, and upstanding human beings, alternatively,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.21079763304209675
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, the energy changes are due to the transfer of heat and work. For example,
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.18596399865941426
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Fresno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08916879077155748
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: This is a multiple choice question. The choices are: a) Addition, b) Division, c) Multiplication, d) Subtraction
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.22056850773203018
+
+Question: How many prime numbers exist?
+Response: The prime numbers are those numbers that are divisible by only one and the number itself,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.24785287977990544
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Superheaters raise the temperature of the steam above its saturated vapor point. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.35671530099354987
+
+Question: The average contractor hired how many employees?
+Response: As a whole, the industry employed an estimated 5.8 million as of April 2013, with a 13.2% unemployment rate.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.19517850033041995
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3803503170572178
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislations, such as regulations and directives, which have direct effects or indirect effects on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5194491719334815
+
+Question: An MSP may introduce a bill as what?
+Response: As a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.11257558032464454
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: In this context, oxygen gas can also be produced through electrolysis of water into molecular oxygen and hydrogen. DC electricity must be used. If AC is used, the gases in each limb consist of hydrogen and oxygen in the explosive ratio 2 to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.02292287019170758
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublai Khan, the grandson of Genghis Khan, was the last of the great khans of the Mongol Empire. He was the first to rule in China, where he founded the Yuan dynasty in 1271. He was also
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.34400757300316887
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.32705391116410376
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In order to perform trial division on the integer n, the integer m must be less than or equal to the square root of n. This is because if n is a prime integer, then n cannot be divisible by any integer greater than the square root
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.6085743032016426
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: passive
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.05640631785335981
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Csinsky Palace Garden is a popular strolling destination for the Varsovians. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.21405368498580502
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this RIF are the Upper Rhine Grabbing, in southwest Germany and eastern France and the Lower Rhine Embayment, in northwest Germany and the southeastern Netherlands. By the time of the Miocene, a river system had developed
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.42436359531877776
+
+Question: Who discovered this and where did they come from?
+Response: Cara prata, black herb, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.058037988813377406
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen, all fats, fatty acids, amino acids, and proteins contain oxygen due to the presence of carbonyl groups in these acids and their ester residues.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.48626638275141687
+
+Question: What geometric shape is used in equations to determine net force?
+Response: A parallelogram is used to determine the resultant force when two forces are acting on a point particle. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3379382262048092
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows into the North Sea, through the Dutch provinces of North Brabant, Gelderland, and the northern parts of Limburg, Holland, and Utrecht. Two-thirds of the Rhine flows into the North Sea through the Dutch province
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.24635364591333164
+
+Question: Levels of what things are used to determine emission factors?
+Response: In this context, the ICCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive Council and UNEP governing council resolutions and decisions as well as on actions in support of the UNFCCC process.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.21938524805184967
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers is a term used to describe the situation where the number of workers seeking employment is greater than the number of jobs available. This occurs when there is a large supply of labor relative to the demand for labor, resulting in lower wages. In
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6665614428423289
+
+Question: What put a hierarchical structure in place?
+Response: The place of pharmacists in society was expressly defined in the Keiho Code. 701, and restated in the Euro Code. 718, ranked positions in the Pre-Hyan Imperial Court were established, and this organizational structure remained largely intact
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2476840940455196
+

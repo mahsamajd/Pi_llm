@@ -1,0 +1,150 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium in which the Los Angeles Galaxy played during their tenure was the Home Depot Center. The name of the stadium in which the Los Angeles Galaxy played during their tenure was the Home Depot Center. The name of the stadium in which the
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2213488222628529
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The primary source of funding for private schools is tuition, which is charged by the school rather than
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5498965727775782
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The answer is 1974. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4432627469821935
+
+Question: How many items is the University Library home to?
+Response: 2,000,000 [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3911202340305583
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: I believe that the Amazon rainforest is a narrow band of forests. The extinction of the dinosaurs and the wetter climate may have allowed the tropical rainforest to spread out across the continent. From 66 to 34 mya, the rainforest
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.289415783144512
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1994 and it was held because the UK government was controlled by the conservative party and the people of Scotland were electing a number of conservative MPs. The Scottish Constitutional Convention was an attempt to push for the independence
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.030549246622155524
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen, a colorless and odorless gas, is a high purity and highly reactive substance. Oxygen has a wide range of applications, from the production of plastics to the production of medical oxygen and rocket propellant. Oxygen is also used as a fire
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.44916636164479007
+
+Question: What makes energy changes in a closed system?
+Response: Energy is conserved in a closed system, unless you violate the second law of thermodynamics. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.14805844482865071
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rudyshynum and Koblenz is a UNESCO World Heritage Site. The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. The dominant economic sectors in the Middle Rhine area are
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.2070100424385305
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Ctenophores, as a group, can be described as “a group of animals with a jelly-like body, which contains a central mouth and no feet, and is free swimming.” Ctenophores are called “Jellies” because
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.12090289739344673
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22982687006801572
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: AKS Test [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.48439163135994634
+
+Question: An MSP may introduce a bill as what?
+Response: A [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14324371489486698
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 11.8% were vacant. 23.9% of households had children under the age of 18 living with them. 43.8% were married couples. 15.2% had a female householder with no husband present
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.18284541777581265
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire conquered China in 1271. This event was known as the Mongol conquest of China (1264–1279). Mongol Empire was a large, centralized state that had been established in the 12th century and was
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4333290450792676
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer n must be less than or equal to 37. Therefore, n = 36 (mod 37).
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.186465608680769
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach contains numerous enzymes that destroy ingested pathogens. These enzymes are also used to digest food and produce vitamins. They are mainly made up of hydrochloric acid, proteases, and lysozyme. They can be broken down into small
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.49879423145299384
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Kacinski Palace Garden is a popular strolling destination for the Barsobian. The Kacinski Palace Garden is an old tree, black walnut, Turkish hazel and Caucasian wingnut trees. With its benches, flower carpets, a pond
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3939695529397088
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: This question is about the construction industry, and the trade magazine Engineering news record. The trade magazine is known for publishing a list of the largest companies in the United States and the largest global firms. The top 40 largest companies by amount of work done
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.20273186644646612
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine-Gravin, that continued northward and is considered the first Rhine river. At that time, it did not yet carry discharge from the Alps. Instead, the watersheds of the Rhone and Danube drained the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.22056196729799005
+
+Question: Who discovered this and where did they come from?
+Response: 1. Kara Prada, Black Earth, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.05570506164818856
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The compound is glucose. All biomolecules are carbon based compounds. However, glucose is a compound that
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.12958683393995885
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of strata (layers) of a geologic unit in sequence. Stratigraphy is the study of strata (layers) of a geologic unit in sequence. Stratigraphy is the study of strata (layers) of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.7426127642062921
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Vitamin B receptor (27 billion Cp/1)
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.11065188395049885
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Dutch name 'Rien' no longer coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther west, through the Wall and then, via the Merweed and New Merweed, to Bes
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06473487771642095
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is an international organization of scientists who produce the Intergovernmental Panel on Climate Change (IPCC) reports. The IPCC was established in 1988 to prepare an assessment of the scientific and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4395115763863674
+
+Question: Why does competition among workers drive down wages?
+Response: This is because competition among workers drives down wages due to the expendable nature of the worker in relation to his or her particular job. A job where there are few able or willing workers. Low supply, but a large need for the position. High
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6530953668390458
+
+Question: What put a hierarchical structure in place?
+Response: The answer is: The men who fulfilled roles similar to those of modern pharmacists were highly respected. The place of pharmacists in society was expressly defined in the Teiho Code (701) and restated in the Euro Code (718).
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.23901593968572
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms questioned. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.16082034239652077
+

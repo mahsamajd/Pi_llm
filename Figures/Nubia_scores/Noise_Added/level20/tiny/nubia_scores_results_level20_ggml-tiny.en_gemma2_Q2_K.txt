@@ -1,0 +1,190 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The team was located in downtown, and the team played in a 70,000 capacity, and the team was located in a place where there was a stadium, which had been the location of a team and the team had
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.47380742522235475
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A private school, is a school which is not under, is not administered, by, the, government, or, part, of, government,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1698944242117112
+
+Question: How many items is the University Library home to?
+Response: 1. 1,000.200 items, a total of 200,000.200.000.200 items, and 200,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.21741417383640294
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the last 34 million years, the Amazon rainforest expanded and contracted.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.09870056583393383
+
+Question: What substance is used to make high quality liquid O2?
+Response: 1.    A light blue color is a result of light
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.08439133769273077
+
+Question: Who did the geographic scholars work for?
+Response: According to the Geographic Scholars, the world was divided into three,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10528014684066689
+
+Question: What makes energy changes in a closed system?
+Response: According to the first law of thermodynamics, the rate of change of a system's entropy is a function of the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.20547174443999416
+
+Question: What is the French name for the Rhine?
+Response: In 1389 the Romans, the Roman-Germanic or, in Latin, the, and the, the, is, and the, the, of the, and, the, in, and the, and, and
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1921757231097727
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Question: The vaccine was designed and created with the specific and specific and specific and the specific and specific and specific and specific and specific and the specific and the specific and specific and the specific and the specific and the specific and specific and specific and specific
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5566973294748876
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I have not been able to get to your question about the freeway system.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09158806992095758
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The article 7 of the constitution provides the basis for the article 8 of the constitution.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.08047205538041313
+
+Question: How many prime numbers exist?
+Response: First, we can make a number of observations. The number of digits in the number of digits,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.20658565205831647
+
+Question: Where is the famous rock the Rhine flows around?
+Response: 1. The Middle Run is the most important economic area, which is mainly focused on the wine and tourism.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.06647615081536695
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: In days, the number of 1,4, and the 1,4, which were not mentioned, is 4, which is 1,4, a, and the number of 1,4, which is not
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.3248297888209164
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Boiler, mechanical
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.05954023064461034
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: In the case of a contact, a larger drug, the large-scale drugs, which have a larger effect,
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1611544498769235
+
+Question: How many projects does the Centre currently realize a year?
+Response: 1. The center is a modern and contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.07573528522205675
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The context of this answer is a tourism-oriented area where
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.07396553078007029
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: (
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.48654561106725724
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is a proposed law introduced by a government minister in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2066496485538153
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: oxygen is an element, which has a formula O and is a gas. The oxygen is a compound. Oxygen is a compound, which has a formula O and is a gas. O, O is a compound, which has a formula and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.08578768510605372
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The question requires a specific answer which was not provided in the question. However, the answer provided was the best answer according to me:
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.1776291113142039
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the Mongols, the
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.6501534559295343
+
+Question: How many days did the Warsaw Uprising last?
+Response: the uprising, with the exception of one day, lasted only 5 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.1715336178818675
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The square root of the number of integer is the number of times 4 is required to be performed
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.11025444748169477
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach, a complex, and the stomach are used in the defense against pathogens. In the stomach, protective compounds include enzymes, while the stomach and the stomach are used in the defense against pathogens. The stomach and the stomach are used in the defense
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.21436033038409197
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The short-lived passive immunity is only temporary, but provides protection to the infant. The short-lived
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.19677385548957893
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The answer is not a part of the park, which has been included in the article for 15.5 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.11031681890105849
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: 1. The alpine orogen has a very strong influence on the geology of the surrounding regions.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.13690204624175906
+
+Question: Who discovered this and where did they come from?
+Response: The most recent study of the place, was carried out by a team of 100 scientists, from 2004,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.07937870230620414
+
+Question: Who develped the theory of relativity?
+Response: The most fundamental of the five forms of life in the world – and, in some sense,
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.1046173989033472
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the greatest amount of oxygen by mass, and this is the case with a number of the
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.43194448850396594
+
+Question: What is stratigraphy?
+Response: stratigraphy is the study of sedimentary layers, and structural geology is the study of the
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.32707545268100535
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Since forces are always in a direction, they must always have a direction. This direction,
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.10607923083172022
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: * 2314: 2445, the new moss: the new moss in 1395, the new water flow to form, which has been a
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1063893936021717
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages, since there is a relative shortage of workers. The
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1520079882898726
+
+Question: What put a hierarchical structure in place?
+Response: 718, in this, 1,668, in the case of, and, in the, 1,668, in the case of, and in the,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2668266977175282
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: When a microbe, like bacteria, enters the body of an organism, the body, such as a
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.11522811421294843
+

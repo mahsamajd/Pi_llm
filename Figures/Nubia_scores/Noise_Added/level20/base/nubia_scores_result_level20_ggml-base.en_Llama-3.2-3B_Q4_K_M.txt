@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium that the teams played in was the StubHub Center. The StubHub Center was the home stadium for the LA Galaxy and Chivas USA. Chivas USA was suspended following the 2014 MLS season, and a new team, LA Football
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4645712526043505
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools, are not administered by local, state or national governments. Thus, they retain the right to select their students and are funded in whole or in part by charging their tuition
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.07481439991392891
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription of the document provides information on the impact of the Yom Kippur War on international relations and on the potential of the crisis to undermine the alliance between the United States and NATO. The document also provides details of the negotiation between the Arab
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.2851901238601634
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items, making it one of the largest and most important libraries in Europe. It is also one of the most beautiful and well-kept gardens in the area. The library was designed by architects Merus
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.32797419391419
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest is a narrow band of forest in the tropics. The rainforest was
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.31738118788229464
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1995. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.15707777088700303
+
+Question: What substance is used to make high quality liquid O2?
+Response: The answer to this question is that oxygen is a nonmetal. This is because oxygen has a low electronegativity, which means that it is easily attracted to other elements. It is also highly reactive and can easily form bonds with other elements.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.42686019032282996
+
+Question: Who did the geographic scholars work for?
+Response: Geographic scholars, according to their work, believed that the world could be split into climatic
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1091026442486337
+
+Question: What makes energy changes in a closed system?
+Response: Non-conservative forces act to change the internal energy of a closed system and result in energy transformation from order to more random conditions as entropy increases. Non-conservative forces are forces that are not conserved. The internal energy is the sum of the total
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.08528638346325057
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is 'Rhin'.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.14087041956816315
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination represents a deliberate manipulation of the immune system in order to develop
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.17218391172502612
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 is in discussion to upgrade to Interstate standards. The state route was built in the 1950s. The Interstate Highway system was created in the 1950s, but the Interstate 5 was built on the west side of
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5350498184941466
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: A polynomial time reduction is a reduction in which the number of steps required to reduce a
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.26010298221439754
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The question asks to provide the percentage of each German student who attended a private school in 1992. In Germany, between 1992 and 2008, the percentage of people in private schools increased from 6.1 percent to 7
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.1649761300982281
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is the Lorelei Rock. It is located
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.2790374456439191
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Tena4s are small crustacean that feed on phytoplankton, zooplankton, fish larvae, and other smaller animals. One Tena4, mimeopsus, has accidentally been introduced into the Black Sea, where it
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.4517010487549553
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Superheater is the component which raises steam temperature above its saturated vapor points. The superheater is a heat exchanger which is positioned in the steam path downstream of the steam boiler. The superheater is used for increasing the temperature
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06623568066604557
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immuno-informatics.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.30883455228796386
+
+Question: The average contractor hired how many employees?
+Response: In 2014, the United States construction industry had around $960 billion in annual revenue. This includes both residential and non-residential construction. In 2014, the government spent $680 billion on construction, with $38 billion on
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.39551841858146475
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: context. The dominant economic sectors in the middle Rhin area are finoculture and tourism. The Rhine gorge between Redish and Rhine and Toblin is listed as a UNESCO World Heritage Site. Near Saint-Borshousen, the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.13489859760505196
+
+Question: What effect does European Union law have on laws of member states?
+Response: Context. European Union law is a body of treaties and legislation. Such as regulations and directives.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11185987967528344
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: There are many algorithms for testing the formality of numbers, but the most widely used one is the Miller-Rabin formality test. This algorithm works by choosing a random integer, b, between 1 and n-1, and then checking if
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.44885713643110736
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water is a chemical reaction where the water is split into hydrogen and oxygen gases using an electrical current. It is possible to use either direct current (DC) or alternating current (AC) to electrolyze water. When using DC,
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.11681710073273388
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m should be less than or equal to the square root of the number we're checking. This makes sense because the number we're checking can't be greater than the square root of itself, so it can't have a factor greater than
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5148421412677525
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In the stomach, gastric acid and protease serve as powerful chemical defenses against ingested pathogens. Gastric acid is produced by the stomach as a result of a substance called hydrochloric acid. Protease is a substance produced by the stomach that
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.48424702854746726
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Cinci Palace Garden is a popular strolling destination for the Varsovian. This park is situated in the Cinci Palace Garden, which is located in the heart of Warsaw. This park is a popular destination for the Varsovian, as
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4261874190281866
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The question states that ENR is a trade magazine for the construction industry. ENR also compiles data about the size of design and construction companies. They publish two lists: the top 400 in the United States, and the top 250 globally
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.49312564421435245
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift are the upper Rhine Grabbing in Southwest Germany and Eastern
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.13932594647267438
+
+Question: Who discovered this and where did they come from?
+Response: context. Cara Prada, Black Earth, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.056264013815048974
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The answer to this question is that oxygen is the most abundant element in organic compounds. Organic compounds are molecules that contain carbon and hydrogen atoms. Carbon is a group 14 element, and it has four electrons in its outermost shell. Hydrogen has
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07754209608049678
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of rock layers and the sediments they contain. Geologists use stratigraphy to interpret and reconstruct Earth's history. Geologic stratigraphy is the study of the layered history of the Earth. Stratigraphy is the science of rocks
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2898614584956761
+
+Question: What geometric shape is used in equations to determine net force?
+Response: In this question, the author is asking about the parallelogram rule of vector addition, which is used to calculate the resultant force when two or more forces act on an object. The parallelogram rule states that the resultant force is equal to the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.08242727297579522
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1.1
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5193157397751653
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine River originates in the Alps of central Europe and flows through Germany, Switzerland, and the Netherlands. The Rhine is the largest river in Germany and the Netherlands. It is formed by the confluence of the Aare and Rhine
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1397217250554338
+
+Question: Levels of what things are used to determine emission factors?
+Response: In this context, the ICC concentrates its activities on the tasks allotted to it by the relevant WMO executive Council and unit governing council resolutions and decisions as well as on actions in support of the UNFCC process.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.19152238712919656
+
+Question: Why does competition among workers drive down wages?
+Response: High Supply, Low Wage:  There are many workers willing to work a large amount of time, and these workers are competing for a job that few require. An example of this would be jobs such as fish washing or customer service. These workers tend
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5797657601240216
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place was the social system of Japan that was based on the traditional ideas of filial piety and respect for superiors. In this system, the emperor was considered as the supreme being and all other people were obliged to show respect
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

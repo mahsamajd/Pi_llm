@@ -1,0 +1,175 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1.  It's so beautiful, it's so beautiful, and it's so beautiful, it's so beautiful, it's so beautiful, it's so beautiful, it's so beautiful, it's so beautiful, it's so beautiful,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5498181631187827
+
+Question: How many items is the University Library home to?
+Response: The man who is really a writer in the United States is really just a man who lives in the house of his wife. I'm the man who is really a writer in the United States. It's really just the man who lives in the house
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.0626882075965216
+
+Question: What substance is used to make high quality liquid O2?
+Response: How do you feel about your mind before you feel it?
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.08525658663324309
+
+Question: Who did the geographic scholars work for?
+Response: The question of what is the color of the colors is that of the colors that are the colors that are the colors that are the colors that are the colors that are the colors that are the colors that are the colors that are the colors that are the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.06852597140345218
+
+Question: What makes energy changes in a closed system?
+Response: Mountains are closer to the surface, and it's very similar to the surface, and it's very similar to the surface. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.18956659816753574
+
+Question: What is the French name for the Rhine?
+Response: The point of the moment is that now there is not a moment, and now there is a larger life than a larger life.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1409070367404629
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The transcription of the conversation between the speaker and the listener is transcribed as follows:
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.10524381965478069
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The question I'm just knew I stayed in my field actually used the music space I was. When you're in this case I was looking at the beauty of an announcement system. So this is the beauty of the truth, but if you are a
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.0
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The first step in the transcription is to identify the starting point of the transcription. In this case, it is the phrase "I'm here" that is being transcribed, so the transcription should start with the word "here". The next step is
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.05947633042558098
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The kingdom of Tybert's fear. The only thing I've seen is the groomers. The only thing I've seen is the groomers. The only thing I've seen is the groomers. The only thing I've seen is the groom
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.11311608063617473
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The sound is actually on the surface, and the little rhino is on the surface, so the rhino is on the surface.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1155109337950393
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: It's easy to find out that I don't know what's going to happen, but I don't know what's going to happen, but I don't know what's going to happen, but I don't know what's going to happen,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06218711198746829
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [1-2 lines of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.13978336832677762
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: I think this is about the fact that the only thing that's going to happen is the thing that's going to happen. I think this is about the fact that the only thing that's going to happen is the thing that's going to happen.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.1423299657190008
+
+Question: How many projects does the Centre currently realize a year?
+Response: The transcription is a little confusing at first, but we can take a closer look and see what we can make of it. We can see that the transcription is talking about the speaker's knowledge of how to do things. They talk about their own knowledge
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What effect does European Union law have on laws of member states?
+Response: You are still alive while I am alive as a living corpse. You are still alive while I am alive as a living corpse. We are still alive while I am alive as a living corpse. We are still alive while I am alive as a living
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.6192328084315458
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: 1. The top is the inside, and now the top is the melody, so if you think that's the only method of playing this analogy, if you think that's the only method of playing this melody, it's the only method of
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3540336088266699
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcribed phrase, "I'm sure things are not for this disease, so the next time is just a water, if you're not there, I'm sure it's not for this disease", was repeated four times in the transcript. It
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.07302102749539363
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: I'm not sure what to say about it. I don't know what to say about it.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2610549794880581
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: And most of this is nothing that's happening in the canal here, but it's good to meet you for a while, it's not a fire.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.08351998500931657
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: I'm not sure.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.518921900740249
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.6690825207294215
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: In the process of turning, it takes me to the bottom.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.06495105739537288
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: Who discovered this and where did they come from?
+Response: The title of the digital experiment, which is how it's going to fix it as well, is the title of the digital experiment, which is how it's going to fix it as well.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4543881850586048
+
+Question: Who develped the theory of relativity?
+Response: (A)
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.42497654085984227
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: I am the only one that's found in almost all of our molecules that are in history.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07412133408239252
+
+Question: What is stratigraphy?
+Response: [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.402720289905694
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The transcription of this piece of music is quite challenging, but with proper practice and patience, it is achievable. The first thing to notice is that the piece of music is written in a minor key, which gives it a more melancholic and somber
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The next few fellows under the carpet are shown to the plastic. The next few fellows under the carpet are shown to the plastic. The next few fellows under the carpet are shown to the plastic. The next few fellows under the carpet are shown to the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5589614529788574
+
+Question: Levels of what things are used to determine emission factors?
+Response: The children are not very new to the children as well as the children are not very new to the children as well.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2268612054302267
+
+Question: Why does competition among workers drive down wages?
+Response: I'm sure. It's obvious that I'm really nervous when I realize I'm conscious. I just love.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.09795318444905776
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The next thing is that the structure is also important to ensure that the edges are not important.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.059249606997222704
+

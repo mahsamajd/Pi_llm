@@ -1,0 +1,160 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The question doesn't specify the name of the stadium, but both the LA Galaxy and Chivas USA played at the Rose Bowl stadium in Pasadena, California, which is a sub-hub for the Los Angeles area and
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.40421238150718086
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent, non-governmental, or non-state schools, are funded through tuition fees paid by their students. Unlike public schools, which receive funding from the government, private schools
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.568672730068518
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula on January 18, 1974. This was part of the multilateral negotiations he led with the
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4044062880860092
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention, also known as the Convention on the Constitution, was held in 1989. This convention was a significant event in the push for devolution in Scotland and played a crucial role in shaping the structure of
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.10978796805395019
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen (O2) can be produced using liquid nitrogen as a tool. Liquid nitrogen is used to condense gaseous oxygen into its liquid state by cooling it to below its bo
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.44705885427715897
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars mentioned in the context were working for colonizing empires. These empires aimed to exert control and influence over various regions across the world, and their scholars played a pivotal role in justifying
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4208253263228351
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes are primarily driven by the action of non-conservative forces. Non-conservative forces, as discussed in the given transcription, are mechanisms that alter the internal energy of the system. They are
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.5420519461930327
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine river is "le Rhin." This name has been adapted from various linguistic origins, as mentioned in the transcription. The name is derived from the Old Frankish word "Rin," which has a
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1491831693844342
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from the pathogen is introduced in order to develop specific immunity. This deliberate induction of an immune response exploits the natural specificity of the immune system, allowing it to recognize
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5658166647838182
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The State Route that has been in discussion to upgrade to interstate standards is State Route 99. This consideration is driven by the rapidly increasing population and traffic in the cities along this route, as well as the attractiveness of federal fund
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5196447527296296
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to polynomial time reduction, squaring can ultimately be logically reduced to multiplication. This means that the complexity of squaring an integer, which is a problem within the class P (problems that can be solved in polynomial time), can be
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.31450010938508766
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of East German students who attended private schools in 1992 was not directly provided in the transcription. However, it mentions that from 1992 to 2008, the percentage of pupils in
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.322402060008367
+
+Question: How many prime numbers exist?
+Response: The transcription does not provide a specific number of prime numbers. It mentions that there are infinitely many primes and that the prime number theorem describes the statistical behavior of primes. However, it does not mention a particular quantity or count of prime numbers
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.07348624781763324
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is known as Rock Lorelai. It is situated near St. Glorzhausen in the Middle Rhine area. The region around Rock Lorelai is characterized by deep slopes,
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.4200310110827502
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea is Meneopsis. This introduction has been linked to the collapse of local fish stocks, as Meneopsis preys upon both fish larvae and other organisms that
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.14995839774622333
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above its saturated vapor point in a boiler system are superheaters. A superheater is a crucial part of the steam generation process in thermal power plants. Its primary function is
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.08577724581250268
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as "immunoinformatics." This field utilizes computational methods and techniques to predict the immunogenicity of peptides and proteins, which is particularly useful
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5435766492046381
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has a significant impact on the laws of member states. As a body of treaties and legislation, it influences the legal frameworks and policies within the EU member states. The effects of European Union law on member states can
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5046063253451094
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP, or Member of the Scottish Parliament, may introduce a bill as a private member's bill. This allows individual Members of Parliament (MPs) to propose legislation without it being part of the government's legislative ag
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.536346731642993
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Based on the given data, for every 100 women aged 18 and over, there were approximately 91.3 men. This ratio indicates a slight gender disparity in the specified age group, with a slightly higher number of
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.21801779016145673
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach that protect against ingested pathogens are gastric acid and proteases. Gastric acid, primarily composed of hydrochloric acid, creates a highly acidic environment in the stomach
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5191801544172778
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The antibodies transported from the mother to an infant via the placenta represent a form of passive immunity. This type of immunity is short-lived as it lasts from a few days up to several months,
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5628468727811025
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The Engineering News Record (ENR), a trade magazine for the construction industry, compiles and reports on data about the size of design and construction companies. Each year, ENR publishes a list of the largest companies in the United States based on
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5827596940387013
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The rift system in the Alpine orogeny in southwest Germany, as described in the transcription, features the Upper Rhine grabbing. This geological formation is a result of the ongoing alpine orogeny, which
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4592148125322837
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: According to the information provided in the transcription, carbohydrates contain the greatest amount of oxygen by mass. The transcription states that all fats, fatty acids, amino acids, and proteins contain o
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.45137435349944055
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the branch of geology concerned with the study of rock layers (strata) and layering (stratification). It involves the analysis of the composition, distribution, and succession of strata to understand the historical sequence
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.49560165800057265
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine net force is a parallelogram. This is often referred to as the parallelogram rule of vector addition. According to this rule, if two vectors (forces, in this case)
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.5328383359678985
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T cell encounters a foreign pathogen, it extends a vitamin B receptor. This receptor allows the T cell to bind to the active form of vitamin B. Specifically, the T cell also interacts with the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5353229300800302
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine's water flow volume that does not flow through Germany goes west, towards the North Sea. This flow begins in the Wall area and continues through the Merweed and New Merweed, eventually merging
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3649616663558364
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC, or the Intergovernmental Panel on Climate Change, concentrates its activities on tasks assigned by the relevant WMO (World Meteorological Organization) executive, council, and units governing council resolutions and dec
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.20680655217373156
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages because it creates a surplus of labor for certain jobs. When there is a high supply of workers for a job that few require, employers have more options to choose from and can offer lower w
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5394188572558963
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a non-specific, or generic, way. This means it does not provide long-lasting immunity against a particular pathogen. Instead, its response is broad-based, recognizing and respond
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.5063502794548238
+

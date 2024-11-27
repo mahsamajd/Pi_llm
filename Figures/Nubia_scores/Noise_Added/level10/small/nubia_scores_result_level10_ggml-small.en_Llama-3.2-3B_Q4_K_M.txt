@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium name is Subhub Center. Subhub Center is the stadium where the two major lead soccer teams in Los Angeles, LA Galaxy and TVOS GSA, have both played against each other in their local rival. However, TVOS
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4127095906302427
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: In the given transcription, the first sentence states that the private schools are not
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.08219455902222472
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The case of the crisis of 1973 was a major impact on international relations and created a risk within NATO. In this crisis, European nations sought to disassociate themselves from US foreign policies. The Middle East saw a gap left by the boycott,
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.18311716688119128
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The answer is: “During the oligarchy, for example, the rainforest turned a relatively
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.1279370423592946
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989, and was a political party and
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.23323043359148699
+
+Question: What substance is used to make high quality liquid O2?
+Response: The liquid substance used to make high-quality liquid oxygen fuels is liquid oxygen, which is created by condensing air into liquid. Liquid nitrogen is also used to produce liquid oxygen. This is a substance that must be separated from combustible materials. Liquid oxygen
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.41340108309632817
+
+Question: What makes energy changes in a closed system?
+Response: The concept of a microscopic conservative force is associated with a macroscopic system in which the system's internal energy is the sum of the microscopic internal energies of all the constituent particles. In an isolated system, the total internal energy remains constant, while in a
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.019456638348411492
+
+Question: What is the French name for the Rhine?
+Response: "The various forms of the name of the rhyme in modern languages were all derived from the dollar. Menas, which was adapted in Roman Arab geology, 1st century BC, as Greek Renas, Renas, Latin Renas,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1064881549456621
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, the antigen from a pathogen is introduced in order to develop a specific immunity against that particular pathogen. Vaccination represents to make effective manipulation of the immune system mankind has developed in the process of vaccination, the antigen from
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5756562887907686
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The largest city in the United States not directly leased to an interstate highway is Los Angeles, California. The city was founded on September 4, 1781 by Spanish governor Felipe de Neve. The city's name is derived from the indigenous
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.33721104121102186
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction is a type of reduction that takes polynomial time. An example of a polynomial time reduction is squaring an integer. Another example is multiplying two integers. A reduction process takes time that grows polynomially. The time complexity of the reduction process
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10363984618353472
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7. For that context, the right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.40400504760056455
+
+Question: How many prime numbers exist?
+Response: As demonstrated by Luther around 300 BC, there is no known simple formula that separates
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.067888191217513
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Ludacine and Rhine and Coburn is lifted at the UNESCO World Heritage Site. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.09551934968763076
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above its saturated vapor points are the injection and reheat. Injection is a process that injects water into the steam flow to raise the temperature of the steam. Injection is typically used in steam power plants to improve efficiency
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.05990761551253321
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: In 2014, the industry in the United States had $960 billion in annual revenue according to statistics cut by. The Census Bureau, of which $680 billion is private, could be split evenly between residential and non-residential, and the remainder
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.20414233041444185
+
+Question: How many projects does the Centre currently realize a year?
+Response: The number of projects the center currently realizes a year is 500. The information is provided in the transcript. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.48066510733299594
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is the epitome of Rhine Romanticism because of its outstanding architectural monuments and historical significance, as well as its scenic beauty. The Rhine flows through the valley, lined with steep slopes covered in vines, and the towns
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.39929097220600773
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and registration such as regulations and
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.09130186928825901
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for conveniently testing the formality of large numbers is trial division. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.10711411622896982
+
+Question: An MSP may introduce a bill as what?
+Response: The correct option is option 3. A member of the Scottish parliament can introduce a bill as a private member. Private member bill is a bill introduced by an individual member of the parliament. This can be done by a member of the Scottish parliament.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.09035394339991498
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The first step in electrolysis is to dissociate the water molecules into their respective
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1615133110319128
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 62 days. The uprising began on the 1st of August 1944 and ended on the 2nd of October 1944. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.5094107430418444
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: For trial division, we must choose the upper bound on the range of values that we want to divide our integer n by. We choose the upper bound to be the square root of our integer n. So for the integer n = 37, the
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4819150008056373
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Chemical defense is the way of protection from pathogen. Pathogen can be of two types such as gram negative and gram positive. This is the reason why a pathogen is treated with chemicals. The enzymes such as lycovine and phosphol
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.36726418374298386
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: This is a great question and I’m happy to help you with it. I have a background in immunology and have been working in the field for more than 20 years. I’ve had the opportunity to work with many different types of antibodies,
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4329940900115913
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Monument of the Warsaw Ghetto Upheaval is situated in the 15th-century Palace Garden. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.14044073785503552
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Engineering News Record (ENR) is a great magazine for the construction industry. It compiles and reports on data about the size of design and construction companies. Each year, ENR compiles and reports on data about the size of design and construction
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.6344735834963611
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: Who discovered this and where did they come from?
+Response: The question states that the discovery of a new product was made by researchers at the University of Florida. The question then asks who the researchers are, and what their names are. The question is asking about the researchers' name. The answer to this question
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.5239991883150735
+
+Question: In what year was the Interstate Highway System created?
+Response: On the west side of the central valley, enough bypass many of the population centers in the region, instead of upgrading what is now State Route 99.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.08423863267350817
+
+Question: What is stratigraphy?
+Response: The process of studying layers of rocks and sediments, which are formed over time, to understand the history of the Earth is called stratigraphy. It is a critical part of geological investigations, as it provides a chronological record of events that have occurred on
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.09290950831090794
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5182579468098503
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The given transcription is of the route of the Rhine river. The Rhine is one of Europe's major waterways, and it connects several cities of Europe, including Germany, the Netherlands, and other countries. The river flows from the Swiss Alps
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.03369084079579732
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are the amount of emissions from a single unit of a given product. They are determined by taking into account several factors such as the type of product, the size of the unit, the amount of fuel consumed, and other environmental conditions.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.6131798239060517
+
+Question: Why does competition among workers drive down wages?
+Response: The reason that competition among workers drives down wages is that the market is able to keep the wages of workers low. This is because there is more than one worker looking for the same job, therefore the company will hire the one who is willing to work
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6223699684057458
+

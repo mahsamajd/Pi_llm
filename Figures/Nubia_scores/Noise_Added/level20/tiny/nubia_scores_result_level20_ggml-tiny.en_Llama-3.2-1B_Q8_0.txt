@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Contact, private school, also known as independent school, non-governmental, or non-state school, are not administered by local, state or national government, thus, they retain the right to select their students and are funded in horror and part by
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.23456031797295007
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: I
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4631915854696488
+
+Question: How many items is the University Library home to?
+Response: 2 million
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.13281695996315712
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish constitutional convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3050782387697527
+
+Question: Who did the geographic scholars work for?
+Response: The answer is the British. They worked for the British empire, the British empire worked for the Europeans in the past.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.22821140441491372
+
+Question: What makes energy changes in a closed system?
+Response: The macroscopic closed system of a living cell must be stable in terms of internal energy
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1122022996406582
+
+Question: What is the French name for the Rhine?
+Response: The Rhine is a river in Germany and is named after the Germanic tribe of the Rhine. The river rises in the Black Forest in the western part of the state of Baden-Württemberg, flows generally southwest, and empt
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.08113654987547014
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 5
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08474306405335286
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The reduction process takes polynomial time. For example, the problem of squaring in integers can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used as squaring integers. Indeed, this can be done
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10160199253745006
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.14569911708691685
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times. As demonstrated by youth world around 300 BC, there is no
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11314992335042018
+
+Question: Where is the famous rock the Rhine flows around?
+Response: In the Rhine Gorge between Rüthe and the Rhine, the famous rock Lorali is located. It is the most important and outstanding architectural monument. The slopes are full of vines, settlements are crowded on the narrow river base and scores
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: 3 tina4s, mimeopsis, has accidentally been introduced into the black sea, where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms. That would otherwise have said the fish. The situation was aggravated by
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The first component, contact is the mechanism that allows steam to be transported through the
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.14560431472867408
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the rhyme romanticism is the Rhine Gorge located between the Reesach Valley and the Rhine River in the Rhine region of Switzerland. The Rhine Gorge is a UNESCO World Heritage Site and is known for its
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4694245370106682
+
+Question: What effect does European Union law have on laws of member states?
+Response: The main source of primary law is the European Union treaties. The European Union
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1591898536278673
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: AKS
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4828596892260216
+
+Question: An MSP may introduce a bill as what?
+Response: Billist can be introduced to Parliament in a number of ways. The Scottish government can introduce new laws or amendments to existing laws as a bill. A committee of the Parliament can present a bill in one of the areas under its arena. A member of
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.03446423058758974
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen gas can also be produced through electrolysis of water into molecular oxygen
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2995597840639509
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 1.23 million men and 1.19 million women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.08182013105955044
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire was attacked by the Song dynasty in southern China in 1274. Mongol forces were much greater than the Song dynasty's forces, so the Mongols won the battle. Mongol forces were led by Prince Mongol Khan
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.38535526782967156
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach protect against ingested pathogens by breaking them down and destroying any harmful microorganisms.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3452723358767261
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5013529231383917
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: 1. The lower ryan and bamies, in northwest Germany and the southeastern Netherlands. By the time of the minencing, a river system had developed in the upper ryan gravity. That continued northward and it considered the first ryan
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.21390464142041166
+
+Question: Who develped the theory of relativity?
+Response: A
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.08930206642273197
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: (a) (b) (c) (d) (e) (f)
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.48190260091001524
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in the 1950s. As the number of people in Fresno is increasing, the area is currently working on upgrading it to interstate standards.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.3946540303983971
+
+Question: What is stratigraphy?
+Response: The key term that is used to describe geology is stratigraphy. Stratigraphy is the study of strata, which are rock layers that are deposited over time. The stratigraphy of a particular area is important because it helps to determine the age of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.11015999596174542
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The forces are acting on a particle (not a body). The parallelogram rule of vector addition states that the resultant force is equal in magnitude and opposite in direction to the sum of the individual forces. The magnitude of the resultant force depends on the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The T cell extends the vitamin B receptor. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin B, the steroid hormone T cell to trial. Health to trial has a symbiotic relationship with vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4764727506099614
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: 1. The direction of the flow in the middle and north of the line is west and north, respectively.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.20860753247129393
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC concentrates its activities on the tasks allotted to it by the relevant WMO executives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08092125405122774
+
+Question: Why does competition among workers drive down wages?
+Response: A job where there are many workers willing to work a large amount of time. A
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13469083712413488
+
+Question: What put a hierarchical structure in place?
+Response: 1) Pharmacists were highly respected throughout Japan, especially at the imperial court. In this hierarchical structure, pharmacists held high positions, such as positions at the imperial court and in the imperial household, which were reserved for pharmacists. The emperor
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.34442843166706294
+

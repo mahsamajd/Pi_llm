@@ -1,0 +1,150 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The MLS team is the Los Angeles Galaxy, while the second team is the team that plays at the Stub Hub Center in local rival
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.21746049682526292
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: How many items is the University Library home to?
+Response: 5,133,639.10 square meters. In 2002. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.06504395734365986
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: What substance is used to make high quality liquid O2?
+Response: Contact [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2330559730642483
+
+Question: Who did the geographic scholars work for?
+Response: The need for a more modern social structure to be able to move about and be able to to have a place of the earth that is so much the earth. The need is so much more modern as well as a more modern social structure. The need
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.03691918878392009
+
+Question: What makes energy changes in a closed system?
+Response: Non-conservation of energy can be shown to be the case of non-servation
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.07949880558248512
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The most powerful way to have developed a vaccine, which was a process to develop a vaccine in the process of the human population, which is a process that is not in the human population, that is not in the human population, that is not in
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5067632860072034
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: the solution to this question is. In fact, the solution to this question is to multiply C integers.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.2759833670538572
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, what percentage of German students did not attend private high school?
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.15877223220686498
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rhyming is a bit confused. The rhyme has been to the famous rock, which is a well known building in the middle of the river. The rhyme has been a building in the middle of the river. The rhyme has been to
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.04235425044064656
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The second argument would be to prove if possible that the answer is the only true answer. So if possible that the answer is a direct proof. If the answer is then the only answer is that if it is a direct proof then the answer is the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.057504438770578536
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Yes. The three types of steam are: 1. Steam that is non-0. In this is the minimum temperature of the steam that is non-0. 1. The steam that is non-0. In this is the minimum
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15523325857567083
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immuno-phodioma is the study of viral and viral in immune response, particularly if the drug or the
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.12331849015429863
+
+Question: The average contractor hired how many employees?
+Response: As of April 2013, the average contractor hired 3.3 million employees. The industry was divided
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.1582292238912658
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Gorge in the middle of the Rhineland area is a great place for tourists to visit.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.1469897192924432
+
+Question: What effect does European Union law have on laws of member states?
+Response: The Treaty of Rome or of aven is a treaty which has been signed by the representatives of the two countries. The treaty was signed by the representatives of the two countries. The two countries have a treaty. The treaty is a treaty which was a
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5591333931650142
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The answer to the question was the median age was 35.5. For every 100 females, there were 94.1 males. For every 100 females age 18 and older, there were 1.9 males. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3113281100739079
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: This context, chemical barriers also protect
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.054338036447869054
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Short-term, the mother to baby or the mother to baby has a protective immunity. The short term, the mother to baby has a protective immunity. The mother to baby has a protective immunity.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.6069697552671397
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park has a rich can be seen here. The park has a rich can be seen here. The park has a rich can be seen here. The park has a rich can be seen here. The park has a rich can be seen here.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.14063811232927015
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Rhine river system in the north of Switzerland and the Rhine River in the Alps. The Rhine river
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.18325108481471575
+
+Question: Who discovered this and where did they come from?
+Response: The region of the Shindi tribe remains in the middle of the Amazon rain forest, and in the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06986069517663263
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: It is a natural that is the basis of a nucleosyn. It is also a product of a number of nucleosyn in the cell, and is a nucleosyn. It is a product of a number of nucleosyn in the
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2913033858261752
+
+Question: In what year was the Interstate Highway System created?
+Response: Bregno is the largest U.S. city not directly linked to an interstate highway. When the interstate highway system was created in the 1950s, the decision was made to build what is now the Interstate 5 on the west side of
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists, and even pharmacists are sisters [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06517676908837511
+

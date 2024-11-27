@@ -1,0 +1,155 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by charging tuition to their students. This is a way to collect money from the parents of their students in order to fund the school. There is also the option of getting scholarships for their students, which makes the cost cheaper for
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.08727718319286104
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1974
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.1288446938320693
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forests during the Oligocene period. This period
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3714559042376889
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3093880592424232
+
+Question: What substance is used to make high quality liquid O2?
+Response: [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4622821482094578
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for colonizing empires. These scholars believed that the world could be split into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate climate produced hard-working, moral, and upstanding human beings,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3810123652941132
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macroscopic non-conservative forces and microscopic conservative forces
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0799211696133153
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the transcription, it appears that State Route 99 is in discussion to upgrade to interstate standards. The transcription states that "much discussion has been made to upgrade it to interstate standards." Additionally, the transcription mentions that there is currently work being done
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.33830353417487835
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Squaring can be logically reduced to polynomial time multiplication. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.2756238332785995
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3010400375904496
+
+Question: How many prime numbers exist?
+Response: There are an infinite number of time numbers. [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.24939337031797537
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: It was the Memrioxic cenophore that was accidentally introduced into the Black Sea. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.18494664293661878
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In the context of a boiler, a superheater is a component which is used to heat steam to a superheated condition. It is a section of a steam power plant in which the steam is heated to a higher temperature by transferring heat from
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.08805073723434398
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3810126223843011
+
+Question: How many projects does the Centre currently realize a year?
+Response: In this context, the 17th-century royal Egypt Dao castle currently houses centers for contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.07067863599714863
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sectors in the Middle Rhine area are zinniculture and purism. The Rhine
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.07120682187170801
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a body of treaties and legislations. Some of these legislations have direct or indirect effects on the laws of member states. The main sources of European Union law are the treaties establishing the European Union. Some of the secondary sources of
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5522652875642379
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin primality test is one algorithm useful for conveniently testing the formality of large numbers. This test is based on Fermat's little theorem, which states that if p is prime and a is an integer that is not a multiple of
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.46776236014804307
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water is the process of using electric current to decompose water into its elements, hydrogen and oxygen. The products of electrolysis of water are highly flammable, especially in the presence of other substances, and therefore the process is commonly
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1508829439304279
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 94.1 men for every 100 women aged 18 and over.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.2099703819125477
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded southern China was far greater than the force they sent in Beid But. Middle East in 1256. He died in 1259 without a successor. Jinglei returned from fighting the Song in 1260
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.21093625937792337
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3222393969058429
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The number m must be less than or equal to the square root of n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5048460541500241
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4634333959746253
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rip were the Upper Rhine Grabbing in southwest Germany and eastern France,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1285343331371369
+
+Question: Who discovered this and where did they come from?
+Response: Based on the given information, I can say that Michael Heckenberger and his colleagues from
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.12002396123978176
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein developed the theory of relativity. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.28282279960930956
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in the 1950s.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.40046094922347686
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule is used to find the net force. The net force is found by adding the vectors of the two forces acting on a point mass. A vector is a quantity with magnitude and direction. This is the basis of the parallelog
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.05879225583453229
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two thirds of the water flow volume of the rien flows farther west, through the wall and then, near the merid and new merid, to these spots, merging with the mues, through the hauling streets and herringes
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.08276355483798603
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place was that the pharmacists were at the top of the social hierarchy.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10963903029928301
+

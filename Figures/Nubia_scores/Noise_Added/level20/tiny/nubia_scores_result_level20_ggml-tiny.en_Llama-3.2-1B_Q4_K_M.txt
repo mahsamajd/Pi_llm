@@ -1,0 +1,135 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium name was known as the LA Galaxy Stadium. The stadium was the home of the LA Galaxy and Cheevos USA and was located in Carson, California. The stadium was officially opened in 2005 and was designed by the award-winning architect
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4174736405679378
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk with a NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06291663801167635
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: Who did the geographic scholars work for?
+Response: The British Empire
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.17100925555223667
+
+Question: What is the French name for the Rhine?
+Response: The Rhine is a river in Germany. The name Rhine came from the Germanic word Rinn, which means "hill." The word Rhine is now used as a geographical name for a river, but it originated from the word Rinn
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.11463013464426763
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 0.5% to 6.1% in the former GVR. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.12959381139646442
+
+Question: How many prime numbers exist?
+Response: I believe that there are infinitely many numbers of time. As demonstrated by youth world around
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1152277830930275
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rütsch and the Rhine and Tovlin is listed as a UNESCO World Heritage Site. Near St. Laura's housing, the Rhine flows around the famous rock Lorali, with its outstanding architectural monument
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.29040429943798995
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22982687006801572
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: This is known as Immunogenicity research, also called immunobiology, which focuses on the immune system’s response to antigens. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.36910305620442974
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has direct effect on laws of member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5492644968441445
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: formality test [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.48959146763105243
+
+Question: An MSP may introduce a bill as what?
+Response: A. A bill can be introduced to Parliament in a number of ways. A bill can be introduced to Parliament as a private member bill by a member of the Scottish Parliament, by a committee of the Scottish Parliament, by a private bill submitted to the
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.08858582408597049
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 4.5M
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.37460701300238397
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire attacked the Chinese Song Dynasty in the southern Chinese province of Guangzhou. The Mongols were a nomadic people who originated in the Altai Mountains of what is now Russia, but they eventually made their way to the Middle East and
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.03864170615305951
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.07980534692402019
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park is popular with strolling tourists and local citizens due to its natural beauty. The park is known for its picturesque nature and the presence of peacocks, which are native to Europe. The park is located in the city center and is easily
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.13439029690160953
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The top 250 firms are in the top 250, by amount of work they are doing outside their home country.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.12400076497379964
+
+Question: Who discovered this and where did they come from?
+Response: 1
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.46739110742740453
+
+Question: In what year was the Interstate Highway System created?
+Response: 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07181230258905646
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The magnitude of the net force is found by following the parallelogram rule of vector addition. The addition of two vectors represented by sides of a parallelogram gives an equivalent result in vectors that is equal in magnitude and direction to the transversal
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.05055500030436699
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5182579468098503
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC concentrates its activities on the tasks allotted to it by the relevant WMO executives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08092125405122774
+
+Question: Why does competition among workers drive down wages?
+Response: This is because competition between workers drives down the wage. An example of this would be jobs such as dish washing or customer service. Competition amongst workers tends to drive down wages to be expendable nature of the worker in. [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5395274028828894
+
+Question: What put a hierarchical structure in place?
+Response: This is a hierarchical structure because there are many positions in the structure that are filled by pharmacists. In addition to pharmacists being highly respected, they also were given positions that were highly respected. In addition to that, there were only two positions that
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0515115308665538
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

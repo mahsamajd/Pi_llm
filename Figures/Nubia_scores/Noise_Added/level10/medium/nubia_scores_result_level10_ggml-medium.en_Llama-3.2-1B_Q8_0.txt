@@ -1,0 +1,155 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In this context, the crisis had a major impact on international relations and created a risk within NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.0703259111569372
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Oligocene. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.1884228577667887
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention (1989) was a conference of representative bodies in the Scottish parliament seeking to develop a proposal for the devolution of legislative powers to Scotland. It was held in Edinburgh in July 1989. The conference had been called in
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.09208769999260813
+
+Question: What substance is used to make high quality liquid O2?
+Response: [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4622821482094578
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination represents the most effective manipulation the immune system mankind has developed. Question. In the process of vaccination, what is introduced in order to develop a specific immunity?
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4455853635775665
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The highway system was created by the interstate highway system act of 1956, the first interstate highway system. This highway system was created to connect cities with interstate highways. It was originally planned to connect the cities from the west coast to the east coast
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.16824243028658148
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The algorithm for multiplying two integers can be used to multiply two integers. Thus, the algorithm for squaring integers can be used to square integers. Therefore, squaring can be logically reduced to squaring integers, since squaring can be reduced to multiplying
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.14079790287004945
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: I think that the percentage of youth German students attending private schools increased from 6.1% in 1992 to 7.8% in 2008, including a rise from 0.5% to 6.1% in
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.468943132116881
+
+Question: How many prime numbers exist?
+Response: The prime number theorem states that the number of prime numbers less than or equal to x is approximately x/log(x).
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.2901540422827914
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine flows around the famous Rock Lorelei, with its outstanding architectural monument. The Rhine Gorge between Niedersheim and Rhine in Coburn is listed as the UNESCO World Heritage Site.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.3146937313459187
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: cuneophore
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.10348377928288233
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is referred to as immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3981349401824388
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union law has the power to establish and establish primary law such as regulations and directives.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11296189037699023
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS algorithm. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.48077924638767544
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can introduce new laws or amendments to existing laws of a bill. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.169590112614309
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 95.2 men for every 100 women. This is a very high ratio of men to women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.2888324053817516
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Song dynasty was the ruling dynasty of China from 960 to 1279. During the Jin Dynasty (1115–1234), the Song dynasty had established itself as the leading power in China. In 1259, the Mongols captured
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.38811382344624334
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.09590649818333519
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: trial division, a method of checking the tonality of a given integer n. The most basic method of checking the tonality of a given integer n is called trial division. This routine consists of dividing n by each integer n that is greater than
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4803659591854249
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In the stomach, gastric acid and protein serve as powerful chemical defenses against ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.40161394969434483
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Wilinow Palace Park is a popular sewing destination for barcobians. The Wilinow Palace Park is situated on the old apartment of the Vistula. The park has lanes running on a few levels deep into the ravines on both
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.34407397208158264
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The latest content engineering news record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4573482416634892
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The largest amount of oxygen is present in carbohydrates. Carbohydrates contain the largest proportion of oxygen by mass. This is because carbohydrates contain the greatest amount of oxygen by mass. All fat, fatty acids, enanals, and proteins contain oxygen due
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.21146483165148688
+
+Question: In what year was the Interstate Highway System created?
+Response: 1956
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.045267091483496946
+
+Question: What is stratigraphy?
+Response: Stratigraphy refers to the study of the layers of rocks in a region. The layers are typically described in the form of a stratigraphic column, which is a sequence of rock layers, each layer being younger than the one above. The stratigraph
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.09617184454544436
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Viscorific.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3656573731454039
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The T-cell extends to vitamin D receptors. When the T-cell encounters a foreign pathogen, it extends to vitamin D receptors. This is essentially a signaling device that allows the T-cell to bind to the active form of vitamin D. Vitamin D is
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.6232970012178619
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows through Germany and its main stream. The main stream is the largest part of the Rhine and is the main part of the water flow. The river flows through Germany, so the water flow is divided between the main stream and the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.038765881111943234
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive. 2. While the preparation of the assessment reports is a major IPCC function, it also supports other activities, such as the Data Distribution Center and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.29747908095411835
+
+Question: Why does competition among workers drive down wages?
+Response: The job that requires few people for the same job is a job that requires little or no skill. This would be a job that requires little or no skills because there are no skills that are required. So the job requires few people to do the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6707389372610201
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The receptor for the pathogen, bacteria, is the same for all pathogens, meaning that if we have a pathogen, any bacteria, our immune system will recognize it as a pathogen. So our immune system will produce antibodies to that path
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.06498424920015944
+

@@ -1,0 +1,155 @@
+Question: What was the name of the stadium that the teams played in?
+Response: TVOS USA played at the StubHub Center in the local rival. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.10783724823582064
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk with a NATO. Some European nations and Japan sought to disassociate themselves from the United States foreign policy. In the Middle East, to avoid being targeted by the boycott, Arab oil producers
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.1769355979806645
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest and narrow bandic forests are located in the tropics of South America. The Amazon rainforest and narrow bandic forests are located in the tropics of South America. The Amazon rainforest and narrow bandic forests are located in
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.24137707332054026
+
+Question: What substance is used to make high quality liquid O2?
+Response: I am the substance that is used to make liquid O. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.16291082107881205
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars do not work for anyone
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.06278478047129454
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme in modern languages are all derived from the dollar. The main rhyme, which was adapted in Roman era geography. First century BC, as brief Rino. Rino. Latin Rino. Note 3
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: This concept long term active memory is acquired following infection by activation of B and C cells.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.06074711940044153
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The above is a transcription of a newspaper article about the
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09174397863863937
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In the following transcription, the right to see a private school in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.07192999796574973
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The most dominant economic sector in the middle-line area is agriculture and tourism. The river flows around the famous rock lorline, with its outstanding architectural monuments. The slope flows around the famous rock lorline, with its outstanding architectural monuments. The middle-line
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.013288389472215334
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: A) It is blamed for causing fish stocks to collapse by eating both fish larvae and organism? That would otherwise have spread the fish.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.10332502498234186
+
+Question: The average contractor hired how many employees?
+Response: Based on the information given, I estimate that there were approximately 67,000 firms in the industry that employed one million contractors in 2014. However, I believe it is necessary to explain why the number of firms employed one million contractors in
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3149076812203411
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine valley can be considered the epitome of the Rhine romanticism, a question of the Rhine flows around the famous rock-lurali, with its outstanding architectural monuments. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.38872573727881
+
+Question: What effect does European Union law have on laws of member states?
+Response: The treaty establishes that member states are bound by European Union law. The treaties may be seen as a treaty establishing a system of secondary law which can be interpreted with the aim of the objectives set out in the treaties. European Union law can be seen as
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5353573406023768
+
+Question: An MSP may introduce a bill as what?
+Response: A bill can be presented in several ways. If Scottish Government introduces a new law or amends an existing law, the bill can be introduced in several ways. If the member of the Scottish Parliament presents a bill as a private member, the bill can
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.1290632847579507
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In the city of San Diego, California, you have 16,018,979 households and 11,972,797 inhabitants. As of 2010, update, there were 366,273 households out of which 11.8%
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.09505753560199459
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3294339693134475
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: To check the formality of a given integer n by trial divisions, the integer n should be less than or equal to the sum of all the prime numbers and all their multiples which are less than or equal to n. For example, if the integer
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4750982263001502
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A) A
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.6073062581434236
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: In the 19th century, the Cisenci Palace Garden was remodeled by Farticek's tenure. Within the central area of the heart, one can still find old trees dating from that period. Made in hair trees, black walnut
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.21101079961156888
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The research context engineering news reports ENR is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07924274725368596
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the upper Rhine grabbing, the upper Rhine grabbing developed in the lower Rhine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.112075236141427
+
+Question: Who discovered this and where did they come from?
+Response: It is well known that human activities have had an overwhelming impact on the environment, resulting in species extinction and habitat loss. The first, the last, and the last, are all, but the last, the last, the last, the last,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.22749701140200873
+
+Question: Who develped the theory of relativity?
+Response: In our community which means fundamental errors in understanding force.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.05271188912579472
+
+Question: What is stratigraphy?
+Response: context. Theologists view the number of fields, laboratory, and numerical modeling methods to
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0704890323724694
+
+Question: What geometric shape is used in equations to determine net force?
+Response: They have magnitude and direction when two forces act on a point particle, the resulting force, the resulting force, also called the net force, can be determined by what is going on in the case of a point particle, which is very important for the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A key cell extends how to trial.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.059028111395607374
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In this context, from here, the situation becomes more complicated, as the ducks mean
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06098328377348572
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentration on the task allotted to it by the relevant WMO executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07438631918640137
+
+Question: What put a hierarchical structure in place?
+Response: It is clear that the pharmacists in the Nara period were very highly respected and held a position in the imperial household.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.08499888013553625
+

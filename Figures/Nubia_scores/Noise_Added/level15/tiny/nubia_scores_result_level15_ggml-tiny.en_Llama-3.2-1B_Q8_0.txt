@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy won the championship in 2003 and 2005 with a 2-1 win against the San Jose Earthquakes. The Galaxy was the team to win the championship, but the T-Box USA is the team that was
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2995590000451088
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Transcription: contact, private school, also known as independent school, non-governmental or non-state school,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.11901349388983296
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk with a NATO. Some European nations in Japan sought to disassociate themselves from the United States foreign policy. In the Middle East, they avoided being targeted by the boycott. Air morale
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.16182847381660204
+
+Question: How many items is the University Library home to?
+Response: 1,200,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4914162073453098
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest is a broad band of rainforest that is the most extensive in the world. The Amazon rainforest has many different species of plants and animals and the climate is often very warm and wet. The Amazon rainforest has been protected by
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.06696231114959594
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish constitutional convention was held in 1995 in the Parliament House, Edinburgh. The convention was initiated by the Treasury, which led to the 1989 Scottish constitutional convention, with various organizations such as the Khadak, Churchill, political parties
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is used for cryogenic cooling of high-pressure components during manufacturing. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.16540276221945305
+
+Question: Who did the geographic scholars work for?
+Response: The word geographic comes from the Greek word γεωγραφία which means "earth description".
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10387501481898676
+
+Question: What makes energy changes in a closed system?
+Response: According to the second law of thermodynamics, noncontorveative forces necessarily result in energy transformations within close systems from. According to more random conditions, people tend to think it will be in people. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.31251949060529194
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination is a form of active immunity that is produced in response to a specific antigen that was injected into the body and causes a specific immune response.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4902560898880264
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1113179420646554
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.09622228196866256
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: This is the right to see is private schools and Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.060274577978078
+
+Question: How many prime numbers exist?
+Response: If time A is the number of digits of the number B then the question states that the probability of time A being the number of digits of time B is proportional to the logarithm of time B. Since the base of the logarithm is e,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.053621730887091545
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22982687006801572
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sectors in the middle-run area are dinner culture and beer rooms. The rhyme boards between the rhymes and rhymes and rhymes used to be as a municipal world heritage site. The rhymes were so full of vines that it was
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.023275076247012527
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a political and economic union of 27 member states which
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.18841125894642718
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: A. Child division is a method of verifying the formality of a number by testing if the number is a multiple of any integer between two and two. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.18071062036522523
+
+Question: An MSP may introduce a bill as what?
+Response: The bill introduced to Parliament in a number of ways in Scotland is a bill. A bill is the
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2584410815040077
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Hydrogen is a gas, and oxygen is a gas. They are both formed by the electrolysis of water. Oxygen is produced at a lower voltage than hydrogen. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.4703812189651132
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 100.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.25655820449603095
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded in the United States.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4914958811083787
+
+Question: How many days did the Warsaw Uprising last?
+Response: 16 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.062202839901534746
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The best approach for this question is to use a recursive approach to determine whether or not an integer is a perfect square. We know that the division of a number by itself yields its square, which can be used to test if the number is a perfect
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.47033183289237723
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The skin and respiratory attacks exceed antimicrobial peptide such as the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.05780226750842121
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: 2. The central garden with the palace, surrounded by a wall, is a historical landmark in the city, with a rich and diverse history of the park itself and its surroundings. This is a great example of a historical park in Warsaw, with
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.07616823220491908
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The upper-lying grabbing of the E.O.C. non-Riz has the main element of the Riz system. It's the northwest Germany and the south eastern Netherlands, by the time of the mineacines, a river system had developed in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.18498528267692016
+
+Question: Who discovered this and where did they come from?
+Response: The contact was made by the German missionary Heinrich Kuhl in 1902 and is now widely accepted as a cottage of indigenous soil management. The development of this fertile soil allowed agriculture and sugar culture in the cityically hostile environment, meaning that large
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11704046268108992
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are employed in school.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.06721994405827969
+
+Question: What is stratigraphy?
+Response: [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.402720289905694
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The net force on an object is the vector sum of all of the forces acting on the object. The vector sum of the forces is the net force. In order to find the net force on an object, you must first find the forces acting on
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07972046156461743
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells have receptors that bind to the vitamin B receptor. This is essential for the T-cell to bind to the active form of vitamin B. The T-cell will also extend the vitamin B receptor. The T-cell will also extend a vitamin B receptor
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5844838888622553
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow of the Dutch Union is concentrated in the right side, so the right side of the union is the direction of the flow. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.21250069563337326
+
+Question: Levels of what things are used to determine emission factors?
+Response: Transcription: The ICCC concentrated activities on the task allotted to it by the relevant WMO objectives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0735353942003345
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place was the system of ranking and prestige. Pharmacists were ranked as the highest in the profession. Pharmacists had to be good at their job and have a good reputation in order to be ranked as high. The system of ranking
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.028115617246153524
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: You need a generic immune system in order to respond to pathogens in a generic way.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.22966418932999766
+

@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the team played in was the StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.44407112618944167
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent school, non-governmental, or non-state school, are not administered by local, state, or national government. They retain the right to select their students and are funded in part by charging their students tuition, rather
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.18733987713068467
+
+Question: How many items is the University Library home to?
+Response: 2 million items is the University Library home to [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.16982811660887298
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene, the Amazon rainforest was a relatively narrow band of forests. This is because during this period, the climate was relatively dry and warm. The Oligocene was a time of global warming and the rainforest was able to
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4392575013426847
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989, which was in the early 1980s and
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.318174637673421
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars, like all other scholars, worked for the university system. This is a question of scholarship, which is a term used to describe the teaching profession. The university system is the educational system in the United States and other Western nations. In
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.17924300227908496
+
+Question: What makes energy changes in a closed system?
+Response: The detailed and specific answer is: The macroscopic non-conservative forces are the result of the statistical mechanics. It is the study of how the microscopic forces, such as electromagnetic and gravitational forces, act on a large number of particles. This is because
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.10908732748821415
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, what is introduced in order to develop a specific immunity? The antigen from the pathogen is introduced. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.46743824555024804
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The California Route 99 is the state highway that has been discussed to upgrade to an interstate highway. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3061546780387161
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to the above transcription, we can conclude that squaring can be logically reduced to multiplication, i.e., squaring can be logically reduced to multiplication.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.6614982403900354
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, what percentage of each German students attended private schools is 6.1 percent.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.39103804710908596
+
+Question: How many prime numbers exist?
+Response: A time number is a number that can be written as a sum of two or more distinct powers of two. For instance,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.3472463129150485
+
+Question: Where is the famous rock the Rhine flows around?
+Response: the famous rock is Lorali. It is located near St. Laura's housing. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.14197367731712085
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: There are four types of plankton: phytoplankton (plants), zooplankton (animals), bacteria, and viruses. The phytoplankton (algae) are the primary producers (plants) of the sea. They are the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.33864903669661994
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Components used to increase the steam temperature include the superheater, economizer, and air preheater. These components can raise the steam temperature to a higher value than the saturated vapor point. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.4361275007014831
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired fewer than 10 employees. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3054687191445351
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realises about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.36302259832992223
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism is the Rhine Gorge between Rüdesheim and Koblenz. The Rhine Gorge is listed as a UNESCO World Heritage Site. It is a beautiful area and is considered the epitome
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5079168138141117
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law on the laws of member states is that it has direct effect and indirect
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.24358131246096437
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: the Miller-Rabin formality test
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4885563532279218
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Context. Oxygen gas can also be produced through electrolysis of water into molecular oxygen
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.25480059823723034
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The question asks for the ratio of men aged 18 and above to 100 women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3185548978144448
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols launched multiple campaigns to conquer China during the Mongol Empire.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.13980241395129467
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is the protection against pathogens that comes from antibodies from a mother to her baby. Passive immunity can also come from antibodies in a blood product transfusion. Passive immunity is short term because it is a response of the antibodies that are already in the
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5529130262297004
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Cincu Park covers an area of 15.5 hectares, while the Royal Park covers an area of 76 hectares and the Park of Wilanow covers an area of 43 hectares. The Cincu Park is a popular strolling
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4133771496090317
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Engineering News Record ENR is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States. They also list
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5556061340249023
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: the main elements of the risk system in the alpine orrogeny in southwest Germany are the upper ryan gravity, the upper ryan and the bamies. The upper ryan and bamies rivers drained the northern plains of the alps.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.422419816713862
+
+Question: Who discovered this and where did they come from?
+Response: The indigenous people of the Amazon rainforest were able to create fertile soil by managing the land. This allowed agriculture and silviculture to flourish in the otherwise inhospitable environment. The discovery of large settlements in the Amazon forest by Michael Heckenberger
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.2504381329633729
+
+Question: Who develped the theory of relativity?
+Response: contact – philosophers and antiquities use the concept of force in the study of stationary
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.06049177834445685
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.17361260796148759
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of rock layers or strata, the strata are formed by sedimentary rock,
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.34664407657782204
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram law of vector addition is used to determine the net force when a number
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.16972657359191046
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two thirds of the water flow outside of Germany. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.20153784840482014
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Council for Local Environmental Initiatives (ICLEI) is a global network of local governments dedicated to sustainable development. The organization was founded in 1990 and has since grown to over 1,000 members from over 70 countries. IC
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.43072090930659
+
+Question: Why does competition among workers drive down wages?
+Response: The short answer is that competition among workers for a limited number of jobs drives wages down. If there is a high supply of workers and a low demand for those jobs, then the workers will compete for the few available positions, which will drive down wages
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.736326923242915
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place was the following: Emperor, Empress, Prince, Princess, Dukes, Lords, Count, Marquise, Viscount, Barons, Knights, Samurai, Nobles, Sages, Physicians, and Pharmacists
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2537994181128679
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Microorganisms are toxic that successfully enter an organism and counter the cells and
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.05623029109808908
+

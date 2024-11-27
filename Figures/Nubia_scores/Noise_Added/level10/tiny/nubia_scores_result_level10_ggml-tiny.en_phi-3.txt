@@ -1,0 +1,185 @@
+Question: What was the name of the stadium that the teams played in?
+Response: It appears that the transcription provided is not clear or complete, making it challenging to form a precise response. However, if I attempt to interpret the given information, it seems to be discussing two major lead captains in Los Angeles who are
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.1701240389050549
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Independent schools, also known as private schools or non-governmental schools, operate on the contact side of education, which means they are not administered by the local state or national government. These schools have the aut
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3375048598572332
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription you provided seems to discuss a complex situation involving international relations, historical events, and policies, particularly those related to the Middle East. While the transcription is somewhat disjointed and lacks clarity, I'll attempt to
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.216111270896153
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816, is a significant library that houses over two million items. The building was designed by architects and features a beautiful interior. It opened on December 15, 1989,
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5135984144195199
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The transcription appears to be a fragmented and metaphorical discussion on the resilience and adaptability of rainforests, particularly the Amazon, in the face of environmental challenges and climate fluctuations. It seems
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2019610943519311
+
+Question: What substance is used to make high quality liquid O2?
+Response: Based on the transcription, it seems like you are discussing the process of producing nitrophyres, which are nitrogen compounds. To create high-quality nitrophyres, one would need to focus on the purity and
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2840753303929807
+
+Question: Who did the geographic scholars work for?
+Response: The transcription provided appears to discuss a broad range of topics, from geographic tolerance and climatic zones to societal structures and generational cultural shifts. However, it is not entirely clear and seems to be a mix of various
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3178154900829866
+
+Question: What is the French name for the Rhine?
+Response: The transcription appears to be a creatively encoded message discussing the significance and influence of certain historical names and concepts across various cultures, particularly the Germanic and Roman contexts. It seems to reflect on the interplay between ancient traditions
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The provided transcription appears to be an incomplete and disjointed discussion that lacks a clear context or coherent narrative. It seems to involve a conversation about regional treatment, population, traffic, and cities, possibly in the context
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.20365053008190415
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The transcription appears to discuss the history and evolution of private schooling in Germany, specifically focusing on the rise in the number of students from private schools in Germany between the years 1992 and 2008. It indicates
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.05960390354620959
+
+Question: How many prime numbers exist?
+Response: The transcription appears to be discussing a concept related to time, probability, and digital modeling, potentially within the context of statistical analysis or algorithmic computations. Here is an attempt to extract meaning from the transcription and formulate a
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.07382242834332386
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Based on the transcription, it appears that the dominant economic factors in the middle line area are centered around "unicorns in a sphere." These unicorns could be metaphorically representing a unique or powerful industry or sector within that
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The provided transcription consists of a repeated statement emphasizing the challenge of comprehending the future of the country. The message being conveyed is clear: anticipating what lies ahead for a nation is a complex and uncertain task. This sentiment highlights the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The information provided in the transcription appears to be a mix of unrelated sentences, possibly due to errors during the transcription process or misinterpretation. It mentions components often present, the use of water in certain operations, radiation heat recovery,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The transcription you've provided appears to discuss the significance of drug units, the immunogenicity of peptides and proteins, and the development of computational methods for predicting immunogenicity. It also touches on
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.33796443018471833
+
+Question: How many projects does the Centre currently realize a year?
+Response: The given transcription appears to discuss contemporary art, specifically mentioning a fashion trend, women's representation, and an annual target for art-related activities, possibly in a gallery or exhibition context. The speaker seems to be discussing the focus
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.11259160848112448
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: It appears that the transcription you've provided is somewhat fragmented and lacks clear context, making it challenging to construct a coherent answer. However, I will attempt to address the elements you've mentioned based on the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.2739762025682575
+
+Question: What effect does European Union law have on laws of member states?
+Response: Based on the provided transcription, it appears to discuss aspects of European Union (EU) law, but the information given is somewhat cryptic and disjointed. To provide a more coherent explanation, let's clarify some
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.2406384613627348
+
+Question: An MSP may introduce a bill as what?
+Response: The transcription provided appears to discuss the legislative process within the Scottish Parliament, specifically referring to the introduction and passage of new laws. However, the text is fragmented and lacks clarity. To provide a more comprehensive answer, let'
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3174210090365879
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription seems to be discussing the production of oxygen and hydrogen gases through a process involving a catalyst, presumably a yeast-based catalyst given the mention of "yeast game." It appears to describe a method
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.35651115875162287
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The transcription discusses various historical and political events, specifically focusing on the Mongol Empire, the fall of the Yuan Dynasty, and the leadership of Kublai Khan. The text mentions the invasion of southern China by Kubla
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2994037386104096
+
+Question: How many days did the Warsaw Uprising last?
+Response: The transcription discusses the Warsaw Uprising that occurred in August 1944 during World War II. According to the transcription, the Uprising began on the first day of August 1944, after the
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.4925691809992325
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The transcription provided seems to discuss a concept related to the "trial division" method for checking the canality (presumably referring to divisibility or factors) of integers. The specific details and the concept of "cyanoburgine"
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.14091416072176133
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The provided transcription appears to contain repetitive phrases emphasizing the absence of certain actions or requirements. The repeated structure of the statement underscores the idea that there are no additional tasks or obligations that must be taken care of, especially in
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2910696842582773
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcription appears to be discussing the transfer of immunity, specifically antibodies, from one individual to another. The statements suggest that the ability to pass on immunity is not restricted to the mother alone but can be transferred within a
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4679282448796215
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson Garden, a royal garden previously, covers an area of 15.5 hectares. It features over 100 different species of streams and avenues that trace their origins back to the sea. The garden has a
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.24563295509319183
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: It appears that the transcription provided is unclear and may contain errors, making it difficult to understand the intended message. However, from the context given, it seems the speaker is discussing the construction industry and the size of construction companies. The mention of
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.3554111684012452
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The transcription provided seems to be a mix of disjointed phrases and concepts that do not form a coherent message. It appears to discuss several unrelated topics such as the internet's risk system, geography, and environmental
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1691188629992315
+
+Question: Who discovered this and where did they come from?
+Response: The transcription provided seems to discuss various aspects related to environmental changes and indigenous communities in the Amazon forest. However, it is somewhat disjointed and lacks clarity on specific terms and concepts. "Sera freedom" is not a
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.0986260441357808
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription suggests that oxygen is a crucial element found in most biomolecules that are vital to life. Oxygen is a component of several important biomolecules including carbohydrates, fatty acids
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5144355858469515
+
+Question: In what year was the Interstate Highway System created?
+Response: The transcription appears to be discussing the development and challenges of U.S. state highways in the context of urban and suburban growth during the 1960s, specifically focusing on the West Coast and the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.19128734115181034
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The transcription appears to be discussing various concepts related to physics, particularly in the context of forces acting on a body. From the given text, it seems that the discussion is around strategic considerations for analyzing forces acting on bodies in different
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.05479460270633041
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The transcription seems to be discussing the role of vitamin D receptors and the conversion of calcidiol (25-hydroxyvitamin D) to its active form, calcitriol (1,25
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.18337335800531462
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The given transcription appears to be a fragmented narrative, possibly related to marine exploration or an underwater expedition. The passage describes a situation where the main flow of water and destiny are diverging, suggesting a change in direction or focus
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The transcription refers to the observation and analysis of countries with past or current activities relevant to the World Meteorological Organization (WMO) objectives. It mentions the involvement of the Council and UNICEB (United Nations International Children'
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2078280741979347
+
+Question: What put a hierarchical structure in place?
+Response: The provided text appears to be a mix of disjointed sentences and phrases that seem to discuss the role and perception of pharmacists in Japan and Chicago, with a hint of an organizational structure or hierarchy being referenced.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3061170560247549
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The transcription appears to be discussing the complexity and specificity of the immune system's response to various threats, including pathogens and stress-related signals. Here's a detailed response based on the provided information:
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.26302672494898527
+

@@ -1,0 +1,160 @@
+Question: What was the name of the stadium that the teams played in?
+Response: [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4428117099544394
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. Private schools, also known as independent schools, non-governmental or non-state schools, are not administered by local, state or national governments.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.21292768663051032
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: This is an example of a specific and detailed answer. It provides a comprehensive and thoughtful response to the question, taking into consideration the information given and making clear connections and analysis. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.2544327193825906
+
+Question: How many items is the University Library home to?
+Response: The University Library home to more than 2 million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3654112818543883
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high-quality liquid O is Liquid Nitrogen. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1361793507352198
+
+Question: What makes energy changes in a closed system?
+Response: Energy changes in a closed system are often associated with entropy changes, and non-conservative forces act to
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.23366746702880714
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: the antigen [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.38193696028290725
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: California State Route 99 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08239398800425268
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 1. In this context, the right to see a private school in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.08428635433204301
+
+Question: How many prime numbers exist?
+Response: The formula is:
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.17239891759825532
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The concept of a firebox
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07892741565270556
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: 1. The industry in the United States had $960 billion in annual revenue, according to statistics
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.0986410605675011
+
+Question: How many projects does the Centre currently realize a year?
+Response: 500 projects [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.1011302939299844
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: (1) In the beginning, there was a river called Rhine. It had a lot of water and made a lot of noise. But the river had a lot of problems because the river was very big and the water was very dirty. The
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.05810900331685609
+
+Question: What effect does European Union law have on laws of member states?
+Response: Effect of European Union Law on Laws of Member States:
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5682199228184677
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol invasion of China began in 1232 and continued until 1279. The invasion was a military campaign of the Mongol Empire, also known as the Yuan dynasty, to conquer China. The Mongol army was led by
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.3891138521466947
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3294339693134475
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is immunity transferred from one individual to another. This process is a short-term immunity. It is mainly used in childhood. In this type of immunity, antibodies are transferred to an entrance via the placenta. So human babies have high levels
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5255438370860829
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: - The Saxon Garden is an area in Warsaw that was used as a royal garden. This area covers 16.5 hectares and has over 100 different species of trees. The avenues in the area are used for relaxation. At
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3375831307854935
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: POT40 = Transportation
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.13254500829665972
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The lower Rhine grabbing, the upper Rhine grabbing, the lower Rhine, the Baynes, the upper Rhine, and the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1825545604032297
+
+Question: Who discovered this and where did they come from?
+Response: The soil of the Amazon rainforest is the result of human management rather than naturally occurring, as the development of this fertile soil allowed agriculture and silviculture in a previously hostile environment, meaning that large portions of the Amazon rainforest are probably the result of
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.2697386708022077
+
+Question: Who develped the theory of relativity?
+Response: In 1687, Isaac Newton published his work "Philosophiæ Naturalis Principia Mathematica."
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.10036061618605574
+
+Question: In what year was the Interstate Highway System created?
+Response: Bregno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07142044998334374
+
+Question: What is stratigraphy?
+Response: This is a 950 words long answer. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.09412340669113006
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The force between two points is equal to the product of the distance between the two points
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.14678229471001347
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5182579468098503
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: A. The most important point is that the new river begins just west of the Marie, so it must be from the Marie. B. The next point is the two thirds of the line flow slower farther west, so it must be the new
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is a body of the United Nations, whose main function is to assess the global impact of climate change and recommend measures to reduce it. Its work is divided into three main areas: monitoring and observation, assessment of the climate system and the
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5127396811578073
+
+Question: Why does competition among workers drive down wages?
+Response: The workers who want to work in that particular job will be the ones who will compete for it.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13693162127516256
+

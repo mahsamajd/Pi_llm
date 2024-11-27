@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In this case, we have to consider the given information that LA Galaxy and T-Box USA are the soccer teams. LA Galaxy is the main soccer team which traded with a local rival team T-Box USA. Also, it is given that T
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.17402129649959297
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: How many items is the University Library home to?
+Response: There are 2,000,000 items in the university library. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.291475897019875
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forests during the period of the late Miocene. The Miocene epoch was a time period in the Cenozoic Era, and it lasted from 23.03 to 5.3 million years
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.47347050403537483
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Khadak constitutional convention was initiated by the treasury in 1989. The convention was organized with the aim of finding a solution to the Scottish constitutional issue. It was formed by various organizations like the Scottish Liberal party, the Conservative party, and
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.006638400495601937
+
+Question: What substance is used to make high quality liquid O2?
+Response: A. Liquid oxygen
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1534011037990446
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars under colonizing empires, the world could be split into climatic zones. These scholars believe that Northern Europe and the mid-Atlantic template climate to beasts act. Hard workers, morals, and upstanding human beings alternatively, tropical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.17770389570932965
+
+Question: What makes energy changes in a closed system?
+Response: According to the second law of thermodynamics, noncontorveative forces necessarily result
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1065119288796198
+
+Question: What is the French name for the Rhine?
+Response: Contact is the most common in the form of the membrane of the Germanic languages ​​is the pronunciation of the Latin membrane, as well as in modern French and Italian. The modern German rhyme, however, is the only modern language that maintains the original
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1: The following is the transcription of the video question:
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.10892979111968426
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State route 99, which is raised in population in traffic and cities along state with 99, is likely to be incorporated into the Interstate Highway System. The Interstate Highway System was created in the 1950s as a network of national highways.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5061325746501111
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is the polynomial time reduction. This means that the reduction process takes polynomial time. For example, the problem of swearing into each of us can be reduced to the problem of multiplying C into 2. This means that an algorithm
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.023210321708805992
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to see is private schools and Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0577384894061036
+
+Question: How many prime numbers exist?
+Response: The probability of a randomly chosen number A being a time number is proportional to the logarithm of A. How many time numbers are there in this case?
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.38360724754914943
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The middle-run valley is famous for its vineyards and castles. It is located in southern Germany near the Swiss border. The middle-run valley is known as one of the best places in Germany for wine production. The valley is also home to many
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Based on the information provided in the transcription, the accidental introduction of the pharaoh tuna into the Black Sea may have resulted in the collapse of fish stocks due to their predation on other tuna and organisms that would otherwise feed the fish population.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: Based on the information given in the transcription, we can state that the U.S. construction industry is worth approximately $960 billion in annual revenue. This is according to statisticsfacts by (2014). The census bureau cites $680 billion, which is
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.29956154980103167
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.42034370434874124
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. Its members have a combined area of 4,233,262 km2 (1,236,170 sq mi) and an
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.32159457654978807
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The fastest way to test the formality of a number is to use the Miller-Rabin formality test, which is a probabilistic method that has a small probability of error.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.2978742421032732
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to produce hydrogen and oxygen. These gases can then be used as fuel for electricity production. The base electrolyte is sea water. The gas is a mixture of hydrogen and oxygen in the ratio of 2 to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1341039695945504
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.1400868816830123
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The trial division must be less than or equal to the square root of end, because the factor of end must be less than or equal to the square root of end.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.334092855708072
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In the stomach, hydrochloric acid (HCl) and pepsin digest proteins and kill pathogens, such as bacteria and viruses. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3199017557629582
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is an immunity which is temporary in nature and is acquired by transferring antibodies from one individual to another. It is a result of exposure to the specific antigen. The antibody present in the serum of the donor animal is given to the recipient. The
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5236337213148172
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The entire project, engineering news record, ENR, is a trained magazine for the construction industry, each year ENR compiles and reports on data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.3996256728609794
+
+Question: Who discovered this and where did they come from?
+Response: Contact, carotrata, black Earth, which is distributed over large areas in the Amazon forest.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.05839347998498379
+
+Question: Who develped the theory of relativity?
+Response: The theory of relativity is a scientific theory describing the relationship between space and time in the framework of the special theory of relativity. The theory, proposed by Albert Einstein in 1905, was developed with the aim of unifying the two major
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0630720806009698
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element found in almost all biomolecules that are employed in school is oxygen. Only a few common complex biomolecules, such as stalling in the carotene, contain no oxygen, as the organic compound with biological relevance. Carbohydrates contain
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3522148180373549
+
+Question: In what year was the Interstate Highway System created?
+Response: The correct answer is (D) 1964. In 1964, the Interstate Highway System was created and the decision was made to build what is now Interstate 5 on the west side of the Central Valley. This bypasses many population centers
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Contact geologists use a number of fields, laboratories, and numerical modeling methods to
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.08276651053956385
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Net force is defined as the vector sum of all the individual forces acting on a body. The resultant force is determined by adding the magnitudes of individual forces using the parallelogram rule of vector addition. The direction of the resultant force is determined by
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.02725134821948405
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC is the International Council for Science, an independent, non-governmental organization that brings together the scientific community from around the world. The ICCC is responsible for coordinating and supporting international scientific cooperation in areas such as climate change, biodiversity, and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.49963384354626417
+
+Question: Why does competition among workers drive down wages?
+Response: When there are many workers willing and able to perform a task, they will compete for a job that requires a skill or ability that is highly valued in the market, such as customer service, watching, or other jobs where there are few able or willing
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.4607263950453091
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the Offka period, 538 to 710, and the early Nara period, 710 to 794, the mainly cultural role similar to those of modern pharmacists were highly respected. But since the pharmac
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.15150591749994924
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system that needs to be specific is the adaptive immune system. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.15707021863698023
+

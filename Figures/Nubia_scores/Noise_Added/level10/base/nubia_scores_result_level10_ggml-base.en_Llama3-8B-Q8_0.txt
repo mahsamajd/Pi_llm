@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium is the same today because the name of the stadium is the stadium that they have. In 2005, they had two teams in LA. LA Galaxy and TVOS. They were both playing in the same stadium. TV
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3176560324110941
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A private school is one that is not supported by taxes but is run by a private organization
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1898499021383936
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk with a maiden. One year a few in nations in Japan sought to disassociate themselves from the United States foreign policy. In the Middle East, they avoided being targeted by the boycott.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.17646184332302417
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3759054753238623
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest and the savanna were both spread across the Americas. The rainforest spread as far south as 45 degrees south latitude. The savanna spread to about 45 degrees south latitude. The rainforest and the savanna have both been
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3193587248291395
+
+Question: What substance is used to make high quality liquid O2?
+Response: The correct answer to this question is liquid oxygen. The question provides information about the properties of liquid oxygen, such as the temperature at which it condenses and the fact that it can be produced by fractional distillation or condensation from air. The question
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.25133348405960376
+
+Question: What makes energy changes in a closed system?
+Response: In a system that is a massive topic, non- privileges of forces would change the internal energy of the system and are often associated with the transfer of heat, according to the second law of thermodynamics.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3923098871181592
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme and modern languages are all the rights from the College.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0862109335351956
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The US state of California has not been up to US state standards.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08552809796971139
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The question is a bit of a trick question. The question is whether or not it's possible to take a polynomial time algorithm and reduce it to an exponential time algorithm. If this were possible, it would be easy to take a polynomial time algorithm and
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10552723239031458
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: For example, the electricity in private fields in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.05478709666337245
+
+Question: How many prime numbers exist?
+Response: The Riemann hypothesis is a conjecture that the Riemann zeta function has its zeros only at the negative even integers and complex numbers with real part ½. All of these numbers have the form ½ + it where t is a
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.38686430588823983
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The steam engine was used to power ships, locomotives, and factories, and it was crucial to the Industrial Revolution. The steam engine uses the steam created by water vaporizing to generate power. The steam engine works by using hot water to
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.054734612875196875
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Based on the above transcription, the answer is: "This limits the effectiveness of drugs based on larger peptides than certain, which are typically larger than 6,000 dolphins. The drug itself is not an immunogenic, but may be part of a
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: According to the U.S. Census Bureau, the construction industry in 2014 had revenues of $960 billion, which is distributed among residential, nonresidential, and government construction. In 2013, there were an estimated 5.8
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2940398885549247
+
+Question: How many projects does the Centre currently realize a year?
+Response: In 2014, the Royal Academy of Arts held 498 projects a year, with 200 exhibitions, 1,000 workshops, 300 events, 500 lectures, and 100 special programs. The center also holds an annual summer exhibition
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.38599315949024837
+
+Question: What effect does European Union law have on laws of member states?
+Response: The legal order of the European Union is based on the principle of supremacy of the European Union law.  The European Union law prevails over the laws of the member states.  In the case of conflict between a rule of European Union law and a
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4548486774093041
+
+Question: An MSP may introduce a bill as what?
+Response: The Parliament of Scotland is the devolved legislature for Scotland.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.10038488640823684
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The contact. Oxygen gas can also be produced for electrophoresis of water into molecular oxygen and hydrogen. BCL activity must be used. The base D is used. The gas is used here and consists of hydrogen and oxygen when the explosive ratio
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Khan was the title given to the rulers of the Mongol Empire, which was the largest empire in history at its peak. The Mongol Empire was established by Genghis Khan in the 13th century and stretched from the Pacific Ocean to the
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: There are many methods for determining the formality of a given integer n, however, the most basic method is called trial division. The trial division method consists of dividing n by each integer m that is greater than 1 and less than or equal to
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4209526695855732
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The chemical barrier of the respiratory tract is a protection against infection, just like antimicrobial textiles, such as diapers, which prevent the entrance of pathogens. However, there are other types of barriers that help to prevent infection, such as those found in
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.30470835800030993
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: There are multiple layers of protection provided by the mother during pregnancy to protect the developing fetus against infections. Some of these layers include antibodies. Antibodies are proteins that help to fight infections and are produced by the immune system. The mother's antibodies can be
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5649635680490321
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: In this context, the factoring garden, covering the area of 16.5 hectares, with formerly a royal garden, there are over 100 different species of trees in the avenue that are placed to fit or relax. At the east end of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.27234097088409315
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.1374011021260073
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The river system that developed in the Upper Rhine Graben was not the first Rhine River. This river system developed at the time of the Miocene. At this time, the Rhine and Out Rhine rivers did not yet have the same
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4166055163292294
+
+Question: Who develped the theory of relativity?
+Response: This concept, philosophers in antiquity, used the concept of force in the study of stationary and moving objects.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.09509217757125965
+
+Question: What is stratigraphy?
+Response: The process of studying earth history and understanding the processes that occur on the earth is done by using a number of methods, such as steel, laboratory, and numerical modeling methods. When doing a typical geological investigation, theologists use primary information related to pathology
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: This course is your first quantitatively investigated in conditions of strategies for liberty and will settle.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.057329239723694636
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T-cell is a type of white blood cell that is responsible for helping the immune system to identify and destroy pathogens. It is activated by the presence of a foreign pathogen or antigen, which is a protein molecule that is recognized as foreign by the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5409069613045977
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Based on the given transcription, the situation becomes more complicated in the dust because the real water no longer coincides with the main flow of water. The water flow volume of the line flows farther west through the wall and moon. We have a
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the aspects of Europe, 538 to 710, in the early Nara period, 710 to 794, the main use also of roles similar to both of modern pharmacists from highly respected. The force
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.08483226136192701
+

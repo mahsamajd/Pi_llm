@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The Los Angeles Football Club (LAFC) is a Major League Soccer franchise based in Los Angeles, California, United States, that began play in 2018 as an expansion team. The club will play its home matches at the Los Angeles Memorial Col
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.39358542663024265
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A private school is also known as independent school, non-governmental or non-state school.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12214690514334103
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to more than 2 million items. The building was designed by architects. It opened on the 15th of December, 1999. The University Library Garden was opened on the 12th of June, 200
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4862826973731713
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The extinction of the dinosaurs and the redder climate may have allowed the tropical rainforest to spread out across the continent.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.10888674007976973
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Khadak Constitutional Convention was formed in 1989. It was a meeting of various groups and individuals from Scotland that discussed the possibility of a Scottish parliament. The convention was created in response to the 1979 referendum on Scottish devolution,
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.03194199749640236
+
+Question: Who did the geographic scholars work for?
+Response: The people of the tropics are seen as inferior to the Europeans and therefore need to be guided by the more evolved Europeans. This is because the Europeans believe that tropical climates make people lazy, sexually promiscuous, and with exotic cultures. This is
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.03846907143436873
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: The strength of the meme is that it has been adapted in many different languages and cultures throughout history. The meme has also been used to represent various concepts, such as poetry, art, and music. The strength of the meme is that it can
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.027738261734803094
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The transcript is about Vaccination. Vaccination is the deliberate inoculation of an infectious organism or a part of it to induce immunity and protect against infection. The principal behind vaccination is to introduce an antigen from a pathogen in order to stimulate the immune
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5922239790369842
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 is currently operating in industry standards. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09074676619705824
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to see is private schools and Germany is in Article 7. Here is the four of the green descent and cannot be suspended even in a state of emergency. It is also not possible to abolish these rights. This unusual protection of private schools
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: In the question it is asked "How many time numbers is this?" The number of time numbers can be calculated based on the statement given by the formula "The probability that a randomly chosen number A is prime is proportional to the logarithm of A."
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.05506445687987538
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The Tuna Force may be abundant during the summer months in some coastal locations, but in other places they are uncommon and difficult to find. When they occur in very high numbers, radiation by Tuna Force may control the population of small deep-plane tonic
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A superheater is a component in a steam engine that heats steam that has already been raised to saturation temperature in a boiler to a higher temperature. It is similar to a boiler, but differs in that the steam is not generated by the combustion of
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.060285258408613984
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The immunogenicity of peptides and proteins is the ability of these molecules to elicit an immune response. This response can be either harmful or beneficial, depending on the context in which it occurs. For example, if a peptide or protein is presented to
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.053449975097578206
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the industry in 2014 has around$960 billion in annual revenue according to statistics facts by. The census bureau of which $680 billion is cited, squeezed evenly between residential and non-residential, and the remainder is government
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.13819217468572487
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century Royal Eagle South Castle firmly housed a center for contemporary art. This center had a permanent and temporary exhibition. This center was chosen as a workshop. This center firmly realized 500 projects a year. This center had a national gallery
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle-run area is famous for its beer rooms and its dinner culture.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.06811039261707164
+
+Question: What effect does European Union law have on laws of member states?
+Response: The three sources of European Union law are primary law, secondary law, and supplementary law. The primary sources are the treaties established in the European Union. Secondary sources include regulations and directives, which are based on the treaties. The legislature of the European Union
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4622529140498084
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: An algorithm is a set of step by step instructions that will produce a certain result. It is also known as a set of rules and procedures that will produce the same result when followed. Algorithms are used in many fields, including mathematics, computer science,
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5055651645930758
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Parliament can introduce bills in a number of ways. The Scottish government can introduce a bill, a committee of the Parliament can present a bill, an MSP can introduce a bill as a private member, or a private bill can be submitted to Parliament
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.09238245882586948
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Based on the given transcription, oxygen gas can be produced by electrolyzing water. The electrolysis is a chemical reaction in which an electrical current is passed through a liquid, such as water, to decompose it into its constituent elements. In this case
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.09186837604680864
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The ratio of men to women is 91.2 males per 100 females. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.35725223031863174
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded in the United States.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4914958811083787
+
+Question: How many days did the Warsaw Uprising last?
+Response: 16 days. The Warsaw Upreg in is considered a great act of national heroism. The
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.11551979413760538
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: There are multiple chemical barriers that protect the body from infection. These barriers include the skin, the respiratory system, and the gastrointestinal system. The skin is the first line of defense against pathogens. It is made up of several layers, including the epider
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.19251726314430417
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Warsaw parks, or the Warsaw parks, have a long history that dates back to the 17th century. The first of them was the park of the Warsaw Palace, which was established by the first king of Poland, Jan III Sobieski
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2582181296612692
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a well-known magazine for construction companies. It publishes a list of the largest design and construction firms in the US and worldwide. The top 400 list of contractors was divided into 9 categories: transportation, petroleum, building, power,
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.47729927054411714
+
+Question: Who discovered this and where did they come from?
+Response: The Amazon is the largest rainforest in the world. This tropical rainforest is the size of the United States and is mostly located in Brazil. The Amazon has the largest biodiversity in the world and is home to many different animal and plant species. The
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.37016764435731664
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Sir Isaac Newton, which is mathematical insight, Sir Isaac Newton
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0899612114354792
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Oxygen is an element that is found in nearly all biomolecules that are important in the life of humans. The only biomolecules that do not contain oxygen are carotenoids which are pigments that are found in plants and other organisms. Oxygen is also
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07085822040960177
+
+Question: In what year was the Interstate Highway System created?
+Response: Fresno is a city in California. It is the 5th largest city in California and the 34th largest in the United States. It is in the central valley of California. It is not directly linked to an interstate highway because it was not
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: In the world of science, there are many different fields that study different aspects of the Earth. Geology is a field that focuses on studying the composition, structure, and history of the Earth. Geologists use a variety of tools and techniques to
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.06533891678344339
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The T-cell extends a receptor for vitamin B that has been activated by the stellar hormone. The receptor allows the T-cell to bind to the active form of vitamin B and to communicate with the T-cell. The T-cell is then able to perform its
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5295462461488282
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the water flow is directed to the west.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2564052729124363
+
+Question: Why does competition among workers drive down wages?
+Response: When there is a large amount of workers who are willing to work for a particular job, it is known as a high supply of workers. In this case, the employers have many options of choosing workers who they believe would be the most suitable for the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5601333617677009
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immediate immune system is the dominant system of host effects, and most organisms question. You need a immune system with farms in a generic way. You need it as what? [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3707854585234248
+

@@ -1,0 +1,205 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by donations. Private schools are independent from the government, so they do not receive government funding. Instead, they are funded by donations from parents, alumni, and other benefactors. This is how private schools can afford to offer
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12255248686406273
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On a case of a multilateral negotiation with the combatives. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06236883333110943
+
+Question: How many items is the University Library home to?
+Response: The University Library has a collection of over 2 million items, which is home to the building. The building of Brzezinski was designed by architect Mirek Brzezinski and it was opened on the 15th of December,
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5239055695203496
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene, the Amazon rainforest was a narrow band of forests. The Oligocene epoch lasted from approximately 34 to 23 million years ago. During this period, the Amazon rainforest was a narrow strip of tropical rainforest
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4920404377446541
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. It was an organization that included many Scottish organizations, churches, and industries. The Convention published exclusive devolution documents in 1995, which became the basis for the Scottish Parliament. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.010101130169721029
+
+Question: What substance is used to make high quality liquid O2?
+Response: One of the main substances used to make high quality liquid air tubes is called liquid nitrogen. This substance is obtained by condensing air into liquid form through the fractional distillation of liquefied air. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4687317538430673
+
+Question: Who did the geographic scholars work for?
+Response: The geographic trawlings worked for the European empires, including the British, French, and Dutch empires. These empires were based on the idea of a white, European culture and race being superior to those of other cultures and races, particularly
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4159566200955054
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme in modern languages are all derived from a ballad.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.11531698716032623
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination consists of introducing an antigen or a weakened or killed form of a pathogen in order to develop a specific immunity to that pathogen. In this way, the antigenic molecules from a pathogen are used to stimulate the immune system
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5986352026161408
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: There has been much debate over the upgrade of State Route 99 to interstate standards. The reason behind this debate is because the decision was made to build what is now Interstate 5 on the west side of the Central Valley. This bypassed many of
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3737274412100282
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Based on the given transcription, it can be inferred that the right to create private schools in Germany was in Article 7 of the Basic Law of Germany. This was enacted to protect these schools from any future societal changes or events. In the early
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: In this context, there are infinitely many primes. As demonstrated by Euclid around 300 BC, there is no known simple formula that separates prime numbers from composite numbers.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.3948660246674168
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is the Lorelei. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.21434794562568038
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Memeopsia
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.060678060104718434
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The component that raises steam temperature above its saturated vapor point is a superheater. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.2843812094171584
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3100073681348896
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the industry in 2014 has around $960 billion in annual revenue, according to statistics tracked by the Census Bureau, of which $680 billion is private, with evenly between residential and non-residential, and the remainder
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2768382617884133
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century royal leader Jack Baffert currently houses centers for contemporary art, with conterminant and temporary exhibitions, concerts, shows and creative workshops. The center currently realizes about 500 projects a year. Jack had a National Gallery of
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.20129791265733799
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine area has the unique feature of having a long history of settlement, a slow flow of wine, and an architectural monument. The middle Rhine area is considered the epitome of the Rhine romanticism due to its rich historical significance
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.30144685859216813
+
+Question: What effect does European Union law have on laws of member states?
+Response: The primary law of the European Union is a treaty that outlines the objectives of the European Union. The main objectives are to ensure a single market and to protect the environment. These objectives are then translated into secondary legislation, which is then enforced by the member
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.447159762328752
+
+Question: An MSP may introduce a bill as what?
+Response: B. Private Member Bill. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.09282701659344406
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36948722514188825
+
+Question: How many men older than 18 are there for every 100 women?
+Response: To determine the number of men older than 18 for every 100 women, we need to consider the population of men and women who are older than 18.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.5312887326227607
+
+Question: How many days did the Warsaw Uprising last?
+Response: According to the information given, the Warsaw Uprising lasted for 63 days. The home army fighters and the civilians assisting them were forced to surrender. They were then transported to power camps in Germany. The entire civilian population was expelled. The estimated death
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.0009844436719379512
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The number must be less than or equal to the square root of n. If n is greater than the square root of n, then the number will be divisible by the square root of n, which is not a prime number. Therefore, the number
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5254409643770757
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid and protein serve as powerful chemical defenses against ingested pathogens. Gastric acid is secreted by the stomach to protect against ingested pathogens. It is also responsible for the breakdown of protein and other nutrients in the food, and
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.49770111019764307
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity can also be transferred artificially from one individual to another via antibody transfer. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.14573923796100052
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Based on the given information, it can be inferred that ENR is a trade magazine for the construction industry. It publishes two lists each year, PLT-40 and COP-250, which rank the largest companies in the United States and the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.31690366293048156
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In this context, the S-Rib system developed in the Alps. The main elements of this Rib system were the Upper Rhine Graben, in southwest Germany and eastern France, and the Lower Rhine and Banach in northwest Germany and the southeastern
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.44497334657998533
+
+Question: Who discovered this and where did they come from?
+Response: Over the last 30 years, it has been widely accepted as a product of indigenous soil management. The development of this fertile soil allowed agriculture and silviculture in a previously hostile environment, meaning that large portions of the Amazon rainforest were probably the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.15021280764475575
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11269870181822095
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: In this context, the element is found in almost all biomolecules that are important here, are generated by, life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08723778550447525
+
+Question: In what year was the Interstate Highway System created?
+Response: Interstate highway system was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.13354913244854338
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T-cell will extend to vitamin D receptors when it encounters a foreign pathogen. This is essentially a signaling device that allows the T-cell to bind to the active form of vitamin D. The T-cell has a symbiotic relationship with vitamin D.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5841922033796383
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The following diagram shows the main flow of the Rhine River. The two-thirds of the Rhine flow volume outside of Germany. It flows through the wall and then, via the Meride and New Meride, the beach spots, merging with
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.09350137135727765
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Panel on Climate Change (IPCC), is an intergovernmental body created by the United Nations Environment Program (UNEP) in 1988 to assess scientific, technical, and socio-economic information relevant to climate change and develop, promote,
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.44883339686775314
+
+Question: Why does competition among workers drive down wages?
+Response: The text provided for the discussion is the transcript of the audio, and it is clear that the narrator is discussing the concept of competition among workers and its impact on wages. In the audio, the narrator mentions that a job with a lot of workers willing
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5293405602674304
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure of pharmacy is a hierarchical structure that is divided into many different types of pharmacists with different levels of experience and education. The structure includes pharmacists who are responsible for the administration of medicines, and those who are responsible for the education of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.04333374078125085
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.12367457555534178
+

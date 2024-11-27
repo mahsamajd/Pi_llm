@@ -1,0 +1,175 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Transcription: contact. Private school, often known as independent schools, non-governmental or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1095279291435205
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1. One year later, a few in nations in Japan sought to disassociate themselves from the United States foreign policy. 2. In the Middle East, they avoided being targeted by the boycott. 3. There are more producers between
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.11721853710965591
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The convention was held in 1990. It was a constitutional convention that was held in 1990 and was a constitutional convention that was held in 1990. The convention was held in 1990 to establish the structure of the parliament.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.15511533722527526
+
+Question: Who did the geographic scholars work for?
+Response: I believe that the answer to the question is "yes." As the description of the world and the colonizing empire states, the world was stirred into climate and the idea of colonization. The scholars believed that northern Europe and the New York and the New
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.0
+
+Question: What makes energy changes in a closed system?
+Response: The main idea is that the non-pri-vileges of forces are associated with the change in internal energy of a system. This is because they do not change the total energy of the system. Therefore, they are not able to affect the internal energy
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.06561542055981873
+
+Question: What is the French name for the Rhine?
+Response: Ueno is a Germanic name, which was later adopted to the Romans and the Latin language. Ueno was originally a Germanic name for a tall tree. The name was later adopted to the Romans and the Latin language, and the name became
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.05066978781346421
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The specific immunity events that particular pathogen
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.07954954627422073
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: U.S. state 9 is a state highway system in the United States and is also a state highway in California. It is a major part of the state highway system in the United States, and is also part of the state highway system in California
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.12216077561849692
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction is defined as a transformation of an NP-complete problem into another NP-complete problem. Polynomial time reduction allows us to reduce the time complexity of an NP-complete problem to an easier problem. As a result, we can solve the easier problem in
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0635447136228926
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1% to 7.8% in Germany increased from 0.5% to 6.1%
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.1801646986107458
+
+Question: How many prime numbers exist?
+Response: We will calculate the probability of the event that the first digit of a time number is 1. For the time, there are infinitely many digits. So, the probability of the event that the first digit of a time number is 1 is
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11333414728144586
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The middle-line area is a rich tourist destination, and the economy is driven by tourism, specifically by visitors to the famous rock, which is located in the middle of the valley. The rock is the central feature of the area, and visitors come to
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.014266063666954265
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The first part of the transcription is the water temperature and pressure in the boiler. In this case, it is the saturated steam temperature and pressure, which is a result of the water vaporization process. The water is boiled off, and
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.03787274825336384
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: There is also this context. Larger drugs, greater than 500 dolphins, since you both can utilize an immune response, particularly if the drugs are administered repeatedly, or in larger doses.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1624625543498952
+
+Question: How many projects does the Centre currently realize a year?
+Response: I think the first sentence is unclear. The 17th Century Royal is a back-assing, firmly-housed agenda for contemporary art. It's concerning an contemporary observation, concrete, chosen to eat at workshop. The century realizes about 500 projects
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.1809704576146579
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine River is one of the most important rivers in the Middle Rhineland, located in the western part of the country. The Rhine River has a total length of 1,240 km and flows from Germany to France. The Rh
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.34747537829260466
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of URC and Union law on laws of member states is that primary and secondary laws are established by the law-making bodies of the URC and Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.18849405794349394
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: H2O2 is produced from water by an oxidizing agent such as hydrogen peroxide. Oxygen gas is produced from hydrogen gas by an oxidizing agent such as water, sodium hydroxide, or sodium hypochlorite. Both oxygen and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.53388878081667
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded southern China was far greater than the force they sent invaded. They also killed many people. The Middle Eastern 1266. He died in 1269 without a suspector. People returned from fighting the Khan in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.05791558113867312
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.059288259209668515
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The chemical barrier of a stomach is the chemical that prevents bacteria from getting in. Bacteria can get in through the stomach's digestive juices and acids. The chemical barrier of a stomach is what prevents bacteria from entering the stomach. In order to prevent bacteria
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.15460824020262054
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 1. EMR compiled a data in nine markets segment. They were provided as transportation, petroleum, building, power, industrial, water, nano-basketing, sewer waste, telecom. After this week, what the hence category for other projects?
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.11011523607498908
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Dabbin did not have a large river system at the time. In fact, at that time it did not have a large river system at all. It is important to understand that the Rhine river system was still developing at
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.48662526343464574
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The biomolecules that are most likely to be found in living organisms are proteins, carbohydrates, and fats. All these biomolecules contain oxygen. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.41723830639948956
+
+Question: What is stratigraphy?
+Response: Theologists use a number of steel, laboratory, and numerical modeling methods to decipher earth history and understand the processes that occur on them. And inside the earth, in typical geological investigation, theologists use primary information related to pathology, to study of rock
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Force is canceled each other out.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.057571607148257264
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The key cell extends the vitamin D receptor. The vitamin D receptor is a type of cell surface protein that binds to the hormone vitamin D and regulates certain biological processes such as calcium absorption and phosphate homeostasis. [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4482347467830766
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: This question has two parts. First, we are given a transcription of the text. We can take this transcription as an example of a text written in the language of the text. We can also see that the transcription is in the form of a sentence
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.01921351940025784
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: The job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1359334781928594
+
+Question: What put a hierarchical structure in place?
+Response: 1. The force of pharmacists in society was especially defined in the BTSU. 701, in these stated in the Nara period, 782, raised positions in the same high-end interior course as dabbles. In this organizational
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.09165771610856133
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is the dominant system of the face to face and most organisms. The immune system responds in a generic way. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3618736549678908
+

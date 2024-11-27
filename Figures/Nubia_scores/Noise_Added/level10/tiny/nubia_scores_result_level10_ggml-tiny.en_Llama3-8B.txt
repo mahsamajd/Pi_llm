@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005, the Los Angeles Dodgers were in first place in the National League West division. They were playing the San Francisco Giants, who were in second place, at Dodger Stadium on June 10, 2014. The Giants had
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2741817824219879
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The transcription of the text given is as follows: "Contact side of school also known as independent school non-governmental or non-state school. These are not administered by local, state or national government. They are between the right to collect their students
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The U.S. administration in the 1970s was determined to be the first step in the Middle East to achieve a comprehensive peace treaty, which would end the Israeli-Arab conflict. This was the goal of the U.S. administration under Jimmy
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.3481915445333512
+
+Question: How many items is the University Library home to?
+Response: The University Library (or UB) was established in 1816. The library collection has grown to about two million items, and the building was designed by architects. It was opened on December 15, 1989.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4529466498697927
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Jurassic period, the dinosaurs and the letters are the most abundant in the tropical rainforest. But, during the Cretaceous period, the dinosaurs and the letters were the most abundant. The extinction of the dinosaurs and the letters was due to
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.31904907245300307
+
+Question: When was the Scottish Constitutional Convention held?
+Response: This is a transcription of a news broadcast. In it, the announcer is reporting on the recent news of the "New York Times". The first part of the broadcast is about how the "New York Times" is currently in a silent state.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: This is an example of a very long, very complex question with multiple components to it. If you were to take on this question, you'd have to make sure that you had a clear understanding of all of the parts that were being asked. The
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.23368146022523184
+
+Question: Who did the geographic scholars work for?
+Response: I think the world climate that would be used in this part of the world would be the tropical climate, the people of this climate believe to be a need of guidance and intervention from us. I believe it is a need for the people of these climates
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.0
+
+Question: What makes energy changes in a closed system?
+Response: Non-concentred is a force of acts between the internal energy of the system.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.09957941071412468
+
+Question: What is the French name for the Rhine?
+Response: The Latin word linea means “a rope, cord, or line”. It comes from the Indo-European root līn, which means “a long, thin strip”. This is the word from which we get the Latin word for “line”
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.14500184963263774
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: It is difficult to understand the speaker in this recording. It is not clear what he or she is saying. However, based on the information provided, it appears that the speaker is talking about long-term memory, active immunity, and specific immunity. The
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.35707140334573506
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The treatment of me is the dose, but it's now really safe size on the left side of the central valley.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.06687893308007464
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: I understand the question to be referring to the reduction of the carburetor time to the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11338147173231528
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, private schools made up 6.1% of all students in Germany, compared to 7.3% in 2008.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3150157743423285
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The dominant economic factors in the middle line area are unicorns in a sphere. The line boards between new to time and line and phobex are listed as a municipal world heritage site. New-safe boards are done. The line screws around the film
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The following transcription is a repetition of the phrase "the future of the country is very difficult to understand." This is an example of a self-reflective loop in a speech, where the speaker repeats the same phrase or sentence multiple times. This loop
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In the above transcription, the other components are often present sometimes, such as an injection, which require water to the barriers in an operation, can gain stress to be circular to water, and recover the radiation heat of the station. In people who use
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The transcript is referring to the study of immunogenicity. Immunogenicity is the ability of an antigen to cause an immune response, specifically the ability to stimulate a specific immune response. The transcript is discussing the use of computational methods to predict the immun
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.07165386188459155
+
+Question: The average contractor hired how many employees?
+Response: The US Census Bureau provides a detailed and comprehensive analysis of the food and beverage industry in the United States. This analysis is based on a variety of data sources, including the US Census Bureau's Current Population Survey (CPS) and the Bureau of Labor
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.002674095326629544
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dawn with economic sectors and the middle line area are universal to the future. The long doors between new to time and line and total is listed as the municipal world heritage case. New so forth houses. The long flows around the fields rock lower.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish government introduced new laws to assist the laws of the bill. The bill was introduced by a member of the Scottish parliament who said the bill was a type of member. A type of bill is a bill submitted to the parliament by an outside proposal
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.01940489482804797
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The census data shows that 22.9% of the households had a child under the age of 18, meaning that 22.9% of the households had children. This could mean that the rest of the households did not have children,
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.10603293411199
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol invasion of China occurred in the 13th century and was led by Genghis Khan and his sons. The invasion was a series of military campaigns that resulted in the establishment of the Mongol Empire, which stretched from the Pacific Ocean
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.07470620808233008
+
+Question: How many days did the Warsaw Uprising last?
+Response: [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.22879293182639404
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The most important thing that we don't have to do with the other things is the one thing that we don't have to do with the other things. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.43977441713363696
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson Garden is a large, royal garden located in the city of Paris. It covers an area of 15.5 hectares and features over 100 different species of trees and plants, as well as several avenues that lead to the nearby Seine
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.24329417597072367
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: A company that is the largest in the world in a specific industry is often a bellwether for the entire industry. For example, the Dow Jones Industrial Average (DJIA) is a price-weighted average of 30 large, publicly traded companies
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.36117798400096846
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The text reads, "Transcription: from New York to London, we aren't going outside in a wagon as part of the Internet's risk system to develop in this world." The "Internet's risk system" refers to the Internet's ability to
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.18172037756524206
+
+Question: Who discovered this and where did they come from?
+Response: The "sera freedom" is a concept of the Amazon forest that has been distributed over large areas. This is considered the context of indigenous coal emissions. The development of the "sera" is a large agriculture and agriculture that are individually hostile
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.12391503614687438
+
+Question: Who develped the theory of relativity?
+Response: In this context, the concept of force is essential in the analysis of stationary and moving objects. The understanding of force is a subtle and artful movement, which makes it necessary to fully grasp the concept. In addition, it is important to understand
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element that is found in almost all biomolecules that are important to us is Oxygen.  This is because oxygen generates a value and life only exists when oxygen is present.  Oxygen is also important for us as humans because it is while we are
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: In what year was the Interstate Highway System created?
+Response: It's the largest U.S. city, not directly raised to an U.S. state highway.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06336122743971218
+
+Question: What is stratigraphy?
+Response: Biologists study a wide variety of topics, and in this context we are interested in geological investigations. We are interested in binary information related to geology. We study rocks and their deformation in numerical fields. We study as well as make narratives. We
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: In this transcript, the narrator mentions the vitamin D receptor, which is a signal interface that allows two cells to bind to the actual form of vitamin C, the steroid hormone types of phyomes. This means that the vitamin D receptor plays a vital role
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.42514124835998157
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The water in this river has a different flow rate as it goes along the river. The flow rate is less in some places and more in others. This is because the water is not only moving forward, but also moving sideways and up and down.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.01795870430234925
+
+Question: Why does competition among workers drive down wages?
+Response: The excerpt provided talks about the topic of driving down wages and the effect it has on employees. In this case, the author explains that there is a need for high demand in the job market, which leads to employees receiving lower wages. This is because
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5823778816455167
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the 18th century, there was a hierarchical system of pharmacists, who were considered highly respected, and who were the first to be regulated in the United States in 1771. By 1798,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3458679336646392
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is a system of cells, organs, and tissues in the body that protects against disease and infection. The immune system works by recognizing foreign substances, called antigens, and attacking them. The immune system has two main components: the innate
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.055936775572404285
+

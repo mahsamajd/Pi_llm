@@ -1,0 +1,150 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005, a new team leader reached competition in Los Angeles.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.06027126862990706
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Section rather than taxation, all private schools must be funded by
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.193849454663806
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The tropical rain forest is the most advanced of the tree. The tropical rain forest is the most advanced of the tree. The tropical rain forest is the most advanced of the tree. The tropical rain forest is the most advanced of the tree. The tropical
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.12745594852166997
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The 1989 Scottish constitutional convention was the Scottish constitutional convention. In 2001, the result was the 2001 Scottish constitutional convention. The Scottish constitutional convention was the result of a referendum, in 1997. In 1992,
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.13514706958357736
+
+Question: What makes energy changes in a closed system?
+Response: In the case of a state system, it is possible to make a statement about whether a state is a real or a real or a real or a real or a real or a real state or a real or a real or a real or a real
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.03147878163608664
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.49530469892314444
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: This state has been made to the community state of the united states, or that a city of the united states is a city which the
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.15273301264072026
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: You may have already thought to solve a problem of storing a musical. You would be a solution to this problem. For example, the number of times has been used to solve this problem. But, this is a case of an algorithm. And the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: It is also not possible to abolish these rights, and it is also not possible to abolish these rights. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.25388028459115053
+
+Question: How many prime numbers exist?
+Response: In this context, there are infinitely many prime numbers and composite numbers.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.2815457118924074
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: This. The result is a serious problem. To date. But. And. It. The result is a serious problem. To date. But. And. It. The result is a serious problem. The result is a serious problem. The result
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06686818002033779
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study of the study
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.16860483084676325
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The long road between Liebenstein and Rastelund is an oval private sector. The long road between Rastelund and Rastelund is a circle of my private sector. The long road between Rastelund and Rast
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4874535369031746
+
+Question: What effect does European Union law have on laws of member states?
+Response: It is not a violation to have a country in the European Union, the European Union does not have to be a member of the European Union, the European Union has a country in the European Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.37127609246855575
+
+Question: An MSP may introduce a bill as what?
+Response: Polynomists can use the following stages:
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.07036837468318347
+
+Question: How many men older than 18 are there for every 100 women?
+Response: At the same time, update, there were 166,270% household that agreed to 1140% in April.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.05162053020109736
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In each case, the first number of letters in the name of the person is the first word. The first number of the first letter in the name of the person is the first word. The first number of the first letter in the name of the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.10621978135689492
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Transcription: For instance, newborn infants have no prior exposure to microbe and are particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.08488759508450383
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park has three trees: the central, the eastern, and the park. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.12053454512740258
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: In contrast, engineering news records, EMR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08341877163634204
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: At that time, there was a lot of the river system, the north of the out, and the end of the upper line gravels, the north of the river system, and the middle of the out. The upper line and the middle of
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.461977371489939
+
+Question: Who discovered this and where did they come from?
+Response: The development of this sort of form allows for the service to be the result of 200 years. Manager, rather than naturally occurring as how serious has been to the thinking of the T.V. side, we know that some of these large settlements in
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10271744090191104
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are important here. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0897508031963048
+
+Question: In what year was the Interstate Highway System created?
+Response: [INAUDIBLE]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.44525661614521395
+
+Question: What is stratigraphy?
+Response: On top, geologists use a number of fields, lavatories and numerical modeling methods to decipher Earth's history and understand the processes that occur on Earth. In the field of a number of fields, the study of rocks, the study of sedimentation
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.08076670484763937
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The results of the results of the next phase can be determined by the results of the next phase. The results of the results of the next phase can be determined by the results of the next phase. The results of the results of the next phase can
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.09264317676418454
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: On top, the job where there is always a lot of work for the position.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.11300465208163424
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system is a non-specific. Immune system that recognizes and can recognize the immune immune system and the innate response of many species. The innate response of many species is a recognized and consistent. Immune. Immune. Immunization.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.14088597616876963
+

@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the team played in was the Stubhub Center.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4138824457044088
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The question is asking to define a private school, which is a school that is not controlled by the government. Private schools are sometimes called independent schools and are not funded by the government or taxpayers. Private schools may charge tuition or receive donations to help pay
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.05203184196729749
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1. The crisis had a major impact on international relations and created a risk with a NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06607458764171548
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over two million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.375669458888395
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Based on the transcription, the Amazon Rainforest was the narrow band of forests during the Oligocene period in history. The Oligocene period was from 34 to 23 million years ago. During this time, the rainforest and the relatively
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.33202812959816297
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high quality liquid oxygen is air. Air is a mixture of many gases, one of which is oxygen. Oxygen can be separated from air by liquefying air using liquid nitrogen and then distilling it. This process results in
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.3619548966966789
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the European empires. They were trying to justify the European colonization of other countries.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.19808068437332904
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macroscopic non-conservative forces and microscopic conservative forces is described by detailed treatment with statistical mechanics. In macroscopic closed systems, non-conservative forces ask to change the internal energies of the system and are often associated with the transfer of heat
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.15916793708386434
+
+Question: What is the French name for the Rhine?
+Response: The French word for the Rhine is the Rhine. It is from the Latin word for the Rhine. The Latin word for the Rhine is the Rhine, which is from the Greek word for the Rhine. The Greek word for
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.19957899265329326
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The antigen from the pathogen is introduced in order to develop a specific immunity. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.22675003016641482
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In the United States, the Interstate Highway system was created in the 1950s. This was a system of highways that was meant to connect the country's major cities, and it was designed to bypass many of the population centers in the region.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4438853671398042
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The problem of squaring an integer is not more difficult than the problem of multiplying two integers. Therefore, the problem of multiplying two integers can be reduced to the problem of squaring an integer. So, the problem of multiplying two integers can ultimately be
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11988994740708714
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Based on the given information, it is evident that the percentage of students attending private schools in Germany is 11.1%. This figure is higher than the 6.1% recorded in 1992, indicating an increase in the enrollment of students
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.11862700682710159
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is Lorrain, located near St. Laura's housing. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.16667932446478462
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Planck's constant (h) is a physical constant that is the quantum of action, central to the theory of quantum mechanics. The Planck constant, named after Max Planck, is defined as:
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.25442747531311205
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Components that raise the steam temperature above its saturated vapor point are the superheaters. This is because the superheaters allow the steam to absorb heat from the combustion gases that have left the firebox, raising the temperature of the steam. Without the
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06805538593663873
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realises about 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.28178403288904585
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The answer is that the middle-run valley is considered the epitome of the rhyme romanticism. The middle-run valley is a beautiful, scenic place that is popular with tourists. It is home to the famous rock laurelage, which is an outstanding architectural
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4034604214857911
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union Law has two kinds of effect. Direct effect and indirect effect. Direct Effect means that EU law can be used to make claims in a member state’s courts and that the member state’s courts must enforce the law. Indirect Effect is when
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.48009405932598326
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for confirming and testing the formality of large numbers is known as trial division. Trial division is a simple but slow method of verifying the formality of a given number n. It consists of testing whether n is a multiple
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5166344247156411
+
+Question: How many men older than 18 are there for every 100 women?
+Response: [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.32632040212625935
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded southern China was far greater than the force they sent in the Middle East in 1256. He died in 1259 without a successor.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2537677471782518
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.289587431366801
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the formality of a given integer n is called trial division. This routine consists of dividing n by each integer m that is greater than 1 and less than or equal to the square root of n. If the result
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.45360532057926584
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is the transfer of antibodies from one individual to another. Newborn infants have no prior exposure to microbes and are particularly vulnerable to infection. Several layers of passive protection are provided by the mother. During pregnancy, a particular type of antibody, called
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5373201147390434
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Gardens cover an area of 15.5 hectares and are a former royal garden with over 100 different species of trees. The avenues are laid out to allow visitors to sit and relax. At the east end of the park, the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.27219406180220906
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is an industry magazine, and what they do is report on the size of design and construction companies. And so it's not just construction companies, they also report on design companies. So it's design and construction companies, and so they would
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5177620489890502
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The RIF system is a complex geological system that developed in the alpine orogeny. It consists of three main elements: the upper Rhenish-Black Forest, the lower Rhenish-Bavarian and the Upper Rhine. In
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.39803612670249655
+
+Question: Who discovered this and where did they come from?
+Response: The question asks us about the Amazon forest. It tells us that a soil called "terra preta" is spread out over the region and that it is widely accepted to be a product of indigenous soil management. This means that the indigenous people of the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.17939096691867018
+
+Question: Who develped the theory of relativity?
+Response: Galileo was a scientist, a physicist, an astronomer, and a philosopher.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.10486757065692265
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System, officially known as the Dwight D. Eisenhower National System of Interstate and Defense Highways, is a network of controlled access highways that forms part of the National Highway System in the United States.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the layers of rock that make up the Earth’s crust. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.30554515457359865
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5182579468098503
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the water's flow volume of the line slows farther west. The first part of this answer is to identify that two thirds of the water's flow volume slows farther west, the second part of this answer is to identify the direction of the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.08556466771116222
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Civil Aviation Organization (ICAO) is an agency of the United Nations responsible for civil aviation. It is headquartered in Montreal, Canada. The ICAO is a specialized agency of the United Nations. It was established by the Convention on International
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5167982603646675
+
+Question: Why does competition among workers drive down wages?
+Response: A job with a large number of workers that are willing to work a large amount of time, would
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13173672652095958
+
+Question: What put a hierarchical structure in place?
+Response: The men useful filled roles similar to those of modern pharmacists were highly respected. The strength of pharmacists in society was expressly defined in the Chiho coast. 701, and restated in the neural coast. 718, ranked positions in the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10550935853878007
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Contact. Microorganisms are toxic that successfully enter an organism and counter the cells and mechanism does. The innate immune system, the innate response is usually triggered when microbes are identified by pattern recognition receptors, which recognize components that are conserved among broad groups of
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

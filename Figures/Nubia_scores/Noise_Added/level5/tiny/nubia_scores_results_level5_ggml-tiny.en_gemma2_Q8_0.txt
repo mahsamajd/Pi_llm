@@ -1,0 +1,160 @@
+Question: What was the name of the stadium that the teams played in?
+Response: 1. I am trying to keep up with the train.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.06981168461680787
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. It looks like it's a solid, this looks like a solid.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12463460148928751
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 1. The first two sentences are describing the author's current situation, which is a state of mind.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.08131646652771429
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: Who did the geographic scholars work for?
+Response: Transcription: It's only to do a glass of solid, and it's how you might do this, so once you do this, it's how it's done.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.17796121900570183
+
+Question: What is the French name for the Rhine?
+Response: The meaning of this statement is that, the truth of this statement is not true. In other words, the truth of this statement is not the truth. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.42498445167935306
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5157159963642656
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: 1. How do you know your time ago?
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.07906994013645374
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Explanation: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.19317454192318861
+
+Question: How many prime numbers exist?
+Response: [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28331637088182726
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: mRNA sequence:
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.05123667500277129
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Explanation:
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.44618506503377875
+
+Question: What effect does European Union law have on laws of member states?
+Response: I have a few questions about this text. First, when are we in the text? I think that it is a dream. If we look at the sentence “We are still living while with the body of sleeping to make a situation such as
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.18140964655263936
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The top is the inside, and now the top is the melody, so if you think that's the only method of playing this analogy, if you think that's the only method of playing this melody, it's the only method
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3513992209342315
+
+Question: An MSP may introduce a bill as what?
+Response: I will start off by making a hypothesis.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.07764202825827571
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: It's not a leader, so it's nothing to be an obstacle,
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.05398947863150727
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 22 * 1.5 = 33
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.06979189225737636
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The transcription above contains 42 words and 26 letters. The word 'that' was added to the beginning to make it a 27-word transcription. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.17247716297285698
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: I'm sorry.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4670249506913008
+
+Question: Who discovered this and where did they come from?
+Response: A. There is no transcription error. There is no transcription error. There is no transcription error. There is no transcription error. There is no transcription error. There is no transcription error. There is no transcription error. There is no transcription error
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.5143944343489009
+
+Question: Who develped the theory of relativity?
+Response: [1] The transcription is not a sentence, it is a string of words.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.13233439485694887
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. I am the only one that's found in almost all of our molecules that are in history.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07776983727857145
+
+Question: In what year was the Interstate Highway System created?
+Response: It's going to be a failure to find the ocean.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.05720131464427636
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A: The first paragraph is not good as the words are not the same as the text. The words in the text are as follow: The next few fellows under the corner of the carpet, it is shown to the item in due to factory
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.21063997595435024
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: I’ve tried to answer the question, but the answer is so long, it is difficult to see what the question is. If you have time, please edit the question to make it clear what the question is. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10572726696350421
+
+Question: Levels of what things are used to determine emission factors?
+Response: The answer is a new time for a lot of children as a lover is not even a known structure.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0751606749101007
+
+Question: Why does competition among workers drive down wages?
+Response: 1.    What is the problem with this transcription?
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.597506855395237
+
+Question: What put a hierarchical structure in place?
+Response: Transcription: [inaudible]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.5027681632446952
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

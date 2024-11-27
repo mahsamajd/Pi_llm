@@ -1,0 +1,150 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The Private School Scholarships are funded by the students or their families. A Private School is a school that is not funded by the local or state government but rather is funded by the students or their families. Private school students are not eligible to receive a
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.057507832632086364
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk within NATO. Some European nations in Japan sought to disassociate themselves from United States foreign policies. In the Middle East, where voids were imparted by the boycott, Arab oil producers
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.15764720580604263
+
+Question: How many items is the University Library home to?
+Response: 1, 1, 2, 2, 3, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.30951758998240175
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The extinction of the dinosaurs in the wetted climate may have allowed the tropical rainforest to spread out across the continent.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.09846497746897265
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3093880592424232
+
+Question: What substance is used to make high quality liquid O2?
+Response: 1) Liquid oxygen has been used to make high-quality liquid fuels, but this has been used in the past in the Soviet Union and China. It is not clear if this method is still being used today. However, the production of oxygen from
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.41043686238227006
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars and the colonizing empire, the world could be stirred into climatic zones. These scholars believe that northern Europe and the mid-Atlantic temper of climate produced that. Hard-working, moral, and outstanding human beings, alternatively, tropical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.19192016565807024
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces in close systems are often associated with the transfer of heat according to the second law of thermodynamics.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.21137667732929055
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Active immunity can also be generated artificially.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.06642809224801993
+
+Question: How many prime numbers exist?
+Response: 9. 3. 7. 5. 4. 8. 9. 5. 7. 6. 5. 4. 2. 3. 4. 2. 3
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.30478049222498393
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The purpose of the boiler is to raise the temperature of the stream above its saturated vapor points. In various mechanisms, one seeks to grasp the firebox. When coal is reached, a stream of stream soaking mechanism and its drive engine or motor may be
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.003235533156236814
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Romanticism is an artistic movement that flourished in Germany during the Romantic period of the 19th century.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.27513681188758954
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and registration such as regulations and directives which have direct effect or indirect effect on the laws of European Union member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.2902989065022
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The formality of a number is the result of the number being a multiple of a prime number.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.13615657726968
+
+Question: An MSP may introduce a bill as what?
+Response: In this context, bills can be introduced to parliament in a number of ways. The Scottish Government can introduce new laws or amendments to existing laws of the bill. A committee of the parliament can present a bill in one of the areas under agreement. A
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.02721900948899103
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Manji Kong attacked the Song dynasty in the south of China. The Song dynasty was a Chinese dynasty that ruled over China during the 10th century. The Manji Kong was a Mongol empire that conquered China in 1271. The Man
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.057109553570220406
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the finality of a given integer n is called trial division. This regime consists of dividing n by each integer n that is greater than 1 and less than or equal.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.28203676477646344
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a type of immunity that is generated by the transfer of an antibody or other antigen from the body of one individual (the source) to the body of another individual (the recipient), usually by injection. This is called passive immunity and occurs
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.59513264718191
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park is a popular exploring destination for the partying. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.1138603353159755
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The source of information that is used by ENR to compile and report on the largest companies in the United States is the Engineering News Record, ENR.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4221632873763397
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the upper Rhine grabber, the first major element of the rift system in the Alpine erango is the Upper Rhine Grabber.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.27302521545054226
+
+Question: Who discovered this and where did they come from?
+Response: [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4777546394122313
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Sir Isaac Newton, with his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved on for nearly 200 years.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.18094502622819852
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates, amino acids, proteins, and fats are all found in almost all biomolecules. Only a few common complex biomolecules, such as choline and mercuryines, contain no oxygen as the organic compounds with biological relevance. Carbohydrates
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.34925384230366885
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the strata of the earth, or the stratification of the earth's crust, rock, and sedimentary layers. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5026322834222067
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram U with vector addition is used to determine the resultant of the two forces on a point particle.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17944638637752475
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrates with activities on the tasks allotted there by the relevant WMO's
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07086668205642077
+
+Question: Why does competition among workers drive down wages?
+Response: A job where there are many workers willing to work a large amount of time. High supply. Completing for a job that you require. Rotomare. You'll result in a low wage for that job. This is because competition between workers drives
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.4574818318347108
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune response to microorganisms is a nonspecific response that is triggered by pattern recognition receptors (PRRs). The immune system is the dominant system of host defense in most organisms. The immune system responds to pathogens in a generic way, but not all
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.08728142178752984
+

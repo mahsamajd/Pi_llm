@@ -1,0 +1,180 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition, as previously stated. Private school students are not required to pay taxes, and as such, pay tuition instead. This is a common misconception of people who are unaware of how private schools operate. [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.07004435621796767
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In this context, the crisis had a major impact on international relations and created a risk within NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.0703259111569372
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene period, the Amazon rainforest was the narrow band of forests. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.343159497395494
+
+Question: What substance is used to make high quality liquid O2?
+Response: High quality liquid air tubes are made of aluminum, which is a strong and lightweight metal. Aluminum is an excellent conductor of heat and electricity, making it ideal for use in liquid air tubes. Additionally, aluminum is resistant to corrosion, meaning it can withstand
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.3906945790579074
+
+Question: What is the French name for the Rhine?
+Response: The French name for the wine is "Champagne". [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.07617391061170642
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In order to develop a specific immunity, an antigen from a pathogen is introduced. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2899086061832167
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5172065756814808
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Squaring can ultimately be logically reduced to multiplying two integers. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.19873788632933853
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1 percent of youth attended private schools in 1992. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.26930275359917133
+
+Question: How many prime numbers exist?
+Response: The Prime Number Theorem says that the number of primes less than or equal to n is approximately equal to the natural logarithm of n. It is a generalization of the result that the probability that a given randomly chosen number n is prime is invers
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.04696374881146226
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is the Lorelei Rock. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.24111782003791138
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: The average contractor hired how many employees?
+Response: As per the question, in the United States, the industry in 2014 has $960 billion in annual revenue. So the first line of the question clearly mentions that the average contractor hired $2$ employees. So the question is answered. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.12586338344510184
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3803503170572178
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine Valley can be considered the epitome of the Rhine romanticism because it contains the Rhine Gorge between Ludersheim and Rhine in Coglan. The Rhine Gorge between Ludersheim and Rhine in
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5327080983952881
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of European Union members states. The three forces of European Union law are primary law, secondary law and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5082862552867137
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The algorithm that I'm going to discuss is called the AKS formality algorithm.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.09850630646881775
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3712328332909629
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to produce oxygen and hydrogen. This is a process that involves passing an electric current through water, causing it to split into hydrogen and oxygen gases. The hydrogen is collected as a gas, while the oxygen can be
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.12275550433790883
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 100 women, 91.3 men. 100 women, 91.3 men. 91.3 men, 100 women. 91.3 men, 100 women. 100 men, 91.3 women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.5308492177974942
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Maangchi Kang attack the Song dynasty in southern China.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.11027402242264728
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.36036116985630173
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The square root of n must be greater than or equal to 2. Since the only prime numbers less than 2 are 2 and 3, and 4 and 6 are not prime. Therefore, the square root of n must be
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3674830805167335
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds that protect against ingested pathogens in the stomach are the gastric acid
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3442407637742
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the RIB system in the alpine orogeny in southwest Germany include the upper Rhine Graben, the Lower Rhine, and the Banch.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.2480163750340545
+
+Question: Who discovered this and where did they come from?
+Response: This is the answer.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.48868991254671346
+
+Question: Who develped the theory of relativity?
+Response: Einstein, Albert [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.08677991298077081
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: In this context, the element is found in almost all biomolecules that are important here, are generated by, life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08723778550447525
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.17787516211957366
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers and their interpretation. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.281038554297494
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram, the magnitude of the resultant varies from the difference of the magnitudes of the two forces to
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.18191705563751448
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T-cell encounters a foreign pathogen, it extends a vitamin D receptor. The vitamin D receptor is a signaling device that allows the T-cell to bind to the active form of vitamin D. The active form of vitamin D is called calcit
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5917398700217471
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on the information given, it can be concluded that the IPCC is responsible for a variety of tasks, including the preparation of the assessment reports, as well as supporting other activities, such as the Data Distribution Center and the National Greenhouse Gas Inventory
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3929223317707885
+
+Question: Why does competition among workers drive down wages?
+Response: The reason competition among workers tends to drive down wages is due to the expendable
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.21536547537937256
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure in place meant that the pharmacists were given a higher status than other health care providers. In the imperial household, the pharmacists would even rank above the two personal physicians of the emperor. [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.38915680888714377
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system responds in a generic way, meaning it is what? The immune immune system is the dominant system of host defense in most organisms. The immune immune system responds in a generic way. Meaning it is what? It is what? What
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.20576378918119798
+

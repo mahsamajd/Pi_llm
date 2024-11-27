@@ -1,0 +1,210 @@
+Question: What was the name of the stadium that the teams played in?
+Response: From 2005 to 2014, there were two major league soccer teams in Los Angeles. The LA Galaxy and Cheevos USA that both played at the sub-hub center and were local rivals. However, Cheevos was suspended following
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.26418117174555467
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The transcription above is a definition of private school. The definition provides a brief overview of the different types of private schools. The key points of the definition include that private schools are not administered by local, state or national government, that they retain the right
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcribed context of the passage above shows that the crisis had a major impact on
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.07002562662564704
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. This is calculated by adding up the 107,639.10 square feet of the University Library Garden to the 55,14.35 square feet of the University Library Garden. We can
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5015771496292509
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Cretaceous-Tertiary (K-T) extinction event, also known as the K-T event, occurred about 66 million years ago (MYA), and was the event that resulted in the extinction of the dinosaurs and their descendants. It was
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3114195691559629
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish constitutional convention was held from 1991 to 1997. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.15337496877759305
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is a diatomic molecule, and it is a colorless gas.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.12311010175051762
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: The French rhymes with Rhenus. The word Rhenus is derived from the Gothic Rhen. The Gothic Rhen is derived from the Germanic Rhen. The Germanic Rhen is derived from the Dutch Rhine. The Dutch
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.44883988676314435
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine is an antigen. That is administered in order to stimulate a specific immunity. The antigen
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.29661926868056376
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The correct answer is State Route 99. The correct answer is State Route 99. The correct answer is State Route 99. The correct answer is State Route 99. The correct answer is State Route 99. The correct answer is State
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.7515290897522382
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Based on the given information, we can conclude that squaring is not more difficult than multiplication. This is because squaring can be reduced to multiplication, and multiplication can be reduced to squaring. Therefore, squaring is not more difficult than multiplication.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.23879666992568627
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percent of each German student attending private schools was 6.1%. This
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3857225046304046
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times. As demonstrated by youth world around 300 BC, there is no
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11314992335042018
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rüdesheim and Tauberg is located on the Rhine River. It is also known as the Lorelei. The Lorelei is a rock formation in the Rhine River where the Rhine flows around the
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.42547495951498204
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: Transcription: Planck's context. Pima4s may be abundant during the summer months in some coastal locations. But in other
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A superheater is a device used to raise the temperature of steam above its saturated vapor point. Steam is generated by a steam boiler, which is a device used to boil water into steam. The steam is then sent to a superheater,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09373153075527751
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Contact, larger drugs, greater than 500 Dalton,
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.05050088869899205
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired 10 employees in 2011. The average number of employees is based on the 2002, 2003, and 2004 data provided by the National Association of Home Builders. The data suggests that there were
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.5208739760054455
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine romanticism is the Middle Rhine Valley. It is a UNESCO World Heritage Site and considered the epitome of the Rhine romanticism. The Rhine flows through the area, which includes castles and vineyards
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5402898414932762
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a political union of 28 countries that shares a common market and
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.14866148188722617
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The answer to the question is the AKS Formality Test. The AKS Formality Test is a method for verifying the formality of a large number, using the AKS algorithm. The algorithm is efficient, and has a small probability of error
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4857001172273011
+
+Question: An MSP may introduce a bill as what?
+Response: A bill can be introduced by a member of the parliament, a minister, a private member of the parliament, or an outside party. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.44655328815254136
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to produce oxygen and hydrogen. The electrolysis of
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.6465064267883227
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 96.1 men older than 18 for every 100 women in the city.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.19240166117271462
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Khan attacked the Song Dynasty in southern China. The Mongol force that invaded southern China was far greater than the force they sent in 1256. Monkey Khan died in 1259 without a successor. In 1260, Monkey Khan returned
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.22911734983493592
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. This is because the home army was beaten by the Germans and the Red Army was pursuing the Germans toward Warsaw, which was on the 1st of August 1944. The home army fighters and
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.022011606048592536
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Question 1: What compounds in the stomach protect against ingested pathogens?
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.28050975554254676
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is the type of short-lived immunity that is transferred from one individual to another via antibody-rich serum. It is transferred from mother to baby through the placenta in the form of antibodies. The antibodies are transported across the placenta to the baby
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.6487440579354219
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The transcription provided gives an overview of several parks in Warsaw, Poland. The information provided includes the location, size, historical significance, and unique features of each park. The word "war" is used in the transcription, which is likely a mistake and
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.229610828624373
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a magazine that specializes in construction. The magazine has compiled and reported on data of the largest companies of the United States.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.31373605461377263
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the RIF system in the alpine orrogeny in southwest Germany are the upper ryan
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.13889437508491775
+
+Question: Who discovered this and where did they come from?
+Response: Contact, terracrata, slacker, which is distributed over large areas in the Amazon forest.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.07122294563027287
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Based on the information provided, the compound that contains the greatest amount of oxygen by mass is a carbohydrate, which is a group of organic compounds that contain carbon, hydrogen, and oxygen. This compound is composed of two monosaccharides that
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2664920327114688
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a field of geological investigation that uses sedimentary layers, which
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.24161074248162795
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The two forces can be added together by using the parallelogram rule of vector addition.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.1294128864725087
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells are able to recognize and respond to a foreign pathogen by recognizing the antigens presented on the surface of that pathogen. The T cells, therefore, extend a T cell receptor, which is a type of antigen binding receptor that recognizes antigen
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5854579921004599
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two thirds of the line flow outside of Germany will flow to the east. This is because the water
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.17270958697379135
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Civil Aviation Organization (ICAO) was founded in 1944 as a specialized agency of the United Nations (UN). The ICAO was created to promote the safe and efficient operation of civil aviation worldwide and to facilitate international air transport.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4959923822025377
+
+Question: Why does competition among workers drive down wages?
+Response: The answer is that competition among workers drive down wages because the workers have no bargaining power. They can be replaced easily. The supply of workers is large, and the demand for the workers is low. As a result, the workers are forced to accept
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5803645396498025
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchy structure is a system that involves people with different positions in a society or workplace. The term hierarchy structure is used to describe a social system in which the members of a group are arranged in a certain order from the most powerful to the least powerful
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.03796939372635588
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: A. A specific response. B. A non-specific response. C. An effective response. D. A long-lasting response. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.18315679329621637
+

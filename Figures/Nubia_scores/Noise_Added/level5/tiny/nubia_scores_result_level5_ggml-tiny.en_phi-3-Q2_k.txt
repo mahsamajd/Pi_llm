@@ -1,0 +1,95 @@
+Question: How many items is the University Library home to?
+Response: Yes, nine and a thousand of the.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.06498593345862136
+
+Question: What substance is used to make high quality liquid O2?
+Response: 300 18th or 15th or 15th or 15te or 15te or 15te or 15te or 15te or 15te or
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2431562991628453
+
+Question: What makes energy changes in a closed system?
+Response: It's very similar to the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.13979329306338595
+
+Question: What is the French name for the Rhine?
+Response: the difference between the reality is not true
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.057580912926345706
+
+Question: How many prime numbers exist?
+Response: This
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09855504723538566
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The little rhino is on the.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.05985867218442542
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [Buck]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.29897685884269865
+
+Question: The average contractor hired how many employees?
+Response: The only thing that's happening to is the thing that's happening to.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.11182140116230377
+
+Question: How many projects does the Centre currently realize a year?
+Response: I don't know how to do it, I don't know how to do it, I don't know how to do it, I don't know how to do it, I don't know how to
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.6076152187003379
+
+Question: What effect does European Union law have on laws of member states?
+Response: You are the place where you are working with the masters of sleeping.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3243572912813043
+
+Question: An MSP may introduce a bill as what?
+Response: to do two miles in a cheer to the x for a in a game of.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.058896055010927206
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: It's not, it's, it's also, it's.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3772657909535493
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Yes, I'm so
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5140943201233169
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: (answer in foreign language)
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.36596659647706553
+
+Question: Who discovered this and where did they come from?
+Response: It's answer it!
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4705940872717115
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: I am the only one's found in, but I am the only one that's found.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.15750524142012834
+
+Question: In what year was the Interstate Highway System created?
+Response: I can't
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.33346128091575955
+
+Question: Levels of what things are used to determine emission factors?
+Response: It is new to the children as a new to the children as a new to the children as a new to the children as a new to the children as a new to the children as a new to the children as a new to the children
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.6429667252644892
+
+Question: Why does competition among workers drive down wages?
+Response: It's the difference that You've got.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6552451706006108
+

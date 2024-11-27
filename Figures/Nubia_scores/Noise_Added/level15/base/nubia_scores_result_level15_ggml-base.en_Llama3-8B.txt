@@ -1,0 +1,190 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium is StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2368504095787054
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The cost of private school is not cheap. Tuition can range anywhere between $20,000 and $40,000 a year depending on the school and where you live.  There are some scholarships available for students to help pay for private school.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3712068150761476
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In January of 1974, U.S. Secretary of State Henry Kissinger negotiated an Israeli withdrawal from parts of the Sinai Peninsula. The promise of a negotiated settlement between Israel and Syria was enough to convince Saudi Arabia and other Arab oil producers to end
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.48630159308518217
+
+Question: How many items is the University Library home to?
+Response: 2,000,000 items
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4994006011583032
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest and narrow bandic forests developed during the oligarchy.  [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.14724994484236686
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3093880592424232
+
+Question: What substance is used to make high quality liquid O2?
+Response: The answer to the question is oxygen.  [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.17153796181696546
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars are the people who provide the maps and information on the countries of the world. The reason that the world should be split into climatic zones is to help the colonizing empire to know how to best colonize a country. The scholars
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.07351614209776314
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme in modern languages are all derived from the Latin Rino. Rino is the name of the river. In Latin, this means a stream or river. The name of the river has been derived from the
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.029382404397470196
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine is introduced to the body to develop a specific immunity.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.22591485404570444
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 has been in discussion halfway to interstate standards.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.13274759821549553
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, 6.1% of students in Germany attended private schools. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3590106536604819
+
+Question: How many prime numbers exist?
+Response: As we have previously discussed, a time number is a number that contains only the digits 1, 3, 7 and 9.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.20886196525332446
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock lorline flows around the new design and rhyme of the middle-line area, which is a UNESCO World Heritage Site. The middle-line area is dominated by agriculture and tourism as its main economic sectors. Near St. George Housing, the rhyme
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A super-heater is a component of a steam generator that is designed to increase the temperature of the steam from the steam generator. A steam generator is a boiler that is designed to transfer heat to a fluid, usually water, to create steam. The
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.10636247119334186
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity in viral-informatics is known as immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.26919319155306043
+
+Question: The average contractor hired how many employees?
+Response: The total number of employees in the United States is 5.8 million. 13.2% of these employees were unemployed as of April 2013. Approximately 828,000 women were employed in the construction industry in 2011.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.28901481292412956
+
+Question: How many projects does the Centre currently realize a year?
+Response: In the 17th century Royal Egypet Dow Castle currently houses centres for contemporary arts with some permanent and temporary exhibitions, concerts, shows and creative workshops. The center currently realizes about 500 projects a year. That's at a National Gallery of
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.04304407301266344
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effects of European Union law on laws of member states are that it can change a nation's laws by creating new laws, it can also affect laws in the sense that the EU can tell member states what the laws should be.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.46207132344696367
+
+Question: An MSP may introduce a bill as what?
+Response: Scottish Parliament is a legislature and is the devolved national executive of Scotland. The Parliament can introduce bills and amendments to existing bills, and in this context, bills can be introduced in a number of ways. The Scottish Government can introduce new laws or amendments
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.03159770952388696
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to produce oxygen and hydrogen.  [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.41813035966815537
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. It began on 1 August 1944 and ended on 3 October 1944. The Warsaw uprising was an armed struggle by the Polish resistance against the German occupation of Warsaw during the Second World War
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.09977252327512487
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer n must be less than or equal to 8. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5530398731284697
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Compounds in the stomach protect against injected pathogens by secreting the stomach acid. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3542646955043832
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The data shows that there were 400 companies listed in 2014.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07753766199034551
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Rhine river system in the alpine origami in southwest Germany was influenced by the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.11721512156900193
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of the settlements in the Amazonian rainforest was made by Michael Heckenberg and his team of researchers at the University of Florida. The settlements were found to be located in the region of the Shindi tribe, and they contained evidence of
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3685038053303088
+
+Question: Who develped the theory of relativity?
+Response: In our community which means fundamental errors in understanding force. In part this was used to an incomplete understanding of the sometimes non-obvious force of friction. And the consistently inadequate view of the nature of natural motion, a fundamental error with the belief that
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: In what year was the Interstate Highway System created?
+Response: 1950s [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.10475380681408608
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. The sedimentary layers that make up the rock layers are called stratigraphic columns or stratigraphic columns. These layers of sediment are deposited in the sedimentary environment and are composed of sedimentary rocks
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2884007258539255
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The net force on an object is the sum of all the forces acting on that object. The forces that act on an object can be determined using Newton's Second Law, which states that the force is equal to the mass of an object times its acceleration
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.012001082635487492
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A key cell encounters a foreign pathogen when it extends a vitamin B receptor. This receptor allows the key cell to bind to the active form of vitamin B, which is also known as the steroid hormone, how to trial. The key cell then binds
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5237824449918617
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The main flow of water in the given context is the Wester Scheldt River. It is a tidal estuary in the southwest Netherlands and southwest Belgium, that connects the North Sea to the port of Antwerp. The two-thirds of the water
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.005537563168849902
+
+Question: Levels of what things are used to determine emission factors?
+Response: The Intergovernmental Panel on Climate Change (IPCC) is a body of the United Nations that assesses the state of scientific, technical and socio-economic information concerning climate change, its impacts and potential future risks, and option for adaptation and mitigation
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.44922156007434855
+
+Question: Why does competition among workers drive down wages?
+Response: Competition between workers for jobs results in low wages. Competition among employers for workers results in high wages. This is because in the first case, many workers are competing for a job and the employers can pay them less, and in the second case, there
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5646044179372764
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, the pharmacists at the end of the OPPEC period, 538 to 710, in the early Nara period, 710 to 794, fulfilled a role similar to those of modern pharmacists, who were highly respected.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.19373462606643777
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: In this context, microorganisms are toxins that successfully enter an organism and counter the cells and mechanisms of the immune system. The immune response is usually triggered when microbes are identified by pattern recognition receptors, which recognize components that are conserved among broad groups of
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

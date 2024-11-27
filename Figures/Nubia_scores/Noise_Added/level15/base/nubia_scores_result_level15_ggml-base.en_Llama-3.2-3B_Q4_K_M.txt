@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the team played in was StubHub Center. The team played in the stadium from 2002 to 2018, when they were suspended. The team returned in 2018, which is why they were not playing
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.45898166677162144
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private school is a type of educational institution that is not owned by the government. In most countries, private schools are funded through a combination of tuition fees and government subsidies. In the United States, for example, private schools receive about 4.8
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12758551761655768
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription is from the Nixon Administration’s “The Crisis and the Response” chapter from the book, The American Nation: A Concise History. The first sentence states that the crisis had a major impact on international relations and created a risk with NATO
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.14634238660989352
+
+Question: How many items is the University Library home to?
+Response: This context, another important library, the University Library, founded in 1816, is home to over 2 million items the building was designed by architects near the James C. A.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.40489708357222953
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. The convention was initiated as a pressure group which led to the 1989 Scottish Constitutional Convention. The convention provided the basis for the structure of the Parliament. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.07978822552323128
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars in the text work for the European Empire. The empire sees the people of the different climates as in need of guidance and intervention. The scholars believe that the people of the temperate climates are moral and hard-working while the people of the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.015866471018972206
+
+Question: What makes energy changes in a closed system?
+Response: Non-conservative forces are those forces that do not follow the principle of conservation of energy. In other words, these forces do not have a specific value. These forces are called non-conservative forces because they are not strictly conservative forces. The work done
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.06006574336673587
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is the dollar. It is derived from the Latin rhyne, which was adapted in Roman geography in the first century BC. The spelling with R. H. and E. Rino's rhyme is row as in
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.034570972366959496
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion to become a part of the interstate system is State Route 99. This is because it is a major highway and has been in discussion to be upgraded to the interstate system. However, this process is
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4498862846565731
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The answer to this question is "swearing is reducible to the problem of multiplying C integers". This answer is based on the following reasoning: swearing can be reduced to the problem of multiplying C integers, because swearing can be done by giving the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.05273199598952272
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, 6.1% of all German students attended private schools. This is because the private schools in Germany are protected by law. This means that they cannot be closed, even during a state of emergency. Moreover, these schools
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.17548591719308793
+
+Question: How many prime numbers exist?
+Response: The given information is that there is no known simple formula that separates time numbers from composite numbers, which means that the probability of a randomly chosen time number n being a time number is proportional to the log of n. Therefore, the probability of a randomly
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.011408254925749595
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock lorline is a famous rock formation in the middle line area, which is a UNESCO World Heritage Site. It is located between St. George and the Rhine River, and is a popular tourist destination. The rock formation is a result of
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22982687006801572
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity in viral-informatics is known as
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.17583631507734943
+
+Question: The average contractor hired how many employees?
+Response: Preston is a construction company in the US and has a turnover of $960 billion every year. This is according to the statistics from the Census Bureau. Out of the $960 billion, $680 billion is private and the rest is government
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.25911963973427676
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: In the provided transcription, the key information is that the Rhine Gorge between Ute-Chaim and Rhine and Höblin was listed as a UNESCO World Heritage Site. This area is known for its stunning landscapes and historical significance. The Rh
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.2337628496725468
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directions, which have direct access or indirect access on the laws of European Union members face.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.22682091463888188
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: In mathematics, a sieve is a device for separating the seeds of plants from other particles and other types of debris. A sieve may consist of a grid of wires or other apertures through which the seed particles can pass and the other debris can be
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3974004372394432
+
+Question: An MSP may introduce a bill as what?
+Response: 1. In this context, bills can be introduced to Parliament in a number of ways. If Scottish Government can introduce new laws or amendments to existing laws of the bill, a committee of the Parliament can present a bill in one of the areas under
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.01417943722108439
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36948722514188825
+
+Question: How many men older than 18 are there for every 100 women?
+Response: As of 2010, update, there were 366,273 households out of which 11.8% were dated. 23.9% of households had children under the age of 18 living with them. 43.8%
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.12570840791797666
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days. The Warsaw Uprising is known as one of the most tragic events to happen in Poland during World War II. The Warsaw Uprising began on August 1, 1944, and was an armed struggle
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.13544080535100378
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach has a pH of about 1.5, and it contains
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.11268150285734457
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The correct answer is Option C i.e. Passive immunity. The mother transfers the antibodies to the fetus via the placenta. These antibodies will act as a protective barrier against bacterial infections until the infant is able to produce his own antibodies. So, the
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5505128480360528
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Cisenci Palace Garden is a popular strolling destination to the Barnsogian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.12908462464984116
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The ENR is a trade magazine for the construction industry which has been divided into nine market segments. The data on the top 400 companies were collected on transportation, which is similar to heavy contractors and water terrain firms. [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.3133663795451481
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: In what year was the Interstate Highway System created?
+Response: Bregno is the largest U.S. city not directly linked to an interstate highway. The Interstate Highway System was created in the 1950s, and Interstate 5 was built in the 1950s. However, the construction of the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.18770402513028284
+
+Question: What is stratigraphy?
+Response: The strategy of geologists is to use a combination of field observations, laboratory analyses, and numerical modeling to decipher Earth history and understand the processes that occur on and inside the Earth. Geologists typically use primary information related to petrology, the study
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The result of two forces acting on a point particle, also called the net force, can be determined
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17307386437753092
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: In the transcribed transcript, the transcription factor is present in the key cell and it binds to vitamin B, which is a steroid hormone. The transcription factor is responsible for activating vitamin B cadiolis. Vitamin B cadiolis is converted to steroid
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4696653478244639
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3497882749640656
+
+Question: Levels of what things are used to determine emission factors?
+Response: Levels of GHG emissions are used to determine the emissions factory. The IPCC concentrates its activities on the task allotted to it by the relevant WMO executive. While the preparation of the assessment reports is a major IPCC function, it also supports other activities.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5153090121233073
+
+Question: Why does competition among workers drive down wages?
+Response: High supply competing for a job that he requires.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5880574459898857
+
+Question: What put a hierarchical structure in place?
+Response: [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.4455127612143077
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: 1. The immune system responds in a generic way, meaning it is what? This system does not confer long lasting immunity against the pathogens. The immune system is the dominant system of host defense in most organisms' question. The amazing immune system responds
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.023201188539389794
+

@@ -1,0 +1,145 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Chivas
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.23715838177599435
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.16761369502389423
+
+Question: How many items is the University Library home to?
+Response: 2,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.9370784668488485
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was the Amazon, and the Amazon is a narrow strip of land that runs between the Atlantic and the Pacific. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.346608866981287
+
+Question: When was the Scottish Constitutional Convention held?
+Response: In 1995, the Scottish Constitutional Convention was held, in a meeting to the end of the 20th century. The Scottish Convention was held, in the 19th century, in a meeting to the end of the world. In
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.07912223077306635
+
+Question: What substance is used to make high quality liquid O2?
+Response: Clear substances with a light sky blue color caused by the fact that it has been added to all parts of the earth, and all around the world; and all the parts of the earth, and the rest of the world, and all that is and
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2266578160270848
+
+Question: Who did the geographic scholars work for?
+Response: Question, who did the geographic scholars work for? In the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph, the last paragraph
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.6995410717826376
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy is transformed in a manner that the state of
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.22400483409741834
+
+Question: What is the French name for the Rhine?
+Response: Rhein is a central German name of the Rhine, while Italian and French in the Latin
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1257005932361851
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A) A) To be able to have a specific immunity, then it must have been something that is already known by the physician or scientist and it must be shown that a patient has developed a specific disease. In the process of immunisation, the
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.48370075405409885
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: An East German student attended a private school. The percentage of East German students that
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3022574051445033
+
+Question: How many prime numbers exist?
+Response: The probability that a given number n is prime is proportional to the logarithm of n. The logarithm of the number is 30, the number, the probability of a number, the number of a number, the number of a number, the
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.10187222320413558
+
+Question: The average contractor hired how many employees?
+Response: The industry is around 60 million. 40 million of employees. The number of employees in the construction industry is about 15.3% of all the population. 2.4% of all the population. 2.4% of
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.405033590585291
+
+Question: What effect does European Union law have on laws of member states?
+Response: The primary source of primary law, all laws of member states, secondary laws of member states and international law all the laws of member states. [end of text]
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.22757383637222872
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water can be a used to produce oxygen and hydrogen. DC electricity can be used to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.4218569295661062
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 9. While the acid can do. The stomach to. Acid and peps. A. A. The acids can. And can peps. B. 8. And can peps. B. 4. And can pess
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.366012237250707
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is generally defined as a brief period of protection. In other words, it is short
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.20864265479625677
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The data in each market was collected and analyzed. It was also a firm that is actually doing the business. ENR is an organization that is responsible to publish and report on the top 100, which is a different way of doing business in
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.37005467039890205
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine-Gravin, that is a north to south part of the Rhine, is now considered the first Rhine. The river system has continued to the north with the Middle Rhine. The Upper Rhine river and the Rh
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.37811830640938293
+
+Question: Who discovered this and where did they come from?
+Response: 1.5 years of age, and the University of Florida, which has not previously been thought of. In the middle of the Amazon of the University of Florida, which has not previously been thought, the Amazon of the University of Florida, which
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3422052295444402
+
+Question: Who develped the theory of relativity?
+Response: Answer: Transcription, and so I could see where your alarm was. By the time, physics and that is
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07158397701248931
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The most abundant organic compound in the world is oxygen. The most important organic compound in the world is oxygen. The second most abundant organic compound in the world is oxygen. The third most abundant organic compound is oxygen. The fourth most abundant organic compound is
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.1526427247407225
+
+Question: In what year was the Interstate Highway System created?
+Response: in 1982, the United States Congress passed a law that made it possible to travel
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.08988004742296163
+
+Question: What is stratigraphy?
+Response: The geologist, and geologist, and geology, and geology, and geophysics, and geophysics, and geotropics, and
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3168124709964689
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Context. When a T cell encounters a foreign pathogen it extends a vitamin B receptor. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin B, the steroid hormone calcitriol. T cells have
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.542206863846648
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhinne flow is farther west, through the Merewe and Merwea River, then, through the Hollandsbeef, and
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.12150998387892109
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC has two goals. It has been established by the UN Environment
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0864677942255001
+
+Question: Why does competition among workers drive down wages?
+Response: Why does competition between workers drive down wages? Because competition between workers results in higher wages because there is a relative lack of workers with a particular skill in need to have that skill, the job of a job, and the result is a high demand,
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6577776913952829
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: In this case, microorganisms or toxins that successfully enter an organism or its cells or cells are in the form of a
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.086171291188055
+

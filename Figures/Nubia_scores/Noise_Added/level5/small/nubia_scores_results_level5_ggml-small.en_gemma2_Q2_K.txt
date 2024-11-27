@@ -1,0 +1,195 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: •private school: the school is a private school;
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.08700584057116334
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The answer for the questions is given below. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.19546927343735576
+
+Question: How many items is the University Library home to?
+Response: The University Library, a part of the Library of the University of the University of the University of the University of the University of the University of the Library,
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5670050192731331
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: In this context, the following barriers to obtain from the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent of the continent
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.0
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish constitutional convention, and the Scottish parliament is a Scottish government, is a Scottish and was in the 1990s, a new one, is a new, the 1995, was a new and was in
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is a non-combustible gas and a non-combustible compound. It is a gas that is a non-combustible compound and a non-combustible compound, which is a non-combustible compound and a
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.5843350511597454
+
+Question: Who did the geographic scholars work for?
+Response: According to the geographic and the "chiron" empire, the world could be saved. These
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.07554713934193502
+
+Question: What makes energy changes in a closed system?
+Response: The system is a massive, and is a non-concentrable source, and there is a non-concentrable source, which is a system of micro-system, which is a system of micro-micro-system-con
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3823386354200483
+
+Question: What is the French name for the Rhine?
+Response: The main part of the answer contains a detailed and particular answer.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.11775798079343436
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A. A vaccine is a type of vaccination, which is a process in which a vaccine is used for a vaccine-preventable disease.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.25283143186420776
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: This is a new standard.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.12419085183123368
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The following are the answer:
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.07223517093000398
+
+Question: How many prime numbers exist?
+Response: The number of fires is a number of number of fires, which is a number of fires. The number of fires is a number of fires of fires, which is a number of fires is a number of fires of fires of fires is a
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1209866565291059
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of the Middle of
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.030977572170250545
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In this section is included a component such as the following:
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15481972282359147
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: 1. This is a detailed and specific answer because it provides a complete and specific answer, which includes the following information:
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3211175799466246
+
+Question: The average contractor hired how many employees?
+Response: The 300,000 general contractors, 38,000 heavy, and 432,000, which is a 38000000000000
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.10269215108494711
+
+Question: How many projects does the Centre currently realize a year?
+Response: (1)
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.5163319859913322
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The center-line is the most popular economic sector in the system of the house concert. The most popular economic sector, with the most popular economic sector, is the economic sector, and the economic sector is a sector of a sector. The sector sector
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.05206770178201492
+
+Question: What effect does European Union law have on laws of member states?
+Response: The EU is a collection of 27 member states. These are a huge gathering of 27 space. These are a gathering of 27 spaces, which have the right to establish the laws of the EU.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3273284036857754
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The first number of the number is 0.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4779713232679509
+
+Question: An MSP may introduce a bill as what?
+Response: The first part of this section of the bill has been provided for in this part of the bill, and in this part of the bill, which has been introduced, and this has been provided for in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0895248531823799
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The following is a new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and completely new and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.054092473924129636
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monty has a choice to fight the Chinese dynasty, which was a big campaign, but had to change his mind because of the Chinese dynasty, which has been adopted by the people in the Chinese dynasty, which is a great campaign, but had to
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: The correct answer to the question is:
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.2517506692001561
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: * The park is in the center of the city, and the park has a beautiful and beautiful park.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.22198542779230668
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: I have a route system.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.31577500177759266
+
+Question: Who discovered this and where did they come from?
+Response: The large project on the development of the South-American (muffled)
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.19589441520956685
+
+Question: Who develped the theory of relativity?
+Response: When a philosophy is used, the study of motion and motion, then it is required, not a complete view of the issue.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11488358500086027
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. A generated virus, like only a few common complex biomolecules, contains no oxygen, but the organic content with biological relevance.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07759391869627219
+
+Question: In what year was the Interstate Highway System created?
+Response: [INAUDIBLE]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.44525661614521395
+
+Question: What is stratigraphy?
+Response: 1. The study of a particular type of earth, namely, geology, is a study of the history of the Earth. This is a study of the study of the study of the study of the study of the study of the study of the
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.07296151137781426
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The results of the next phase can be determined by the results of the next phase.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.1543959543304393
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1. The c-cell has a symbiotic relationship with the vitamin B hormone.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.0743017520986885
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: 1.     The first of the <i>drabbles</i> and the <i>drabbles</i> and the <i>drabbles</i> and the and the and and and and and and and and and and and and and and and and and and
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1858357883551902
+
+Question: Levels of what things are used to determine emission factors?
+Response: A. The ICCC concentrated activity on the task parotageous, as a relevant WMO is preferable.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.06556835612319756
+
+Question: Why does competition among workers drive down wages?
+Response: Because there are jobs, which has a high supply of a job, but not so high a demand.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13297095238334888
+
+Question: What put a hierarchical structure in place?
+Response: <strong>Transcription:</strong>
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.5312795431630937
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is a complex of components and mechanisms, which a microbe, with, a, a microbe, and a microbe, microbe, microbe, a microbe, and a microbe, microbe, micro
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.43096057132107646
+

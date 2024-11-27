@@ -1,0 +1,35 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Alpha’s on, who shares,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.06730102768406265
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The answer is 'c'.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1635489071759174
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Bene, bona, cere, cheer, etc.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0572128856443449
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: He who:
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.12884747254249185
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: It
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.21129482514487852
+
+Question: Who discovered this and where did they come from?
+Response: The narrative of "The Shenzene" and "Palables of "The Shenzene," who "Alive," "Brendens," who "Florine," "Florish," and "Larish,"
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06763053107418648
+
+Question: Who develped the theory of relativity?
+Response: Heer
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07721748578867382
+

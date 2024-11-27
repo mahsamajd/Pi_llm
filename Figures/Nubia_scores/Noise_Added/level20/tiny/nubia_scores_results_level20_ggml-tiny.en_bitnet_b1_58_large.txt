@@ -1,0 +1,110 @@
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Cretaceous Talio event is the extinction of the dinosaurs and the wetter climate may have allowed the tropical rainforest to spread out across the continent.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.11548695182174318
+
+Question: What is the French name for the Rhine?
+Response: The name Reno is a variant of the name Reno, which is a variant of the name Reno,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.35815807836913927
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Transcription: vaccination. Vaccination is a process of introducing an antigen from a pathogen in order to stimulate the immune system and develop. Specific immunity events that particular pathogen without causing disease associated with
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.48260381404539654
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 5 is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09165277720365361
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The reduction of a problem to a solution is a linear process.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.13271670396408775
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06741396481779283
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times. As demonstrated by youth world around 300 BC, there is no
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11314992335042018
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The steam-stoaking mechanism is a steam-stoaking mechanism.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.21538365029703865
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle-run valley is the epitome of the rhyme romanticism. The middle-run valley is the epitome of the rhyme romanticism. The middle-run valley is the epitome of the rhyme
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.6426808009778088
+
+Question: What effect does European Union law have on laws of member states?
+Response: 1. The European Union is a body of treaties and legislation, which has direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.44374464444138095
+
+Question: An MSP may introduce a bill as what?
+Response: Billists can be introduced to Parliament in a number of ways. The Scottish government can introduce new laws or amendments to existing laws as a bill. A committee of the Parliament can present a bill in one of the areas under its arena.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.021245839870973837
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Transcription: context. Monchi Khan commenced the military campaign against the Chinese Song Dynasty in southern China.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.18057336470007068
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The stomach contains a large number of proteins, which are responsible for the digestion of food.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.20298094074022954
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: with this context. Engineering news record, ENR is a trained magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08422170154330677
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The RIF system in the Alpine orrogeny in southwest Germany is the Alpine orrogeny. The Alpine orrogeny is the Alpine orrogeny in southwest Germany. The Alpine orro
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.42059337870166935
+
+Question: Who discovered this and where did they come from?
+Response: Transcription: The Amazon rainforest is a large area of the Amazon rainforest, which is
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.15674485639600355
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: It extends a vitamin B receptor. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin B, the steroid hormone T cell to trial.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.35154333626496925
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Dutch name reed no longer coincide with the main flow of water, two thirds of the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.07807923432254682
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC concentrates its activities on the tasks allotted to it by the relevant WMO executives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08092125405122774
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The job is a job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13774106376384943
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were ranked above the two personal positions of the emperor.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06395837045204322
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms' questions. The innate immune system is the dominant system of host defense in most organisms' questions. The innate immune system is the dominant system
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.37978522577074136
+

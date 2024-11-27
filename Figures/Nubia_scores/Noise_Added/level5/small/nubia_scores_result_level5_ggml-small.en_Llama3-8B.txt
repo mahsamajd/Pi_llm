@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The Los Angeles Galaxy is a professional soccer club based in Los Angeles, California. The Galaxy was founded in 1996, as one of the ten charter clubs of Major League Soccer (MLS). The team is owned by Philip Anschutz and A
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3313298787819696
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Based on the text above, we can make the following assumptions about private schools:
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.16485696394377192
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations, and created a risk for their movement. One European nation from Japan had to disassociate themselves from United States foreign policy. In the Middle East, where boys were imparted inside the boycott, all of
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.13998643128490318
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816, is home to over two million items, of which were designed by architects here at the University of Cambridge. The building of Prabhakti, opened on the 15th of December 1999
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.47555746509965546
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Based on the given transcription, following the purchase barriers in the station of earth, the extinction of the dinosaurs and the later climate may have allowed the tropical rainforests to spread out across the continent. In 66 to 33 miles, the rain
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.0
+
+Question: Who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.18001926916588995
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macroscopic topics and microscopic sources is described by detailed treatment of statistical mechanics. In macroscopic topics, there is friction. Non-concentrable sources help to change the internal energies of the system, and are often associated with the transfer
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.17751213304244984
+
+Question: What is the French name for the Rhine?
+Response: The name of the realm of modern languages is derived from the realm. The name is also adapted in many other geographies and has increased meaning in the central history. The name is not in meaning and has no meaning in some regards. The meaning is
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Based on the given transcription, the answer for long-term active memory following infection is required to activate C and P cells. Vaccination is an artificial method of generating active immunity. Vaccination is a deliberate induction of an immune response. The principle behind vaccination
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4262692412538871
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the transcription, it appears that the largest US city that has not been directly used to amend the state highway is [redacted]. This is because in the 1950s, the decision was made to build what is now State Highway [
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.32741902099038034
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: According to the transcript, it is not possible to abolish these rights. This can be inferred from the words “It is also not possible to abolish these rights” which imply that these rights cannot be taken away. In addition, the fact that the individual
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: The prime number theorem was first published in the 19th century. This theorem is used to determine the probability that a randomly chosen positive integer is prime. This probability is calculated by counting the number of prime numbers less than a given positive integer and dividing
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0871248401109902
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The dominant economic passage in the Middle Rhinoceros are democritus and syrrhosis. The line boards between Uvacine and Rhinoceros are listed as a unecro-world heritage site.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.08394092142120879
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century war in the South Africa certainly has a standard for contemporary art. The center currently realizes about 500 projects a year. That's at a national gallery of art. The center clearly realizes the rules. The center currently realizes
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.02807716486479428
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sector in the middle line area of our dinner concert in Zurich. The long road between Lieberstein and Rauge and Köbrenner is listed as a unipolar private sector. New St. George House is the long place
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.11863554701423806
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union law is a body of law which is primarily composed of regulations and directives. These regulations and directives have direct and indirect effect on the laws of the European Union member states. The main sources of primary law are the Treaties of the European
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5578750008211049
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The property of being fired, or not, is called formality.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.34946297977879426
+
+Question: An MSP may introduce a bill as what?
+Response: In Scotland, bills can be introduced to parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2279527192809735
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The following text is a transcript of a video that explains how the process of electrolysis can produce oxygen. The process of electrolysis involves passing an electric current through a liquid, in this case water. The process is explained by the speaker in the video
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.08797339446631947
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The average household size was 2.55, and the average family size was 3.21. The population was spread out with 22.9% under the age of 18, 10.5% in 18-24,
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.1563559131543797
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monty Kong can make a military campaign against the Chinese Song dynasty in southern China because the Mongol force that invaded southern China was far greater than the first industrial invasion. The Mongol force was divided into 12 different states. He died in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: I'd say it lasted about 6 days. There were reports of fighting on both sides of the conflict, but the main focus of the uprising was in the Red Army.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.28615143188614023
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. The most basic method is testing the finality of the given integer error that's called file division.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.08484569142581144
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: Transcription: For instance, newborn infants have no prior exposure to microbe and are particularly vulnerable to infection. A separate range of passive
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.34830393044889696
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson Garden is a park located in the city of Jackson, Ohio. It covers an area of 15.5 hectares (37.6 acres) and features a variety of trees, including some that are over 100 years old. The park
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.43419552130326755
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: EMR is a great magazine for the construction industry. Each year, EMR is compiled from the first on-data about the size of the diamond construction building. They published a list of the largest companies in the United States, PLC holding, and also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4076795255308694
+
+Question: Who discovered this and where did they come from?
+Response: The concept of terra preta is widely accepted as a product of indigenous working nature. The development of this sort of form allowed agriculture and server-culture in a previously hostile environment, meaning that large portions of the Amazon nation were probably the result of centuries
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1490476060637661
+
+Question: Who develped the theory of relativity?
+Response: In this video, the narrator is discussing the differences between science and philosophy. The narrator describes how science is based on evidence and experimentation, while philosophy is based on thought and speculation. The narrator goes on to say that the two disciplines are different in their
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.03276480137847293
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Based on this transcription, the element that is found in all biomolecules is oxygen. The transcription states that oxygen is found in almost all biomolecules that are important. It is also stated that all fats, fatty acids, amino acids, and phosphates
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.13722288335755173
+
+Question: What is stratigraphy?
+Response: Geologists use many fields to learn about the Earth. These fields include: 1. Geophysics and seismology: the study of the physical properties of the Earth and how they change over time. 2. Geology: the study
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.49637611363534817
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The results of the results of the next phase can be determined by the results of the next phase.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.21954116362624287
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When C-cells encounter a foreign pathogen, they secrete cytokines, which are small protein molecules that can bind to other cells. These cytokines then act as a signal to the other cells to become activated and produce their intended functions. This
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.41902290241255424
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two rhymes that go outside of Cinderbank are "He says that the water's so volume of the rhymes goes farther left, through the wall and there." and "Moving with the moon, through the hauling trees and hailing through left
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrated activity on the task parotageous, as a relevant WMO is preferable.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.06516365953783732
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers tends to drive down wages due to the expendable nature of the worker needs. When there are too many workers for a job that requires a large amount of time, the workers are willing to work for lower wages. This is because competition
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6900244926546568
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the access area, 580 days of 710, in the early night of period, 710 to 794, and many of those roles similarly to those of modern pharmacists were highly effective.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.13461837230259832
+

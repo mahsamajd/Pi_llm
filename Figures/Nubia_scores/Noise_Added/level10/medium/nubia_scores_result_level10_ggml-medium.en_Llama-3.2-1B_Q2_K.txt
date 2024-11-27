@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Los Angeles
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.28167949539285575
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Yes
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.059047367835066034
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The Gulf in 1974 [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.44232320678026504
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During which period in history was the Amazon rainforest the narrow band of forests. During which period in history was the Amazon rainforest the narrow band of forests. During which period of history was the Amazon rainforest the narrow band of forests.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2589189625669067
+
+Question: When was the Scottish Constitutional Convention held?
+Response: During the second half of the 20th century, the Scottish Parliament, the Scottish Constitutional Convention, and the Scottish Assembly were the most important and the most well established and successful in their history, the first three parties of industry, industry and the first
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: Who did the geographic scholars work for?
+Response: The geographic trawlings work for were believed to be an important part of the story. The work could be split into three main areas. In the first area, the work was believed to be a good one. The work was believed that the people
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.051802674936246795
+
+Question: What makes energy changes in a closed system?
+Response: According to the second law of thermodynamics, the transfer of energy between the system is described by a statement that is described by the transfer of energy. The transfer of energy is a statement that is described by a statement that is described by the transfer of
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.08849675016490832
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: This is a very interesting answer. The city is in Fresno, which is the capital of
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08360474101794202
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: You can consider the number of prime number of prime numbers of prime number of prime number of prime number prime prime prime prime prime prime number prime number prime numbers prime prime prime prime prime prime prime prime prime prime number prime number of prime prime prime prime prime
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.06648592523490682
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer:
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.5094957582570496
+
+Question: How many prime numbers exist?
+Response: At the end of the 19th century, the number of prime numbers was given by the logarithm of n.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28473513891662383
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine flows between the Rhine and Rhine in the Rhine.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.11093031203762393
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: C. The early accidental introduction of cuneophores to the Black Sea was a response to the problem of overfishing. The problem was aggravated by the overfishing of the fish stocks. The problem was solved by the introduction of the bar
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.003659723229206935
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Here are some famous steam-smoking mechanisms and their drive engine or motor: a. The most famous and most use is steam boiler. It is a type of steam boiler, in which steam is forced into steam drum, then into steam casing, and
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Answer: Question 10: the field of studying immunogenicity through bioinformatics. The field of study in the field of studies is the study of the study of the study of the study of the study of the study of the study of the study
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.12735132786279513
+
+Question: The average contractor hired how many employees?
+Response: The answer to this question is the industry of the United States, according to statistics, the average contractor employed two of 10 employees. The average contractor hired 1.8 million workers in 2009. This is estimated to be about 10
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.39812709182216
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law is that the laws of member states are a combination of primary and secondary laws and regulations and regulations that can be the outcome of a piece of legislation or a political situation or a political situation. In some cases, it is
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.463687800086266
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The second method is to produce molecular oxygen by electrolysis of water.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.204453842170933
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 23.9% of households have children under the age of 18. 43.8% of households have a female household head. And 36.4% of households are made up of individuals. The average household size is 2
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.2141072378837252
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 60 days, and the Warsaw Uprising lasted for 60 days.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.5926415540604194
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 37 is a prime. I. 37. Therefore if it were a prime 37 is the only prime that's been checked
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.08066111440440837
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach is the most powerful chemical defense to prevent ingo
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.09578117404796949
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Question, antibodies transported from the mother to a baby through a process of a passive immunity. And to be sure that the percentage of the amount of time the infant has no prior exposure to microbes. And also the fact that the mother is more protective against
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5070929744101637
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: It has been clearly established by the company that the company has a COP-400, or the largest firm in the construction industry. The company is not in a COP-400 but the company is in the construction industry, and the company is in the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4719223909855962
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The RIB system in alps is considered the first rhine river to develop.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.0785634001974106
+
+Question: Who discovered this and where did they come from?
+Response: 4 and 8 of the University of Florida and University of Arizona. The University of Arizona, University of California, University of California, University of California, University of Colorado, University of Colorado, University of Eastern Washington, University of Eastern Washington,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3553798597428258
+
+Question: Who develped the theory of relativity?
+Response: Question. Who developed the theory of relativity? [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.36565881704656644
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Which organic compounds contain the highest amount of oxygen by mass?
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.38405728547144724
+
+Question: In what year was the Interstate Highway System created?
+Response: It is a type of a type of a type. It is a type. Type is a type of a type. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.4169959462056507
+
+Question: What is stratigraphy?
+Response: In context, geologists use a number of fields, laboratories, and numerical modeling methods to decipher the Earth and understand the processes that occur on and inside the Earth. In geology, the study of rocks and minerals, geologists use primary information related
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.06613854018710053
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T-cell can extend when T-cell to a foreign pathogen. It is a foreign pathogen. The T cells can extend to vitamin D receptors. In essence acting to bind to vitamin D receptors. Calcidiol. In essence acting to the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5592587735203876
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07969728577311253
+
+Question: Why does competition among workers drive down wages?
+Response: There are many workers, and the nature of the job, and demand for the particular tradition, and
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.12803251002570903
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system is the dominant system of host defense in most organisms. The immune immune system is the dominant system of host defense in most organisms. The immune immune system is the dominant system of host defense in most organisms. The immune immune system is
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.10642136380736278
+

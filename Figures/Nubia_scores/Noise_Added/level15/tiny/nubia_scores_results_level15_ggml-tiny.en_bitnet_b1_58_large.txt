@@ -1,0 +1,150 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. The private school is not administered by local state or national government, thus, they
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1014849670546566
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Transcription: in contact, calling the Patricia Talio gene extinction event.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.050844440341355046
+
+Question: Who did the geographic scholars work for?
+Response: 1. The world could be split into climatic zones. These scholars believe that Northern Europe and the mid-Atlantic template
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10045878827171184
+
+Question: What makes energy changes in a closed system?
+Response: The energy changes in a close system are the result of the energy changes in the system.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3905668885876712
+
+Question: What is the French name for the Rhine?
+Response: 1. The meme of the rhyme is a central German development of the early modern period, the aluminium ring, and retaining the older vocalism, notes for us as his rituary in range, while Calat
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0770083838469473
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The industry highway system was created in the 1960s, the decision was made to build
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09595214143722808
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The polynomial time reduction is the most commonly used reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.13734251502882355
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to see is private schools and Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0577384894061036
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock is the most important economic sector in the middle-run area. The rock is
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.08122513772906559
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.422948214527469
+
+Question: The average contractor hired how many employees?
+Response: 1. The industry in 2014 has around $960 billion in annual revenue according to statistics facts by.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.07677827401225057
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century Royal Eagle South Castle firmly housed a center for contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0686003431607245
+
+Question: What effect does European Union law have on laws of member states?
+Response: 1. The European Union is a body of treaties and legislation, such as regulations and
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.16054721355377655
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Transcription: In this context, the property of being fined are not, it's called formality, and simple
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.06406887685365248
+
+Question: An MSP may introduce a bill as what?
+Response: Bill can be introduced to Parliament in a number of ways. The Scottish government can introduce new law that are amending to existing law as a bill. And committee of the Parliament can present a bill in one of the areas under its units. A member
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.016993907859162993
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 1. The hydrogen and oxygen are produced in the electrolysis of water in the electrolysis of
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3883295049083808
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Transcription: The Mongolian government was founded in the United States. The Mongolian government was founded in the United States. The Mongolian government was founded in the United States.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.48276419813125815
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. 37 is prime.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5707288591936686
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The skin and respiratory attacks exceed antimicrobial peptide such as the data that's entering. In times such as life design and cultural life age they see in saliva, here, in breast milk
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.08941551962956518
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Transcription: contact New Orleans have no fire exposure to mitre in a particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.05695901578724716
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: The entire project, engineering news record, ENR, is a trained magazine for the construction industry, each year ENR compiles and reports on data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4085569789616499
+
+Question: Who discovered this and where did they come from?
+Response: Transcription: The Amazon rainforest is a large area of the Amazon rainforest. It is a
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10391487165707247
+
+Question: Who develped the theory of relativity?
+Response: Transcription: contact – the losses reason and criticism meets the concept of force in the study of stationary and moving objects.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.06858957282798583
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are employed in school.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.06721994405827969
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Transcription: force's canceled each other out. Such experiments demonstrate the crucial properties that forces their attitude vector quantities. They have magnitude and direction. When two forces act on a point particle, the resulting force, the resulting
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17556930974884533
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: It extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.0949223288428126
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The new waterway is the main flow of water. The new waterway is the main flow of water. The new waterway is the main flow of water. The new waterway is the main flow of water. The new waterway is the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1226717850434329
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrated activities on the task allotted to it by the relevant WMO objectives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07671216431978556
+
+Question: What put a hierarchical structure in place?
+Response: 1. The pharmacists were assigned status material to all others in health-related fields that it's traditional, active country, in the interior household, the pharmacists would even range about the two personal positions at the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0987884367316253
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is a system that is able to recognize and respond to
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3346266678543004
+

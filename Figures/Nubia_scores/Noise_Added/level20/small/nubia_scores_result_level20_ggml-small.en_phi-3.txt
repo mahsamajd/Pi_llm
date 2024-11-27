@@ -1,0 +1,140 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium where the LA Galaxy and Chivas USA played from 2005 to 2014 was Dignity Health Sports Park. Located in Carson, California, this stadium served as the home ven
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2801063416547449
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools, are largely funded through student tuition. Unlike public schools that rely on mandatory taxation through public, government funding, private
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5422716408182392
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The period during which the Amazon rainforest was a narrow band of forests was during the Oligocene epoch. This epoch occurred roughly from 34 to 23 million years ago, and during this time, the rain
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.5332176268958819
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention (SCC) was a coalition of political parties, religious groups, trade unions, and civic bodies that worked towards the establishment of a Scottish Parliament. It was not a single entity with a definitive date
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high-quality liquid oxygen, often referred to as "O," is air. Specifically, it is produced by the fractional distillation of liquefied air. During this process, air is coo
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.512970713798286
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars mentioned in the transcription worked under the auspices of colonizing empires. These empires, primarily European colonial powers such as Spain, Portugal, Britain, and France, were expanding their territories during the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4131686322596202
+
+Question: What makes energy changes in a closed system?
+Response: The energy changes in a closed system are primarily driven by non-conservative forces. These forces can either add or remove energy from the system, typically in the form of heat or work, and are not dependent on the path taken by the system
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.12214370943602837
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion to upgrade to interstate standards is State Route 99 (SR 99). The discussion mainly focuses on transforming SR 99 into a part of the interstate system, possibly as Inter
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5944934390474191
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to the polynomial time reduction discussed in the transcription, squaring can ultimately be logically reduced to multiplication. The transcription explains that squaring an integer (the task of computing the product of an integer with itself) can be accomplished by using
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1495266515272493
+
+Question: How many prime numbers exist?
+Response: Based on the provided transcription, the answer to the question of how many prime numbers exist is that there are infinitely many prime numbers. This has been shown through various proofs and was originally demonstrated by Euclid around 300 BC
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1079863015443765
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the temperature of the steam above its saturated vapor point are superheaters. Superheaters are used in boiler systems to increase the temperature of steam beyond its saturation point, which means taking the steam
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.11006131259244245
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. It involves the application of computational methods and techniques to predict and analyze the immunogenic properties of peptides and proteins. This
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.47849270995910265
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law, composed of treaties and legislations such as regulations and directives, has direct and indirect effects on the laws of member states. The three sources of EU law are primary law, secondary law, and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.45378490518530756
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm useful for conveniently testing the formality of large numbers is the Miller-Rabin formality test. It is fast, although it has a small probability of error. Another algorithm, though always producing the correct answer, is the A
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.29340328424368234
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol invasion of the Song Dynasty, a significant event during Kublai Khan's reign, took place in the southern regions of China. The transcription does not explicitly state the specific location where the Mongols attacked the Song D
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.1296760991047191
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of the given integer n when performing trial division. This is because if n is not a prime and has a factor a greater than its square root, then it must also have a factor
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5491799101869861
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach protects against ingested pathogens through the secretion of gastric acid and proteases. Gastric acid, primarily composed of hydrochloric acid (HCl), lowers the pH of the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.4738252286143879
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Csinsky Palace Garden is a popular strolling destination for the Varsovians. It features an area of 15.5 hectares and was formerly a royal garden. The park has over 100 different species of trees
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41321111613018935
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contract engineering news record, ENR, compiles and reports on data about the size of design and construction companies. ENR is a trade magazine for the construction industry that annually gathers and shares information about the scale of design and construction business
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.49976958742768374
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the context of the Alpine orogeny, the Rift System (RISF) that developed in the area of southwest Germany and eastern France, specifically, includes the Upper Rhine Graben. This geological feature was formed
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4161800514184617
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger, along with colleagues from the University of Florida, discovered evidence of large settlements in the Amazon rainforest in 2003. These settlements were found in the region of the Xingu tribe, which provides
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.25258431865004827
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds that contain the greatest amount of oxygen by mass are carbohydrates. This is based on the transcription provided, which states that carbohydrates contain the largest proportion by mass of oxygen
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5234266305345194
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that focuses on the study of sedimentary layers, or strata, within the Earth's crust. Geologists analyze these layers to understand the chronological sequence of ge
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5226661143015177
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription appears to contain inaccuracies and inconsistencies regarding geographical terms and water flows. However, to address the core question about the Rhine's flow direction outside of Germany, we can clarify based on the generally accepted ge
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2609203512410997
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are determined based on levels of fuel consumption, industrial production, and other relevant activities that contribute to greenhouse gas emissions. These factors are essential for calculating and estimating emissions from various sources, providing a standardized approach to
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.6055538233932501
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages for jobs where there is a high supply of labor but low demand. This phenomenon occurs because when there are more workers available and willing to work than there are jobs available, employers have the advantage
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6075698191244043
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place for pharmacists and other health-related professionals in Japan during the Asta period (538 to 710), the early Nara period (710 to 794
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.22220626009881372
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a non-specific way. It means that the innate immune response does not target a specific pathogen but instead provides a generic defense mechanism against a wide range of pathogens. This system does
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.23620857168427023
+

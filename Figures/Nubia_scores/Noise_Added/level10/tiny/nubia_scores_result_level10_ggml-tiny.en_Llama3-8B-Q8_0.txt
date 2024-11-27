@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The first thing is that they go to the train in 2018. The other one is that they go to the train in 2018. The last one is that they go to the train in 2018. The other is that they
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4810567386168241
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Based on the information provided, there are a few possible answers. A non-governmental school could refer to a private school or a parochial school. A non-state school could refer to a school that is not run by the government. It could
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.07938260400574138
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The traditional failures in the future of life are the extinction of the dinosaurs, tropical rainforest, and the climate fluctuation in the last 24 million years. The extinction of the dinosaurs occurred 66-84 million years ago, the rainforest extended
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2179353546953935
+
+Question: When was the Scottish Constitutional Convention held?
+Response: Based on the provided transcription, it appears that the New York Times was silent during the 1980s and 1990s, and that the newspaper used the government of the United Kingdom, which was controlled by the Conservative Party. The rest of
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: Who did the geographic scholars work for?
+Response: [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.43274956385416696
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: The Roman line is a series of straight lines that run through the center of a city or town. The Roman line is used as a reference for the measurement of distances and for the location of buildings and landmarks. The Roman line is also used as a
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.03713554315469059
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The immune system is the defense mechanism of the body against infectious disease and other foreign invaders. The immune system is a complex network of cells, proteins, tissues and organs that work together to protect the body. The immune system defends the body against pathogens such
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5666116771552461
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: We need to stay high with us, and we're treated in the 1960s.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.0672378443811702
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is the carburetor time reduction, this means that the reduction factor, the carburetor time, so example, the problem is rarely needed for us to be reduced to the problem as multiplying 3-8 degrees.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.36237109750584806
+
+Question: How many prime numbers exist?
+Response: This question is about the distribution of time, which means that the digital behavior has time in the model, and the time number is here. The logarithm is only 3. This means that the total number is bigger. The probability is given,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The dominant economic factors in the middle line area are unicorns in a sphere. The line boards between new to time and line and phobex are listed as a municipal world heritage site. The new-safe boards are done. The line screws around the
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The future of the country is a very difficult time to understand the future of the country because it is very difficult to understand the future of the country. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.2410362607399712
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In the process of generating power, the heat of the steam is transferred to the water. The steam produced by the heat of the water is the main driving force of the turbine. The steam produced by the heat of the water is the main driving force
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09531819654276219
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The future is the drug that is needed. Very largely built in this unit. This unit is the exception of the drug based on larger text types and persons. This certificate is larger than 5000,000. In some cases, the drug itself
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: Based on the above information, I have identified the following key points:
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.13448230200261058
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dawn with economic sectors and the middle line area are universal to the future. The long doors between new to time and line and total is listed as the municipal world heritage case. New so forth houses. The long flows around the fields rock lower.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has direct effect in the rest of the test. On the law of the European Union member's face. The 3 forces of European Union law are timely law. Secondary law is such an interesting law. The many forces of primary law
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3508505355356438
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The property of being tired is not the same as a given number. It's called formality, which means that a given number is the property of being tired. The symptoms of the given number are not the same as the property of being tired.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4448928468455674
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: This transcript is very difficult to make sense of. The first paragraph is about how to generate oxygen gas. The second paragraph is about a game that involves hydrogen and oxygen. The third paragraph is about a popular yeast. The fourth paragraph is about how to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols first invaded southern China in 1274, led by the Emperor Kublai Khan. This invasion was a failure, and Kublai Khan died in 1294 without any success. His two sons, who had been fighting in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4101234229643641
+
+Question: How many days did the Warsaw Uprising last?
+Response: In July 1944, the Red Army began to move towards Warsaw. Stalin did not want the Soviet Union to capture Warsaw, so he waited for the Red Army to wait. The former government in exile in London reported that there were underground monuments.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.0
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 0 [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.573631409190964
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: This sentence is from a song called "We don't have to take our clothes off to have a good time". It's an old song from the 90s.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.16811113651003995
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The immune system of a child, newborn, is incomplete. This means that the child does not have a fully functional immune system and will not be able to defend itself against pathogens and infections. This is because the immune system has to be trained and developed
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4915981554020611
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson garden is a large garden covering an area of 15.5 hectares. It was formerly a royal garden and has over 100 different species of trees and avenues. The theme of the unknown sover is situated at the east end of the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.09807868341096515
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: This transcription is of a biology lecture, which is discussing the element oxygen and its presence in molecules that are important for life. The transcription begins by stating that oxygen is found in almost all biomolecules that are important for us. The transcription then describes how
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.024923695452779726
+
+Question: In what year was the Interstate Highway System created?
+Response: The largest U.S city not directly raised to an U.S. state highway is Chicago. When the U.S. state highway has been mistreated in the 1960s, so the city has made the bill what has now registered five on the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Based on the information given in the transcription, biologists are interested in geological investigations and numerical model methods to understand the consequences of Earth history. They also study modern soil, river, landscape, and glaciers. In addition, they investigate the structure of physical
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.025314149905563466
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The first point of view is to investigate the conditions of strategy for river and river at various levels. The first example is that it allows. The term is, when we say the future confidence, the course of an attitude, that the point of view
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The Vitamin D receptor is an important protein which allows vitamin D to be transported inside cells. In a symbiotic relationship, the two cells (Vitamin D and its receptor) gain the ability to bind to the steroid hormones produced by the Vitamin D receptor
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4539295904169405
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In this case, the situation becomes more comfortable as the destiny really no longer coincides with the main flow of water. These areas of the water flow volume of the lines go farther away. See the water noise. We are the marine, the marine
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on the information provided, it can be inferred that the main objective of the United Nations Children's Fund is to provide a platform for children to express their opinions and concerns. It is clear that the organization is dedicated to promoting children's rights and ensuring
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.46074205547877756
+
+Question: Why does competition among workers drive down wages?
+Response: In this case, the transcription was provided in the form of a story, which is very important to note. The story is about the difficulty of finding work and how wages are affected by the supply and demand of the workforce. The story begins by stating
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.49628397605143737
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the 7th century CE, 38 or 70 CE, and 794 CE, the name of the first school of pharmacists were highly respected. The first school of pharmacy in the United States was established
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.13385102119477488
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The question is asking about the immune system and how it works. There are many different parts of the immune system, but one of the most important is the immune response. The immune response is what happens when your body detects a foreign substance, like a
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.09029311508779458
+

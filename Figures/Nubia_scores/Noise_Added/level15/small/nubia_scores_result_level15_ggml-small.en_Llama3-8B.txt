@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by charging their students tuition, rather than relying on
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.515705020684803
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On January 18, 1974, U.S. Secretary of State Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.5109878338960241
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over two million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.37060273981440606
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The narrow band of rainforests was seen during the Oligocene period.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2620454323976298
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.3093880592424232
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid Nitrogen [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1951869028997245
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars who worked under colonizing empires, the world could be split into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic temperate climate produced hard-working, moral, and upstanding human beings, whereas tropical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3024083735436933
+
+Question: What makes energy changes in a closed system?
+Response: In macroscopic force systems, non-conservative forces act to change the internal energies
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.17312304370139608
+
+Question: What is the French name for the Rhine?
+Response: The French word for the rhyme is "rima". The word comes from the Latin word "rima", which means "notch", "notch", or "crevice". In French, the word is used to describe a gap or a
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.37334781882776347
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.448345506765748
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 has been in discussion to upgrade to interstate standards. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.25309935144481344
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 0.5% of East German students attended private schools in 1992.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.23013742520738012
+
+Question: How many prime numbers exist?
+Response: There are infinitely many time numbers because there is no known simple formula that separates time numbers from composite numbers. However, the distribution of time numbers, that is to say, the statistical behavior of time numbers in the large, can be modeled. The time
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. Immunoinformatics is the use of bioinformatics to study immunogenicity. It involves the use of computational and mathematical tools to analyze and predict the immune response
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.17651587714405592
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the industry in 2014 had around $960 billion in annual revenue according to statistics tracked by the Census Bureau. Of which $680 billion was private, split evenly between residential and non-residential. The remainder was government.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2862410695309747
+
+Question: How many projects does the Centre currently realize a year?
+Response: In the 17th century, the royal Egypt Dao Castle currently houses centers for contemporary art. With some permanent and temporary exhibitions, concerts, shows and creative workshops, the center currently realizes about 500 projects a year. Back at the National Gallery of
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.04156948319773712
+
+Question: What effect does European Union law have on laws of member states?
+Response: According to the source, the laws of the European Union are made up of treaties and regulations
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1479177315933643
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS formality test is an algorithm that tests whether a given number is prime, or not. It was developed in 2002, by Manindra Agrawal, Neeraj Kayal, and Nitin Saxena of the
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.2737411759745747
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36948722514188825
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In the city, there were 94.1 men for every 100 women. Based on the ratio 100:94.1, there were 6.09 men over 18 for every 100 women over 18. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3556458285030807
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monki Khan attacked the Song dynasty in southern China. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.15006885009135607
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.563321455942217
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Sisinshi Palace Garden is a popular strolling destination to the Barstovian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.14200650669359494
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR, engineering news record is the trade magazine for the construction industry. They compile data about the size of design and construction companies. They publish a list of the largest companies in the United States. They also publish a list of the largest global firms
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4145058891493545
+
+Question: Who discovered this and where did they come from?
+Response: The answer to the question who discovered the settlement in the middle of the Amazon
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.0977405995803764
+
+Question: Who develped the theory of relativity?
+Response: The theory of relativity was developed by Albert Einstein. It is a theory that explains the relationship between energy and mass and describes how space and time are affected by gravity. It also explains why the speed of light is a constant in all frames of reference
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.06938591561480711
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Amino acids
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.25115935439963966
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in 1956. This was the year that Dwight Eisenhower signed the Federal-Aid Highway Act of 1956 into law. This law established the interstate system and set aside money to fund its construction. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.03312502947769369
+
+Question: What is stratigraphy?
+Response: The word stratigraphy comes from the word stratum, which is a layer of rock.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2230032192006658
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Dendritic cells, carotenocytes, and macrophages all express 27-bp Cyp24.1, a gene responsible for converting the pre-hormone version of vitamin B (Calcidiol) to calcitriol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.10485526188957528
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3497882749640656
+
+Question: Levels of what things are used to determine emission factors?
+Response: Levels of fuel consumption, industrial production, and so on. [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.16477789251213726
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+

@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The 2005-2014 NLS teams were:
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.06699967183907662
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools, are not administered by local, state or national governments.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.20196973066694235
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 21 April 1974 [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4593452969989904
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to 2,000,000 items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.29035101611598646
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The transcription is a report on a meeting held in the UK.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.06936821295400641
+
+Question: Who did the geographic scholars work for?
+Response: The geographic plotters are working for the government and they have to work for the government. They do not have their own opinion and they have to follow the order of the government. They have to obey the government order. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.12413301297699297
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics requires that the energy of a closed-fiction car be converted from non-contributive forces to micro-tropic forces, which are the forces that determine the change in micro-tropic forces.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.33794184961444007
+
+Question: What is the French name for the Rhine?
+Response: The density of the line is 71.404. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.059387519916148546
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination is based on the induction of an immune response, which is specifically directed against the introduced antigen.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.39187212974165553
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The article is talking about the interstate system and how it was created. This is a quote from the article. The quote is talking about how the interstate system was created and then it mentions that Fresno is the largest city in the U.S. not
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.12137492069252898
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: 1. In this context, the most commonly used reduction is the polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.2062612583973552
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times. As demonstrated by Newton's around 300 BC, there is no known simple formula that separates time numbers from composite numbers. [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28249145512194596
+
+Question: Where is the famous rock the Rhine flows around?
+Response: I'm just wondering how this could have been written. I don't really understand it. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.09618080222873915
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: A punicure, which is a large, fat fish, lives in the Black Sea. Punicures are large, fat fish that live in the Black Sea.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.47286580769401276
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The first step in the conversion of coal to steam is the heating of the coal in a firebox. The heating of the coal occurs in the firebox by burning coal and supplying air. The heat produced in the firebox is used to heat
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07710447233824358
+
+Question: How many projects does the Centre currently realize a year?
+Response: The question is about the amount of art exhibitions that are realized or viewed in Warsaw. To solve the question, we have to use a specific approach in which we can see the number of projects in art exhibitions, and then we can compare it with
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.03912959561499807
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine is the longest and one of the most important rivers in Germany. It flows into the North Sea at the city of Rotterdam. In its course, it passes through a number of countries such as the Netherlands, Luxembourg, Germany and France.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.14428726823828497
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a political organization formed in 1993, consisting of 28 members, and a political and economic union that has led to the establishment of a common market.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.25231984848738387
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: 1. What is the name of one algorithm used for continually testing the formality of large numbers?
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.2549614742736457
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising began on August 1st, 1944, and ended on August 3, 1944, and lasted only 3 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3464528461586439
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The machine consists of providing n by each integer n that is greater than 1 and less than equal to n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.0854790277045222
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: It is believed that the antibodies that are transferred from the mother are due to the maternal antibodies present in the mother's blood, which are transported to the baby across the placenta. This type of transfer is called passive transfer. The antibodies present in
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.6299438535222766
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular playing destination of the Tracton Garden is located in the northern center of the Shinku-powered garden, which is located in the northern center of the Tracton Garden. The park has a total area of 43 hectares. It
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3819101490140103
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contact, engineering newsletter, EMR is a trade magazine for the construction industry. Each year, EMR compiles and reports on data about the size of design and construction companies. Each year, EMR compiles and reports on data about the size of design and
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5111429862487538
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the river system are:
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.13668749377701683
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. Oxygen is present in organic compounds with carbon chains.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.14491025030438576
+
+Question: In what year was the Interstate Highway System created?
+Response: The information given in the question is as follows:
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.09648679697316564
+
+Question: What is stratigraphy?
+Response: A) On top, geologists use a number of fields.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.07652929316124424
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The body is the concept of a body, or a mass, a point particle, a rigid body, or an extended body.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.15930477685772737
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The T-cell has a syndiotic relationship with the vitamin B-vitamin B receptor, and allows the factor to bind to the steroid hormone. The T-cell extends the vitamin B-receptor, and allows the factor to bind to the steroid
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5207889742744916
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

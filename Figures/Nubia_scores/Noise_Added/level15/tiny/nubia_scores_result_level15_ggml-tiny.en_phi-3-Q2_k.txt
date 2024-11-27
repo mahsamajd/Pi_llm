@@ -1,0 +1,65 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: By: Producer of 'Be' and Bardo
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4021116446236316
+
+Question: How many items is the University Library home to?
+Response: I am 10,000.10 square feet.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.17426169315242124
+
+Question: When was the Scottish Constitutional Convention held?
+Response: to the 1999, the 1989, and 1980, Scottish were
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.06809431368396757
+
+Question: What substance is used to make high quality liquid O2?
+Response: is a
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4679078346091131
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: and finally outdo all nine
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08511489949201745
+
+Question: How many days did the Warsaw Uprising last?
+Response: 16, 200, 000, 160, 16, 00al, 01, 16, 00, 16, 00al,
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.10017360066047032
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: And 1, 2, 3, 4, 5, and 6 are all the, and 7 are 8, and 9 are all the, and 10 are 11.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.12281375121349813
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.16483317416438514
+
+Question: Who discovered this and where did they come from?
+Response: Bridends, Brendens, Brendens, Brendans, Brendants, Brendans, Brendans, Brendans, Brendans, Brendans, Brendans, Brend
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4704545096999775
+
+Question: In what year was the Interstate Highway System created?
+Response: 'The winner of 'the' producer '
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.05670574957942376
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Near
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0487824959344324
+
+Question: Why does competition among workers drive down wages?
+Response: and.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6526395756078545
+
+Question: What put a hierarchical structure in place?
+Response: Heterarchy, house, and, are a pharachorian,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0648683964918102
+

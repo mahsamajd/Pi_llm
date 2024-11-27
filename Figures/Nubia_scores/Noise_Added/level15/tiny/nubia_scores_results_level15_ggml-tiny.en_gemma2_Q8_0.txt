@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The answer to this question is that the best question from the name of the stadium of the team played in is the question that is asked at the beginning of each question.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3804100499381521
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. In the given passage, private schools are referred to as a non-state school. This means that the private school is not administered by a government or the government does not regulate the school in any way. This type of school is also
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest expanded during the Oligocene. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.09163991384842018
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish parliament was established by an act of the United Kingdom Parliament in 1998. The Scottish parliament's powers are limited by the British constitution and the Scottish devolution settlement. The parliament is primarily concerned with the administration of the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid nitrogen is used as a cure to keep the temperature below zero degrees Celsius. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.11343306208093051
+
+Question: Who did the geographic scholars work for?
+Response: In the first place, the information given is that according to geographic scholars, the world could be split into two types of climates, the northern Europe and the mid-Atlantic template. The second is that hard-working people in the north, morals
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.25532780942169897
+
+Question: What makes energy changes in a closed system?
+Response: I'm not sure what you're asking. Do you need the answer or do you want to know what the answer is? [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.2108420255780522
+
+Question: What is the French name for the Rhine?
+Response: 1st century beach beach, as Greek rino, rino, Latin rino
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.05550847687577176
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. What is the type of immunity?
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.40173603586497597
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99, 99.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.214383369374327
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The polynomial reduction is the most widely used reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.12737907299040196
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In the current situation, the right to see is not a right. It is not a right to see.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.09679349554849137
+
+Question: How many prime numbers exist?
+Response: If time is a number of digits,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08235629903276087
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The line flows around the famous rock the line flows around. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.18159844967931837
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The given text is a transcription of a scientific article. The scientific article is about the introduction of a species of fish into the Black Sea. The fish, which is a tuna force, eats other fish larvae and organisms and is considered a threat to
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22982687006801572
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The above transcription contains the following information:
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10621950673502234
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle-run is the valley between the 400-meter-high mountain peaks of the middle-run mountains and the mountains of the middle-run. The river, which originates from the mountain streams of the middle-run mountains
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.35769382564513064
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The mean of one algorithm useful for convening and testing the formality of large numbers is 1.2466. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.09544038848834535
+
+Question: An MSP may introduce a bill as what?
+Response: The bill is introduced by a private member in the Scottish parliament. Bill will then be
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2365989662198411
+
+Question: How many men older than 18 are there for every 100 women?
+Response: [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.32632040212625935
+
+Question: How many days did the Warsaw Uprising last?
+Response: The answer is 16 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.06273748633186937
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. Contact New Orleans have no fire exposure to mitre in a particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.05846809001519604
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: 1. The unique character and history of the park is reflected in its landscape architecture.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.12126535196464716
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5013529231383917
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In southwest Germany and eastern France and the lower-lying bayonet,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.061856334008109304
+
+Question: Who discovered this and where did they come from?
+Response: The transcription states that the soil in the Amazon region has been shaped by humans for centuries. This is supported by the discovery of remains at some of the large settlements in the region. The authors of the study were Michael Heppenberger and Holly from
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.24990676990421723
+
+Question: Who develped the theory of relativity?
+Response: * The given text is a part of the essay.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.12264370006417502
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are employed in school.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.06721994405827969
+
+Question: What is stratigraphy?
+Response: The transcription is from a science fiction book, The <em>Time Machine</em>, by H.G. Wells.  The first paragraph begins with the following, “<em>Contact geologists use a number of fields, laboratories, and numerical modeling methods
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.15512582638528483
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Given: Contact: Historically forces are first pointically investigated and conditioned on their
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.05316438770129961
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: <strong>1. T-cells and dendritic cells</strong>
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5413613209374879
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The information given in the passage is that the water level is rising on the Dutch side and is not in line with the main flow of the river. Because of this, two-thirds of the water flow volume is diverted to the west. The water
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrated activities on the task allotted to it by the relevant WMO objectives. The Council and UNI government council resolutions and decisions as well as on actions in support of the ICCC process. The UNICCC process, while the preparation of
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.346927544752096
+
+Question: Why does competition among workers drive down wages?
+Response: The answer is:
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6603931224061115
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place is the class system. [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.09183695284591431
+

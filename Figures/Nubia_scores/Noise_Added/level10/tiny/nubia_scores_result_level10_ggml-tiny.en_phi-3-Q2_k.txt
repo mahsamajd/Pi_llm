@@ -1,0 +1,70 @@
+Question: How many items is the University Library home to?
+Response: And two, 107,
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.13717647692603618
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.17491565715140922
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: It's amazing.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4827978894904251
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 11.1%
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3719764669545984
+
+Question: How many prime numbers exist?
+Response: The Logarithm is only 3, and how many times are good?
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08043609248825356
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The game "a" The, The, and, and,
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.06381726950536104
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The future of the country is very difficult to understand.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06215959605426513
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 18.4% and 24.5%
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.33277190984644
+
+Question: How many days did the Warsaw Uprising last?
+Response: how many babies were being the?
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.05013679853704689
+
+Question: What is stratigraphy?
+Response: Answer.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.09824793515887886
+
+Question: What geometric shape is used in equations to determine net force?
+Response: It is a challenge to.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07991113385888604
+
+Question: Levels of what things are used to determine emission factors?
+Response: The story of the modeler, and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4962340043322765
+
+Question: Why does competition among workers drive down wages?
+Response: Collage
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6501852038346863
+
+Question: What put a hierarchical structure in place?
+Response: After the the happy researcher, they are very good at.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06005684186635263
+

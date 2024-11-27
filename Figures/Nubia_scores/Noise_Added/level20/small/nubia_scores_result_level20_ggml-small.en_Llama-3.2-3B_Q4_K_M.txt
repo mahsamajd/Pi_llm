@@ -1,0 +1,190 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the subhub center. This is because
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.22414680843356438
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by fees paid by the students' parents, rather than by taxes.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.42552879557715684
+
+Question: How many items is the University Library home to?
+Response: The University Library has a total of 2,000,000 items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.2964217892144152
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforests spanned a relatively narrow band during the Oligocene, which is the period between 34 and 24 million years ago. This was the period of the Cenozoic Era, which was the time after the Cret
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4625765901561252
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was established in 1989, in response to a growing demand for a Scottish Parliament. The Convention was initiated by various Scottish organisations, including churches, political parties, and representatives of industry. The Convention published its blueprint for devolution
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.049340235449232606
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is an element with atomic number 8 and atomic mass of 16.00. Oxygen is a nonmetal with
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1592239360294978
+
+Question: Who did the geographic scholars work for?
+Response: According to geographic scholars under colonizing empires, the world could be split into
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.08319668760633925
+
+Question: What makes energy changes in a closed system?
+Response: A closed system is a physical system which is isolated from the outside environment, which
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.13164756606965777
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhenus. The Rhine is a major European river, and it flows through several countries. In France, it is known as the Rhenus. The Rhine is also called the Rhone in
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.18759308979744838
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 5 (I-5) is the largest U.S. city not directly linked to an interstate highway. The main reason why I-5 is the largest U.S. city not directly linked to an interstate highway is because the highway was built
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.6055856445686668
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: 3. The polynomial time reduction is the reduction process that takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means that an algorithm for multiplying two integers can be used to
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.08693623958918517
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The German Constitution (Grundgesetz) guarantees the right to education of all citizens. Therefore, the right to establish private schools in Germany is regulated in Article 7 of the Constitution. Paragraph 4 of Article 7 states that the right to
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: The question of how many prime numbers exist is a very interesting and difficult one. It is known that there are infinitely many primes, but it is not known how many there are. This is a result of the Prime Number Theorem. The Prime Number
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.10078450749359391
+
+Question: Where is the famous rock the Rhine flows around?
+Response: 1) The Rhine flows around the famous rock Lorelei near St. Gore's Housing. 2) The rock is near St. Gore's Housing. 3) The rock is the famous rock Lorelei. 4) The Rh
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.5149218509208406
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The superheater is used to raise the temperature of steam above its saturated vapor point, which
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.38557419548535676
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired fewer than 10 employees. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3054687191445351
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has two different effects on the laws of member states. It has both direct
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.15097086267977378
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS formality test is an algorithm that is useful for conveniently testing the formality of large numbers. This algorithm is faster than the Miller-Rabin formality test, but it has a smaller probability of error. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.33201302404441135
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water into hydrogen and oxygen can be used to produce oxygen and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5360261118805423
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In this population, there are 100 women and 91.3 men. So, in this population, there are 9.7 men for every 100 women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3728352271418529
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: 1259 [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.10736619390905411
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the proportionality of a given integer n is called trial division. This routine consists of dividing n by each integer m that is greater than 1 and less than or equal to the square root of n. If the result
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.45833683916481704
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach protects against ingested pathogens through the presence of gastric acid and proteases. Gastric acid is a strong acid that can destroy pathogens by denaturing proteins and damaging cell membranes. Proteases, or digestive enzymes, are also present in the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.4914959939464494
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park around the Krolikarnia Palace is situated on the old escarpment of the Vistula.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.09677824094311183
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contract engineering news record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5372834663333692
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: From the Eocene onwards, the ongoing alpine orogeny caused ANS RIF system to develop in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.09122998428777307
+
+Question: Who discovered this and where did they come from?
+Response: Cara prata, black herb, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.058037988813377406
+
+Question: Who develped the theory of relativity?
+Response: Einstein. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.1224247984991651
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the most oxygen by mass. Carbohydrates are a class of compounds that are composed of carbon, hydrogen, and oxygen. The chemical formula for carbohydrates is (CH2O)n. The ratio of oxygen to carbon in carbohydrates is
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.46203643977049524
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in 1956.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.1348634096161483
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the science of interpreting Earth history from the study of sedimentary layers. The term “stratigraphy” refers to the study of layering, or strata, in sediments and rocks. The word “strata” means layers
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.521754129668627
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The resultant of two forces is represented by a triangle, or a quadrilateral, with the sides being equal to the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17019798454630242
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1) The vitamin B receptor is a signaling device that allows the T-cell to bind to the active form of vitamin. 2) The steroid hormone calcitriol has a symbiotic relationship with vitamin B. Not only does the T-cell
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.436214682321992
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The correct answer is B. The Rhine flows west through the Netherlands, where it splits into two branches, the Benedine Merweid and the Meuse. The Benedine Merweid flows north through the Netherlands, and the Meuse flows
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3919967355738281
+
+Question: Levels of what things are used to determine emission factors?
+Response: The levels of fuel consumption, industrial production and so on are used to determine the emission factors. The ICCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive Council and UNEP governing council resolutions and decisions as well as
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5253672530238649
+
+Question: Why does competition among workers drive down wages?
+Response: It is because competition between workers drives down the wage. An example of this would be jobs such as dishwashing or customer service. Competition amongst workers tends to drive down wages due to the expendable nature of the worker in. Relation to his or her
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5851252355618515
+
+Question: What put a hierarchical structure in place?
+Response: In the society, the pharmacists were highly respected. They were ranked above the two personal physicians of the emperor. This shows that they had the highest respect. This respect was evident in the Keiho Code (701 AD) and the Euro Code
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06345949959145614
+

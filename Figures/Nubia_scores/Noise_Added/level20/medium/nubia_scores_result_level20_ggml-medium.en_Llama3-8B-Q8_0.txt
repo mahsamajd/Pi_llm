@@ -1,0 +1,145 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition paid by the parents of the students. Additionally, some private schools may receive donations from their alumni and other philanthropists. The money may also come from endowments, which are gifts of money or property to
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1743201527792151
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On Jan. 18, 1974, U.S. Secretary of State Henry Kissinger had negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula; the promise of a negotiated settlement between Israel and Syria was enough to convince Arab oil producers to
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4793536679802861
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The narrow band of forests were during the Oligocene period, which was around 34 million years ago. The forests during this time were also inland. The rainforest expanded again during the Miocene period. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.38963510483996355
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is used to make high-quality O, two. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.19130974489117902
+
+Question: Who did the geographic scholars work for?
+Response: The scholars mentioned in this context are most likely geographers. Their theories and perspectives on the climate and the people's behavior are the result of their scientific studies and research. They are the ones who have developed a theory regarding the geographical location of a people
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.029856921991972207
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces make the energy changes in a closed system. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.25036466120659684
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhine. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.3182358612929975
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: An antigen, an antigen is introduced to the body in order to develop a specific immunity. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.31702620742306475
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is in the middle Rhine area.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.12491612921649464
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea was Nemeopsis. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.331274717707455
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A steam engine is a heat engine that is powered by steam. The steam is produced by applying heat to water in a boiler to produce steam at a specific pressure. The steam is then used to propel a piston or turbine. The steam engine is a
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06711897414688439
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: The average contractor hired how many employees?
+Response: 5.8 million. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.11707820712581185
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of the algorithm that can be used to test the formality of large numbers is the AKS algorithm.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.165972848687006
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: context. Oxygen gas can also be produced through electrolysis of water into molecular oxygen and
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.31236175805002286
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 91.3 men for every 100 women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.33409934742431135
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing trial division, the integer m must be less than or equal to the square root of the integer n. The square root of n is the smallest integer k such that k^2=n. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.46443996518244757
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Compounds in the stomach that protect against ingested pathogens are gastric acid and proteins.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.33485947159409346
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a defense mechanism that occurs without the involvement of the recipient. It is mediated through the transfer of antibodies from a mother to an infant via the placenta. It is short-lived and lasts for several months. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5722790976626098
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Kacinski Palace Garden is a popular strolling destination for the Barsobian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.17305463009209676
+
+Question: Who discovered this and where did they come from?
+Response: The discovery was made by Michael Heckenberger and colleagues of the University of Florida in 2003, who came across evidence of large settlements in the middle of the Amazon forest. These settlements were constructed with roads, bridges, and large closets, suggesting
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.28382164857552694
+
+Question: Who develped the theory of relativity?
+Response: The theory of relativity was developed by Albert Einstein. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.3288561535024074
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the year 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.20977061929400698
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2591152554291344
+
+Question: What geometric shape is used in equations to determine net force?
+Response: I believe that the geometric shape that is used to determine net force is the parallelogram
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.30339966388566775
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells extend a vitamin B receptor (Vitamin B receptor) when it encounters a foreign pathogen. This vitamin B receptor is essentially a signaling device that allows the T cell to bind to the active form of vitamin B, the steroid hormone calcit
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5411141857583239
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: To the North Sea. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06454760241590696
+
+Question: Levels of what things are used to determine emission factors?
+Response: Context. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive council and UNEP governing council resolutions and decisions as well as on actions in support of the UNFCCC process. While the preparation of the assessment reports
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.28511660033860353
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the Asuka period (538-710) and the early Nara period (710-794), the men who fulfilled roles similar to those of modern pharmacists were highly respected. The place of pharmacists in society
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2962320274202782
+

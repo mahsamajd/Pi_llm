@@ -1,0 +1,185 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the StubHub Center. The LA Galaxy and Chevos USA played at the StubHub Center from 2005 to 2014. Chevos were suspended following the 2014 MLS season,
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.48649050247098025
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private school is funded by students tuition. The students pay the tuition, and the schools don't pay for the students to attend. This can be done in many different ways. Some private schools receive funds from the government. Other private schools don't receive
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.048757019803809754
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk within NATO. The Nixon administration began multilateral negotiations with the combatters. They arranged for Israel to pull back from the Sinai Peninsula and the goal in height. By January 18,
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.29592144880423377
+
+Question: How many items is the University Library home to?
+Response: There are 2,000,000 items in the University Library. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.2804243042483966
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest is still thriving today and has survived even the most extreme periods of glaciation, including the last glacial maximum. During the last glacial maximum, the climate was extremely cold, with temperatures in some regions as low as -25
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2792283414377529
+
+Question: When was the Scottish Constitutional Convention held?
+Response: 1995. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.06406321653360103
+
+Question: What substance is used to make high quality liquid O2?
+Response: 2. The two substances are oxygen gas and liquid oxygen.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.11503961940289431
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for European Empire, who believed in a more evolved social structure. The people of these climates were seen as in need of guidance and intervention from the European Empire. Similarly, Orientalism is a view of a people based on their geographical
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.01255708884908524
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is "gala". [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0784210322272837
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The introduction of the vaccine can stimulate the immune system to develop antibodies that can fight the specific disease. Vaccination is a process of deliberately introducing an antigen from a pathogen into the body so as to stimulate the immune system to develop antibodies that can fight
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6254749413582691
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: 99 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.27815906766997567
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1366400318519465
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The dominant economic sectors in the middle-lying area are binoculture and tourism. The Rhine gorge between Rooda Shaimam Rhine and Coblen just listed as a UNESCO World Heritage Site. Near St. Crores Housing, the
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.10030516089555175
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The Tena4 that was accidentally introduced into the Black Sea, Baro, is a predator that preys on other Tena4s. Over-fishing and long-term environmental changes have promoted the growth of Baro, which has caused the population
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.12457042161523957
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components raise the steam temperature above its saturated vapor points. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.21671597238982
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: immunoinformatics
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.14250012578572302
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine romanticism is the view of the Rhine valley as a natural landscape, and the Rhine as a symbol of the Germanic people.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.32790315723644436
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effective European Union law has on laws of member states is to determine the rules and
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.09080848792695839
+
+Question: An MSP may introduce a bill as what?
+Response: Private Bill [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.09090705773034968
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The flow of water is H2O in which certain assumptions are made about the molecular formula, hydrogen and oxygen themselves. A similar method is the electrocatalytic O, 2 revolution from oxides and oxoacic. Chemical catalysts can
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.250930600585777
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 14.4% of households were made up of individuals and 7.9% had someone living alone who was 65
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.07654100764861893
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded southern China was far greater than the force they sent to the Song dynasty. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.24481286649270173
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04610846432045079
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. Because 37 is 7, it must be less than 7. The square root of 37 is approximately 5. Thus, m must be at most
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3738561068802875
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach secretes acid that kills ingested pathogens. The saliva contains proteases that break down
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.20690774234995912
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: A popular destination for the Varsovanians is the Saxon Garden. The Saxon Garden is located in the heart of Warsaw. The garden was built during the reign of King Augustus III of Poland and the Prussian Empire, and is considered
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.37846528350387887
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The alpine origin is the development of the rift valley system in the Alps. The Alpine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.20290343454900672
+
+Question: Who discovered this and where did they come from?
+Response: The Shindu tribe discovered this and it was found in the middle of the Amazon forest. They came from the Amazon rainforest. The Amazon rainforest is located in South America and it is the largest rainforest in the world. The Shind
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3653159175642178
+
+Question: Who develped the theory of relativity?
+Response: That's context. Philosophers and antiquities use the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as Aristotle and Archimedes, which mean fundamental errors in understanding force.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11052132519567237
+
+Question: In what year was the Interstate Highway System created?
+Response: 1950
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.04870615142494228
+
+Question: What is stratigraphy?
+Response: stratigraphy is the study of the layers or strata in the Earth. It is important to stratigraphy because
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.29943403604400753
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4816318474917606
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC provides a method for reporting greenhouse gas emissions. It is part of the UNFCC and is responsible for ensuring the proper reporting of greenhouse gas emissions. The ICC is also responsible for producing and distributing the IPCC inventory report. [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5929069975439787
+
+Question: Why does competition among workers drive down wages?
+Response: Answer: A job where there are many workers willing to work a large amount of time. High supply. Competing for a job that few require. Load a man. Will result in a low wage for that job. This is because competition between workers
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5118342686353481
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchy of medical professionals in Japan in the Nara period was very similar to the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.08622023789707245
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way, meaning it is not specific to a particular pathogen or disease.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.5332047063521649
+

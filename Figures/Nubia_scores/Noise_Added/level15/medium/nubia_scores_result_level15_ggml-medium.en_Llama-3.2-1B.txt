@@ -1,0 +1,170 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium that the LA Galaxy played in was known as the Home Depot Center. It was located in Carson, California and was opened in 2003. The stadium hosted the final game of the 2005 MLS Cup, which was won by the
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4195196607868129
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A) A private school's tuition, rather than relying on mandatory taxation through public, government, funding, at some private schools students may be able to get a scholarship. [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3891944180323831
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the oligocene, for example, the rainforest spanned a relatively narrow band. It expanded again during the middle Miocene, then retracted to a mostly inland formation at the last glacial maximum. However, the rainforest still managed to
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.38934214900463815
+
+Question: When was the Scottish Constitutional Convention held?
+Response: Scottish Constitutional Convention was held in 1995 in Edinburgh. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14550848324097188
+
+Question: Who did the geographic scholars work for?
+Response: The Europeans. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.11183049285656965
+
+Question: What makes energy changes in a closed system?
+Response: The change in internal energy for a closed system is related to non-conservative forces. These forces include
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3854832742964809
+
+Question: What is the French name for the Rhine?
+Response: Rhine is the French equivalent to the English name of the German river, which is the German equivalent to the Greek name of the river, which is the Latin name of the river. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.22218594784800416
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Long-term active memory is acquired following infection by activation of B cells. Active immunity can also be generated artificially. Through vaccination, the principle behind vaccination, also called immunization, is to introduce an antigen from the pathogen in order to stimulate the immune
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.46817243920644325
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The above statement is clearly incorrect. Since squaring an integer is more difficult than multiplying two integers, squaring cannot be reduced to multiplying two integers. This is because squaring an integer is more difficult than multiplying two integers. Thus squaring cannot be
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.16840591405502092
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of students in East Germany attending private schools increased from 0.5% in 1992 to 6.1% in 2008, a percent of 5.6% percent. Therefore, 0.5% of
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.39662804425205433
+
+Question: How many prime numbers exist?
+Response: To find the prime number, we must find a number, say, n, such that n is prime and its number of digits is k. To find the prime number, we must find a number, say, n, such that n is prime
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1550215426984003
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Barrow [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.07564075073448218
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The other components are often present during the operation of the boiler to supply water to the boiler during operation, such as an injector, to supply water to the boiler during operation, condensers to recirculate the water and recover the latent heat of
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.02748385725958402
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics. Immunoinformatics is the study of large sets of proteins, proteomics, involved in the immune response. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.32613005544955864
+
+Question: The average contractor hired how many employees?
+Response: The industry employs an estimated 5.8 million and is composed of about 667,000 firms employing 1 million contractors, 200,000 general contractors, 38,000 heavy, and 432,000 specialties. As a whole,
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2870160491419027
+
+Question: How many projects does the Centre currently realize a year?
+Response: This context. The 17th-century Royal Egypt's Al Castle currently houses centers for contemporary art. With some permanent and temporary exhibitions, concerts, shows and creative workshops, the center currently realizes about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3791339505648714
+
+Question: What effect does European Union law have on laws of member states?
+Response: The treaties establishing the European Union (EU) create an integrated legal order and establish a legal hierarchy of laws. As a result, the treaties have direct effect on the laws of European Union member states. Direct effect occurs when the treaty provides for the creation
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.507741116384336
+
+Question: An MSP may introduce a bill as what?
+Response: A [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14324371489486698
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 5.5
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.40756340594127083
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols invaded southern China in 1244. Manci Kang began a military campaign against the Chinese Song dynasty in 1259. He died in 1259 without a successor. King Gulei returned from fighting the Song in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.32813683574837316
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Vaginal secretions serve as a chemical barrier following menarche, when they become slightly acidic, while semen contains defensins and zinc to kill pathogens.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.1050536908838342
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.21475691228252092
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Barsobian means people who travel in the parks. I think they are strolling destination for the people who are not interested in the Krasinski Palace Garden or the Wilanow Palace Park. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.22230153142274212
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 2014 ENR compiled and reported on data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.1579640838758084
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Graben is the result of a compressional mountain range along the northern flanks of the Alps in southwest Germany. This mountain range caused the Alps to pull the Rhine River and its tributaries down from the Alps towards the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.45784294646794055
+
+Question: Who discovered this and where did they come from?
+Response: The development of this fertile soil allowed agriculture and silviculture in the previously hostile environment, meaning that large portions of the Amazon rainforest are probably the result of centuries of human management.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11270876789661943
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The greatest amount of oxygen by mass is contained in carbohydrates. All fats, fatty acids, amino acids, and proteins contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues. Oxygen also occurs in phosphate (
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.1684950038218488
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of layers of rock on the Earth's surface and the study of rocks. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.39912635821249076
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The motion of the body is an ellipse. The net force is the result of the forces. The forces are directed along the axes of the ellipse and the force is equal to the product of the magnitudes of the forces and the angle between them.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0004547553365766843
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells extend the vitamin B receptor on their surface that allows them to bind to the active form of vitamin B. This essentially a signaling device that allows the T cell to bind to the active form of vitamin B. The steroid hormone calcitriol
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5428444899519559
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: North [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.07518990766875666
+
+Question: Why does competition among workers drive down wages?
+Response: The low wages of a job that requires few able or willing workers means that the job is in a “high supply” situation, which means that the job has more workers than it needs. This means that workers can be easily replaced and their wages can
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5439793333262244
+
+Question: What put a hierarchical structure in place?
+Response: In the early Nara period, in Japan, pharmacists were highly respected, and a hierarchy was in place. This hierarchy consisted of a group of people called pharmacists. These pharmacists were in charge of the pharmacists and pharmacy, and they
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3846618690943344
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms because it is non-specific. Meaning these systems respond to pathogens in a generic way. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.47288390205203146
+

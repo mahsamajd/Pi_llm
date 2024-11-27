@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: From 2005 to 2014, the Los Angeles soccer scene was dominated by two major league teams: the LA Galaxy and TVOS USA. During these years, the LA Galaxy emerged as one
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2919787261149933
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent schools, non-governmental or non-state schools, are educational institutions that operate independently of local, state, or national government administration. Consequently, these schools have the autonomy to
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.380029470474741
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used in a high-quality liquid oxygen system is typically purified liquid oxygen (PLOX), which is produced through the fractional distillation of liquid air. This process involves cooling and separating the
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4696278473123887
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macro-tropic (large-scale) non-contributive forces and micro-tropic (small-scale) contributive forces is an intricate subject within statistical mechanics, which is the study of the behavior
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.23101487808007892
+
+Question: What is the French name for the Rhine?
+Response: The transcription provided discusses the various adaptations of the name "Lemur" across different languages and periods, drawing connections to the goddess and the concept of theology. It also touches upon the decentralized learning development of
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.12062286453972271
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced in order to develop specific immunity. The antigen simulates the immune system's development and specific immunity prevents the particular pathogen without causing
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.48102845762942514
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The transcription highlights the significance of Fresno as the largest city in the United States that is not directly connected to an interstate highway. The interstate highway system was established in the 1960s, with Interstate
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.21724839925939488
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The transcription discusses the concept of polynomial time reduction within the context of computational complexity, specifically comparing the problems of scaling an integer and multiplying two integers. It illustrates that the problem of scaling (multiplying an integer by another integer)
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.13650919398282435
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percentage of youth students who attended private schools in Germany was 6.1%. This statistic is a part of the broader context where the overall trend between 1992 and 2
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.4197767708277843
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The provided transcription seems to be a mix of poetic and historical references, with some inaccuracies and perhaps a lack of clear context. To address the information given, let's break down the points and provide a coherent interpretation
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.10722451452753001
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The question seems to be asking about a type of organism referred to as "punicures" that has been accidentally introduced into the Black Sea, leading to negative ecological impacts such as collapsing fish stocks. However,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.05251191815824152
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of study in immunogenicity that utilizes bioinformatics is known as Amino Proteomics. It focuses on the analysis of large sets of proteins and their potential to provoke an immune response. This
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3901195184079337
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the United States, as mentioned in the provided transcription, employed two of its own employees. This detail highlights the typical size of contracting operations, indicating a small to medium-sized scale of business within the construction
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.43146840365230643
+
+Question: How many projects does the Centre currently realize a year?
+Response: The provided transcription does not give a specific number of projects that the center currently realizes and views. It mentions that the National Gallery of Art, which is the oldest exhibition site in Warsaw, organizes approximately 500 projects a
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.19829311031662278
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of rhino-manticism, as per the given transcription, is the middle Rhine Valley. It's described as a region that is full of rhymes and settled with crowded settlements along the narrow
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3728488687022624
+
+Question: What effect does European Union law have on laws of member states?
+Response: The primary law of the European Union (EU) refers to the foundational legal documents that govern the EU's operations, which include the treaties. These treaties lay out the structure, objectives, and legal framework of the EU.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3944697046397525
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: It appears there are several concepts and ideas presented in the transcription, but some of the terms and their implications seem to be unclear or incorrectly stated. Here's a clarification of some of the key points based on the information provided:
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3317231885241293
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription appears to discuss various methods for producing oxygen gas. It mentions electrolysis of water as a common method, where electricity is applied to water to generate molecular oxygen and hydrogen. There's a reference to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2879116869054058
+
+Question: How many men older than 18 are there for every 100 women?
+Response: According to the provided information, for every 100 females in the city, there are 94.1 males. However, this data is not specific to any particular age group. If we want to find the number of
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.32694397888513893
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Kong, as an allegorical representation, did not attack a literal Kong dynasty. The transcription seems to be a fictional or symbolic narrative possibly drawing from historical events involving Mongol expansions during Genghis Khan
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.19575906081983407
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising began on the 1st of August, 1944. It ended on the 2 October 1944. Hence, the Warsaw Uprising lasted for approximately 50 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.4442589639680993
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The machine described in the transcription appears to be a basic primality testing algorithm using trial division. The method involves dividing the given integer n by each integer greater than 1 and less than or equal to n. The process is as follows
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23903823556740378
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcription seems to discuss the immunological protection conferred to newborns through the transfer of antibodies from the mother. This protection is particularly important because newborn infants have no prior exposure to microbes and are
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.3848531672896083
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Tracton Garden, as referenced in the transcription, is described as a significant green space with historical importance and a variety of features that distinguish it from other parks, particularly in the context of World War II. The garden was once
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3135773983724214
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The construction industry's engineering newsletter, EMR, compiles and reports on data about the size of design and construction companies. EMR is known for its annual list of the largest construction companies in the United States and the top global fir
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5415715292257324
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: From the given transcription, it appears that the focus is on the development of a river system in the Upper Rhine-Bravins area, which was affected by marauding activities. The Upper Rhine-Bravins region includes parts
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.29746611292805314
+
+Question: Who discovered this and where did they come from?
+Response: The discovery mentioned in the transcription refers to the finding of large settlements within the Amazon rainforest, specifically on the Cebu side of the region. This finding was made by Michael Heffenberg, who is a colleague of the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.22584838356815728
+
+Question: Who develped the theory of relativity?
+Response: The transcription you've provided appears to be discussing the historical development of our understanding of force in relation to motion, particularly through the work of various historical figures in physics and philosophy. Here's a detailed breakdown of the concepts
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription discusses the importance of carbon and oxygen in biomolecules and their roles in various organic compounds. It mentions that carbon is a fundamental element found in almost all biomolecules that are significant in biological
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.41588133962239326
+
+Question: In what year was the Interstate Highway System created?
+Response: Based on the transcription, it seems that the city referred to as the largest US city not directly linked to an interstate highway is likely San Francisco. The decision made during the creation of the interstate highway system in the 1950
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Stratification in geology refers to the layering of sedimentary rocks and soils. This process occurs when sediments are deposited over time in distinct layers, creating a vertical arrangement of different rock types. Stratification can provide
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.4639457828643191
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The provided transcription discusses the principles of vector addition in the context of physics, specifically when calculating the net force acting on a point particle due to multiple forces. The net force, often referred to as the resultant force, is a vector
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.033267183200590966
+
+Question: Levels of what things are used to determine emission factors?
+Response: The Intergovernmental Panel on Climate Change (IPCC) Panel for Permafrost (ICPP) focuses on the task provided by the World Meteorological Organization (WMO) executives. The counsel
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.1434188347638835
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages primarily due to the expendable nature of the work they perform. When there is a high demand for a job, it often means that there are many workers willing to work for low wages
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5627510031372588
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure in an organizational context implies a system where entities are ranked according to levels of importance or authority. In the given transcription, the mention of a "highly stable hierarchy" with a pharmacist playing a
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2996348971825208
+

@@ -1,0 +1,175 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations, and created a risk for their movement.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06926853976580938
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Transcription: In this context, following the purchase barriers in the station of earth, the extinction of the dinosaurs and the later climate may have allowed the tropical rainforests to spread out across the continent.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.15706485862014286
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The 1989 Scottish constitutional convention was the first time that the Scottish parliament had been formed.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2892511632761037
+
+Question: Who did the geographic scholars work for?
+Response: 1. The world could be saved into climatic forms. These silence beliefs that nearby near and from the middle range of
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.067092004452598
+
+Question: What makes energy changes in a closed system?
+Response: 1. The connection between massive topics non-concentrable sources and microtopics-concentrable sources is described by detailed treatment of statistical mechanics.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.08103006014284142
+
+Question: What is the French name for the Rhine?
+Response: Transcription: The various forms of the name of the realm of modern languages are all derived from the
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.11522817706602617
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The principle behind vaccination, also called immunization,
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.21167988019668438
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state highway system that created in the 1950s,
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08514584165839423
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The polynomial time reduction is the most common reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11833742321743568
+
+Question: How many prime numbers exist?
+Response: 1. The number of fires is infinite.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08041176982126963
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rhinoceros are on the surface with its outstanding architectural monuments. It's close full of rhinoceros. Father means clouded on the narrow river bench to ensure the passage lined up along the top of them
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.11346406731196179
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Transcription: Contact. Pemucus may be abundant during the summer months in some places they are facing. But in other places they are uncommon and difficult to find. In days where they occur in very high numbers. To
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The free vapor temperature is the temperature of the vapor in the air.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15062521154096242
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Transcription: contact rises well greater than 500 dollars a year since we both are neutralizing the numerous times.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0556577259946327
+
+Question: The average contractor hired how many employees?
+Response: Transcription: In the United States, the end of 2016 had around $960 billion in annual revenue, including the statistics past five.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.0873948966271374
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The long road between Lieberstein and Rauge and Köbrenner is listed as a unipolar private sector. New St. George House is the long place around the famous Rock Royal, with a outstanding architectural monument. The
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.10853784262889254
+
+Question: What effect does European Union law have on laws of member states?
+Response: Transcription: The European Union law is a body of cv's in this situation, such as regulations and dioceses.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.08900217681795586
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Transcription: The property of being fired, or not, is called formality, but thinking of a full method of verifying the formality of a given number A, is known as trial division.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.10929777508116045
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can introduce new laws around menus to assist in laws of a bill.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.08281965446392647
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Transcription: Oxygen gas can also be produced through electrolytic of water into molecular oxygen and hydropower.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2875663816831342
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: 1. The Mongol Empire was a very large empire.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.07765679296003158
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: If an integer error is an integer error, then one is not a file.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5182313574917654
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Transcription: (inaudible)
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.46943293907582284
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. The passive immunity is a transfer of antibodies from the mother to the infant.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.2607734022827599
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Transcription: to contact the Jackson Garden, covering the area of 15.5 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.06743734420483571
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: In contrast, engineering news records, EMR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07652984707837573
+
+Question: Who discovered this and where did they come from?
+Response: The concept, therapeutic, blackness, which is distributed over large areas in the Amazon world,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.05592133130692323
+
+Question: Who develped the theory of relativity?
+Response: Transcription: In contrast, philosophy is in a typical use of contact of sorts in the study of stationary and moving objects.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07871653309284976
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Transcription: The element is found in almost all biomolecules that are important here.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07496137295801952
+
+Question: In what year was the Interstate Highway System created?
+Response: [INAUDIBLE]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.44525661614521395
+
+Question: What is stratigraphy?
+Response: 1. Geologists use a number of fields, lavatories and numerical modeling methods to decipher Earth history and understand the processes that occur on Earth.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.18141070156518102
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The results of the results of the next phase can be determined by the results of the next phase.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.21954116362624287
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: This is a temporary signaling device that allows the c-cell to bind to the active tone of vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.10344972563337496
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrated activity on the task parotageous, as a relevant WMO is preferable.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.06516365953783732
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1306169877377834
+

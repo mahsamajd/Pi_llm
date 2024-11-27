@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4428117099544394
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The private school students can issue for public, government, funding, but some private schools students may be able to get a scholarship. This leads to prosecution. In depending on the talent of students they have, using sports scholarship, arts scholarship, academic scholarship
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: How many items is the University Library home to?
+Response: 2,100,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4892844078048163
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The last period of history was the Oligocene, when the rainforest expanded from the tropical rainforest to the topic. This was due to the fact that the rainforest had survived and evolved through different periods of history. The last period of history
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.23342725931018604
+
+Question: What substance is used to make high quality liquid O2?
+Response: Solid air is a colorless, odorless and non-flammable gas at room temperature and pressure, usually used as a source of high-quality oxygen. Liquid air is a mixture of 99.9% oxygen and 0.1% other gases
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4963226790259363
+
+Question: Who did the geographic scholars work for?
+Response: The answer is the United States. The geographic planner worked for the United States. The United States did not work for the geographic planners. The United States has a different climate than northern Europe. The geographic planners work for the United States. The geographic planners
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.2750048911575609
+
+Question: What makes energy changes in a closed system?
+Response: The connection between the non-contributive forces and the micro-tropic forces is described by detailed treatment of statistical mechanics. In macro-tropic force fiction, non-contributive forces have become the internal energies of the system and are often associated with the transfer of
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.3060806735584334
+
+Question: What is the French name for the Rhine?
+Response: It's all about the word and its name. The word has different forms and takes different forms. It's a different type of vocabulary. It's a language. It's a language. It's a language. It's a language. The vocabulary
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1184685655263481
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Fresno has been in discussion for an interstate highway for more than 50 years. The freeway was built in 1964, but the Interstate 5 freeway did not follow the original route, but instead follows what is now State Route 99. This
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4581615487119701
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: This is a specific response. Please review the guidelines for the question here: How to write a good answer? [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.18822889465346015
+
+Question: How many prime numbers exist?
+Response: 300 [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08283723249618447
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Rhine romanticism is the use of Rhine as the setting of romantic stories, including fairy tales. It is also the setting for the romantic poem "The Rhine." The Rhine gorge is between the Uher and Rhine, and
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1839916216298867
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The punicures that would accidentally introduce themselves into the Black Sea would be the one that are in the same habitat as the other punicures in that area. They would also have to have the same characteristics as the other punicures in order
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.03625783501728275
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: This is a very interesting and challenging problem for me to solve. I will give it a try. The concept of steam is to increase the temperature of the steam above the saturated vapor plate. I am not sure if the components mentioned are the ones that
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06284827849951802
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of study in immunogenicity in bioinformatics known as "immunogenomics". [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.29010158300435607
+
+Question: The average contractor hired how many employees?
+Response: The Census Bureau is worth $680 billion in total. There have even been between residential and non-residential. In the remainder of its government, as of 2005, there were about 667,000 homes in foreign one million contractors.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.18586806164824776
+
+Question: How many projects does the Centre currently realize a year?
+Response: The National Gallery of Art, the oldest exhibition site in Warsaw, with a tradition stretching back to the mid-19th century, organized with exhibitions of modern art files.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.17287743901560637
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Rhinomanticism is the idea that the Rhine River is a symbol of the human spirit and the human experience. Rhinomanticism is also an idealized representation of the Rhine River as a source of inspiration for human creativity,
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5272999435015564
+
+Question: What effect does European Union law have on laws of member states?
+Response: The main focus of this primary law is the treaties established on the European Union. This is the primary focus of the regulations and directives which are based on the treaties. The registration of the European Union is principally composed of the European Parliament and the Hong Kong
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4215264775508635
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The method of devised is a multiple of any integer between 0 and 1. In contrast, the number is called biodevision. The method of devised is a multiple of any integer between 0 and 1. In contrast, the number
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4643708604086565
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can introduce new laws and amendments to a different law of the bill. A committee of the Parliament can defend a bill in one of the areas under its rule. A member of the Scottish Parliament can introduce a bill of a private member.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.015491581774019325
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 100
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.05346653714704097
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: A
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.13478444796857303
+
+Question: How many days did the Warsaw Uprising last?
+Response: 16 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.062202839901534746
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: A [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5723296243226192
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: I. Cheering. Inductments are also anti-bacterial.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.09576870582691499
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Tracton Garden is a royal park situated in the western city of Tracton. It covers an area of 75 hectares. The park consists of the following structures: 1) the palace, 2) the Tracton Square
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3898435109514048
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contact, engineering newsletter, EMR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09214088498341833
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main element of this bridge is the Upper Rhine-Bravins. In South West Germany and Eastern France and the Lower Rhine-Abayna, in North West Germany and the South Eastern Netherlands, by the time of the monitoring,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.19919854623223132
+
+Question: Who discovered this and where did they come from?
+Response: Monocle, rather than naturally occurring as has previously been proposed, in the region of the Cebu side, remains of some of these large settlements in the middle of the Amazon forest, were found in 2003 by Michael Heffenberg
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1108117076517845
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: a. Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: The element is found in almost all biomolecules that are important here, are generated by, right? Only a few common complex
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Stratification is a classification system used to describe stratified bodies of sediment. It is used to determine the relative age of rocks that were deposited in a sequence and how they formed. Stratification can be described in terms of the number of layers, their
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.05530692910507273
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The forces were first quantitatively investigated in conditions of gravity delivering their coverage. For example, in several, active experiments demonstrate that physical properties of forces are additive vector quantities. To have magnitude and direction, mean two forces act on a point particle.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The steroid hormone has the trial. T-cells have a syndiotic relationship with vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.06399081089461556
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The ICPP is the International Cooperation Program for Climate Change, which is a cooperative program that brings together a number of countries and organizations to work on climate change. This program focuses on implementing and coordinating projects to reduce greenhouse gas emissions. The
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.563159217645458
+
+Question: Why does competition among workers drive down wages?
+Response: A. An example of this would be jobs that have been watching and testing and serving. Competition amongst workers tends to drive down wages due to the expendable nature of the work they make.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.2371499686757449
+
+Question: What put a hierarchical structure in place?
+Response: The strength of pharmacists into parity was especially defined in the human race. 701, in these stages in the U.S.A., 718, range to difference in the three high and inferior core of the established.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10167668245950523
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune response is easily triggered when microbes are identified by pattern recognition.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.09263220494528879
+

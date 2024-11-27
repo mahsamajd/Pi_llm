@@ -1,0 +1,135 @@
+Question: What was the name of the stadium that the teams played in?
+Response: From 2005 to 2005, there were two major league soccer teams in Los Angeles. LA Galaxy were scheduled to play at the sub-halid
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.13038904469868506
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The private schools are largely funded by. The private school is largely funded by. The private school is largely funded by. The private school is largely funded by. The private school is largely funded by. The private school is mostly funded by. The private
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.21856837799876772
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: When was the Scottish Constitutional Convention held?
+Response: It is a fact that the Scottish Constitutional Convention was held on 19 May 1993. The Scottish
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.26629649968656444
+
+Question: What substance is used to make high quality liquid O2?
+Response: 5. That is a liquid substance whose melting point is 118-180 degrees Celsius. It is a substance whose ability to make is liquid. The ability of liquid substances to be able to make is liquid. It is a substance whose is liquid
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.41687551873032447
+
+Question: Who did the geographic scholars work for?
+Response: The answer is that the geographic regions of the world were not
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09860439388199216
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: As the problem is the multiplication of integers, the answer is to make the integers of the problem.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.21173652159588274
+
+Question: Where is the famous rock the Rhine flows around?
+Response: In this context, the dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.06935047411150952
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Imunomorphica of immunotherapy in the medical field. The most important thing is to determine the immune response of a disease or the immune response of a disease. The immune response of a disease can be defined as a particular set of the disease
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.024629880544175142
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Question. Once considered the epitome of the Rhine Romanticism, the Rhine Romanticism
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.45917537711156997
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The formality of a number n is called to be a simple but slow method
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.0625099692326242
+
+Question: An MSP may introduce a bill as what?
+Response: In a number of ways. The Scottish government has proposed various bills, which have been proposed to Parliament. A committee of the parliament can propose various bills. The government can propose a new law in one of the areas under its limits. A private bill
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.04030383309914953
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36948722514188825
+
+Question: How many men older than 18 are there for every 100 women?
+Response: See you next week. The average household size was 2.55 and the average family size was 3.21. The average family size was 3.21. The median age was 35.5 years. For every 100 females
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.21022706115729162
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Jinglei had a successful military campaign to the west, which had not been challenged by the Chinese for a century and a half.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.09728628968788378
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Red Army had made a plan to last for 48 hours, and the Warsaw Uprising ended on August 1, 1944.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.22384216741676777
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Your answer is as powerful as a defensable as a. You might have noticed that
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.07151554943602989
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park has lanes running on a few levels deep into the ravines on either side of the palace. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.166679186023461
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Data collection is the process of extracting, organizing, analyzing, and
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.10770086775904808
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: From the Eocene onwards, the ongoing alpine orogenies taught the NS-Rip system to develop in this Rip system in southwest Germany.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1450206295209563
+
+Question: Who discovered this and where did they come from?
+Response: Caraprast, is the result of the many theories that have been proposed. It is important to
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.0636276245973918
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Question 3: Question 1: Question 3: Which organic compounds contain the greatest amount of oxygen by mass?
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.4679580679704991
+
+Question: In what year was the Interstate Highway System created?
+Response: In what year was the interstate highway system created? The first year to create Interstate 9.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.2927979092607541
+
+Question: Levels of what things are used to determine emission factors?
+Response: In this context, the ICCC concentrates its activities on the tasks allotted to it by the relevant WMO Council. Council and Councils. Councils. Councils. The ICCC Councils. Councils. The ICCC Councils. Council
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.34030892461428874
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: What put a hierarchical structure in place?
+Response: Such as, the phisicians, and the acupuncturists were most highly respected in the nation of the God.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07241140411041802
+

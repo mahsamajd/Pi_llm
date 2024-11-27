@@ -1,0 +1,210 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium was the StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.25497502871730726
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A private school is mostly funded by tuition or student fees and some parents may
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.257797230292819
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk within NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06633680392702401
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3759054753238623
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the Oligocene period, the Amazon rainforest was a relatively narrow band of forests.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.38827474321148503
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2392650780703025
+
+Question: What substance is used to make high quality liquid O2?
+Response: [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4622821482094578
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the colonizing empire, which was the European Empire. The scholars believed that the people living in these geographic areas were in need of intervention and guidance from the Europeans because they were seen as lazy, immoral, and incapable of governing
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1006738203993569
+
+Question: What makes energy changes in a closed system?
+Response: Non-conservative forces act to change the internal energy of a system, and often associated with the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.23696163355244393
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is RING. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.09059276145962858
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 9 is the interstate highway that has been proposed to be upgraded to interstate standards. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.18622369724098575
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The correct answer is A.  6.1% of German students attended private schools in 1992. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.28157550518437613
+
+Question: How many prime numbers exist?
+Response: There are infinitely many time numbers.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1011008581898597
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: A: The Tena4 that was accidentally introduced into the Black Sea is Mimeopsus.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.1254557068091684
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the temperature of steam above its saturated vapor points are superheaters. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.3861968426075638
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. Immunoinformatics is the study of immunogenicity using computational tools and algorithms. It involves the analysis of large datasets of proteins and their interaction with the immune
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.11647337892198595
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired fewer than 10 employees as per the information given in the transcription.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.4014398504189468
+
+Question: How many projects does the Centre currently realize a year?
+Response: Based on the information provided, I believe that there are two ways to answer this question.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.20347915870920674
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine valley can be considered the epitome of the Rhin romanticism because of the beautiful and scenic landscape along with the history and culture of the area. The region has been a source of inspiration for artists and writers throughout history, and
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.15586818969290417
+
+Question: What effect does European Union law have on laws of member states?
+Response: [end of text]
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.554329814241966
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for conveniently testing the formality of large numbers is the Miller-Rabin primality test. This algorithm has the advantage of being fast and having a small probability of error. It is also the basis for other algorithms such as
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4907050290455014
+
+Question: An MSP may introduce a bill as what?
+Response: A bill can be introduced to the Scottish Parliament in a number of ways, including as a bill presented by the Scottish Government, as a bill presented by a committee of the Parliament, as a private member bill introduced by a Member of the Scottish Parliament,
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.10107844950161682
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Based on the given transcription, we can conclude that oxygen gas can also be produced through electrolysis of water into molecular oxygen and hydrogen. The gases in each room consist of hydrogen and oxygen in the explosive ratio 2 to 1. However, the
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.03809777982635032
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 0.943.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.39530414497497257
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: In 1256, the Mongol Empire under the leadership of Mank Khan, conquered the Song dynasty in Southern China. This was a major victory for the Mongols, as it extended their territory to include all of China. In 125
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.3903051313661805
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. The square root of n is
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.31441121863331645
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Cinci Palace Garden is a popular scrolling destination for the Vansovian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.17693722409750734
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The file “ENR top 400 2015” gives data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09606786606922302
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of the rift system in Southwest Germany are the upper Rhine Grabbing and the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.18035608616796306
+
+Question: Who discovered this and where did they come from?
+Response: The discovery was made by Michael Hackenberger and colleagues at the University of Florida
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.16340979704580683
+
+Question: Who develped the theory of relativity?
+Response: Galileo Galilei is credited with developing the scientific method and the concept of inertial motion. His work on the nature of motion is considered the foundation of classical mechanics. Galileo is also considered the founder of observational astronomy and one of the founders
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.017070741768790976
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element with the most oxygen is carbohydrates because it has more than 50% of oxygen. Carbohydrates are biological molecules that are the main energy source and are found in a wide variety of foods such as fruit, vegetables, dairy products, bread
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.24487987492426988
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in 1956. It was created to make it easier and safer for people to travel throughout the country. It was a very important system and still is to this day.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.18600193817562272
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the scientific study of strata, the layers of rocks or sediment that are visible
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.30627098116669393
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine net force is the parallelogram rule of vector addition. The addition of two vectors represented by sides of a parallelogram gives an equivalent resultant vector that is equal in magnitude and direction to the transversal
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.13142231370292268
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a Vitamin D receptor when it encounters a foreign packaging. This receptor allows the T cell to bind to the active form of vitamin D. The T cell and Vitamin D have a symbiotic relationship. The T cell expresses a gene that
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5498005858986561
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The direction of two-thirds of the Rhine water flow outside of Germany is to the west. The
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.4540345184926736
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive. Council and unit governing council resolutions and decisions as well as on actions in support of the UNFCC process.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.17610828497260955
+
+Question: Why does competition among workers drive down wages?
+Response: Supply and demand are the two main concepts of economics. Demand is the amount of a product or service that is wanted at a particular price. Supply is the amount of a product or service that producers are willing and able to provide. The relationship between the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5569755907580181
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure for pharmacists in Japan was in place because the pharmacists
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1318410363341178
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is a dominant system of host defense. In many organisms, the innate immune system is the only system of host defense. The innate immune system is composed of several mechanisms, each of which has its own function, and it is also
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.04398858634099634
+

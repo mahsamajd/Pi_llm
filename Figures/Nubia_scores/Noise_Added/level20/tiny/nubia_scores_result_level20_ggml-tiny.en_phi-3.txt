@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The transcription does not directly mention the name of the stadium where the Cheevos USA played. Therefore, based on the information provided, it is not possible to determine the name of the stadium used by Cheevos USA.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4362882799981542
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools, are not administered by local, state, or national government. This lack of government administration grants them the right to select their
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.31953594744152947
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription you provided seems to describe the Arab oil embargo of 1973, which had significant implications for international relations, particularly involving NATO and the United States. The crisis prompted some European nations to distance themselves from U
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.1537476687937871
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. This convention involved various organizations, including Scottish churches, political parties, and industry representatives. It played a significant role in shaping the structure of the Scottish Parliament, which was
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.04524955364201366
+
+Question: What substance is used to make high quality liquid O2?
+Response: High-quality liquid oxygen is usually obtained by the fractional distillation of liquified air. This process allows for the separation of oxygen from other atmospheric gases, ensuring a high purity level for industrial and
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.43084039403455077
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars who described the world as being split into climatic zones and attributed certain behaviors to people based on their climate worked for the European empires during the colonial era. These scholars were often employed by colonial administrations
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.40248133607468906
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes due to non-conservative forces, which are forces that do not preserve mechanical energy. Unlike conservative forces (like gravity or spring forces), non-conservative forces (like friction
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.46790191514593116
+
+Question: What is the French name for the Rhine?
+Response: The transcription appears to be discussing the etymology and various forms of the name for the Rhine River. In French, the name for the Rhine River is "Rhin". The text also mentions that the French adopted the Germanic
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.13361478324919052
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, a specific antigen from a pathogen is introduced in order to develop a specific immunity. This antigen stimulates the immune system to develop a response against that particular pathogen without causing disease.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6043866659570707
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, 6.1% of each German student attended private schools. This statistic is mentioned in the transcription, which provides a historical overview of the prevalence of private schools in Germany. The data reflect
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.40535293499089664
+
+Question: How many prime numbers exist?
+Response: There are infinitely many time numbers, meaning that there is an infinite count of integers that represent specific points in time, such as years, months, days, hours, minutes, and seconds. However, determining the exact quantity or distribution of
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.06101557335406538
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above its saturated vapor point are superheaters.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.2818744353787347
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is referred to as amino informatics. This field involves the use of computational methods to predict the immunogenicity of peptides and proteins, which is particularly useful
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.4732580361211336
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center, known as the 17th-century Royal Castle, currently realizes about 500 projects a year. These projects encompass a variety of forms, including permanent and temporary exhibitions, concerts, shows, and
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.5351172728666673
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the rhyme romanticism, as described in the transcription, is the middle-run valley. This area is characterized by its dominant economic sectors of viniculture and tourism. The valley features natural beauty
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4266418949024604
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has a significant impact on the laws of member states. The body of law consists of treaties and legislation, including regulations and directives, which directly or indirectly affect the national legal systems of the EU member countries.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5037647136483592
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm useful for verifying the formality of large numbers is the Miller-Rabin formality test. This test is faster compared to trial division but has a small probability of error. The AKS formality test is also known, which
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3336988565123731
+
+Question: An MSP may introduce a bill as what?
+Response: A bill in the Scottish Parliament can be introduced by various entities and methods. The Scottish Government can introduce new legislation or amendments to existing laws as a bill. This could involve a bill introduced by a committee of the Parliament on matters within its
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.043373418278744635
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The question asks for the number of men older than 18 for every 100 women. However, the information provided does not specify the exact number of men or women older than 18. We only know the percentage of the population
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.07361008551917458
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monchi Khan, who was likely a misspelling or an alternative name for Kublai Khan, initiated a military campaign against the Chinese Song Dynasty in southern China. He began this campaign in 1260 upon his return
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4176499621644447
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing trial division to check the formality of an integer n, the routine consists of dividing n by each integer that is greater than 1 and less than or equal to the square root of n. If the result of any of these divisions
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.38992359356788053
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Protective passive immunity in newborn infants primarily involves the transfer of maternal antibodies to the infant, which offers temporary protection against infections until the baby's immune system is fully developed. During pregn
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4628246793329035
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Gardens, covering an area of 15.5 hectares, is a popular strolling destination for the Soviet. Located at the east end of the park is the tomb of the unknown soldier. In addition to the tomb
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3859095262424713
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The Engineering News-Record (ENR) is a professional magazine that is highly regarded within the construction industry. It provides detailed reports and compiles data about the design and construction companies. ENR's annual publication highlights the largest companies in the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5628927749796963
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The transcription discusses elements of the Alpine Neotectonic Rift System (ANS RIF) in the context of the alpine orrogeny, particularly focusing on southwest Germany. However, there seems to be some
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.3299492291459736
+
+Question: Who discovered this and where did they come from?
+Response: The specific question seems to be asking for the discoverer of large-scale settlements in the Amazon forest and their origin. The provided transcription indicates that in 2003, Michael Heckenberger and his team at the University
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.24473173447724828
+
+Question: Who develped the theory of relativity?
+Response: Einstein developed the theory of relativity, which corrected the misunderstandings about motion and force. His work in the early 20th century provided a more accurate understanding of the action of forces on objects, especially as their momentum increased
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11045458956403043
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds that contain the greatest amount of oxygen by mass are carbohydrates. This is because carbohydrates contain the largest proportion by mass of oxygen among all biomolecules. The
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5892240605193768
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine the net force is a parallelogram. This is based on the parallelogram law of vector addition, which states that when two vectors are added, the resultant (net) vector can
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.5222790093026113
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T cell encounters a foreign pathogen, it extends a T cell receptor (TCR) that recognizes and binds to specific antigens presented by antigen-presenting cells (APCs), such as d
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4848954090319294
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The direction of the line's flow, as per the transcription, is not specifically indicated in terms of cardinal directions like north, south, east, or west. The text mentions that as the Dutch name reed no longer coincides with the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.14799989975616357
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Civil Aviation Organization (ICAO) focuses its efforts on tasks assigned by the World Meteorological Organization (WMO) executives. The Council and government resolutions and decisions are also considered in their actions.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.15066866480182417
+
+Question: Why does competition among workers drive down wages?
+Response: The transcription discusses the economic principle of supply and demand in the context of labor markets. It explains that competition among workers, often due to a high supply of workers willing to perform a job that requires a large amount of time, can lead
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6074195906239034
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure in place during the mentioned periods in Japan consisted of a well-defined social order with pharmacists occupying an elevated status. Initially, in the Kofun period (538 to 71
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1924978731827215
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is a crucial component of host defense that is activated when microorganisms successfully enter an organism. It operates through a non-specific mechanism that identifies and responds to pathogens in a generic
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.47393767219497696
+

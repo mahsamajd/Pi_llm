@@ -1,0 +1,170 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the Home Depot Center. It was located in Carson, California. In 2005 and 2006, the teams played at the Home Depot Center. In 2007, the teams moved
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.48707883271888885
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A) Private schools, also known as independent schools, non-governmental or non-state schools, are not administered by local, state or national governments. Thus, they retain the right to select their students and are funded in whole or in part by charging
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.10441349342945638
+
+Question: How many items is the University Library home to?
+Response: 2,000,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.5102102036374241
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: the Late Miocene and Pliocene [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.07258565610770273
+
+Question: When was the Scottish Constitutional Convention held?
+Response: 1995. The Scottish Constitutional Convention was a national consultative forum, established
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.10210509363255216
+
+Question: What substance is used to make high quality liquid O2?
+Response: The two substances are nitrogen and oxygen. Nitrogen is a colourless and odourless gas at room temperature and
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2139056403963816
+
+Question: Who did the geographic scholars work for?
+Response: They worked for the British Empire. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09936480283720128
+
+Question: What makes energy changes in a closed system?
+Response: energy changes in a closed system
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.13531894818490386
+
+Question: What is the French name for the Rhine?
+Response: Rhine
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.06352008647119234
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Long-term active memory is acquired following infection by activation of BMT cells. Active immunity can also be generated artificially. Through vaccination, the principle behind vaccination, also called immunization, is to introduce an antigen from a pathogen in order to stimulate the
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4262465881267373
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: answer:  Fresno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08401226037976828
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.09879814072124637
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The answer to the question is 4.6% in 1992 and 7.8% in 2008. 4.6% was an increase over 1992, while 7.8% was an increase from
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.2975805804536227
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rudesheim and Rhine in Cobland is listed as a UNESCO World Heritage Site. Near St. Gore's Housing, the Rhine flows around the famous rock Lorelei, with its outstanding architectural monuments. The slopes
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.2791706411128242
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: C. Barrow. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.07193126571010777
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The most common form of mechanical stoker is the chain of free soaking mechanism and its drive engine or motor that moves the fuel into the firebox. This is a mechanical system that raises steam temperature above its saturated vapor point. The combustion of coal is
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Romanticism is the Romantic movement that arose in the 18th century and became popular in the Rhine region in the 19th century. The Romanticism movement was characterized by a sense of nostalgia for a simpler, more natural and
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3862584163492996
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislations, such as regulations and directives, which have direct effects or indirect effects on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5194491719334815
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Trial division. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4862071566056342
+
+Question: An MSP may introduce a bill as what?
+Response: MSP [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.15255677701786818
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen can be produced from water by the following process: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.23523445549867894
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 3, 000 women for every 1,000 men.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.08775609295244613
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: m must be less than or equal to the square root of n. In this case, the integer m that is
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23842071597781733
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Wilhenau Palace Park dates back to the second half of the 17th century. It covers the area of 43 hectares. Its central French-styled area corresponds to the ancient, baroque forms of the palace. The eastern section of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.29343893845049884
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contract engineering news record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5372834663333692
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this RIF are the Upper Rhine Grabbing, in southwest Germany and eastern
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.11944041133797312
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Sir Isaac Newton [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07391099445662586
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of geological strata, which are layers of sediment, which can be dated using radiometric dating.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3845405710430517
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T-cells extend vitamin B receptors when they encounter a foreign pathogen. [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.13749022596957616
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two-thirds of the Rhine that flows outside of Germany, flows west, through the Wall, and then near the Merweid and New Merweid, to join the Meuse, through the Holland's Beak and Herringglade
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.34939878867551044
+
+Question: Why does competition among workers drive down wages?
+Response: Context is the job where there are many workers willing to work a large amount of time. High
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1090160666389236
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the Asta period, 538 to 710, and the early Nara period, 710 to 794, the menu fulfilled roles similar to those of modern pharmacists were highly respected. The place of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.14641720479835063
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way. Meaning it is what? [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.29880007353262883
+

@@ -1,0 +1,175 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools, are not administered by local, state, or national governments. Thus, they retain the right to select their students and are funded in part by charging their students'
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.32222426274025706
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The question asks you to explain what Kissinger did to negotiate an Israeli retreat from the Sinai Peninsula. In order to answer this question, you must first understand the context of the question. The question is asking about the aftermath of the 1973 Arab
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.5078898775053375
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816, is home to over 2 million items. The building was designed by architects near the James C. A. and opened on the 15th of December 1999. It is surrounded by the
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4645595062912954
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest and narrow bandic forests existed during the Cretaceous period which took place between 145 and 66 million years ago. It was during the Cretaceous that the Amazon Rainforest and narrow bandic forest existed. The C
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3900928202243116
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2392650780703025
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is produced by condensation out of air.  [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1915455248692921
+
+Question: Who did the geographic scholars work for?
+Response: Geographical scholars of the time were working for the European colonial empires. Their purpose was to justify the colonization of the other parts of the world by Europeans. The European scholars divided the world into climatic zones. They believed that the people of the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.13998161807298948
+
+Question: What makes energy changes in a closed system?
+Response: Energy changes in a closed system can come from the transfer of energy from one system to another. This can be done through the exchange of energy, which is a transfer of energy from one object to another, or through the conversion of energy, which is
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.10917570634313223
+
+Question: What is the French name for the Rhine?
+Response: The name of the rhyme in modern languages is derived from the Latin Rino, which was adopted in Roman era geography. First century BC, as brief Rino. The spelling of the Latin Rino is due to the Greek letter rho (R).
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The following state route has been in discussion halfway to interstate standards: State Route 99.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.2562831529011619
+
+Question: How many prime numbers exist?
+Response: The number of times numbers that are less than or equal to a given number, n, can be found using
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.24417977019615222
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock lorline flows around St. George Housing, which is listed as a UNESCO World Heritage Site. St. George Housing is situated near the Rhine River. It has outstanding architectural monuments, and it is also the narrow river base in stories
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: In the given transcription, the unicorns are mentioned to control the population of small replantation organisms. It is said that the phytoplankton and the zooplankton are very important for the marine ecosystem. The phytoplankton and
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0061245756972878596
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. An injector is a device that forces water into the boiler by steam pressure, thus avoiding the necessity for a pump. Injectors have been used in ships, stationary engines and traction engines. Injectors have been used with steam locomotives
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.01849842094364451
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the construction industry was estimated to generate approximately $960 billion in revenue annually. According to the United States Census Bureau, $680 billion of the total revenue was generated by private contractors. Of the total $680 billion in revenue,
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.09641604891070354
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th-century royal Egypt Dow Castle currently houses centers for contemporary arts. With some permanent and temporary exhibitions, concerts, shows and creative workshops. The center currently realizes about 500 projects a year. That's at a National Gallery of Arts,
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.1707439222705297
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle Rhine valley is now considered the epitome of Rhine romanticism. The term Rhine romanticism refers to the landscape of the Rhine, as well as the literature and art that developed in this area. This is based on the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.39338803784745013
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union has laws that are made to help the European Union as a whole and not one country in particular. The EU has laws that are not always followed by the member states. Some of the EU laws that the member states have to follow are
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.519707786376888
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of the algorithm that is useful for conveniently testing the formality of large numbers is known as trial division. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.14601796252507104
+
+Question: An MSP may introduce a bill as what?
+Response: A bill can be introduced by the Scottish Government as a bill for a new law or an amendment to an existing law. A bill can also be introduced by a committee of the Parliament. A private member of the Scottish Parliament can introduce a bill or
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.10907985434500655
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The following transcription can be summarized as follows: the electrolysis of water is a process in which electricity is used to decompose water into its elements, oxygen and hydrogen. However, the electrolysis of water is also a useful technique to produce oxygen in
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.10667815003848091
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3294339693134475
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer n must be less than or equal to the square root of the integer n that is to be tested. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.19623220837156996
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in this stomach protect against injected pathogens are gastric acid and proteases. Gastric acid helps in the digestion of proteins and it is responsible for the acidic pH of the stomach. Proteases are enzymes that break down proteins, and they are
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.29115822192932406
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: passive immunity [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.3722363012375517
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Based on the given transcription, I think the researcher is trying to find out what some files and reports on data about the size of design and construction companies. So, I would suggest that the researcher could use the following information to find the required information:
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.15824079079739095
+
+Question: Who discovered this and where did they come from?
+Response: Context: Terra Preta is a dark fertile soil that is distributed over large areas in the Amazon forest.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06460394984820073
+
+Question: Who develped the theory of relativity?
+Response: The community in this question is asking about the relationship between force and motion. In particular, the question is about the understanding of force and the nature of natural motion in the community. The questioner is asking for a detailed and specific answer, so the
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.03831360477229895
+
+Question: In what year was the Interstate Highway System created?
+Response: The U.S. state highway system was created in the 1950s, and the interstate highway system was created in the 1950s, as the decision was made to build what is now Interstate 5 on the west side of the Central
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.10040427547351793
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. Stratigraphy is the study of sedimentary layers. And the stratigraphic sections are usually described as a series of rock units. Rock unit is a volume of rock that is uniform in composition and texture
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.13785575031048036
+
+Question: What geometric shape is used in equations to determine net force?
+Response: To find the net force on a rigid body, you must add the forces acting on the body. If you know the magnitude and direction of each force, you can use the law of cosines or the parallelogram method of vector addition to find
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.04301036220916776
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The key cell extends a receptor which allows it to bind to the steroid form of vitamin B. This binding allows the key cell to activate vitamin B, the steroid hormone, which it then can bind to its receptor. The key cells have a symbiotic
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5239153031429047
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the task allotted to it by the relevant WMO executive.  The IPCC is a group of scientists that meets to assess the current state of climate change science and the impacts of climate change.  The IPCC's
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.47287738386933464
+
+Question: Why does competition among workers drive down wages?
+Response: Competition between workers for a job that requires low skill, low wages, and a low level of risk will result in wages being driven down.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.2892527680460292
+
+Question: What put a hierarchical structure in place?
+Response: In the early Nara period, pharmacists were the most highly respected of the health-related positions in the imperial court. This is especially true when looking at the machinoshu, which is an ancient Japanese medicine. It is believed that the mach
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.14873633163801903
+

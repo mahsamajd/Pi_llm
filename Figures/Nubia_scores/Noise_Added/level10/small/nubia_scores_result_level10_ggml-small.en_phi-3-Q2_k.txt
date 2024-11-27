@@ -1,0 +1,80 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: are and are asked by,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.09001265333585218
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Ms. Ruth has been in the region, hence those of the region, and toy has been.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07505745688565946
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Rhine, with Ape, and Rhine are kept from Nudichine, with ape, and Rhine flow from Nudine, with Epithene, and Rhine are to be epitone and Rhine are to
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.2844984074415232
+
+Question: What effect does European Union law have on laws of member states?
+Response: The
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5364833701821419
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 100
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.05346653714704097
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Breast, who, compounds in this stomach protect against ingrained, and zince to show pathogen.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.08812344767657843
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Ansemble.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4545776823547295
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The. Barf. Ate. The. Barf. Ake. The. Barf. Ake. Do. The. Barf. Ake.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.20120863285748603
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: Rhine Beaen Rhine Beaen Alpine Rhine Beaen Rhine Beaen Rhine Beaen Rhine Beaen Rhine Beaen Rhine Beaen Rhine Beaen Rhine Be
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4200894162704024
+
+Question: Who develped the theory of relativity?
+Response: In the Beast Verse
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.05100059072907559
+
+Question: In what year was the Interstate Highway System created?
+Response: In the industry, as it were the industry, as it would, to industry now, and other are currently underwrote.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06896544825469819
+
+Question: What is stratigraphy?
+Response: Include, geocreate, and biocate:
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.10976987143606765
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: those of biotron.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4406488781193826
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: To the north, Rhale, to bear a new rhene.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.05567223571078417
+
+Question: Levels of what things are used to determine emission factors?
+Response: The company uses 'answer' to deliver
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.19159932016977355
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists who would even rant about the place.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.05963585796681503
+

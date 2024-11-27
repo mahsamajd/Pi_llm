@@ -1,0 +1,210 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: This transcript is about how private schools, which are not funded by government, can receive funding from other sources. The main point of the passage is that private schools, which do not receive government funding, can receive funding from other sources, such as students
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.09098166259429097
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on leading us to our relations and created a risk that they made out of.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06559712350009217
+
+Question: How many items is the University Library home to?
+Response: The University Library has a total number of 2, 000, 000 items. The University Library is open to the public and the government. It is one of the largest and most beautiful new libraries in the US. The University Library is home
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3415818878012057
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: Who did the geographic scholars work for?
+Response: Based on the information given, we can see that the word "public" is used to describe a geographical location or climate. The rest of the words are used to describe people or their interactions with the public. The first half of the sentence describes how
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.010488148172149048
+
+Question: What makes energy changes in a closed system?
+Response: The statement is clearly related to the concept of entropy. In this context, it's the next thing between massive topics and microtopics. It is caused by the detailed signals that are restricted in the frame. In massive topics, there's friction. Not
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0
+
+Question: What is the French name for the Rhine?
+Response: In this passage, we see that the goddess is not only the source of inspiration, but also the source of light, inspiration, and the source of creativity. The goddess is the one who inspires the gods to create. The goddess is the one who
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.03300592309663786
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5157159963642656
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In the United States, the system of cities in the United States is the largest few of cities in the United States. In the United States, the city is here in Brazil, where the city is now riverside and on the left side of the
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.0
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: A polynomial time reduction is a technique for reducing a computational problem into another computational problem. In the case of sharing a musical, we can use a polynomial time reduction to reduce it to the problem of multiplying a series of things. This means that the reduction
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.04918145127496787
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3010400375904496
+
+Question: How many prime numbers exist?
+Response: There is no known simple formula except its prime numbers for some type of language.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.10534306787850223
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The phrase, "Contact. Please say, hear the abundance during the coming months in some place they are sleeping," is written in the present tense and contains two subjects: "they" and "the coming months." It is unclear whether the writer is
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The other can play with an awesome presence. That is an injection. This is why a lot of people are going to operate in. In this case, we facilitate the latter in the presence of the ladies in the face of the basement. In this
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: 1. The question asks to provide a detailed and specific answer. To do this, we need to look at what the question is asking. The question is asking us to identify the context of the sentence and explain how it affects the meaning of the
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.011774998735498587
+
+Question: The average contractor hired how many employees?
+Response: The transcription is referring to the U.S. dollar. It states that the value of the dollar has been fluctuating over time. The value of the dollar was at around $960 billion in 2017. The annual revenue of the U.S.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2757332416144386
+
+Question: How many projects does the Centre currently realize a year?
+Response: [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3651165131410903
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The word "there" is used as a demonstrative pronoun in the following sentence to refer to the "little winery" mentioned earlier in the sentence. In this case, "there" refers to the "little winery" rather than indicating
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4681405413243719
+
+Question: What effect does European Union law have on laws of member states?
+Response: [end of text]
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.554329814241966
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: To answer the question, we need to find the largest known finality in the unit tile of the vision. This number is 17 million, which is a very large number. However, we also need to consider the number of classes in the vision
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.287776613702037
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government needs to introduce a new model of the Scottish Parliament, a model in which the Scottish Government will be able to act independently of the Westminster Parliament. The Westminster Parliament is the British Government's Parliament, and it is the most powerful of all
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The author is referring to a method of producing oxygen from hydrogen and water. This process is called electrolysis, and it involves passing an electric current through a solution of water and hydrogen to separate the elements. The oxygen is produced at the anode
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.10692002457954142
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The information provided in the statement can be used to calculate the following:
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0883024208416322
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Based on the transcript, the monster song remains familiar with his own song, then the train is found by his own in southern finding.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.07571975024726219
+
+Question: How many days did the Warsaw Uprising last?
+Response: The number of days is 38, considering that the war style of London is known on the 1st August 19, 24. In that month, 19, 24, the Red Army is treating the public territory and considering the
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.0
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The speaker is clearly stating that the issue of the minority is not a crime but a norm. The speaker is also saying that if there are any divisions of the nation, then it is not a crime. If the issue is a crime, then it
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.31765007193521066
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The chemical barrier is also detectable in infection. It's purely respiratory stress to keep the region of mycovial infection and to facilitate a tension.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.07780835143401099
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: In this context, new variations of your prior experiences might be in a particular way of honoring the perception.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07065572247536955
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: In this context, the drop-in garden, suffering the area of 16.5xernus, is formerly a lower garden, where there are many different features of trees in the abbeyments that are placed to fit in a lot.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.224409219988277
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The transcription of the sentence "The ongoing outcome arises of the inner trick system to develop in this form." is: "The ongoing outcome arises of the inner trick system to develop in this form. The main elements of this work are the upper-lying
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4736253660694397
+
+Question: Who discovered this and where did they come from?
+Response: The answer to this question is that the Omicron world is a concept, which is a concept, which is distributed over large areas in the Omicron world. The concept of the Omicron world is a concept, which is a concept
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.42922833524131565
+
+Question: Who develped the theory of relativity?
+Response: The concept of force is used to explain how objects move. As an object moves, it is said to be in motion. The force that is applied to an object by an external force is the cause of its motion. This is the reason why it
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.04805947786312348
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription is the process by which a gene or a sequence of DNA is converted into a strand of RNA. This process occurs in the nucleus of a cell and takes place in a step-wise fashion. The first step in the process is the binding of
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: In what year was the Interstate Highway System created?
+Response: "Suckner is the largest view of city, not directly east, nor native state island." This statement can be interpreted as meaning that Suckner is the largest city in the eastern state island, not located directly east of the city, and
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.024474986321483594
+
+Question: What is stratigraphy?
+Response: [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.402720289905694
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Based on the transcription, the question of interest is what is the magnitude of the force between the two vectors in the vector field. Since the direction of the field is not given, we can use the formula for calculating the force between two parallel vectors
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.005514175227557816
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The following transcription is given: In this situation becomes more comfortable. The pedestrian view is no longer clear in sight of the marine state of London. The state of the London state of London is in the line so quite a lot. There is a lot
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: It got rid of a newly-wicked ring to rip a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.10177299701973375
+
+Question: What put a hierarchical structure in place?
+Response: In this transcribed text, we can see that the speaker is talking about the concept of the "old integration" in Europe and the "base of difference in the 3003 and 4003" in the history of Japan. The speaker also
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.20723997251160586
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The original concept of "muscle" is a constant that suggests that you enter a organism in hundreds of thousands of millions of times. This recognized component that is concerned among various of "muscle" organisms or randomness. Ingrid of stress cells stem
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

@@ -1,0 +1,75 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Those, Al, Some, and Free, those, and A are a Student, and They are a Student, and Those, and A are a Student, and A are a Student, and Those, and a are a Student, and A are
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3894906478475244
+
+Question: When was the Scottish Constitutional Convention held?
+Response: - When Scottish
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.058310670154886
+
+Question: What substance is used to make high quality liquid O2?
+Response: Substance, which is a:
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2334928540110467
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: "and further to interstate.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07138095060501226
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: question, and so logically can be used to multiply.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10610240196663046
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 7.8% in the 6.1% in the 11.1% in.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.07474459815868195
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.2865351337282117
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: ###
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.047817758936105625
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Be to veneraize, to vaporize, to vaporize, to vapor, to vaporize, and
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.21098485099997366
+
+Question: How many projects does the Centre currently realize a year?
+Response: How many artists have emerged, how many know of the artist, how.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.08060110471460091
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: I have an 2016, 338,618,618,618, and 21,34,34,34, and 24,34,34
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4651695340832227
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Ate, Ape, Bec, Ceta, Et, Eta, Et, Ate, Et, Et, et, Et, eta, Et, et, et.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.11517790372660408
+
+Question: What geometric shape is used in equations to determine net force?
+Response: In a creative world, the entity, and the, the entity, who, and the entity, the, and, the entity, and the, entity, and, who, and, the, and, and, and,
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3086591137095571
+
+Question: Levels of what things are used to determine emission factors?
+Response: Please, the things are used to define and emote all.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07900001828988323
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The amazing immune system responds in a generic way, meaning it is the, which is alzon.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.20208347399433502
+

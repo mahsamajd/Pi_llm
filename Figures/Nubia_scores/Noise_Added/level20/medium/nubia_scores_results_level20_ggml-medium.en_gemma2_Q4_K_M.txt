@@ -1,0 +1,135 @@
+Question: What was the name of the stadium that the teams played in?
+Response: StubHub Center [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.1725802850253947
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition fees paid by the students, and tuition fees are set by the schools. Students have the option to apply for a scholarship, which can be used to reduce the cost of tuition. Students can apply for a scholarship
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.11399876761862315
+
+Question: How many items is the University Library home to?
+Response: 2 million. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.1681283317744141
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Oligocene [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.18879330026141372
+
+Question: What substance is used to make high quality liquid O2?
+Response: A liquid form of oxygen is produced in a 40 liter pressure vessel, which is held at 76.00K, 280.15°C, 563.15°F, and
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.20064124071784428
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces are defined as the non-conservative forces acting on a closed system and
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.23987958344849536
+
+Question: What is the French name for the Rhine?
+Response: Rhéne. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.09891905545395407
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Antigen
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.42737831409849725
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The discussion to upgrade State Route 99 to Interstate 9 has been ongoing for a long time, and is
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.2841617554984184
+
+Question: How many prime numbers exist?
+Response: The number of primes is infinite. In a way, this is the most trivial answer possible. It's not difficult to see this from the definition of a prime number. In a way, I'd say that the answer is obvious. However
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.06277609204013757
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore introduced into the Black Sea was not the nemeopsis, but the barrow. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.18007710731600313
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Boiler feed water system:
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.057984262285130095
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: What effect does European Union law have on laws of member states?
+Response: (static) [end of text]
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.550302362203446
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5014116198792506
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 94.1/91.3 = 1.034 [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.06626785904901078
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days, from August 1 to October 18. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.34316067772385417
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Stomach fluids are acidic, which can kill many pathogens. In addition, a protein called pepsin activates pepsinogen, which then activates trypsinogen to form trypsin, which can break down proteins. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.4085986561305588
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular strolling destination is the Saxon Garden. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.1057935404757312
+
+Question: Who discovered this and where did they come from?
+Response: [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4777546394122313
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in most biomolecules that are important in life. They are generated by, life. Only a few common complex biomolecules, such as squalene and carotene. Contain no oxygen. Of the organic compounds with biological relevance. Carbo
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3131327187066273
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the 1950s, so the answer is 1950s. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.49896674302947275
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of layers of sedimentary rock, which are defined by their depositional age
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.32326524532354894
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Vitamin B receptor [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.11839157229891095
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow direction outside of Germany is to the east. The main flow volume of the Rhine has already
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.16971881873961225
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC focuses on activities that are directed by the relevant WMO governing council and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07589633950099517
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure came from the Teiho Code and the Euro Code. The Teiho Code was created during the Asuka period, a time period when there was a lot of political change, and the pharmacists were highly valued. The pharmacist
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.32803163941191493
+

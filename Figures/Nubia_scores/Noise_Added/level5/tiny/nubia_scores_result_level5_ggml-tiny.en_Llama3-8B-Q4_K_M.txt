@@ -1,0 +1,230 @@
+Question: What was the name of the stadium that the teams played in?
+Response: There are many different ways to answer this question, but one possible way is to focus on the theme of train travel and how it affects the speaker's life. The speaker mentions that the train was very close to the train when the incident occurred, which
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.0
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Based on the transcription, it looks like the individual is describing a beautiful and solid object that has a lot of different features. The object appears to be made out of something solid and is very intricate. It seems to be made out of multiple pieces that
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription shows that the person is talking about their life in the present, and how they are living in the current time. They mention that they find it useful to understand the culture of their time, and the United States is very powerful. They also
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.22772851281222306
+
+Question: How many items is the University Library home to?
+Response: I'm not an important writer, it's really a person who lies in it.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.06395721950183064
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The ancient species, which is not a dinosaur, is actually a very good dinosaur. It is very good because of the view, which is very good. It is very good, very good, and very good, and very good, and very good
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.045194341201372334
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The most important and obvious meaning of the text is that the author sees no nice things in a nice relationship. The music is highly solid to him. This is probably because he considers this type of relationship to be highly solid and unimportant. He believes
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: A 16th of the 15th of the 18th of the 95th of the 92nd of the 25th of the 79th of the 61st of the 200th of the 16th of
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.3171420511158919
+
+Question: Who did the geographic scholars work for?
+Response: This is an example of a song, and the lyrics are not always correct. The lyrics are sometimes not true, but in this case, the lyrics are accurate. The lyrics are correct and the song is also correct. The song is correct and the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.098147559662486
+
+Question: What makes energy changes in a closed system?
+Response: Mountains are closer to the surface than the surface. The mountains are very similar to the surface, and the surface is very similar to the surface.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.28465320661552485
+
+Question: What is the French name for the Rhine?
+Response: The purpose of this exercise is to demonstrate that, in the present moment, there is no time in reality. The present moment is not a moment of time, but a larger life than any moment. The present moment is not a moment in reality,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: I am not happy to see you as well. I was following this question. I am actually happy to see you too.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.11492078991773347
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I'm just... that's why I just knew I stayed in my field actually used the music space I was.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07019136331169717
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: A reaction mechanism is a set of elementary reactions (steps) by which a chemical reaction takes place. In a reaction mechanism, the products of one step become the reactants for the next step. A reaction mechanism is used to explain how a reaction proceeds
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0027728325272150522
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The above transcription appears to be a message from a dream of a tiger in a tiger's shoes. The dreamer seems to be talking about the tiger's fear of the tiger's shoes. The dreamer seems to be saying that the tiger is afraid
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.00359552312372724
+
+Question: How many prime numbers exist?
+Response: The recording above is of a conversation between two people discussing the topic of China. The first speaker mentions that China has a long history and is a country with a rich culture and tradition. The second speaker then explains that China is also known as the “
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The first thing I could do next is the little hair. The little hair is on the surface, and the rhino is on the surface. The rhino is on the surface, and the little hair is on the surface. The only one I
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.00594328013194223
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The transcription has been provided above. It is important to note that the speaker is not sure of what is going to happen in the future. The speaker is unsure about many things, including whether or not there is going to be a party, what the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Life is love.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10053370038547316
+
+Question: The average contractor hired how many employees?
+Response: The only thing that's going to be happening is the only thing that's going to be happening.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2589791811961929
+
+Question: How many projects does the Centre currently realize a year?
+Response: This transcription contains the words "I don't know how to do it," repeated 19 times. This is most likely a recording of someone who is not sure of what to do and is asking for help. The last two words, "you know
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Based on the given information, it can be said that the army is located in the middle of the army, and the little army is identical to the spirit. The mountain is able to see the river from the valley, and the river is still a
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0
+
+Question: What effect does European Union law have on laws of member states?
+Response: The speaker is describing the process of making decisions while in a state of unconsciousness. They mention the "masters of sleeping", which could refer to the subconscious mind or a higher power that guides our decisions while we are asleep. They also talk about the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.2852018204614831
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The student is describing the musical element of melody, which is the succession of single pitches in order to produce a coherent sequence of music. The student is correct that the melody is the sequence of pitches heard by the listener. The student is incorrect that this
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3600140376936214
+
+Question: An MSP may introduce a bill as what?
+Response: The first thing to introduce the island is in a member's village.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.07325692821867169
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription you have provided is difficult to understand due to the poor quality of the recording and the speaker's accent. However, based on my understanding of the context, it appears that the speaker is describing a situation where they are unsure whether or not they
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The given transcription is an excerpt from a video showing a scene from a film called The Social Network. It appears to be a scene from a movie about a group of friends who are discussing a new social media website they are developing. The language used in
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: I don't know what to say about this, but I'm not sure what to say about it.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.23639786796644013
+
+Question: How many days did the Warsaw Uprising last?
+Response: [inaudible]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.4508031260769544
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The transcription is a conversation between two people, one of whom is a man. The man is saying goodbye to the other person, who is presumably a woman, and he is leaving a fire in the canal. The woman is asking him if he is
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23075289609779748
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The first thing to note is that the transcribed passage is a single, continuous utterance with no breaks. This is important because it means that the speaker is not pausing to take breaths, which would indicate that they are not experiencing any
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.29795441398538924
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The following are the main points:
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4190551563072492
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: A man is walking down the street when he encounters a dog. The dog is wagging its tail and the man is confused by what the dog is trying to tell him. He asks the dog what it wants and the dog responds with a series of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.017556140493254047
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: I'm sorry, everything is in me, sir. We all know, it's the same magnet in me, sir, that it's in structure. It's in me, sir. You're not in science, and it's great on
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.1508989793103711
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: Who discovered this and where did they come from?
+Response: The transcription shows that the speaker is discussing a topic called "digital experimentation." The speaker is highly excited about the topic and is using a series of phrases to convey this excitement. The speaker is using words like "it's going to fix it," "
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.26766912584747304
+
+Question: Who develped the theory of relativity?
+Response: This is a transcription of the first paragraph of an article about a new study on the effectiveness of a particular treatment for a specific condition. The main point is that this treatment is not as effective as previously thought, but it is still better than the current
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: In what year was the Interstate Highway System created?
+Response: The transcription is unclear, but it appears that the speaker is trying to say that it is not necessary to say "I" when referring to one's age, as it is just a number. They also mention that it is not a period of age
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: In the transcript given above, the word ‘student’ is repeated 100 times in the same sentence. Therefore, the sentence should be rephrased using a more concise expression that the word ‘student’ is repeated 100 times in the same
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3046851313116412
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The following transcription represents an individual who is extremely excited about something that is happening. They begin by saying "it's happening," with a tone of excitement and anticipation. They then go on to say "it's finally happening," indicating that they've been
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.10382238923409903
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The next few fellows under the carpet are shown to the spider in due to the plastic. The next few fellows under the carpet are shown to the spider in due to the plastic. [end of text]
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4582144251597319
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: There are three main reasons why it is more difficult to get a good translation of a text from English to French compared to translating from French to English. Firstly, French is a much more complex language than English, and so it is often difficult to find
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The answer to the question is: the answer is the answer to the fact that it is a new time for the children, as a lover is not even a known structure. This means that the answer to the question is the answer to the fact that
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3934188204998855
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: What put a hierarchical structure in place?
+Response: This is a transcription of a conversation between two people. The conversation is difficult to hear due to background noise. The first speaker is asking the second speaker questions about a topic that is not clear. The second speaker is giving their opinions on the topic,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The transcription provided in the prompt is difficult to understand due to the poor audio quality and the speaker's accent. However, based on the available information, it appears that the speaker is describing the importance of ensuring that the structure of a building is sound,
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

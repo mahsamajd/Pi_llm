@@ -1,0 +1,230 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The transcription appears to be a reflective narrative or possibly a dream or hallucinatory monologue. The speaker seems to be discussing the metaphorical concept of a "train" in their life, suggesting that they
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.11878155489588205
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: It appears that the transcription provided is a repetitive and possibly poetic or enthusiastic description of something being a "solid." The repetition of "it's so beautiful" emphasizes the speaker's appreciation or adm
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.13153435835438465
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: It appears that the text provided is not a coherent or standard transcription, but rather a repetitive statement highlighting the absence of children on a base, possibly in a military or research context. The repeated mention emphasizes the point that there
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.13504263173093012
+
+Question: How many items is the University Library home to?
+Response: Based on the provided transcription, it appears to be a dialogue or monologue discussing various subjects related to writing and geographical references. The individual being addressed as a writer seems to express self-doubt and a
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.1436126066381177
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The given transcription appears to be discussing a system or interface that is outdated or 'dinosaur-like' and seems to be referencing an old or classic system. The speaker is emphasizing how different this system is from modern technology
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.16974563139276355
+
+Question: When was the Scottish Constitutional Convention held?
+Response: It appears that the speaker is emphasizing the importance and solidity of truth, rather than discussing the nature of relationships or the music industry. They mention that their father in their town has been successful in recent years, suggesting that his success may be
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: The provided transcription seems to be a series of numerical codes followed by a set of options for percentiles or time intervals. These codes and options might relate to a psychological or neurological study where participants are asked about their perception of
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.27902193379443163
+
+Question: Who did the geographic scholars work for?
+Response: The transcription appears to be an abstract and somewhat poetic description of a process involving colors and their significance over time, particularly in relation to the future and the human experience. The message seems to be about the importance of understanding and harnessing
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.15805338674148683
+
+Question: What makes energy changes in a closed system?
+Response: The transcription seems to discuss the concept of mountains and their proximity to the Earth's surface, as well as the comparison between the mountains and the surface itself. However, the statements are repetitive and somewhat ambiguous. To provide a more
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.11725327287682608
+
+Question: What is the French name for the Rhine?
+Response: The given transcription presents a philosophical perspective on the concept of time and reality. It seems to argue that in certain reality or a specific understanding, there is an absence of distinct moments or time. The speaker posits that, in this reality,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: It appears that you are expressing mixed emotions regarding the current situation. Initially, you express unhappiness about seeing someone or something, possibly referring to a specific individual or event, but later clarify that you are actually good to see them.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2264795304965742
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: It appears that the speaker is reflecting on their decision to stay within a particular field, specifically mentioning their use of the music space they were familiar with. They acknowledge the beauty and truth in their work, but also express a sense of diss
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07800223452679789
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The provided transcription seems to be a mixture of fragmented thoughts and statements that do not form a coherent question or problem statement. It appears to involve concepts of a reaction function, time, and the need for explanation, but the connections
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: From the provided transcription, it appears that the individual is making several references. They are not claiming to be the "king of tiger's shoes and groomers." Instead, they have seen the groomers, who are
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.05315544638689307
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Based on the provided transcription, it appears that the speaker is describing a situation or a scene involving a larger rhino and a smaller, or "little," rhino, along with some hair, which may be interpreted as a
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.07941858681676739
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: It seems that you are expressing uncertainty and lack of knowledge regarding future events or outcomes. You repeat the phrase "I don't know what's going to happen, but I don't know what's going to happen, but
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: I'm sorry, but it seems there has been an error with the audio transcription. The provided text appears to be a series of "[inaudible]" placeholders, which suggests that the audio content could not be deciphered
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.267317548433439
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The transcription appears to be an abstract or philosophical musing rather than a straightforward question or statement with specific answers. The speaker seems to be contemplating the value of life and the necessity for it to adapt or "live in a new world
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: It appears that the transcription provided is repetitive, with the phrase "The only thing that's going to be happening is the only thing that's going to be happening." being repeated multiple times. This repetition suggests that the speaker is
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2944603167529637
+
+Question: How many projects does the Centre currently realize a year?
+Response: It seems like the transcription is a series of statements expressing a lack of knowledge or understanding about a specific task or skill. The speaker repeatedly states, "I don't know how to do it," indicating that they are unsure about how
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The transcription seems to contain metaphors and idiomatic expressions that do not directly correspond to a concrete scenario or set of facts but rather convey a certain ambiance or sentiment related to nature and possibly spirituality. It appears to be describing a
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.014755214727457111
+
+Question: What effect does European Union law have on laws of member states?
+Response: It appears that the transcription provided is fragmented and lacks coherence. However, based on the available information, the transcription seems to suggest a metaphorical or symbolic interpretation of the relationship between sleep, self-reflection
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1489236826192074
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The given transcription seems to discuss the concept of "the top" being metaphorically equivalent to the melody of a piece of music, suggesting a singular approach or method to interpret or play the melody. The repetitious aff
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.1406292320047624
+
+Question: An MSP may introduce a bill as what?
+Response: It seems that you have provided a series of statements, but they lack context and clarity. The transcription appears to be discussing some form of island relocation or manipulation, which involves moving the island a distance equivalent to two miles in one
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription appears to be a dialogue that discusses various aspects related to a disease, its potential triggers or incidents, and the individual's response towards it. The speaker seems to express certainty about something not being related to the disease
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The transcription appears to be discussing a simple numerical sequence or pattern with the recurring mention of "Twenty-two for a five." Given the context, it seems to describe a basic operation or conversion where "22" is
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0589713268712978
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The person speaking seems to be struggling to express their thoughts or feelings about something. They repeatedly mention that they "don't know what to say about it," implying some level of confusion, indecision, or lack of clarity regarding the
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: Without any clear audible content in the transcription, it's challenging to provide a precise and specific answer. The repeated "[inaudible]" suggests that the original audio or speech is either unclear, unintelligible, or
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.2436856415632186
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Based on the provided transcription, it appears there is a complex and somewhat repetitive narrative that centers around the concept of fire. Initially, the speaker suggests that the current situation doesn't involve a fire but clarifies that
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.13988732607964172
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: It appears that you're engaging in a philosophical exploration or a thought experiment. The transcription presents a series of questions and statements that seem to revolve around the concept of truth, function, and linguistic expression.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2876045474385488
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcription appears to be a series of affirmations and reflections on the identity of a speaker or an individual as a scientist. It starts with a statement of uncertainty ("I'm not sure"), followed by a comment on being surprised
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.19241176470575827
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Based on the transcription, it appears that the speaker is expressing regret or apology with the phrase, "I'm sorry." They are likely discussing a specific situation related to a type of food or a meal plan
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2272622159718789
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The transcription you've provided appears to be a series of poetic or philosophical reflections rather than a straightforward question or statement. It seems to touch on themes of personal worth, the essence of a person, and the pursuit
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.21624912683304132
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: I'm sorry, but without the content of the transcription, I am unable to provide a detailed and specific answer. If you can provide the actual content of the transcription, I would be happy to assist further. [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4256097191130187
+
+Question: Who discovered this and where did they come from?
+Response: The provided transcription appears to be repetitive and lacks a clear context or question. It seems to emphasize the idea that a digital experiment, which is not specified, holds the potential to solve an unspecified issue. The speaker repeatedly states
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11641400214972863
+
+Question: Who develped the theory of relativity?
+Response: The transcription appears to express a recurring uncertainty about whether a particular item, action, or situation should be used or not. The speaker repeatedly questions the merit or drawbacks of using this thing, but ultimately leans towards the notion
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription seems to be a conversation with a focus on a specific topic related to molecular biology, particularly about an element or molecule that is universally present in various molecules and plays a crucial role in their function. The
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.09043280067302939
+
+Question: In what year was the Interstate Highway System created?
+Response: The transcription appears to be a metaphorical conversation about the concept of "I" age and how it relates to the passage of time. The speaker acknowledges their pride in someone's progress and then shifts the discussion to
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: I'm sorry, but the provided transcription seems to be corrupted or incomplete, as it contains a repetitive statement "you are a good student" followed by a series of "[inaudible]" placeholders. Without additional context or
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.18812831213767367
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Without context, it's difficult to provide an answer to what this transcription suggests. However, I can infer that these repeated "[Music]" lines indicate a musical track or section. It could be a segment of a song, a
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.23573758979526915
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The passage provided seems to be a combination of imagery and possibly a riddle or a puzzle regarding the interaction between a spider, carpet, and toothpaste, with references to plastic. It's not entirely clear what
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.13160458430353017
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription provided appears to be a repetitive affirmation emphasizing the significance of real-life experiences and the validity of certain places or situations. The statement suggests that the speaker believes in the importance of these real-life experiences as
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: From the given transcription, it seems there is a discussion about the concept of love and its novelty for children. The passage suggests that love is a relatively new experience for children, who may not have a well-defined structure or understanding of
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.37078975292419947
+
+Question: Why does competition among workers drive down wages?
+Response: The provided transcription appears to be a repetitive emphasis on a person's confidence and excitement. The speaker consistently states that they are "proud" and "really excited" about expressing themselves. Additionally, there seems to be
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.14354740239163932
+
+Question: What put a hierarchical structure in place?
+Response: I'm sorry, but without the context or content from the transcription, I cannot provide an accurate or specific response. If you have a particular topic or question in mind that you want to be addressed, please provide those details so I can offer
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The transcription seems to discuss the significance of structural variations in a particular surface or material. It emphasizes the importance of structure in relation to the edges, indicating that the initial structure varies when moving from the micro side to the outer side of
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

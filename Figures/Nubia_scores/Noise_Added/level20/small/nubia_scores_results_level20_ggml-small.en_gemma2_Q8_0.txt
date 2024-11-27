@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The teams played at the StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.19700793067036326
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools, are not
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.10772890856150041
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was formed in 1989 to promote the devolution of
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.2091313285898848
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen condensers at 90.20 K, -182.95°C, -297.31°F and freezes at 54.36 K, -218.79°
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.08329272402103227
+
+Question: Who did the geographic scholars work for?
+Response: [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.43274956385416696
+
+Question: What is the French name for the Rhine?
+Response: the French name for the Rhine is the Rhone [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.21862496001189913
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5157159963642656
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1113179420646554
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to polynomial time reduction, squaring can ultimately be logically reduced to multiplication. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.3619103404223516
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Lorelei [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.16793075449263406
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The pinafore that was accidentally introduced into the Black Sea was <strong>Memeopsis</strong> [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.2383348352169492
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In the case of the steam boiler, the heat needed to raise steam to its saturated vapor point is produced by the combustion of fuel inside the firebox. The fuel may be coal, oil, gas, or other liquid or gaseous fuel. The
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.04020939718527439
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics is the field of study that uses computational and statistical methods for
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.24385342534398413
+
+Question: The average contractor hired how many employees?
+Response: 231,600 [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.15032691026897982
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Gorge is considered the epitome of the Rhine Romanticism. The Rhine Gorge is also known as the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.43391903153902234
+
+Question: What effect does European Union law have on laws of member states?
+Response: The three sources of European Union law are primary law, secondary law and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11343324529495846
+
+Question: An MSP may introduce a bill as what?
+Response: Bill can be introduced to Parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2167152711529754
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water using a direct current (DC) produces molecular oxygen and hydrogen gas. [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.4005185294939938
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire, which was ruled by Kublai Khan, the grandson of Genghis Khan, had conquered a large portion of Asia by the end of the 12th century. In 1256, Kublai sent a force
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.43105240359217845
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.3222393969058429
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: m is a prime. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5747808369358995
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.26132217368738686
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Active immunity [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.2871838906233093
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden, covering the area of 15.5 hectares, was formerly a royal garden. There are over 100 different species of trees and the avenues are a place to sit and relax. At the east end of the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.31106124619755193
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The publication of the list of the largest design and construction companies is the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.14717275198827773
+
+Question: Who discovered this and where did they come from?
+Response: The Cara prata, black herb is now widely accepted as a product of indigenous soil management. It is a highly productive soil that is created when the indigenous people of the Amazon forest, the Xingu tribe, create large, fertile forests by burning their native
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.14467820060522685
+
+Question: Who develped the theory of relativity?
+Response: Einstein [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.08985834159615436
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates have the highest oxygen by mass content.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2645622936899056
+
+Question: In what year was the Interstate Highway System created?
+Response: 1. The interstate highway system was created in 1956.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.14252565553728158
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a subfield of geology that deals with the study of sedimentary rocks. It is the study of the structure, composition, and deposition of sedimentary rocks. Stratigraphy is the study of the depositional environment, which is the place where
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.17879399592958278
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The answer to this question is quite simple. The flow of the Rhine water is divided into two, one third of it flows from the main
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3754778409525582
+
+Question: Levels of what things are used to determine emission factors?
+Response: ICCC focuses its activities on the tasks assigned to it by the WMO governing council and UNEP governing council decisions and actions, as well as on the tasks assigned to it by the UNFCCC.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2723981967386717
+
+Question: Why does competition among workers drive down wages?
+Response: Competition between workers drives down the wage. This is because competition tends to drive down
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.21328514168345214
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure of the society in the Nara period was clearly based on the role of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.13295285979806526
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms' questions. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.1430679777608499
+

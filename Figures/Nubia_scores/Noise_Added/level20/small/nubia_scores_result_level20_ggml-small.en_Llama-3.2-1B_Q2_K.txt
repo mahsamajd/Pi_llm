@@ -1,0 +1,155 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: They have the right to provide their own educational materials and teach your child not to
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.07921334100372779
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06769138398629415
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: (Vacuum Whirring) [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.22390619456080263
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was formed in 1980s and 1990s, by the Scottish Constitutional Convention. In Scotland, the Scottish Constitutional Convention was formed in 1980s and 1990s, by the Scottish Constitutional Convention. In
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.18694318359417517
+
+Question: What substance is used to make high quality liquid O2?
+Response: A. Answer: a. Oxygen molecules are the most potent of the four chemical elements.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.11609180612689618
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination is a form of inoculation, which is a form of medical
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.1507977075237471
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Answer: 12
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.36304883303473057
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The number of integers that are multiplied by a number of integers and is
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.16346280693112458
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: According to the OED, the average rate of private schools in East Germany was 1.8%. The average rate of students was 0.9% for high schools and 0.7% for lower schools. In the 1970
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.32400764577613284
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge is a UNESCO world heritage site. The Rhine Gorge is a UNESCO world heritage site. The Rhine Gorge is a UNESCO world heritage site. The Rhine Gorge is a UNESCO world heritage site. The Rh
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.271722640667152
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Pinafores may be abundant during the summer months in some coastal locations, but in other places, may be very difficult to find, in bays where you may find them, in other places. It is possible to find them in bays
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The steam rises from the bottom of the water. The water then condenses in the lower
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.18471809175368814
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Gorge is a UNESCO World Heritage Site. The Rhine Gorge is a UNESCO
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3352113349589707
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Answer: This is the most important and most effective of all the tests to
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.11300843780485748
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can submit to Parliament by Minister. The Scottish Government can submit to
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.17091893871729968
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer:
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5085801867794659
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Aras [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.11208195419182321
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising, a 48-hour military battle, was the longest of the battles.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.25612524239648127
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Answer: In this case, one of the factors is the square root of the number. Given that
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.24218388456554962
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The skin and respiratory tract secretions in the form of an acidic defense system, which are known as secretory proteins. The epithelial cells of the mucous membrane of the human body and to its digestive tract. The human body is a natural that
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.10047371160634067
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Yes. The fetus has a highly specific antibody, IgG, antibody against
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07650533886163191
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contract engineering industry is a trade publication that publishes news records and news records, and records, and records, and records, and records, and records, and records, and records, and records, and records, and records, and records, and
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5320904975569651
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the alpine orogeny, the northward and the southward extension of the Upper
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.10417426244154193
+
+Question: Who discovered this and where did they come from?
+Response: Answer: The development of this fertile soil allowed agriculture and
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.15549449582087627
+
+Question: Who develped the theory of relativity?
+Response: Question. Who developed the Theory of Relativity? [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.37425959779693363
+
+Question: In what year was the Interstate Highway System created?
+Response: The interstate highway system was created in the 1950s, the decision was made to
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.35056787246551535
+
+Question: What is stratigraphy?
+Response: What is a stratigraphic sequence? The study of a sequence of rock strata that is strato
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.33100757733866093
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Answer: The geometric shapes are all the same. If the force of the force of the force of the force of the force of the force of the force of the force of the force of the force of the force of the force of the force of
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07514942672001024
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: From here, the situation becomes more complicated, as the Rhine flows west, through the Wall
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1101439950046359
+
+Question: Why does competition among workers drive down wages?
+Response: The demand for labour is to supply high demand in the labour market. Where the demand for labour
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13397202479676307
+
+Question: What put a hierarchical structure in place?
+Response: The pharmaceutical industry was a good example of the pharma's as
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06588525293527392
+

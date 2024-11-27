@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Los Angeles Memorial Coliseum
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.23250721642101546
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk within NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06633680392702401
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The 1995 Scottish Constitutional Convention. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.11345039825931869
+
+Question: Who did the geographic scholars work for?
+Response: The answer is not sure. I don't know why the question is not clear. I am also not sure about the question. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3098450209135116
+
+Question: What is the French name for the Rhine?
+Response: rinceau
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0854300861521653
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 (SR 99) is a north-south state highway in the U.S. state of California. It extends from the California–Oregon border at the San Andreas Fault in the north to the community of Fortuna in the south
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.43226802114684504
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7. Here is a score of the end of this and cannot be suspended even in a state of emergency. It is also not possible to abolish these rights. This unusual protection of private schools
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: The probability of choosing a time number n is inversely proportional to the logarithm of n. The probability of choosing a number of n digits is proportional to n. Therefore, the probability of choosing a time number is proportional to the number of digits.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.12846254518838285
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. The famous rock is the Rhine Gorge between Ludicine and Rhine in Cobland, which is listed as a UNESCO World Heritage Site. Near St.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.2184208430762946
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: C [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0785041608520255
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th-century royal Egypt Dao castle currently houses centers for contemporary art. With some permanent and temporary exhibitions, concerts, shows and creative workshops, the center currently realizes about 500 projects a year. Back at a National Gallery of Art, the
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.11180894502613492
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is the epitome of the Rhine Romanticism.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3044089970289534
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: AKS
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4828596892260216
+
+Question: An MSP may introduce a bill as what?
+Response: 3. A committee of the Parliament can present a bill in one of the areas under its limits.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.17100740948165305
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The only thing that is not clear is what the molecular formula is. If you use the empirical formula, you would have to assume that it is 2 H2O because the ratio of oxygen and hydrogen is 2 to 1. This assumption
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 50.6 males for every 100 females
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.07225449449794052
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Mongol force that invaded southern China was far greater than the force they sent in Beid But. Middle East in 1256. He died in 1259 without a successor. Jinglei returned from fighting the Song in 1260 when
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.19439176401399405
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the formality of a given integer n is called trial division. This routine consists of dividing n by each integer m that is greater than 1 and less than or equal. To the square root of n, if the
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.43302741380907006
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach protect against ingested pathogens are the acid and proteases in the stomach. Acid is a defensing substance that can kill pathogens. Proteases are also defensing substances that can kill pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5424955074429232
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: A [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.48084038132412865
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The unique character and history of the park is reflected in its landscape architecture. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.15319622711232517
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR publishes a list of the largest companies in the United States. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States. In 201
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5874932032994622
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this Rip were the Upper Rhine Grabbing, in southwest Germany and eastern France and the Lower Rhine and Baymuth, in northwest Germany and the southeastern Netherlands. By the time of the Miocene, a river system had
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.39003078803722846
+
+Question: Who discovered this and where did they come from?
+Response: The Shindu tribe is believed to be the first people in the Amazon rainforest to use farming
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06447424068753704
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Sir Isaac Muegen, with his mathematical insight, Sir Isaac Muegen formulated laws of motion that were not improved on for nearly 300 years. By the early 20th century, Einstein developed a theory of relativity that
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.19518440899334066
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The vector sum of two forces acting on an extended body, the resultant force is determined by following the parallelogram rule of vector addition. The addition of two vectors represented by sides of a parallelogram gives an equivalent resultant vector that is equal in
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.026408965872003254
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T-cells bind to the active form of vitamin B and express a receptor for this. The receptor is a protein that binds to the active form of vitamin B and makes it available for binding to vitamin B receptors on T cells. The receptor is a
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5615048914634291
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The new mosque flows out of Germany, through the Merid, to the north sea. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10845246717495016
+
+Question: Why does competition among workers drive down wages?
+Response: Workers will have more competition for jobs with a low wage because there is less supply of workers. This is because there is a higher demand for workers and a higher demand for jobs. The supply of workers is limited by the supply of jobs. This leads
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6277830074736521
+
+Question: What put a hierarchical structure in place?
+Response: There was a hierarchical structure in place, which included the pharmacists above all others. The structure was described in the Kiho Code (701) and restated in the Euro Code (718). This structure remained largely intact until the Meiji Restoration (
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.3083601007327126
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way. Meaning it is what?
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3603118774874383
+

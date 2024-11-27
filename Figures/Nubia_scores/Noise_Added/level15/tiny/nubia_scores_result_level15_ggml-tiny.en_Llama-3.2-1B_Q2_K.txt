@@ -1,0 +1,115 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The best question is 'Why' a local rival team is suspended. After the team suspended by the league, the team suspended by the league. The team's second league is a team that has a lot of the game, the team's second league
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2971020224085157
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: It's an interesting and well-known fact that many students in private or state-funded schools. [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1686548963304163
+
+Question: How many items is the University Library home to?
+Response: In other important libraries, the University Library was founded in 1816. The building was designed by architects. The University Library Garden, designed by the modern rain. The University Library home to you. The University Library Garden, designed by the modern rain
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.2794739060093745
+
+Question: Who did the geographic scholars work for?
+Response: 2. Transcription: A. A. In the middle of the late twentieth century, the idea of a stable world was
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.12145345436519217
+
+Question: What is the French name for the Rhine?
+Response: The old phonetic ring of the Latin line, while
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.058158838869870944
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.12392952768577148
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to see is private schools and Germany is in Article 7. Here is the four of the green schools. And can not be suspended even in a state of emergency. It is also not possible to abolish these private schools. This is a
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer: Answer:
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.5723367961916415
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.4393586767638167
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center of contemporary art is a permanent and temporary exhibition of the highest cultural value. The center is a permanent and temporary exhibition of the highest cultural value. The center has a permanent and temporary exhibition of the highest cultural value. The center was a permanent
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0892164732805596
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a multi-ethnic federation with a
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5631127385514103
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member of the
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4174294647802961
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36948722514188825
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol empire is a division of the Mongol empire, the Mongol empire is a division of the Mongol empire, the Mongol empire is a division of the Mongol empire, the Mongol empire is a division of the Mongol
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.19878828104027413
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The question, what compounds in the stomach, question, in the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.22483591781254397
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Based on the following transcription, make sure your response fully addresses the information given. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.13650334990834512
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The top 250 largest construction companies in the United States, COT40, are the United States, COT40, the largest construction company in the United States, COT40, and in the world.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.40434896163760503
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are employed in school. The element is found in almost all the biomolecules. The element is found in almost all the biomolecules. The element is found in almost all the biomolecules. The element
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.10400483313063658
+
+Question: What is stratigraphy?
+Response: Geology is the study of rocks, and in many cases, geology is the study of rocks and is
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.45749039977092054
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T-cells that are active can be seen on their many cells. Cells. The T-cells are able to see its cells on their many bodies. And. 1: In a foreign body to a pathos. A. 2:
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.45736158220667766
+
+Question: Levels of what things are used to determine emission factors?
+Response: The United Nations system in its entirety has established an ICCC
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07993665426774932
+
+Question: What put a hierarchical structure in place?
+Response: A. Question, what did a hierarchical structure in place? The answer is: the pharmacists
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.15034280588420035
+

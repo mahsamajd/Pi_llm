@@ -1,0 +1,190 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition payments from their students. While some may have
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.28619263278335894
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was a forum to discuss the issues of Scotland in the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.21405377073084075
+
+Question: What substance is used to make high quality liquid O2?
+Response: In order to make high-quality liquid O. Two, one must separate it from the air. To do this, one
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.25405290298931005
+
+Question: Who did the geographic scholars work for?
+Response: The scholars were employed by colonizing empires.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09248457322032178
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, the changes in energy are due to the transfer of heat.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16551180834866264
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhine. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.3182358612929975
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination is to introduce an antigen from a pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5212171318759513
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Interstate 5 is the interstate highway in the United States. The highway is approximately 1,400 miles long. It runs from the California–Oregon border near the city of Brookings, Oregon. To the Mexican border near the city of San Y
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3367104388584954
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to the polynomial time reduction, squaring can ultimately be logically reduced to multiplication. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.3747380962437069
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 0.5% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.19196745685210226
+
+Question: How many prime numbers exist?
+Response: There are infinitely many primes. As demonstrated by Euclid around 300 BC, there is no known simple formula that separates prime numbers from composite numbers. However, the distribution of primes, that is to say, the statistical behavior of primes in the large
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.015264116828266117
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is Lorelei. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.189144719811287
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The pinafore that was accidentally introduced into the Black Sea was memeopsis. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.2065241966288679
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics is a field that studies the immunogenicity of proteins and peptides
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2627004994160884
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired less than 10 employees. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.32112020732511615
+
+Question: How many projects does the Centre currently realize a year?
+Response: According to the text, there are about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.4430668586498031
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is the epitome of the Rhine Romanticism, because the Rhine flows through the Middle Rhine Valley. There are many architectural monuments like castles. There are many slopes full of vines and settlements. So, the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4521360308840243
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law affects the laws of member states by means of various sources.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.15924355047809868
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for conveniently testing the formality of large numbers is the
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.17197596186113406
+
+Question: An MSP may introduce a bill as what?
+Response: As a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.11257558032464454
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: In this context, oxygen gas can also be produced through electrolysis of water into molecular
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.26613976904624015
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The question is asking for the ratio of men older than 18 to women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.2745716537006808
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublai Khan attacked the Song Dynasty in 1274. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.13908419935100158
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days, which was longer than the 48 days it was planned to last. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.5131607061316843
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In the stomach, the gastric acid and proteases serve as powerful chemical defenses against ingested pathogens. The stomach produces an acidic fluid that contains proteolytic enzymes. The proteolytic enzymes break down proteins. The acidic fluid is highly acidic.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5807341189637409
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.21475691228252092
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: In this context, the Saxon Garden, covering the area of 15.5 hectares, was formerly a royal garden. There are over 100 different species of trees and the avenues are a place to sit and relax. At the east end of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2964823005567979
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the RIF system in the alpine orogeny in southwest Germany are the Upper Rhine Grabbing, which is located in southwest Germany and eastern France, and the Lower Rhine Embayment, which is located in northwest Germany and
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.49721535479065593
+
+Question: Who discovered this and where did they come from?
+Response: Context
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.37881918206477816
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein developed the Theory of Relativity. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2945386220242594
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2591152554291344
+
+Question: What geometric shape is used in equations to determine net force?
+Response: A vector triangle is used in equations to determine the net force. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.16751973930731456
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T-cell encounters a foreign pathogen, it extends a receptor for the active form of vitamin B, calcitriol. The T-cell expresses the gene 27BPI1, which is responsible for converting the pre-hormone version
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.3847536116275795
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine River is the second largest river in Europe and the twelfth largest river in the world. The river starts at the confluence of the Vosges and the Rhone in the Rhone Valley of eastern France and flows eastward.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.12529562205695677
+
+Question: Levels of what things are used to determine emission factors?
+Response: ICCC stands for Intergovernmental Panel on Climate Change. The UNFCCC is the United Nations Framework Convention on Climate Change. The WMO is the World Meteorological Organization. UNEP is the United Nations Environment Program.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4138530034691933
+
+Question: Why does competition among workers drive down wages?
+Response: Context: A job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.12756436921438408
+
+Question: What put a hierarchical structure in place?
+Response: There was a hierarchical structure in place because the pharmacists had a very important role in the society. They were very important to the society. This was because of their ability to provide medicine to the people in the society. The pharmacists were highly respected
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.05078481926305678
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms' questions.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.11730571398753242
+

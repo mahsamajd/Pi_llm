@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005, the LA Clippers were one of two teams in the NBA to have two franchise players, Blake Griffin and Chris Paul. In the 2014 NBA Finals, the Clippers were eliminated by the Golden State Warriors in six games,
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.29033599530663157
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The question is "how the major impact on moving after all relations included a risk within moving, some years ago, in relation from between a fact that this is a totally different self from the United States for a policy." This question is poorly written and
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.1021166923863448
+
+Question: How many items is the University Library home to?
+Response: The University Library was founded in 1816, and its collection of more than two million items is housed in a building designed by a local architect. The building was completed in 1989, and it is surrounded by a large park called Dream Park
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.3179714683199172
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The transcription given is a description of a particular region of the rainforest, which is described as having been a tropical rainforest in the past. The extinction of the dinosaurs and the letters find it, you have allowed the tropical rainforest here. The
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.0
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The New York Times began publishing in 1851, making it the oldest newspaper still in publication in the United States. During the 1980s, the New York Times was owned by conservative businessman Rupert Murdoch, who used the paper as a platform
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: Who did the geographic scholars work for?
+Response: A student that will be in an area that is geographically tolerant will be a person that lives in an environment where the weather is constantly changing, such as in the tropics. This person will have to learn how to adapt to the constant change in
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.0
+
+Question: What makes energy changes in a closed system?
+Response: The next thing we are going to map is not as non-concentred as forces and maybe as topics consider the forces of force. This trial is by nature of treatment which depicts the term of climate. The natural topic shows treatment. Non-concent
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0
+
+Question: What is the French name for the Rhine?
+Response: In the first few lines of the transcription, the author provides a definition of the line, which is a "line of thought," or a way of thinking about something. The author then goes on to explain that the line is not limited to Germanic
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: There are a few ways to answer this question. One way is to make an analogy between the immune system and the computer memory. In this analogy, the immune system is like the computer memory. When you have a virus in your computer, it's
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.517196276083861
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The most appropriate treatment of the problem is to use the population of the region for the region. The population of the region is the population of the region. The population of the region is the population of the region. The population of the region is the
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07700199151541387
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is the carburetor time reduction, this means that the reduction
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11347812049652606
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The concept of private schools in Germany was created in 1918 in order to protect private schools from the government. The concept was implemented in 1919.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.18423232335257
+
+Question: How many prime numbers exist?
+Response: [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28331637088182726
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The future of the country is very difficult to understand.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06215959605426513
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The temperature of the firebox is a saturated vapor pressure. The saturated vapor pressure is a measure of the temperature of the firebox. The pressure is a measure of the amount of water in the firebox. The pressure is a measure of the temperature
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09103656651594627
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The new known for the illness is the study of large types of proteins. So the only, in all of the immunophiles, breastly. Once the field of study of the immunogenicity, the bioinformatics know that. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: The average income per person in the United States in the year 2014 was \$9,600. The median income in 2014 was \$32,000, and the average income was \$80,000. This means that the distribution of
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.34805407056847293
+
+Question: How many projects does the Centre currently realize a year?
+Response: The transcript contains a lot of spelling and grammatical mistakes, which can be corrected easily. However, some of the content is not very clear. In order to provide a detailed answer, additional information needs to be gathered. For instance, what is "
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The long flows around the fields rock lower. With the top stone, the large potential monument. The fourth floor of the line. Seven minutes crowded on the narrow river gates and schools of castles lined up along the coast.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.09330762033123241
+
+Question: What effect does European Union law have on laws of member states?
+Response: The law of the European Union is a body of law consisting of primary and secondary law that directly affects the legal systems of the 27 member states of the European Union (EU). Primary law consists of the Treaties, which are the founding documents of
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5161940150036014
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The formal proof of a number $N$ is to demonstrate that $N$ cannot be the product of two smaller positive integers. The factorization is not a proof of primality, but a proof that a number $N$ is not prime.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3963584075129377
+
+Question: An MSP may introduce a bill as what?
+Response: In the UK, a Bill is a proposed law introduced in the Parliament by a member of the government or a private member. The term 'Bill' refers to the type of proposal that the member is trying to pass. There are three types of bills
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.038621262586218785
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The first thing to note is that the question is asking for specific answers, so the response should be detailed and specific. The data provided includes information on the percentage of households with children under the age of 18, the percentage of households with married couples
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongolian Empire was a massive empire that was created in the 1200s and was the largest continuous land empire in history. It stretched across much of Asia and the Middle East and was made up of a wide variety of people, cultures,
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: The war saw uprising began in Warsaw on the first August 1944, after the red army was near in the city.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.16055433064029534
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: We don't have to do with the other things that we don't have to do with the other things that we don't have to do with the other things that we don't have to do with the other things that we don't have
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2735791371301616
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The only thing that has been reported is that the other people are not able to do it. The other people are not able to do it. The other people are not able to do it. The other people are not able to do it. The
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.49525444093873283
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: At this time, the Jackson Garden, covering the area of 15.5 hectares, with formerly a royal garden, there are over 100 different species of streams and the avenues that are traced to sea over the last. At the east end of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.17171972039993255
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: I think this is a tough one. I think you're going to be asked to discuss whether the construction of the dining and construction companies is a good or bad thing. The other thing is, I think they're going to be asking you to think
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.324920883364621
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The river system in the upper-lying region of southwest Germany and eastern France developed by the time of the migration. This system included the Rhine River, which is the largest river in central Europe. The Rhine River was also the first river to
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4141528242315663
+
+Question: Who discovered this and where did they come from?
+Response: This is the transcript of a radio interview. The speaker is talking about a research project in the Amazon forest. The researcher wants to find out about the "sera freedom" in the area.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.12954490368241145
+
+Question: Who develped the theory of relativity?
+Response: The concept is important in the study of stationary and moving objects, in simple machines.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07845567077245319
+
+Question: In what year was the Interstate Highway System created?
+Response: The above transcription shows that the city of Los Angeles has been a part of the U.S. Highway system since 1960, but it was only officially added to the system in 1975. The city is located on the west side of the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: The biologist studies the history of life on Earth and the consequences it has on the environment. They are interested in geology, which is the study of rocks and minerals, as well as the geological history of the planet. They also study the biology of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.005504112392137328
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: This paragraph contains a lot of information about the interaction between two cells and the vitamin D receptor, as well as how this interaction helps to regulate the expression of the gene responsible for converting calcidiol into calcitriol, the active form of vitamin
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4325338590302905
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The passage details the movement of the water line. The first sentence states that the "situation becomes more comfortable" when the water flow is no longer in sync with the main flow of water. The second sentence indicates that the areas that are far
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1) The first thing that comes to mind is the question of what is the difference between the WMO and the UNICEB? The World Meteorological Organization is the United Nations agency responsible for promoting global cooperation in the use of weather and climate
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.32592198059817157
+
+Question: Why does competition among workers drive down wages?
+Response: In the following transcription, it's about the work situation in a restaurant. The job is to provide an analysis of the situation and a solution to it.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.11561516374158087
+
+Question: What put a hierarchical structure in place?
+Response: The name of the field, in the following ways:
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07659628110648764
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is a collection of cells, tissues and organs that protect the body from infection, cancer, and other disorders. The immune system works by recognizing pathogens and eliminating them. The immune system is a complex system that consists of a number of different
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.05646536094494403
+

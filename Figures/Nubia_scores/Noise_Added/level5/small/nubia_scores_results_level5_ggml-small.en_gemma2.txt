@@ -1,0 +1,160 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005 to 2014, a new team leader reached competition in Los Angeles.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.06481295375725615
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.4945273893879364
+
+Question: How many items is the University Library home to?
+Response: The Library of the University of Technology in Delhi has been designed by the name of Odisha.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.12958063172211287
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The answer is attached in the attached file. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.09126219511393574
+
+Question: What is the French name for the Rhine?
+Response: In modern language, the realm of modern languages, the realm of modern languages, the realm of modern languages, the realm of modern languages, the realm of modern languages, the realm of modern languages, the realm of modern languages, the realm of
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.13245887976488324
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: It is also not possible to abolish these rights.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.05341631929138535
+
+Question: How many prime numbers exist?
+Response: In this context, there are infinitely many fires.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09202290208325703
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The passage shows the Middle Rhinoceros's economic and social environment. The dominant economic and social passage of the Middle Rhinoceros is the democritus, and the line boards between Uvacine and Rhinoceros are listed as UNESCO World Heritage Site.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.029790676834301366
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: In days where they occur in very high numbers. To date them by Pemucus, you can call the population the "small people" of common organisms that die. [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.1103159090238639
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Steam temperature is increased by the following components:
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.19854525160533987
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: A 2015 survey found that 30,000 people were employed in the construction industry.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.17089901055320922
+
+Question: How many projects does the Centre currently realize a year?
+Response: The art center is a private institution, so it is not an institution or a government.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.12278476350598322
+
+Question: What effect does European Union law have on laws of member states?
+Response: 1. EU law has direct and indirect access to the law of the European Union members too.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.15144662481659066
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The trial division method of testing formality is very efficient.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.08786822137329009
+
+Question: An MSP may introduce a bill as what?
+Response: The above information has been collected from the given text. Here, we can see that the text contains 15 sentences. So, we can say that each sentence has one clause. We have to find out the clauses in each sentence. We
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.012050287885629007
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The above information is a transcript of an essay on water treatment technology, which is mainly about electrolysis technology to produce oxygen and water from the electrolysis of water.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.43915663988677545
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 1. What is the population of the study area? 166,270%
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.05494088253998253
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: One is not a file.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5722866986873182
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a type of immunity which is transferred to a person from a different source. This type of immunity is temporary and is not durable. It is transferred to the body in the form of antibodies or other substances. The major sources of passive
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5676640736746731
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The first one is a park that is to be developed in the area of 15.5 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.11511728033660495
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements in the river system in the out time erasure were the upper line gravels.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.07003440685090379
+
+Question: Who discovered this and where did they come from?
+Response: 1. The word <strong>"concept"</strong> is used as a noun, and <strong>"the concept"</strong> is used as a pronoun.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11392926127232295
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are important here.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0748347408032225
+
+Question: In what year was the Interstate Highway System created?
+Response: A. 5'-GCGC-3'
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.1282118944482471
+
+Question: What geometric shape is used in equations to determine net force?
+Response: 1. The results of the results of the next phase can be determined by the results of the next phase.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.21831151577417174
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1. The steroid hormone has the trial. C-cells have a symbiotic relation to the vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.06470729169714251
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The rhyme that goes from the north street to the new water well and from there to the north is the one that goes through the village of Cinderbank.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0869382201143647
+
+Question: Levels of what things are used to determine emission factors?
+Response: Task parotageous = The ICCC concentrated activity on the task parotageous, as a relevant WMO is preferable.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07505027473212122
+
+Question: Why does competition among workers drive down wages?
+Response: The supply of labor is determined by the number of workers willing to do the job at the wage. The more workers willing to do the job, the higher the supply of labor and the lower the demand for labor. When competition is high, employers
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6215900843163622
+

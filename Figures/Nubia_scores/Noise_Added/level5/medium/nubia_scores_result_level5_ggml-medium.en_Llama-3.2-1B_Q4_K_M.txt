@@ -1,0 +1,185 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy and TVOS were the two major league soccer teams in Los Angeles in the 2005 to 2014 era. They played as a set-up player for each other. The Galaxy played in the MLS (Major League Soccer) and
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3349995873956998
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: a. The purpose of private schools is to provide a more academic education to students who otherwise would not be able to attend a private school, rather than relying on mandatory taxation. This leads to prosecution. In depending on the talent of students they have,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a rift with the Philippines.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.07175185287927022
+
+Question: How many items is the University Library home to?
+Response: 2 million items
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.09248116841700527
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The convention was a response to the demands for a product-piloting period in 1980s and 1990s. The UK was controlled by the Conservative Party, so that the product assembly was initiated in Scotland. The Scottish Constitutional Convention had
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is an element that is commonly found in the Earth's atmosphere. It is a highly reactive element that can be found in many other substances. It has a mass of 1.42 x 10-27 kg and a molecular weight of
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.46449857040208853
+
+Question: Who did the geographic scholars work for?
+Response: The European Council in the 1950s, who helped shape the World Trade Organization to provide a global trading system for the world’s 120 million businesses, which can now connect to each other and the world’s largest markets through the WTO’s Single
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.31091198252637997
+
+Question: What makes energy changes in a closed system?
+Response: In macro-tropic forces, non-contributive forces have become internal energies of the system and are often associated with the transfer of heat.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.17411901441433653
+
+Question: What is the French name for the Rhine?
+Response: I think that the name is "Lemur", which is used by the British, German, and French.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0992346860486788
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The principle behind vaccination is to stimulate the immune system to develop an immunity to a particular pathogen in the body. Vaccination is the deliberate induction of an immune response by exposure to a pathogen, such as the measles virus. In the process of
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5945872220188797
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In this context, Fresno is the largest U.S. city not directly linked to an interstate highway. When the interstate highway system was created in the 1960s, the decision was made to build what is now Interstate 5 on the west side
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3132798929552326
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most common reduction is polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1253491534129466
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11749138138995319
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The answer is: the introduction of punicures by humans. The introduction of punicures by humans is the way in which punicures are introduced into the Black Sea. The introduction of punicures by humans is a way in which p
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06467197929903645
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Some concepts, other components are often present.  The boiler is an apparatus designed to generate steam at a pressure above atmospheric pressure by the use of water.  In general, the boiler is an apparatus designed to generate steam at a pressure above atmospheric pressure
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0757311189048574
+
+Question: The average contractor hired how many employees?
+Response: The average number of employees was 2.1. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.1325556756741917
+
+Question: How many projects does the Centre currently realize a year?
+Response: We realize around 500 projects a year. That's why the National Gallery of Art, the oldest exhibition site in Warsaw, with a tradition stretching back to the mid-19th century, organized with exhibitions of modern art files.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.4469333505086298
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic factors in the middle-rynamic are ginnocostal and puritan. The long storage between middle-time and rhyme and cauldron is listed as a UNESCO World Heritage Park. Near St. George Avenue, the rhymes
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.10358762919774978
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm used for continually testing the formality of large numbers is known as biodevision. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.116772254889561
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire began in 1206, when Genghis Khan, the first khan of the Mongol Empire, united many of the tribes living in Central Asia into an empire.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2424472084536785
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 48 hours, from 1 August to 2 August 1944. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.27259396943277114
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: n
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5691408504907782
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: As a context, newborn infants have no prior exposure to microbes and are particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.08146753314876443
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The most different foreign species of trees and victors. What makes this park different from other green spaces in World War II?
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.10263491249142787
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 1.  The contact, engineering newsletter, EMR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08778867202508778
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the river system, the main element of the upper Rhine-Bravins is the Lower Rhine River. The Lower Rhine River in Germany is the main element of the river system and the alpine marauding in the South West
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.48106653296961277
+
+Question: Who discovered this and where did they come from?
+Response: Cebu is a province in the Philippines, known for its beautiful beaches, with its own culture and way of life. It is located in the center of the Philippines and shares borders with the provinces of Bohol and Negros Oriental. The C
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.2566634229518422
+
+Question: Who develped the theory of relativity?
+Response: (1) A fundamental error in the motion of an object is when it is thought to be required to maintain motion at constant velocity, regardless of the speed of the object.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.250636601552473
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compound contains the greatest amount of oxygen by mass. 2. 2. Carbon is the largest percentage of organic compounds (by mass). 3. 3. 4. 4. 4. 5. 5
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.4276406507031564
+
+Question: In what year was the Interstate Highway System created?
+Response: That made the largest US city not directly linked to a interstate highway. When the interstate highway system was created in the 1950s, the decision was made to build what is now Interstate 5 on the west side of the Central Valley. Unless
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: The above statement is a false claim. A number of fields, for geologists, are used to study and understand Earth processes, and the processes that occur inside the Earth. For example, geologists use geophysical and geoscientific methods to
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.39986039581519894
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The steroid hormone has the trial. T-cells have a syndiotic relationship with vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.06399081089461556
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The direction of the new Ma is east. It flows east from the West to the North.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10466562662318446
+
+Question: Levels of what things are used to determine emission factors?
+Response: ICPP is a United Nations (UN) organization that is responsible for the development of global policies and strategies on climate change. It also provides technical and operational support to the climate change initiatives in the world. The ICPP is managed by the United Nations
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5398384502906838
+
+Question: Why does competition among workers drive down wages?
+Response: Due to the competition between workers, the job's demand for workers will drive down wages. This is because competition between employers and workers drives up wages. [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.37319027592024245
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: **Transcription:**
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.41768107479593386
+

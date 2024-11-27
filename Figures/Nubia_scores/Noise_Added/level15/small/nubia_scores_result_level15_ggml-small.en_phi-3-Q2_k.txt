@@ -1,0 +1,40 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Astonine the
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.45154811498743086
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The. A.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4882520029647699
+
+Question: How many days did the Warsaw Uprising last?
+Response: Wrap on 150, 194, 200, and 63, 48, and 63, 48, 200, 150, 48,
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.14390277494443782
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Barstovian
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.2741931487887551
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Yes.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.47009733620844774
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: B.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39775964901247296
+
+Question: In what year was the Interstate Highway System created?
+Response: "re newly create 9, lane lize
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.051812434649055716
+
+Question: Levels of what things are used to determine emission factors?
+Response: How are used to be the levels of fuel/
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.11501272807930052
+

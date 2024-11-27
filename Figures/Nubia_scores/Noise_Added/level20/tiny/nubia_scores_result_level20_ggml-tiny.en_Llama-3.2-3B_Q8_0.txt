@@ -1,0 +1,195 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the team played in was the StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.44407112618944167
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: A private school is a school that is not run by the government. Private schools are usually funded by tuition and other fees charged to students and their families. Some private schools may also receive government funding through grants or tax credits. The type of funding a
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0646155077031284
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription above is about the crisis in the Middle East between Israel and Egypt. The crisis began in 1973 when Israel captured the Sinai Peninsula from Egypt. The crisis had a major impact on international relations, as the US found itself in the middle
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.407829454385903
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over two million items, which is 2000000. It was designed by architects Meris, the Density Inn, and was opened on the 15th of December 1999. It is surrounded by green spaces
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4334255565164197
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest extended as far south as 45 degrees. During the oligos gene, for example, the rainforest and the relatively narrow band of forests extended as far north as 45 degrees. The tropics were mostly inland during the last gl
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.26430798880725415
+
+Question: When was the Scottish Constitutional Convention held?
+Response: context. Throughout the 1980s and 1990s, demand for a Scottish parliament grew. In part because the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.11778118281344696
+
+Question: What substance is used to make high quality liquid O2?
+Response: Nitrogen
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.31362910784260967
+
+Question: Who did the geographic scholars work for?
+Response: Scholars like James George Frazer, Francis Galton, and Sir James Frazer believed that the world could be divided into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate climate produced by hardworking, moral, and
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3027200677777637
+
+Question: What makes energy changes in a closed system?
+Response: The answer to this question is that non-conservative forces result in energy transformations within closed systems from ordered to more random conditions as entropy increases. In other words, non-conservative forces cause the system to become disordered, or more random, and this
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16130679021773853
+
+Question: What is the French name for the Rhine?
+Response: The answer to this question is that the French name for the Rhine is "Rhin".
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.48822457949511766
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: An antigen from a pathogen is introduced in order to develop a specific immunity.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.22520589188416662
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3010400375904496
+
+Question: How many prime numbers exist?
+Response: There are infinitely many times. As demonstrated by youth world around 300 BC, there is no
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11314992335042018
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge between Rüdesheim and St. Goarshausen is listed as a UNESCO World Heritage Site. Near St. Goarhausen, the Rhine flows around the famous rock Lorelei, with its outstanding architectural monument
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.3795199329016683
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Based on the given passage, the mimeopsis is an organism that was accidentally introduced into the Black Sea. It is a predator that eats both fish larvae and other planktonic organisms. The introduction of the mimeopsis caused a decline in fish stocks
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.044105300972465455
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise steam temperature above its saturated vapor point are superheaters.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.2550125299542484
+
+Question: How many projects does the Centre currently realize a year?
+Response: According to the passage, the Warsaw Centre for Contemporary Art currently realises about 500 projects a year. A project refers to a specific and complete activity in art. The word ‘realise’ is used as a past tense of the verb ‘real
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06709061304891106
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: context. The dominant economic sectors in the middle-run area are viniculture and tourism. The rhyme gorge between reedish-time and rhyme and program is listed as a UNESCO World Heritage Site. Near St. Forest Housing, the rhyme flows around the famous rock
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.07182096336493293
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union law is a body of treaties and legislation such as regulations and directives which
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11874578353332366
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of the algorithm useful for testing and verifying the formality of large numbers is known as the trial division. This method is based on the idea that a number can be tested for formality by dividing it with the small numbers. If the number
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4741492138781984
+
+Question: An MSP may introduce a bill as what?
+Response: The word that has been highlighted in bold is the one that is seeking help in its usage.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0935459190942074
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen can be produced through electrolysis of water into molecular oxygen and hydrogen. DC electricity must be used. If AC is used, the gas is in each room consists of hydrogen and oxygen in the explosive ratio 2 to 1. Contrary to
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.019586346198210758
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: According to the passage, monkey Khan invaded China in 1260. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.1089514730828145
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising lasted for 63 days. The uprising started on August 1st, 1944, and ended on October 2nd, 1944.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.5172973908825731
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the formality of a given integer n is called trial division. This routine consists of dividing n by each integer n that is greater than 1 in less than or equal to the square root of n, if
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3988514292918035
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The correct answer is passive immunity, because antibodies are transferred from the mother to the child through the placenta. Passive immunity is short-lived and is not an active response of the body. The antibodies are transferred from the mother to the child, and then
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.669471390632501
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: So, the question here is, what information is given about the top 400 firms in the US? Well, the information that is given is that ENR, which is Engineering News Record, is a magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.48933996176988936
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of the ryan ryan system were the upper ryan ryan system in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.10512490553057174
+
+Question: Who discovered this and where did they come from?
+Response: The first part of this transcription is “Contact, terra crata, slacker, which is distributed over large areas in the Amazon forest. It’s now widely accepted as a product of indigenous soil management. The development of this fertile soil allowed agriculture and
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.09170818556523552
+
+Question: Who develped the theory of relativity?
+Response: Based on the given transcription, the answer to the given question is that Galileo and Sir Isaac Muzan formulated laws of motion that were not improved on for nearly 300 years. By the early 20th century, Einstein developed a theory of
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds with the greatest amount of oxygen by mass are carbohydrates. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3964021137438719
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a vitamin B receptor, in essence asking to bind to the steroid hormone version of vitamin B. In order to properly bind to its target, a T cell must extend its vitamin B receptor. When a T cell binds to the active
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5515131910779711
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: I am going to use the information provided in the text and my knowledge of water flow to answer this question.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1841043215014968
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC concentrates its activities on the tasks allotted to it by the relevant WMO executives. These include its duties under the UNFCCC process, such as the data distribution center and the National Greenhouse Gas Inventory Program. The ICC also supports other activities
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3470539305518925
+
+Question: Why does competition among workers drive down wages?
+Response: [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6613184875591129
+
+Question: What put a hierarchical structure in place?
+Response: In the traditional Chinese society, there existed a hierarchical structure with different levels. The upper level had the emperor, the middle level had the officials, and the lower level had the common people. The structure was maintained for centuries before the Chinese were invaded by
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Contact Tracing is a process by which people who have been exposed to an infectious agent are contacted to determine if they have acquired the infection. The purpose of contact tracing is to isolate infected individuals and to limit the spread of infection to others. Contact tracing
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

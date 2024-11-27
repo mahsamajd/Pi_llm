@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: I think this answer is the most detailed and accurate as it has the highest chance of being the stadium where the team played. It is based on the information that they played at the StubHub Center, the stadium that they were suspended, and that they
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.10946646158736795
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: I think the easiest way to start off the answer is by identifying the information given in the transcription. The first word we have is context. This means that the answer must be within the context of the information given. The next word is non-governmental
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0
+
+Question: How many items is the University Library home to?
+Response: This answer should be at least as long as 3/4 of the total
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.1385201002885541
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the middle myocene, from 45 degrees to 40 degrees in the Amazon rainforest. The 45 degrees was a broad diversity of species.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.1370496347131941
+
+Question: When was the Scottish Constitutional Convention held?
+Response: This is a good answer because it is a detailed and specific answer, which is the key to a good answer.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.18236843962093519
+
+Question: What substance is used to make high quality liquid O2?
+Response: The answer is correct. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.15213374227363063
+
+Question: Who did the geographic scholars work for?
+Response: As a result of this information, the scholars, Europeans, and others alike believed that the people of the tropical regions were incapable of being guided by the European Empire. Thus, the people of the tropical regions were believed to be lazy, sexually promisc
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.21787163843304713
+
+Question: What makes energy changes in a closed system?
+Response: I'm not sure I understand the question, but perhaps I can provide you with a possible answer. My answer is that when I think of a closed system, I think of a system that is in a state of equilibrium, or in a state of
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.003908562931993931
+
+Question: What is the French name for the Rhine?
+Response: In the same way, the Germanic name of Rhine is still present in the English
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.12483594921083063
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I-5. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3804725667783261
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Given the fact that squaring is a polynomial time reduction, we can conclude that the problem of multiplying two integers can be reduced to the problem of squaring an integer. Thus, since squaring is a polynomial time reduction, we can conclude that the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.18461478333651826
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of students in the former GDR was 0.5 percent in 1992. The percentage of students in private schools in East Germany rose from 0.5 percent to 6.1 percent between 1992 and 200
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.33507095908312934
+
+Question: How many prime numbers exist?
+Response: If you are interested to get more information about a problem, then you need to write your answer in the form of a question. This way, you will not only be answering the question, you will also be giving the reader some motivation to continue reading
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.05283014783371631
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine flows around the famous rock Lorelei, which is located in the Rhine Gorge between Rudesheim and Bingen. The Rhine flows around the famous rock Lorelei, which is located in the Rhine Gorge between R
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.3952554761233973
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The answer to this question is:  A ctenophore was accidentally introduced into the Black Sea. It is the Nemeopsis. The situation was aggravated by other factors such as overfishing and long-term environmental changes that promoted the growth
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.04534906880133405
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The answer to this question is the coal stoker. The coal stoker is an important component of the boiler. It is used to supply coal to the boiler. It is usually located in the basement or basement of the building. It is used to
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06017297887744666
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th-century Royal Oege's Dow Castle currently houses Centre for Contemporary Art. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.09264725410001284
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: This is the most well-known landscape in the Rhine valley, and its romanticism is one of the most famous in the country. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.36531152777059905
+
+Question: An MSP may introduce a bill as what?
+Response: The answer to question 1 is "a committee of the parliament" and the answer to question 2 is "an outside proposer"
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.19424971374978484
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire is a vast empire that has ruled most of the world for centuries. Monkey Khan, a Mongol Emperor, was able to conquer southern China. He did not, however, conquer the Middle East or invade southern China. Instead,
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2773069876026787
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In this context, the most basic method of checking the formality of a given integer n is called trial division. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.13675336154989537
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The immune system is made to fight off or destroy a certain type of bacteria that you don’t want to get sick from. The immune system is also responsible for defending your body from disease or infection. It has a natural way of fighting off or destroying
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5098281158318877
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Kacinski Palace Garden [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.08063643650723551
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The upper rhine-graben and the lower rhine-graben. The lower rhine and the baimen are
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.13514701779475735
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger and colleagues of the University of Florida.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4666278163543103
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The biologically important organic compounds that contain a larger amount of oxygen than any other compound in the following list of compounds. The oxygen concentration in each compound is given by the mass of oxygen present. In the first three compounds and in the last two compounds
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.07922689693844032
+
+Question: What is stratigraphy?
+Response: This answer shows that the student understands the information given by the question, and provides an answer that is both specific and detailed. It answers the question “What is stratigraphy?” with a description of the process of interpreting geologic history using stratigraphy.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.09882969624869975
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule, like the parallelogram, is an important method of determining
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.25289848461292896
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.26216965302723294
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows into the Wall and then, via the Merweed and New Merweed, to Bespoche,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.07537206819490594
+
+Question: Levels of what things are used to determine emission factors?
+Response: It is important to realize that the IPCC is actually a series of different organizations. The main one is the International Panel on Climate Change, which is made up of representatives from member countries. This organization is responsible for creating the greenhouse gas emissions report, as
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5779302300226146
+
+Question: Why does competition among workers drive down wages?
+Response: In a competitive market, more workers will drive down the wage. This is because there will be more workers competing for the job. This will lead to a decrease in wages for the workers. This will also lead to a decrease in wages for the job
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7196381675816936
+
+Question: What put a hierarchical structure in place?
+Response: The answer to this question is that pharmacists were highly respected in Japan at the end of the Asuka period (538-710) and the early Nara period (710-794). The men who fulfilled roles similar to those of modern pharmacists
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2361602976660031
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is not specific. This means that it responds to pathogens in a generic manner. This system does not confer long-term immunity against a pathogen. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.501470116231119
+

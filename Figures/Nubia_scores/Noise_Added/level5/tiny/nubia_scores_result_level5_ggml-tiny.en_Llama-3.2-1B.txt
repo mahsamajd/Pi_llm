@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: So, in 2005, the train was very close to the train. So, it was too late for me to talk about this in my family.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.08083045670876132
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The culture of the race of the time is very important. The race is important. In this field, there are no children out there on the base. The culture of the race of the time is very important. The race is important. In this
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4610830638391522
+
+Question: How many items is the University Library home to?
+Response: I think the answer is 2.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.14520303860453154
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The only thing that's in the future is how you are doing this system. It's too much of a dinosaur, so the letters find a view of a lot of the classic of ancient species. It's a great out of touch of ancient species
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.0
+
+Question: When was the Scottish Constitutional Convention held?
+Response: I see nothing nice to me in a nice relationship. The music is highly solid to me. In fact, because the avenue of the United Kingdom has been told that the truth is highly solid.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: 1. Negative integers have to be positive integers. 2. The numbers are in ascending order. 3. The number is 18th. 4. The number is 200. 5. The number is 61.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.23649614914341066
+
+Question: What makes energy changes in a closed system?
+Response: 1. It's an absolute dramatic topic, mountains are a bit closer and mountains are a bit closer to the surface.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0881541791605771
+
+Question: What is the French name for the Rhine?
+Response: There is no moment. Now there is not a moment. Now there is a larger life. That's the fact. This is the fact that there is no moment. This is the fact that there is not a moment in this reality. This is
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.04017001565897538
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The second sentence is unclear. What is the situation? What is the failure? What do you mean by "familiar"? It is unclear if it is the situation itself that is familiar (because the writer is saying "familiar with this situation"),
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2925075407881923
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The statement that is being tested by the question is the following: "This is the interest of most life of the leadership models." This statement is not true because the majority of students do not like it, and they are not interested in it. In
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.009896455460803977
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: I know you know your time, so this means that it's not a good idea to use it in a sentence. [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1444667103569992
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: They're the dogs. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06697652851377378
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: I don't know, but I don't know what's going to happen, but I don't know what's going to happen, but I don't know what's going to happen, but I don't know what's going to happen, but
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.10668920942212023
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: I need to live in a new world.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.09758581125922516
+
+Question: The average contractor hired how many employees?
+Response: The only thing that's going to be happening is the only thing that's going to be happening.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2589791811961929
+
+Question: How many projects does the Centre currently realize a year?
+Response: I don't know how to do it, I don't know how to do it, I don't know how to do it, I don't know how to do it, I don't know how to do it, I don't know
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.4113945700963625
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The transcription is not grammatically correct. The mountain is active, not active.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.06328477574927438
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The transcription is as follows:
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4990666780382135
+
+Question: An MSP may introduce a bill as what?
+Response: A.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.32679441331976145
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: I am sure that it is water. It is old and it is still coming out. I do not know what to do with it. It is nothing to be an obstacle, and it is only nothing to be an obstacle, so it is not
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.0
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The first thing I want to do is get a feel for the rhythm, so I'm going to sing it to myself. I'm going to sing it in the key of B. So this is a very easy key, but I want to try
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The following transcription indicates that the author has made a transcription error. The author has incorrectly transcribed the last four sentences to be "I don't know what to say about it, but I don't know what to say about it."
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.03741614840295415
+
+Question: How many days did the Warsaw Uprising last?
+Response: I think what I would do is I would take the first sentence and make it into a complete sentence with the first and last word of the sentence and I would put the verb and the subject together. I would say, "I am going to do
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.003804654881753966
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The only thing that's not a fire is the only thing that's not a fire is the only thing that's not a fire is the only thing that's not a fire. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.41737036891896984
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: I'm sorry.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4670249506913008
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: I'm sorry, everything is in me, sir. We all know, it's the same magnet in me, sir, that it's in structure. It's in me, sir. You're not in science, and it's great on that
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.15951712845244603
+
+Question: Who develped the theory of relativity?
+Response: I'm not sure if it's different, which becomes at the source, and it's better to fix it, and it's not different.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11841084516449696
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The only one that's found in the last person is a transcription that refers to the present of our molecules to move out of their reactions. In addition, if they are not the first person, actually, you are too much.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0898402835712252
+
+Question: In what year was the Interstate Highway System created?
+Response: When you notice the entire age, it's just your period of a month, you see.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06814836602461416
+
+Question: What is stratigraphy?
+Response: You are a good student, you are a good student, you are a good student, you are a good student, you are a good student, you are a good student, you are a good student, you are a good student, you are
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2352423944394556
+
+Question: Levels of what things are used to determine emission factors?
+Response: Explanation:
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5606221517540158
+
+Question: Why does competition among workers drive down wages?
+Response: In this particular transcription, there are two main points that I can identify as being stressed. These are the "I'm sure it's obvious" and "I'm really excited." I can also identify the main topic of the discussion that's taking place
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1997217434018167
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The structure of the paper is also important. The reason is that the initial structure is different from the micro-side to the outer side of the surface. This structure looks like a nice influence that it seems to be from a large use of the micro-edge
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0
+

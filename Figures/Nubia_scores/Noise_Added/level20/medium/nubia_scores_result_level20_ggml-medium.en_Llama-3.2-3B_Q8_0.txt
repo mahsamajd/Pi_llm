@@ -1,0 +1,145 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in was the StubHub Center. This is because the teams played in this stadium from 2005 to 2014, and it was also a local rival between the LA Galaxy and Chivas USA.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.49730383329118066
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The answer is: The answer is private schools are not administered by local, state or national governments. Thus, they retain the right to select their students and are funded in whole or in part by charging their students' tuition, rather than relying on mandatory
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.03431134387833146
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In this context, the crisis had a major impact on international relations and created a rift within NATO.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.07621446784782582
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: What makes energy changes in a closed system?
+Response: This is a question of energy changes in a closed system. This is a process that occurs within a closed system
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.49464838258573307
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen is introduced in order to develop a specific immunity. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.3755500012616626
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: 1. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.47796483887040964
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percent of students attending private schools in East Germany was 0.5%.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.33763839090745196
+
+Question: How many prime numbers exist?
+Response: In this context, there are infinitely many primes. As demonstrated by Euclid around 300 BC, there is no known simple formula that separates prime numbers from composite numbers. However, the distribution of primes, that is to say, the statistical behavior of
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.012519827985945198
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock the Rhine flows around is the Rock Lorelei. The Rock Lorelei is near St. Goreshausen. The Rhine flows around the Rock Lorelei. The Rhine flows around the Rock Lorelei because the Rock Lorelei
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.454341048729783
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: the steam temperature is increased by a superheater. the superheater is a component of the steam
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.48421114792673625
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: Contests. In the United States. The industry in 2014 has around$960 billion in annual revenue according to statistics tracked by
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.08500199248212514
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3930959916770167
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has direct or indirect effect on the laws of European Union member states. The European Union law is based on treaties and legislation that have direct effects or indirect effects on the laws of European Union member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.6158349086295376
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.36036116985630173
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23588956761010949
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Question. What compounds in the stomach protect against ingested pathogens? [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3476574296090248
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Kacinski Palace Garden is a popular strolling destination for the Barsobian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.16020633821889652
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Engineering news record is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States (POP40) and also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5056890193194491
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Lower Rhine and Baimen are the elements of the rift system in the Alpine orogeny in southwest Germany. The Lower Rhine Baimen is in northwest Germany and the southeastern Netherlands. [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.46340464346436894
+
+Question: Who discovered this and where did they come from?
+Response: Kara Prada is a Black Earth, which is distributed over large areas in the Amazon forest, is now widely
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.054336306055722705
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.07124703002639687
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The compounds that contain the greatest amount of oxygen by mass are carbohydrates. The compound that contains the least amount of oxygen by mass is a hydrocarbon. Oxygen is necessary for the existence of all living organisms. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2830208069569019
+
+Question: In what year was the Interstate Highway System created?
+Response: In 1956, the federal government created the Interstate Highway System. This program was designed to improve the efficiency of travel across the nation. The program was started by President Eisenhower, who was a former general in the Army. The main goal of the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07166484414174501
+
+Question: What geometric shape is used in equations to determine net force?
+Response: [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.41381240136119124
+
+Question: Levels of what things are used to determine emission factors?
+Response: context. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08319854760310852
+
+Question: Why does competition among workers drive down wages?
+Response: Low demand, will result in a low wage for that job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.2601118656265168
+
+Question: What put a hierarchical structure in place?
+Response: The power and prestige of pharmacists in Japan was largely due to the fact that pharmacists
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.11160148068776321
+

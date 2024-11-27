@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: There were two major league soccer teams in Los Angeles, and a second NLS team was scheduled to return in 2018. TVOS USA had played as a set-up player on their northern rivals.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.12808547007868853
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a rift with the Philippines.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.07175185287927022
+
+Question: When was the Scottish Constitutional Convention held?
+Response: While Scotland itself elected relatively few conservatives in Greece, in the aftermath of the 1979 referendum of Greece, the campaign for a product assembly was initiated at the second date.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.08542815820558092
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macro-tropic-non-contributive forces and micro-tropic-contributive forces is described by statistical mechanics, in which non-contributive forces are associated with the transfer of heat.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.26237756110374333
+
+Question: What is the French name for the Rhine?
+Response: [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.2967806368897665
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination represents a deliberate induction of an immune response.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.11757008453326145
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: According to the transcription, Fresno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.09005271147813454
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The reduction polynomial time scaling problem to multiplication can be done by giving same input to both integers for multiplication algorithm.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.23080921860493575
+
+Question: How many prime numbers exist?
+Response: The number of times in the world is infinite, but the distribution of time is specific to certain times in the world.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.25315027542063884
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The flow is full of rhymes. Seven leaves crowded on the narrow riverbank ensure that patches line up along the top of them. Keep slow. The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. Justice,
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The introduction of a punicure in the Black Sea may be introduced in the Black Sea, where it would otherwise have spread the fish.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.24289180547340938
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A concept that is often present is that of the water supply for the boilers, as the water is supplied by the fireboxes from the supply bank. Other components are also present, such as the firebox itself and its drive engine, which is made
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Amino Informatics. Proteomics. Immune Informatics. Immuno Informatics. Proteomics. Immuno Informatics. Proteomics. Immuno Informatics. Immuno Informatics. Proteomics. Immuno Informatics. Proteomics.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.583201419462869
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic factors in the middle-rynamic are ginnocostal and puritan.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.05377435351132265
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union and its member states are two different things. The European Union is not an member state of any other state. The European Union is an independent legal entity. It is a union of states. It is a union of member states. The
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4777417670927796
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: In the formality of large numbers, the null array of the formality test is fast but has a small probability of earning.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.0860123524089893
+
+Question: An MSP may introduce a bill as what?
+Response: The following way to be introduced by the Scottish Government, the committee, the member of the Parliament, or the bill passed through Parliament in a number of stages, and the question of the notice here may introduce a bill as well. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: A. VCOllectivity is the technique of choice for the preparation of VCOllectors and VCOllectors.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.07999734509284262
+
+Question: How many men older than 18 are there for every 100 women?
+Response: [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.32632040212625935
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded Southern China was far greater than the course of Central invasion. The Mongol force that invaded Southern China was far greater than the course of Central invasion. The Mongol force that invaded Southern China was far greater than the course
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.14295957202326814
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: File division of an integer n is the process of dividing it by each integer that is greater than one and less than equal to the nth performing of it. To determine the finality of a given integer n, we may implement the process of division by
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.42127304712311675
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Context. Chemical barriers also protect against infection. The human rectifier attracts the human to microbial peptides as a form of infection.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.12718169111501987
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: As a context, newborn infants have no prior exposure to microbes and are particularly vulnerable to infection. A separate area of their fatless protection is provided by the mother. During pregnancy, a particular type of antibody, called AIDS, is transported from mother to
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.41519082179029354
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The monument of the Yoka-Gato Uprising is situated here. The loose end of the park covers the area of 75 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.08856057399749284
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contact engineering newsletter EMR is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08028851056170383
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main element of this bridge is the Upper Rhine-Bravins.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.07395834236327825
+
+Question: Who discovered this and where did they come from?
+Response: [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4777546394122313
+
+Question: Who develped the theory of relativity?
+Response: Force is the concept that physicists use in their equations to explain why objects accelerate or decelerate. When discussing the motion of objects, physicists use the concept of force in their equations. Newton's equations for motion use the force as a variable. Newton
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.045455162099448554
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbon is the second most abundant element in the universe, making up only 18.9% of the mass of the sun, after hydrogen. It's a complex. The element is found in almost all biomolecules that are important here, are generated
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.23166306524857194
+
+Question: In what year was the Interstate Highway System created?
+Response: That made the largest US city not directly linked to a interstate highway.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06447841598302928
+
+Question: What geometric shape is used in equations to determine net force?
+Response: For example, in several, active experiments demonstrate that physical properties of forces are additive vector quantities.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06707248489795514
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The T-cells are trusted between the immune system sites.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.07380787280837064
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICPP focuses on the tasks given by the relevant WMO executives.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07256191393805611
+
+Question: What put a hierarchical structure in place?
+Response: The strength of the human race was especially defined in the human race. The human race was especially defined in the human race. The human race was especially defined in the human race. The human race was especially defined in the human race. The human race
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06764657523310025
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune-immune system responds in a generic way, meaning it is wet. This system does not confer long-lasting immunity against the pathogen. When did a stressed cell send out a long signal? Many regret, but not all. The immune-imm
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.15538048698217255
+

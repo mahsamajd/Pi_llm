@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The team's table will be the next team of the Los Angeles team, which is the second team in the table and the next team to be played in the Los Angeles team.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3474496136271312
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The first part is not true because the United States is not a country. The United States is a country, but it is not the United States. The United States is the country where the United States is located. The second part is not true because
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.36307672054950135
+
+Question: How many items is the University Library home to?
+Response: 1. The University Library is a university library that is the largest and most beautiful in Europe.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.25592957362960966
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the past 24 million years, tropical rainforests were able to survive because of a global warming trend that caused the land to expand. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.17022820033274166
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The New York Times is a type of newspaper that covers world news. It started in the 1800s in the U.K., and it used to be conservative. It was founded by John Paul Jones, and it was founded in the 192
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: Who did the geographic scholars work for?
+Response: The tropical climate will be of the lazy attitude.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.059145090608572204
+
+Question: What makes energy changes in a closed system?
+Response: The next thing that we map is not as non-concentred as forces and might as topics consider the forces of force. The natural topic shows treatment. Non-concentred is a force of acts between the internal energy of the system. Intero
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.05151752151888278
+
+Question: What is the French name for the Rhine?
+Response: [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.2967806368897665
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The specific immunity is that the particular pathogen without causing disease associated with that. The immune system has been tested and has been developed in order to use the immune system in the human population. That's why we do make the fact of manipulation is immune
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4518957612660136
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is the carburetor time reduction, which means that the reduction
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11959951359482901
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: (a)
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.41743629270367333
+
+Question: Where is the famous rock the Rhine flows around?
+Response: [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.38686430588823983
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The future of the country is very difficult to understand.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06215959605426513
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The future is the drug that is needed. Very largely built in this unit. This unit is the exception of the drug based on larger text types and persons. This certificate is larger than 5000,000. In some cases, the drug itself
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: The question asks you to find the meaning of the text. The text is a transcript of a conversation between the art curator and a journalist. The text is divided into 5 sentences. The first sentence contains 3 words:
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.18169707483062547
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The long doors between new and line and total is listed as the municipal world heritage case. New so forth houses. The long flows around the fields rock lower. With the top stone, the large potential monument. The fourth floor of the line. Seven
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0
+
+Question: An MSP may introduce a bill as what?
+Response: This country still simply introduced the parliament in a number of ways, the Scottish government means to introduce new law that are mainly to assist the laws of the bill. At the beginning of the parliament, since we've entered the bill in one of the areas
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: A
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1652332857141635
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The mean number of children in the household was 1.3, and the mean number of children in the household was 1.2. The mean number of children in the household was 1.4. The average number of children in the
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.18114000698209365
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Chinese Civil War was the first major civil war in Chinese history. It began in the 1800s and ended in the 1800s. The first major battle of the war occurred in 1862, when the Chinese Civil War was
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.07798316320275023
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: For the test of the canality of 37, we need the test of the canality of 37. Only two, three, and five are necessary.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.117494472593907
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: In the heart, the gardens are a natural environment that is part of the history of the city and a place for leisure. The gardens are surrounded by nature and are considered to be a part of the city's history and cultural heritage. The gardens are
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.09189753725917404
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: If the company is not the largest in the United States, you do not entirely from the course on data about the size of the dining and construction company.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.1596699454219357
+
+Question: Who discovered this and where did they come from?
+Response: The concept, "sera freedom" right here, which is distributed over large areas in the Amazon forest. This now might be accepted as the context of indigenous coal emissions. The development of the "sera" in a large agriculture and agriculture are
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.11209901532910183
+
+Question: Who develped the theory of relativity?
+Response: It is important to consider the concept of friction when studying motion. Friction is a force that opposes the motion of objects. In the case of moving objects, friction can cause a decrease in speed. In order to understand how friction affects the motion of
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.05178256216138133
+
+Question: What is stratigraphy?
+Response: We are interested in geological investigation.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0766929148861959
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The first point of view that will investigate is in conditions of strategy for river and river in most levels.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06655795607291237
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: This is not a good answer because it doesn’t provide a clear answer to the question. You’re not providing the correct answer, and that’s not the level of detail you need to provide. If you want me to give you an answer, I
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4100386745948188
+
+Question: Levels of what things are used to determine emission factors?
+Response: The United Nations Industrial Development Organization is an international organization established to promote economic growth and industrial development in the world. It was created in 1947 as a follow-up to the 1944 World Food Conference and the 1945 United Nations Conference on
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4624938957651642
+
+Question: Why does competition among workers drive down wages?
+Response: In this transcript, we have provided the first three sentences with an empty line in between them. The next three sentences are already provided in the transcript. To complete the task, we need to add the sentences in the right order to provide a detailed and
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.39961316305413863
+
+Question: What put a hierarchical structure in place?
+Response: 1. the first 1000 years were not a period (1). 2. 700 times a 700 = 1,200,000 (2). 3. the first step in the process was the recognition of the human
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.13790533973034158
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: My co-ordination is constant that successfully enter an organization and counter the cell in making it themselves.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.05425600686222998
+

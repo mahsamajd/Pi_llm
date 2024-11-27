@@ -1,0 +1,130 @@
+Question: What was the name of the stadium that the teams played in?
+Response: So, in my life, I've been thinking that the train. So, it's very close to the train, it's really close to me.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.10606512512161737
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In this field, there are no children out there on the base.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.09850994445769601
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: Who did the geographic scholars work for?
+Response: It's a huge map of how to do this, so once you do this, so it's how it's done.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1695540950801775
+
+Question: What makes energy changes in a closed system?
+Response: It's very similar to the surface, and it's very similar to the surface. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.252296186322592
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: I'm... that's why I'm.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4659089491905932
+
+Question: How many prime numbers exist?
+Response: The number of the number of this number.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.11325351611274248
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: I don't know what's going to happen, but I don't know what's going to happen, but I'm going to make it and I'm going to make it, I'm going to make it, I'm going to make it,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.04597293531065838
+
+Question: The average contractor hired how many employees?
+Response: The only thing that's going to be is the difference that's going to happen.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.11522808006429464
+
+Question: How many projects does the Centre currently realize a year?
+Response: I don't know how to do it, you know how to do it, you know how to do it, you know how to do it, you know how to do it, you know how to do it, you know how to do it
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.08402976473838863
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: It is the only method of playing this melody.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.32925121120042977
+
+Question: An MSP may introduce a bill as what?
+Response: The first thing to introduce is in a member's village. It's a matter of fact, it means to do two miles in a minute to shift the island. It's a matter of fact, it's a matter of fact, it means to
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Answer: I don't know if it's water, if it's a water, so I don't know if it's water, if it's a water, so I don't know if it's water, if it's a water, if
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5666518008903398
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Yes, that is a trainee's question. I am sure that they can answer that question if they wanted to. They are trying to get rid of the fact that the person who is asking them, is actually asking them, what the person was
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.0
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: I don't know what to say about it, I do know what to say about it, I'm not sure what to say about it, and I'm not sure if you should say it, but I'm not sure if you can say anything
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.021145195745151835
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: I am really tired of the situation and you're not able to solve your problem. So, your problem is to solve your problem. So, you can't solve your problem. So, you are not able to solve your problem. So, you
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.48522370745863397
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 5
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4680089166341279
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: I'm not as weird, so it's in structure.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.06694790002876916
+
+Question: Who discovered this and where did they come from?
+Response: I am the first person to have ever been, and I am a thing in the world, and the world in all
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08124108552649645
+
+Question: Who develped the theory of relativity?
+Response: Based on the following transcription, I'm not sure if it's different.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.09177368177067613
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The only one that's found in the last person is a place where the person is a place. It is a place where you can go to and say hello. You are a place where you can go to. You can go to a place where
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: In what year was the Interstate Highway System created?
+Response: Examine the following to make sure you got the right answer. You can find the ocean in a direction. If you go in a direction, then you're moving in the ocean in the direction. The ocean in the direction is not a problem
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The next few fellows are shown to the plastic. The next few fellows under the carpet are shown to the spider.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.08818546353693857
+
+Question: Levels of what things are used to determine emission factors?
+Response: [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.572976023382173
+
+Question: Why does competition among workers drive down wages?
+Response: I'm really worried when I realize I'm so proud that I'm so proud that I'm really worried. I'm so proud that I'm so proud that I'm really worried. I'm so proud that I'm really worried. It's so
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5931487316841906
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The answer is that the structure is different from the surface. The next thing is that the structure is important to ensure that the edges are important. The reason is that the structure is important to ensure that the edges are important. The main thing is that
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.014471855023340696
+
