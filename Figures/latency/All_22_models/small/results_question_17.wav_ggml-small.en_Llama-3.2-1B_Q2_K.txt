@@ -1,0 +1,31 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Answer: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given.
+Make sure your response fully addresses the information given.
+
+Context. According to geographic scholars, the world can be split into climatic zones.
+Transcription Time: 34.57321 seconds
+Words per Second: 3.12381 WPS
+Inference Time: 19.78054 seconds
+Tokens per Second: 8.69541 TPS
+Overall Time: 54.35392
+Other Data Processing Time: 0.00018

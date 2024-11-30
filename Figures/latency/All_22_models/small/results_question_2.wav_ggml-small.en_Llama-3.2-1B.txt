@@ -1,0 +1,26 @@
+Audio File: question_2.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B.gguf
+Transcription:    Context. The Catholic Church in France and many of its members opposed the Huguenots.
+   Some Huguenot preachers and congregants were attacked as they attempted to meet for worship.
+   The height of this persecution was the Saint Bartholomew's Day Massacre when 5,000 to 30,000
+   were killed, although there were also underlying political reasons for this as well, as some of
+   the Huguenots were nobles trying to establish separate centers of power in southern France,
+   retaliating against the French Catholics. The Huguenots had their own militia,
+   question what event was the worst example of Huguenot persecution.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The Catholic Church in France and many of its members opposed the Huguenots.
+   Some Huguenot preachers and congregants were attacked as they attempted to meet for worship.
+   The height of this persecution was the Saint Bartholomew's Day Massacre when 5,000 to 30,000
+   were killed, although there were also underlying political reasons for this as well, as some of
+   the Huguenots were nobles trying to establish separate centers of power in southern France,
+   retaliating against the French Catholics. The Huguenots had their own militia,
+   question what event was the worst example of Huguenot persecution.
+Answer: The Saint Bartholomew's Day Massacre occurred in France in 1572. A mass killing of Huguenots occurred on the feast day of St. Bartholomew, an apostle of Jesus who is credited with being the
+Transcription Time: 34.50970 seconds
+Words per Second: 2.72387 WPS
+Inference Time: 31.33024 seconds
+Tokens per Second: 4.75579 TPS
+Overall Time: 65.84012
+Other Data Processing Time: 0.00017

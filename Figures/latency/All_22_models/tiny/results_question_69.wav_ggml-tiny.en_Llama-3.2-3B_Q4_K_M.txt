@@ -1,0 +1,32 @@
+Audio File: question_69.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context, the executive summary of the WGI summary for policymakers reports says they are certain that.
+   Emissions resulting from human activities are substantially increasing the atmospheric concentrations of the greenhouse gases.
+   Resulting on average in an additional warming of the Earth's surface, they calculate with confidence that CO2 has been responsible for over half the enhanced greenhouse.
+   Effect, they predict that under a business as usual.
+   Bow, scenario, global mean temperature will increase by about 0.3 degrees Celsius per decade during the.
+   21st, century, they judge that global mean surface air temperature has increased by 0.3 to 0.6 degrees Celsius over the last.
+   100 years, broadly consistent with prediction of climate models.
+   But also of the same magnitude as natural climate variability.
+   The unequivocal detection of the enhanced greenhouse effect is not likely for a decade or.
+   More, question, how much of the greenhouse effect is due to carbon dioxide.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the executive summary of the WGI summary for policymakers reports says they are certain that.
+   Emissions resulting from human activities are substantially increasing the atmospheric concentrations of the greenhouse gases.
+   Resulting on average in an additional warming of the Earth's surface, they calculate with confidence that CO2 has been responsible for over half the enhanced greenhouse.
+   Effect, they predict that under a business as usual.
+   Bow, scenario, global mean temperature will increase by about 0.3 degrees Celsius per decade during the.
+   21st, century, they judge that global mean surface air temperature has increased by 0.3 to 0.6 degrees Celsius over the last.
+   100 years, broadly consistent with prediction of climate models.
+   But also of the same magnitude as natural climate variability.
+   The unequivocal detection of the enhanced greenhouse effect is not likely for a decade or.
+   More, question, how much of the greenhouse effect is due to carbon dioxide.
+Answer: The context of this transcription is about the global warming issue. It is evident from the information that the greenhouse gases are responsible for the enhanced greenhouse effect, which results in global warming. The information also mentions that global warming is caused by the increasing levels of
+Transcription Time: 9.39544 seconds
+Words per Second: 15.96519 WPS
+Inference Time: 56.98838 seconds
+Tokens per Second: 3.84 TPS
+Overall Time: 66.38416
+Other Data Processing Time: 0.00034

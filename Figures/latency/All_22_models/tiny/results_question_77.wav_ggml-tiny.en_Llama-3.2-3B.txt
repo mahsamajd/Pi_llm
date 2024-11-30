@@ -1,0 +1,28 @@
+Audio File: question_77.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B.gguf
+Transcription:    Context, past faculty have also included Egyptologist James Henry breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich Hayek.
+   Meteorologist Ted Fujita, chemists Glenn T., Seaborg, the developer of the Actonide concept and Nobel Prize winner Yuan T.
+   Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton-Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline of linguistics Edward.
+   Saper, and the founder of McKinsey & Company. James O, McKinsey, Question, what mathematician was also a part of the university's faculty.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, past faculty have also included Egyptologist James Henry breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich Hayek.
+   Meteorologist Ted Fujita, chemists Glenn T., Seaborg, the developer of the Actonide concept and Nobel Prize winner Yuan T.
+   Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton-Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline of linguistics Edward.
+   Saper, and the founder of McKinsey & Company. James O, McKinsey, Question, what mathematician was also a part of the university's faculty.
+Answer:    The University of Chicago was founded in the early 20th century by the conservative philosopher John Dewey. He and his wife, Alice, founded the school in 1890 with the goal of educating students in the sciences and liberal arts. The
+Transcription Time: 9.00979 seconds
+Words per Second: 11.21002 WPS
+Inference Time: 328.04912 seconds
+Tokens per Second: 0.50 TPS
+Overall Time: 337.05914
+Other Data Processing Time: 0.00023

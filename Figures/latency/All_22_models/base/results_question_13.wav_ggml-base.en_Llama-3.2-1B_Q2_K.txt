@@ -1,0 +1,30 @@
+Audio File: question_13.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    context, throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish Churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the basis
+   for the structure of the Parliament, question. When was the Scottish Constitutional Convention
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish Churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the basis
+   for the structure of the Parliament, question. When was the Scottish Constitutional Convention
+Answer:  The Scottish Parliament was formed by the Act of Proviso (to) and the Act of
+   the Act of 1978. The Act of was formed by the Act of
+   the Act of and the Act of. The Act of
+Transcription Time: 10.82641 seconds
+Words per Second: 9.60614 WPS
+Inference Time: 18.38467 seconds
+Tokens per Second: 8.92047 TPS
+Overall Time: 29.21131
+Other Data Processing Time: 0.00023

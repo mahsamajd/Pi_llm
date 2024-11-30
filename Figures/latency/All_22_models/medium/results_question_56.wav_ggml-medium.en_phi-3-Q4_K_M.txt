@@ -1,0 +1,32 @@
+Audio File: question_56.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    Context. The secondary level includes schools offering years 7 through 12.
+   Year 12 is known as lower 6 and year 13, upper 6. This category includes university preparatory
+   schools or prep schools, boarding schools and day schools. Tuition at private secondary schools
+   varies from school to school and depends on many factors, including the location of the school,
+   the willingness of parents to pay, peer tuitions and the school's financial endowment. High tuition,
+   schools claim, is used to pay higher salaries for the best teachers and also used to provide
+   enriched learning environments, including a low student to teacher ratio, small class sizes and
+   services such as libraries, science laboratories and computers. Some private schools are boarding
+   schools and many military academies are privately owned or operated as well.
+   Question. What is another term used for year 13?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The secondary level includes schools offering years 7 through 12.
+   Year 12 is known as lower 6 and year 13, upper 6. This category includes university preparatory
+   schools or prep schools, boarding schools and day schools. Tuition at private secondary schools
+   varies from school to school and depends on many factors, including the location of the school,
+   the willingness of parents to pay, peer tuitions and the school's financial endowment. High tuition,
+   schools claim, is used to pay higher salaries for the best teachers and also used to provide
+   enriched learning environments, including a low student to teacher ratio, small class sizes and
+   services such as libraries, science laboratories and computers. Some private schools are boarding
+   schools and many military academies are privately owned or operated as well.
+   Question. What is another term used for year 13?
+Answer: Another term used for year 13 in the context given is "upper 6". This categorization is used to differentiate between the two stages of secondary education. The term "lower 6" refers to Year 12, which is
+Transcription Time: 147.40493 seconds
+Words per Second: 0.93620 WPS
+Inference Time: 77.34172 seconds
+Tokens per Second: 2.53421 TPS
+Overall Time: 224.74682
+Other Data Processing Time: 0.00017

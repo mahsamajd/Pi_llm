@@ -1,0 +1,28 @@
+Audio File: question_66.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    Context. AUSTPAC was an Australian public Bypoint25 network operated by Telstra.
+   Started by Telecom Australia in the early 1980s, AUSTPAC was Australia's first public packet
+   switched data network. Supporting applications such as online betting, financial applications,
+   the Australian Tax Office made use of AUSTPAC and remote terminal access to academic institutions
+   who maintained their connections to AUSTPAC up until the mid-late 1990s. In some cases,
+   access can be via a dial-up terminal to a pad or by linking a permanent Bypoint25 node to the
+   network. Citation needed. Question. What did AUSTPAC support?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. AUSTPAC was an Australian public Bypoint25 network operated by Telstra.
+   Started by Telecom Australia in the early 1980s, AUSTPAC was Australia's first public packet
+   switched data network. Supporting applications such as online betting, financial applications,
+   the Australian Tax Office made use of AUSTPAC and remote terminal access to academic institutions
+   who maintained their connections to AUSTPAC up until the mid-late 1990s. In some cases,
+   access can be via a dial-up terminal to a pad or by linking a permanent Bypoint25 node to the
+   network. Citation needed. Question. What did AUSTPAC support?
+Answer: AUSTPAC was a packet switched network that served as a backhaul link for the Australian
+    telecommunications industry. It was the first public packet switched data network in Australia.
+    It was operated by Telstra from 1981 to 199
+Transcription Time: 145.31524 seconds
+Words per Second: 0.63311 WPS
+Inference Time: 20.16513 seconds
+Tokens per Second: 7.48817 TPS
+Overall Time: 165.48053
+Other Data Processing Time: 0.00016

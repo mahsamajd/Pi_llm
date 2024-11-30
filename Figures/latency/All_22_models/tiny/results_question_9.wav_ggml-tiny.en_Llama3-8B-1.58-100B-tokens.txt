@@ -1,0 +1,32 @@
+Audio File: question_9.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context. The interpretation of Islam promoted by this funding was the strict. Conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not
+   only always oppose infidels in every way, but hate them for their religion. For all is
+   sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That she and other non-Wahabi Muslims were infidels. etc. while this effort has by no means converted
+   all. Or even most Muslims to the Wahhabist interpretation of Islam. It has done much to overwhelm
+   more moderate local interpretations. And has set the Saudi interpretation of Islam as the
+   gold standard of religion in minds of some. Or many Muslims question, what type of interpretation
+   of Islam de Salaphism promote.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. The interpretation of Islam promoted by this funding was the strict. Conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not
+   only always oppose infidels in every way, but hate them for their religion. For all is
+   sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That she and other non-Wahabi Muslims were infidels. etc. while this effort has by no means converted
+   all. Or even most Muslims to the Wahhabist interpretation of Islam. It has done much to overwhelm
+   more moderate local interpretations. And has set the Saudi interpretation of Islam as the
+   gold standard of religion in minds of some. Or many Muslims question, what type of interpretation
+   of Islam de Salaphism promote.
+Answer:  The answer to this question is, that the Wahhabists interpretation of Islam is a strict and
+  conservative interpretation of the faith. It is very strict in the sense that it forbids and
+  forbids every other interpretation of Islam that
+Transcription Time: 8.68905 seconds
+Words per Second: 14.50101 WPS
+Inference Time: 60.78563 seconds
+Tokens per Second: 3.07639 TPS
+Overall Time: 69.47488
+Other Data Processing Time: 0.00020

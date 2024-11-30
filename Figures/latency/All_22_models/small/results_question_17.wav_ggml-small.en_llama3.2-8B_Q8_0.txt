@@ -1,0 +1,30 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Answer: The geographic scholars work for the European Empire. The European Empire was one of the many
+   empires of the 1800s. The European Empire was founded by the Europeans. The Europeans colonized
+   the world and founded the European Empire
+Transcription Time: 33.75194 seconds
+Words per Second: 3.19982 WPS
+Inference Time: 983.96380 seconds
+Tokens per Second: 0.17074 TPS
+Overall Time: 1017.71592
+Other Data Processing Time: 0.00017

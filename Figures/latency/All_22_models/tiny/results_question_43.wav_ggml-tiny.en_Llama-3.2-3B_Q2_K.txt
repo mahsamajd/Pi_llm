@@ -1,0 +1,20 @@
+Audio File: question_43.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q2_K.gguf
+Transcription:    Context, other components are often present, pumps, such as an injector, to supply water to the boiler during operation, condensors to recirculate the water and recover the latent heat of vaporization.
+   And superheaters to raise the temperature of the steam above its saturated vapor point.
+   And various mechanisms to increase the draft for fireboxes. When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel.
+   From a supply bin, bunker, to the firebox, see, mechanical stoker question, what components raise steam temperature above its saturated vapor point.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, other components are often present, pumps, such as an injector, to supply water to the boiler during operation, condensors to recirculate the water and recover the latent heat of vaporization.
+   And superheaters to raise the temperature of the steam above its saturated vapor point.
+   And various mechanisms to increase the draft for fireboxes. When coal is used, a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel.
+   From a supply bin, bunker, to the firebox, see, mechanical stoker question, what components raise steam temperature above its saturated vapor point.
+Answer: I am a bit confused by the last sentence. It talks about the coal, but then there is a bit of confusion. I do not know what they mean. They mention the coal, but the chain or screw stoking mechanism. It does not
+Transcription Time: 7.34201 seconds
+Words per Second: 13.48405 WPS
+Inference Time: 47.81557 seconds
+Tokens per Second: 3.43 TPS
+Overall Time: 55.15805
+Other Data Processing Time: 0.00047

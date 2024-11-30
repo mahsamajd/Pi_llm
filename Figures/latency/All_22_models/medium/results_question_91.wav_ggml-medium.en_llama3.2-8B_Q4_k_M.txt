@@ -1,0 +1,30 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q4_k_M.gguf
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rieen no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows
+   farther west, through the Wall and then, via the Merweed and New Merweed, De Beesbosch,
+   merging with the Meuse, through the Hollands Deep and Herringveld estuaries, into the North Sea,
+   the Beneden-Merweed branches off, near Hardincksveld geessenden and continues as the Nord,
+   to join the Lech, near the village of Kinderdijk, to form the New Maas, then flows past Rotterdam
+   and continues via Hetscher and the New Water Weg. To the North Sea, the Oud Maas branches off,
+   near Dordrecht, farther down rejoining the New Maas to form Hetscher,
+   Question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rieen no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows
+   farther west, through the Wall and then, via the Merweed and New Merweed, De Beesbosch,
+   merging with the Meuse, through the Hollands Deep and Herringveld estuaries, into the North Sea,
+   the Beneden-Merweed branches off, near Hardincksveld geessenden and continues as the Nord,
+   to join the Lech, near the village of Kinderdijk, to form the New Maas, then flows past Rotterdam
+   and continues via Hetscher and the New Water Weg. To the North Sea, the Oud Maas branches off,
+   near Dordrecht, farther down rejoining the New Maas to form Hetscher,
+   Question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Answer: The Rhine river flows from Switzerland to the Netherlands. This question is a bit confusing. The two-thirds of the water volume is not the direction of the flow of the water but rather the direction of the two branches of the river. The Rijn
+Transcription Time: 160.40656 seconds
+Words per Second: 0.82914 WPS
+Inference Time: 139.95441 seconds
+Tokens per Second: 1.42189 TPS
+Overall Time: 300.36121
+Other Data Processing Time: 0.00023

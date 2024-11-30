@@ -1,0 +1,43 @@
+Audio File: question_57.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context, the university runs a number of academic institutions and programs apart from its undergraduate end.
+   Postgraduate schools, it operates the University of Chicago Laboratory schools.
+   A private day school for K-12 students in daycare, the Sonia Shankman Orthogenic School,
+   a residential treatment program for those with behavioral and emotional problems.
+   And four public charter schools on the south side of Chicago administered by the University's Urban.
+   Education Institute, in addition, the Hyde Park Day School, a school for students with learning disabilities.
+   Maintains a location on the University of Chicago campus.
+   Since 1983, the University of Chicago has maintained the University of Chicago School Mathematics Project.
+   A mathematics program used in urban primary and secondary schools.
+   The university runs a program called the Council on Advanced Studies in the Social Sciences and Humanities,
+   which administers interdisciplinary workshops to provide a forum for graduate students.
+   Faculty, and visiting scholars to present scholarly work in progress.
+   The university also operates the University of Chicago Press.
+   The largest university press in the United States question.
+   How many public charter schools does the university run?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the university runs a number of academic institutions and programs apart from its undergraduate end.
+   Postgraduate schools, it operates the University of Chicago Laboratory schools.
+   A private day school for K-12 students in daycare, the Sonia Shankman Orthogenic School,
+   a residential treatment program for those with behavioral and emotional problems.
+   And four public charter schools on the south side of Chicago administered by the University's Urban.
+   Education Institute, in addition, the Hyde Park Day School, a school for students with learning disabilities.
+   Maintains a location on the University of Chicago campus.
+   Since 1983, the University of Chicago has maintained the University of Chicago School Mathematics Project.
+   A mathematics program used in urban primary and secondary schools.
+   The university runs a program called the Council on Advanced Studies in the Social Sciences and Humanities,
+   which administers interdisciplinary workshops to provide a forum for graduate students.
+   Faculty, and visiting scholars to present scholarly work in progress.
+   The university also operates the University of Chicago Press.
+   The largest university press in the United States question.
+   How many public charter schools does the university run?
+Answer: 4
+ [end of text]
+Transcription Time: 11.68831 seconds
+Words per Second: 15.57111 WPS
+Inference Time: 187.72081 seconds
+Tokens per Second: 1.10803 TPS
+Overall Time: 199.40929
+Other Data Processing Time: 0.00017

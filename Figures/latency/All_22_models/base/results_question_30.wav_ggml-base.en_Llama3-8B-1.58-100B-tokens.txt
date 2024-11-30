@@ -1,0 +1,33 @@
+Audio File: question_30.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Answer:  Some internet pharmacies sell prescription drugs and require a valid prescription.
+  Others sell prescription drugs without requiring a prescription.
+  Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+  Or to obtain medications which their doctors were unwilling
+Transcription Time: 15.15464 seconds
+Words per Second: 6.73061 WPS
+Inference Time: 52.14051 seconds
+Tokens per Second: 3.20288 TPS
+Overall Time: 67.29535
+Other Data Processing Time: 0.00019

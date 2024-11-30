@@ -1,0 +1,29 @@
+Audio File: question_3.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    Context. During 2003-04, the gross value of Victorian agricultural production increased by
+   17 percent to $8.7 billion. This represented 24 percent of national agricultural production
+   total gross value. As of 2004, an estimated 32,463 farms occupied around 136,000 square kilometers.
+   52,500 square miles of Victorian land. This comprises more than 60 percent of the state's
+   total land surface. Victorian farms range from small horticultural outfits to large-scale
+   livestock and grain productions. A quarter of farmland is used to grow consumable crops.
+   Question. How much did the gross agricultural product increase from 2003-04?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. During 2003-04, the gross value of Victorian agricultural production increased by
+   17 percent to $8.7 billion. This represented 24 percent of national agricultural production
+   total gross value. As of 2004, an estimated 32,463 farms occupied around 136,000 square kilometers.
+   52,500 square miles of Victorian land. This comprises more than 60 percent of the state's
+   total land surface. Victorian farms range from small horticultural outfits to large-scale
+   livestock and grain productions. A quarter of farmland is used to grow consumable crops.
+   Question. How much did the gross agricultural product increase from 2003-04?
+Answer: The gross agricultural production in Victoria increased by 17 percent from 2003-04 to $8.7 billion.
+
+
+Context. In 2012, Victoria' estate valued at $13
+Transcription Time: 139.95979 seconds
+Words per Second: 0.65733 WPS
+Inference Time: 73.25439 seconds
+Tokens per Second: 1.87020 TPS
+Overall Time: 213.21450
+Other Data Processing Time: 0.00033

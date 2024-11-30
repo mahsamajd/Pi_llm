@@ -1,0 +1,30 @@
+Audio File: question_80.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    context, terraprata, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management. The development of this
+   fertile soil allowed agriculture and silviculture in the previously hostile environment,
+   meaning that large portions of the Amazon rainforest are probably the result of centuries of
+   human. Management, rather than naturally occurring as has previously been supposed. In the region
+   of the Shingu tribe, remains of some of these large settlements in the middle of the Amazon forest
+   were found in 2003 by Michael Hackenberger and colleagues of the University of Florida.
+   Among those were evidence of roads. Bridges and large plazas, question. Who discovered this
+   What was this and where did they come from?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, terraprata, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management. The development of this
+   fertile soil allowed agriculture and silviculture in the previously hostile environment,
+   meaning that large portions of the Amazon rainforest are probably the result of centuries of
+   human. Management, rather than naturally occurring as has previously been supposed. In the region
+   of the Shingu tribe, remains of some of these large settlements in the middle of the Amazon forest
+   were found in 2003 by Michael Hackenberger and colleagues of the University of Florida.
+   Among those were evidence of roads. Bridges and large plazas, question. Who discovered this
+   What was this and where did they come from?
+Answer:  In 2003, Michael Hackenberger and colleagues of the University of Florida discovered these large settlements in the middle of the Amazon rainforest by using a combination of satellite data, remote sensing and archaeological analysis. These settlements were located in the middle
+Transcription Time: 8.04005 seconds
+Words per Second: 15.42279 WPS
+Inference Time: 18.72336 seconds
+Tokens per Second: 9.98752 TPS
+Overall Time: 26.76366
+Other Data Processing Time: 0.00024

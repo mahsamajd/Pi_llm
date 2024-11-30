@@ -1,0 +1,38 @@
+Audio File: question_70.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. The modern trend in design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely
+   separate companies, even in the larger firms presently. A firm that is nominally an architecture
+   or "construction management" firm may have experts from.
+   All related fields as employees or to have an associated company that provides each
+   necessary skill. Thus, each such firm may offer itself as one-stop shopping for a construction
+   project. From beginning to end, this is designated as a "design build" contract where the contractor
+   is given a performance. Specification and must undertake the project from design to construction.
+   While adhering to the performance specifications, question, even in large firms, architects,
+   interior designers, engineers, developers, construction managers, and general contractors
+   were more likely to be what.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The modern trend in design is toward integration of previously separated specialties.
+   Especially among large firms in the past, architects, interior designers, engineers,
+   developers, construction managers, and general contractors were more likely to be entirely
+   separate companies, even in the larger firms presently. A firm that is nominally an architecture
+   or "construction management" firm may have experts from.
+   All related fields as employees or to have an associated company that provides each
+   necessary skill. Thus, each such firm may offer itself as one-stop shopping for a construction
+   project. From beginning to end, this is designated as a "design build" contract where the contractor
+   is given a performance. Specification and must undertake the project from design to construction.
+   While adhering to the performance specifications, question, even in large firms, architects,
+   interior designers, engineers, developers, construction managers, and general contractors
+   were more likely to be what.
+Answer:
+1. Context: In the context of construction management, "design build" is a method of project delivery where the contractor is given the authority to design and manage the project from beginning to end.
+2. The modern trend in design is toward
+Transcription Time: 20.62 seconds
+Words per Second: 7.03133 WPS
+Inference Time: 44.45014 seconds
+Tokens per Second: 4.67940 TPS
+Overall Time: 65.07267
+Other Data Processing Time: 0.00054

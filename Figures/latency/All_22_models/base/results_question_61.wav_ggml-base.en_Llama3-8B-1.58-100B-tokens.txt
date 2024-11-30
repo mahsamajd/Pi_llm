@@ -1,0 +1,42 @@
+Audio File: question_61.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context. "Monkey Khan" commenced a military campaign against the Chinese song dynasty in
+   southern China. The Mongol force that invaded southern China was far greater than the force
+   they sent to invade the Middle East in 1256. He died in 1259 without a successor. Kublay
+   returned from fighting the song in 1260 when he learned that his brother.
+   Arik Boke, was challenging his claim to the throne. Kublay convened a karaltai in Kaiping
+   that elected him Great Khan. Arrival karaltai in Mongolia proclaimed Arik Boke Great Khan.
+   Beginning a civil war, Kublay depended on the cooperation of his Chinese subjects to ensure that
+   his army received ample resources. He bolstered his popularity among his subjects by modeling his
+   government on the bureaucracy of. Traditional Chinese dynasties and adopting the Chinese
+   era name of Zhongtong. Arik Boke was hampered by inadequate supplies and surrendered in 1264.
+   All of the three western Khanates, Golden Horde, Chagatai Khanate and Ilkhanate,
+   became functionally autonomous, although only the Ilkhan's truly recognized Kublay as Great Khan.
+   Civil strife had permanently divided the Mongol Empire.
+   Question. Where did Manki Khan attack the Song dynasty?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. "Monkey Khan" commenced a military campaign against the Chinese song dynasty in
+   southern China. The Mongol force that invaded southern China was far greater than the force
+   they sent to invade the Middle East in 1256. He died in 1259 without a successor. Kublay
+   returned from fighting the song in 1260 when he learned that his brother.
+   Arik Boke, was challenging his claim to the throne. Kublay convened a karaltai in Kaiping
+   that elected him Great Khan. Arrival karaltai in Mongolia proclaimed Arik Boke Great Khan.
+   Beginning a civil war, Kublay depended on the cooperation of his Chinese subjects to ensure that
+   his army received ample resources. He bolstered his popularity among his subjects by modeling his
+   government on the bureaucracy of. Traditional Chinese dynasties and adopting the Chinese
+   era name of Zhongtong. Arik Boke was hampered by inadequate supplies and surrendered in 1264.
+   All of the three western Khanates, Golden Horde, Chagatai Khanate and Ilkhanate,
+   became functionally autonomous, although only the Ilkhan's truly recognized Kublay as Great Khan.
+   Civil strife had permanently divided the Mongol Empire.
+   Question. Where did Manki Khan attack the Song dynasty?
+Answer: The Mongol army invaded Song dynasty in 1250. Mongols invaded China in 1234. Mongol
+invaded China in 1234. Mongols invaded China in 1234.
+The Mongols invaded China in 1234
+Transcription Time: 22.80618 seconds
+Words per Second: 8.19953 WPS
+Inference Time: 81.77196 seconds
+Tokens per Second: 2.91053 TPS
+Overall Time: 104.57831
+Other Data Processing Time: 0.00017

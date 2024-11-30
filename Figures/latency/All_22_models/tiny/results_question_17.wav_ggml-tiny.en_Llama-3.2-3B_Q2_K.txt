@@ -1,0 +1,30 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q2_K.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Answer: In my opinion, the geographic scholars did not work for themselves, but they worked for their
+empire, as they believed that the people in the northern Europe and the mid-Atlantic temperate zone were
+the hardest workers and the most upstanding
+Transcription Time: 7.82949 seconds
+Words per Second: 13.79400 WPS
+Inference Time: 51.53385 seconds
+Tokens per Second: 3.30 TPS
+Overall Time: 59.36416
+Other Data Processing Time: 0.00081

@@ -1,0 +1,31 @@
+Audio File: question_18.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established. Earning Jacksonville, the title of winter film
+   capital of the world. However, the emergence of Hollywood as a major film production center ended
+   the city's film industry. One converted movie studio site. Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville silent film museum at Norman Studios, question.
+   Who was drawn to Jacksonville in the 1910s?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established. Earning Jacksonville, the title of winter film
+   capital of the world. However, the emergence of Hollywood as a major film production center ended
+   the city's film industry. One converted movie studio site. Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville silent film museum at Norman Studios, question.
+   Who was drawn to Jacksonville in the 1910s?
+Answer:    the first big film studio built in the U.S.
+
+
+A: Answer: The film industry was very important in Jacksonville's early development. The city was the winter film capital of the world.
+
+A: The
+Transcription Time: 6.38730 seconds
+Words per Second: 14.71671 WPS
+Inference Time: 6.99340 seconds
+Tokens per Second: 21.30580 TPS
+Overall Time: 13.38086
+Other Data Processing Time: 0.00016

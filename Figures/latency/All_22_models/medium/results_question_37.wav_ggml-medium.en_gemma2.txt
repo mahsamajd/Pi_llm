@@ -1,0 +1,64 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2.gguf
+Transcription:    Context.
+   Ctenophores may be abundant during the summer months
+   in some coastal locations, but in other places
+   they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by ctenophores may control
+   the populations of small zooplanktonic organisms
+   such as copepods, which might otherwise
+   wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food
+   chains.
+   One ctenophore, Nemeopsis, has accidentally
+   been introduced into the Black Sea, where
+   it is blamed for causing fish stocks to collapse by eating
+   both fish larvae and organisms that would otherwise
+   have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes
+   that promoted the growth of the Nemeopsis population.
+   The later accidental introduction of Barrow
+   helped to mitigate the problem.
+   As Barrow preys on other ctenophores,
+   question, what ctenophore was accidentally
+   introduced into the Black Sea?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context.
+   Ctenophores may be abundant during the summer months
+   in some coastal locations, but in other places
+   they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by ctenophores may control
+   the populations of small zooplanktonic organisms
+   such as copepods, which might otherwise
+   wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food
+   chains.
+   One ctenophore, Nemeopsis, has accidentally
+   been introduced into the Black Sea, where
+   it is blamed for causing fish stocks to collapse by eating
+   both fish larvae and organisms that would otherwise
+   have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes
+   that promoted the growth of the Nemeopsis population.
+   The later accidental introduction of Barrow
+   helped to mitigate the problem.
+   As Barrow preys on other ctenophores,
+   question, what ctenophore was accidentally
+   introduced into the Black Sea?
+Answer:
+Ctenophores are filter-feeding invertebrate marine animals that inhabit the coastal areas. The species of ctenophores vary depending on the geographic location.
+Ctenophores are divided into two main groups:
+1. Aglantha
+2.
+Transcription Time: 172.51 seconds
+Words per Second: 0.86371 WPS
+Inference Time: 88.69934 seconds
+Tokens per Second: 2.27736 TPS
+Overall Time: 261.21196
+Other Data Processing Time: 0.00019

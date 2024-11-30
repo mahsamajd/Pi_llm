@@ -1,0 +1,30 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rieen no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows
+   farther west, through the Wall and then, via the Merweed and New Merweed, De Beesbosch,
+   merging with the Meuse, through the Hollands Deep and Herringveld estuaries, into the North Sea,
+   the Beneden-Merweed branches off, near Hardincksveld geessenden and continues as the Nord,
+   to join the Lech, near the village of Kinderdijk, to form the New Maas, then flows past Rotterdam
+   and continues via Hetscher and the New Water Weg. To the North Sea, the Oud Maas branches off,
+   near Dordrecht, farther down rejoining the New Maas to form Hetscher,
+   Question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rieen no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows
+   farther west, through the Wall and then, via the Merweed and New Merweed, De Beesbosch,
+   merging with the Meuse, through the Hollands Deep and Herringveld estuaries, into the North Sea,
+   the Beneden-Merweed branches off, near Hardincksveld geessenden and continues as the Nord,
+   to join the Lech, near the village of Kinderdijk, to form the New Maas, then flows past Rotterdam
+   and continues via Hetscher and the New Water Weg. To the North Sea, the Oud Maas branches off,
+   near Dordrecht, farther down rejoining the New Maas to form Hetscher,
+   Question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Answer: The two-thirds of the Rhine flow west of Germany. [end of text]
+Transcription Time: 158.43740 seconds
+Words per Second: 0.83945 WPS
+Inference Time: 343.85355 seconds
+Tokens per Second: 0.48567 TPS
+Overall Time: 502.29132
+Other Data Processing Time: 0.00037

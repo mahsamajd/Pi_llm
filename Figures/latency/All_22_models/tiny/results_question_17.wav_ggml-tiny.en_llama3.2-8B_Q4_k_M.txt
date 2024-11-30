@@ -1,0 +1,28 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q4_k_M.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Answer: The geographic scholars worked for the Europeans in the 19th century. The geographic scholars were Europeans themselves. They were trying to justify their conquest and exploitation of the colonies in Africa and Asia. They wanted to be able to say that the people in the
+Transcription Time: 8.37226 seconds
+Words per Second: 12.89974 WPS
+Inference Time: 108.35255 seconds
+Tokens per Second: 1.61510 TPS
+Overall Time: 116.72505
+Other Data Processing Time: 0.00023

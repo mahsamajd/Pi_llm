@@ -1,0 +1,26 @@
+Audio File: question_14.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Answer: The first battle in 1754 was the Battle of Lake George, also known as the Battle of Fort Duquesne, which took place on August 19, 1754, near Lake George, in what is now northern New York and southern
+Transcription Time: 6.01338 seconds
+Words per Second: 16.96218 WPS
+Inference Time: 16.92277 seconds
+Tokens per Second: 9.57290 TPS
+Overall Time: 22.93631
+Other Data Processing Time: 0.00015

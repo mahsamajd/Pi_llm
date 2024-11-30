@@ -1,0 +1,32 @@
+Audio File: question_80.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    Context, Terra Prada, Black Earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management.
+   The development of this fertile soil allowed agriculture and silviculture in the previously
+   hostile environment, meaning that large portions of the Amazon rainforest are probably the result
+   of centuries of human. Management, rather than naturally occurring as has previously been
+   supposed, in the region of the Shingu tribe, remains of some of these large settlements
+   in the middle of the Amazon forest were found in 2003 by. Michael Hackenberger and colleagues
+   of the University of Florida, among those were evidence of roads. Bridges and large plazas,
+   Question. Who discovered this and where did they come from?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, Terra Prada, Black Earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management.
+   The development of this fertile soil allowed agriculture and silviculture in the previously
+   hostile environment, meaning that large portions of the Amazon rainforest are probably the result
+   of centuries of human. Management, rather than naturally occurring as has previously been
+   supposed, in the region of the Shingu tribe, remains of some of these large settlements
+   in the middle of the Amazon forest were found in 2003 by. Michael Hackenberger and colleagues
+   of the University of Florida, among those were evidence of roads. Bridges and large plazas,
+   Question. Who discovered this and where did they come from?
+Answer:  The Shingu tribe was one of the few tribes that lived in the Amazon rainforest. They discovered
+the ruins of their ancestors that had been buried in the ground by the development of the soil. They found
+the evidence of what was once
+Transcription Time: 15.04363 seconds
+Words per Second: 8.10974 WPS
+Inference Time: 18.44400 seconds
+Tokens per Second: 10.13880 TPS
+Overall Time: 33.48781
+Other Data Processing Time: 0.00018

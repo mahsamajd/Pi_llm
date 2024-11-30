@@ -1,0 +1,31 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B.gguf
+Transcription:    context. From here, the situation becomes more complicated, as the Dutch name Rian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west. Through the Wall and then, via the Merweed and New Merweed, De Besposh, merging with the Muse,
+   through the Hollins deep and herringvlete estuaries. Into the North Sea, the Benadine Merweed branches
+   off. Near Hardinksville, Geesendum and continues as the Nord. To join the Lech, near the village
+   of Kinderdeek. To form the New Moss. Then flows past Rotterdam and continues via Het Shure and
+   the New Waterweg. To the North Sea, the Eud Moss branches off. Near Dordrecht, farther down rejoining
+   the New Moss to form Het Shure, question. Which direction does two-thirds of the Rhine flow outside
+   of Germany?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. From here, the situation becomes more complicated, as the Dutch name Rian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west. Through the Wall and then, via the Merweed and New Merweed, De Besposh, merging with the Muse,
+   through the Hollins deep and herringvlete estuaries. Into the North Sea, the Benadine Merweed branches
+   off. Near Hardinksville, Geesendum and continues as the Nord. To join the Lech, near the village
+   of Kinderdeek. To form the New Moss. Then flows past Rotterdam and continues via Het Shure and
+   the New Waterweg. To the North Sea, the Eud Moss branches off. Near Dordrecht, farther down rejoining
+   the New Moss to form Het Shure, question. Which direction does two-thirds of the Rhine flow outside
+   of Germany?
+Answer:      The water flow volume of the Rhine flows farther west through the Wall and then, via the
+   Merweed and New Merweed, De Besposh, merging with the Muse, through the Hollins deep and herringvlete
+Transcription Time: 15.99292 seconds
+Words per Second: 8.44123 WPS
+Inference Time: 1820.61546 seconds
+Tokens per Second: 0.10436 TPS
+Overall Time: 1836.60850
+Other Data Processing Time: 0.00011

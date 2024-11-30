@@ -1,0 +1,33 @@
+Audio File: question_86.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B.gguf
+Transcription:    context. Western medicine was also practiced in China by the Nestorian Christians of the
+   Yuan court. Where it was sometimes labeled as Wei-wei or Muslim medicine, the Nestorian
+   physician Jesus the interpreter founded the office of Western medicine in 1263 during.
+   The reign of Kublai, Wei-wei doctors staffed at two imperial hospitals were responsible
+   for treating the imperial family. And members of the court, Chinese physicians opposed Western
+   medicine because its humoral system contradicted the yin-yang. And waxing philosophy underlying
+   traditional Chinese medicine. No Chinese translation of Western medical works is known,
+   but it is possible that the Chinese had access to Avasen as the canon of medicine, question.
+   Who founded the Office of Western Medicine?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. Western medicine was also practiced in China by the Nestorian Christians of the
+   Yuan court. Where it was sometimes labeled as Wei-wei or Muslim medicine, the Nestorian
+   physician Jesus the interpreter founded the office of Western medicine in 1263 during.
+   The reign of Kublai, Wei-wei doctors staffed at two imperial hospitals were responsible
+   for treating the imperial family. And members of the court, Chinese physicians opposed Western
+   medicine because its humoral system contradicted the yin-yang. And waxing philosophy underlying
+   traditional Chinese medicine. No Chinese translation of Western medical works is known,
+   but it is possible that the Chinese had access to Avasen as the canon of medicine, question.
+   Who founded the Office of Western Medicine?
+Answer: 1) Jesus the interpreter
+2) The Nestorian Christians
+3) The Yuan court
+4) The imperial family [end of text]
+Transcription Time: 6.53732 seconds
+Words per Second: 17.74427 WPS
+Inference Time: 1001.51722 seconds
+Tokens per Second: 0.15676 TPS
+Overall Time: 1008.05501
+Other Data Processing Time: 0.00047

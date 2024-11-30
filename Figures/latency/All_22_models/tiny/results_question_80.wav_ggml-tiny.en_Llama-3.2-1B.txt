@@ -1,0 +1,32 @@
+Audio File: question_80.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B.gguf
+Transcription:    context, terraprata, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management. The development of this
+   fertile soil allowed agriculture and silviculture in the previously hostile environment,
+   meaning that large portions of the Amazon rainforest are probably the result of centuries of
+   human. Management, rather than naturally occurring as has previously been supposed. In the region
+   of the Shingu tribe, remains of some of these large settlements in the middle of the Amazon forest
+   were found in 2003 by Michael Hackenberger and colleagues of the University of Florida.
+   Among those were evidence of roads. Bridges and large plazas, question. Who discovered this
+   What was this and where did they come from?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, terraprata, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management. The development of this
+   fertile soil allowed agriculture and silviculture in the previously hostile environment,
+   meaning that large portions of the Amazon rainforest are probably the result of centuries of
+   human. Management, rather than naturally occurring as has previously been supposed. In the region
+   of the Shingu tribe, remains of some of these large settlements in the middle of the Amazon forest
+   were found in 2003 by Michael Hackenberger and colleagues of the University of Florida.
+   Among those were evidence of roads. Bridges and large plazas, question. Who discovered this
+   What was this and where did they come from?
+Answer:   The Shingu tribe
+   This was a large tribe who lived in the middle of the Amazon forest. They came from the
+   Andean region. They were a nomadic people who traveled the forest. They would cut down the
+Transcription Time: 8.16319 seconds
+Words per Second: 15.19014 WPS
+Inference Time: 31.63776 seconds
+Tokens per Second: 5.78423 TPS
+Overall Time: 39.80112
+Other Data Processing Time: 0.00016

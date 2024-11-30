@@ -1,0 +1,31 @@
+Audio File: question_66.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B.gguf
+Transcription:    Context, AUSTPAC was an Australian public by .25 network operated by Telstra.
+   Started by telecom Australia in the early 1980s, AUSTPAC was Australia's first public
+   packet switched data network. Supporting applications such as online betting,
+   financial applications, the Australian tax office made use of AUSTPAC.
+   and remote terminal access to academic institutions.
+   Who maintained their connections to AUSTPAC up until the mid-late 1990s in some cases?
+   Access can be via a dial-up terminal to a pad, or, by linking a permanent by .25 node to the network.
+   Citation needed, question, what did AUSTPAC support?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, AUSTPAC was an Australian public by .25 network operated by Telstra.
+   Started by telecom Australia in the early 1980s, AUSTPAC was Australia's first public
+   packet switched data network. Supporting applications such as online betting,
+   financial applications, the Australian tax office made use of AUSTPAC.
+   and remote terminal access to academic institutions.
+   Who maintained their connections to AUSTPAC up until the mid-late 1990s in some cases?
+   Access can be via a dial-up terminal to a pad, or, by linking a permanent by .25 node to the network.
+   Citation needed, question, what did AUSTPAC support?
+Answer:    The first and foremost applications was Online Betting.
+   The Australian tax office made use of AUSTPAC.
+   Remote terminal access to academic institutions.
+   The question, who maintained their connections to AUSTPAC up until the mid-late
+Transcription Time: 6.38104 seconds
+Words per Second: 14.73114 WPS
+Inference Time: 29.05343 seconds
+Tokens per Second: 5.16290 TPS
+Overall Time: 35.43462
+Other Data Processing Time: 0.00016

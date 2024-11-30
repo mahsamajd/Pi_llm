@@ -1,0 +1,28 @@
+Audio File: question_30.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription. Many customers
+   order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+   Or to obtain medications which their doctors were unwilling to prescribe. However,
+   this practice has been criticized as potentially dangerous, especially by those who feel that only
+   doctors can reliably assess country indications. Risk benefit ratios, and an individual's overall
+   suitability for use of a medication. There also have been reports of such pharmacies dispensing
+   substandard products, question. What practice do some internet pharmacies engage in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription. Many customers
+   order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+   Or to obtain medications which their doctors were unwilling to prescribe. However,
+   this practice has been criticized as potentially dangerous, especially by those who feel that only
+   doctors can reliably assess country indications. Risk benefit ratios, and an individual's overall
+   suitability for use of a medication. There also have been reports of such pharmacies dispensing
+   substandard products, question. What practice do some internet pharmacies engage in?
+Answer:  A number of people who order drugs from internet pharmacies do so in order to obtain prescription drugs which they feel their doctors were unwilling to prescribe. However, it is not uncommon for these people to be unaware that these internet pharmacies are only able to disp
+Transcription Time: 7.89259 seconds
+Words per Second: 13.17691 WPS
+Inference Time: 51.79987 seconds
+Tokens per Second: 3.33978 TPS
+Overall Time: 59.69260
+Other Data Processing Time: 0.00013

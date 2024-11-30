@@ -1,0 +1,47 @@
+Audio File: question_94.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context, Warsaw's name in the Polish language is Barsova.
+   Approximately, VRV, also formerly spelled Worsheva and Worshewa,
+   meaning belonging to Worshe,
+   Worshe being a shortened form of the masculine name of Slavic origin Worsheyslof.
+   See also at a mology of Wrotswaf,
+   folk at a mology attributes the city name to a fisherman,
+   Wors and his wife, Sawa, according to legend,
+   Sawa was a mermaid living in the Vistula River with whom Worshe fell in love.
+   In actuality, Worshe was a 12th-13th-century nobleman who owned a village located at the modern-day
+   site of.
+   Marion Statnaborhood, see also the Versace family which had escaped to Poland.
+   The official city name in full is Miyastostolichne Varsava.
+   English, the capital city of Worshe.
+   A native or resident of Worshe is known as a Varsovian in Polish varsavic.
+   Male, Varsavianka, female, Varsavia C, plural, question.
+   What is the full official city name of Worshe?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, Warsaw's name in the Polish language is Barsova.
+   Approximately, VRV, also formerly spelled Worsheva and Worshewa,
+   meaning belonging to Worshe,
+   Worshe being a shortened form of the masculine name of Slavic origin Worsheyslof.
+   See also at a mology of Wrotswaf,
+   folk at a mology attributes the city name to a fisherman,
+   Wors and his wife, Sawa, according to legend,
+   Sawa was a mermaid living in the Vistula River with whom Worshe fell in love.
+   In actuality, Worshe was a 12th-13th-century nobleman who owned a village located at the modern-day
+   site of.
+   Marion Statnaborhood, see also the Versace family which had escaped to Poland.
+   The official city name in full is Miyastostolichne Varsava.
+   English, the capital city of Worshe.
+   A native or resident of Worshe is known as a Varsovian in Polish varsavic.
+   Male, Varsavianka, female, Varsavia C, plural, question.
+   What is the full official city name of Worshe?
+Answer:
+   The city name in full is Miyastostolichne Varsava.
+   English, the capital city of Worshe.
+   A native or resident of Worshe is known as a Varsovian in
+Transcription Time: 11.93244 seconds
+Words per Second: 12.48697 WPS
+Inference Time: 10.87827 seconds
+Tokens per Second: 18.10950 TPS
+Overall Time: 22.81091
+Other Data Processing Time: 0.00020

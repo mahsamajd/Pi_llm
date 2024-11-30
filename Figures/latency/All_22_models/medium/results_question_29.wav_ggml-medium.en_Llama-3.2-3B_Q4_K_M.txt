@@ -1,0 +1,34 @@
+Audio File: question_29.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context. After strengthening his government in Northern China, Kublai pursued an expansionist
+   policy in line with the tradition of Mongol and Chinese imperialism. He renewed a massive
+   drive against the Song dynasty to the south. Kublai besieged Xiangyang between 1268 and 1273,
+   the last obstacle in his way to capture the rich Yangtze River basin.
+   An unsuccessful naval expedition was undertaken against Japan in 1274.
+   Kublai captured the Song capital of Hangzhou in 1276. The wealthiest city of China, Song
+   loyalists escaped from the capital and enthroned a young child as Emperor Bing of Song. The Mongols
+   defeated the loyalists at the Battle of Yamen in 1279. The last Song emperor drowned, bringing an
+   end to the Song dynasty. The conquest of the Song reunited northern and southern China for
+   the first time in 300 years. Question. Where did Kublai build his administration's strength?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. After strengthening his government in Northern China, Kublai pursued an expansionist
+   policy in line with the tradition of Mongol and Chinese imperialism. He renewed a massive
+   drive against the Song dynasty to the south. Kublai besieged Xiangyang between 1268 and 1273,
+   the last obstacle in his way to capture the rich Yangtze River basin.
+   An unsuccessful naval expedition was undertaken against Japan in 1274.
+   Kublai captured the Song capital of Hangzhou in 1276. The wealthiest city of China, Song
+   loyalists escaped from the capital and enthroned a young child as Emperor Bing of Song. The Mongols
+   defeated the loyalists at the Battle of Yamen in 1279. The last Song emperor drowned, bringing an
+   end to the Song dynasty. The conquest of the Song reunited northern and southern China for
+   the first time in 300 years. Question. Where did Kublai build his administration's strength?
+Answer:      1. Kublai built his administration's strength in his own capital of Khanbalik, which was later
+      renamed Beijing. It was also the seat of the Great Khan, and it was here that the most
+      important political
+Transcription Time: 154.51681 seconds
+Words per Second: 0.93194 WPS
+Inference Time: 61.33607 seconds
+Tokens per Second: 3.28 TPS
+Overall Time: 215.85312
+Other Data Processing Time: 0.00024

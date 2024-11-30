@@ -1,0 +1,30 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split into
+   climatic zones. These scholars believe that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being, alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy,
+   the people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure. They were seen as
+   incapable of such a feat. Similarly, Orientalism is a view of a people based on their geographical
+   location. Question, who did the geographic scholars work for?
+Answer: The geographic scholars worked for the European empires. These empires were colonized by
+Europeans who believed in the superiority of their culture and that they had the right to colonize
+these lands. The geographic scholars believed that the people of these
+Transcription Time: 8.24035 seconds
+Words per Second: 13.10624 WPS
+Inference Time: 48.78587 seconds
+Tokens per Second: 3.51 TPS
+Overall Time: 57.02643
+Other Data Processing Time: 0.00021

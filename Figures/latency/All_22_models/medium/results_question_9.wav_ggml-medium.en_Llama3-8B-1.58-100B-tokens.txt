@@ -1,0 +1,30 @@
+Audio File: question_9.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict, conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not only
+   always oppose infidels in every way but hate them for their religion. For Allah's sake,
+   that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahhabi Muslims were infidels. etc.
+   While this effort has by no means converted all or even most Muslims to the Wahhabist
+   interpretation of Islam, it has done much to overwhelm more moderate local interpretations
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question what type of interpretation of Islam does Salafism promote.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict, conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not only
+   always oppose infidels in every way but hate them for their religion. For Allah's sake,
+   that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahhabi Muslims were infidels. etc.
+   While this effort has by no means converted all or even most Muslims to the Wahhabist
+   interpretation of Islam, it has done much to overwhelm more moderate local interpretations
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question what type of interpretation of Islam does Salafism promote.
+Answer: Wahhabism is a religious sect that was founded in the 18th century in Saudi Arabia. It is a strict and conservative interpretation of the Koran that is practiced by Saudi Arabia's ruling family. It is also a part of the Salaf
+Transcription Time: 157.23771 seconds
+Words per Second: 0.79497 WPS
+Inference Time: 61.51853 seconds
+Tokens per Second: 3.05599 TPS
+Overall Time: 218.75642
+Other Data Processing Time: 0.00018

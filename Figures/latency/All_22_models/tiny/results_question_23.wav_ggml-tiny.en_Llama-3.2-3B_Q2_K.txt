@@ -1,0 +1,32 @@
+Audio File: question_23.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q2_K.gguf
+Transcription:    Context, the College of the University of Chicago grants Bachelor of Arts and Bachelor of Science degrees in.
+   50 academic majors and 28 minors.
+   The College's academics are divided into five divisions.
+   The Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division,
+   the Social Sciences Collegiate Division, the Humanities Collegiate Division, and the New Collegiate Division.
+   The first four are sections within their corresponding graduate divisions.
+   While the New Collegiate Division administers interdisciplinary majors and studies which do not fit.
+   In one of the other four divisions, question.
+   What division offers more than one branch of studies that don't fit in with the other four?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the College of the University of Chicago grants Bachelor of Arts and Bachelor of Science degrees in.
+   50 academic majors and 28 minors.
+   The College's academics are divided into five divisions.
+   The Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division,
+   the Social Sciences Collegiate Division, the Humanities Collegiate Division, and the New Collegiate Division.
+   The first four are sections within their corresponding graduate divisions.
+   While the New Collegiate Division administers interdisciplinary majors and studies which do not fit.
+   In one of the other four divisions, question.
+   What division offers more than one branch of studies that don't fit in with the other four?
+Answer: The first four are sections within their corresponding graduate divisions. While the New Collegiate Division administers interdisciplinary majors and studies which do not fit, in one of the other four divisions, there is a question.
+
+This is an example of a question. I
+Transcription Time: 6.12632 seconds
+Words per Second: 17.13916 WPS
+Inference Time: 50.28286 seconds
+Tokens per Second: 3.38 TPS
+Overall Time: 56.40968
+Other Data Processing Time: 0.00049

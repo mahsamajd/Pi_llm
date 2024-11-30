@@ -1,0 +1,35 @@
+Audio File: question_38.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q2_K.gguf
+Transcription:    context. In 2005, parts of the Amazon basin experienced the worst drought in 100 years.
+   And there were indications that 2006 could have been a second success of year of drought.
+   Age of I-23, 2006 article in the UK newspaper The Independent reported Woods Hole Research Center
+   results. Showing that the forest in its present form could survive only three years of drought.
+   Scientists at the Brazilian National Institute of Amazonian Research argue in the article that this,
+   drought response, coupled with the effects of deforestation on regional climate,
+   are pushing the rainforest towards a tipping point where it would irreversibly start to die.
+   It concludes that the forest is on the brink of being turned into savanna or desert.
+   With catastrophic consequences for the world's climate,
+   question. What organization predicted that the Amazon forest could survive only three years of drought?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In 2005, parts of the Amazon basin experienced the worst drought in 100 years.
+   And there were indications that 2006 could have been a second success of year of drought.
+   Age of I-23, 2006 article in the UK newspaper The Independent reported Woods Hole Research Center
+   results. Showing that the forest in its present form could survive only three years of drought.
+   Scientists at the Brazilian National Institute of Amazonian Research argue in the article that this,
+   drought response, coupled with the effects of deforestation on regional climate,
+   are pushing the rainforest towards a tipping point where it would irreversibly start to die.
+   It concludes that the forest is on the brink of being turned into savanna or desert.
+   With catastrophic consequences for the world's climate,
+   question. What organization predicted that the Amazon forest could survive only three years of drought?
+Answer:     It's easy to identify the main question in this passage because there
+   is only one main question. However, the question is not clear in the
+   first sentence because the word 'question' is used in a generic way.
+   In
+Transcription Time: 7.14328 seconds
+Words per Second: 19.87884 WPS
+Inference Time: 124.47179 seconds
+Tokens per Second: 1.62286 TPS
+Overall Time: 131.61555
+Other Data Processing Time: 0.00048

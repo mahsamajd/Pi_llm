@@ -1,0 +1,40 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q2_k.gguf
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in.
+   1996. The leadership of the Brotherhood, led by Hassan al-Hudaybi,
+   remained moderate and interested in political negotiation and activism.
+   Fringe or splinter movements inspired by the final writings of QGB in the mid-1960s.
+   Particularly the Manifesto Milestones, aka Maalim Fial Tarek, did, however,
+   develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals,
+   question.
+   When had the Brotherhood renounced violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in.
+   1996. The leadership of the Brotherhood, led by Hassan al-Hudaybi,
+   remained moderate and interested in political negotiation and activism.
+   Fringe or splinter movements inspired by the final writings of QGB in the mid-1960s.
+   Particularly the Manifesto Milestones, aka Maalim Fial Tarek, did, however,
+   develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals,
+   question.
+   When had the Brotherhood renounced violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Answer:
+   By the 1970s, the Brotherhood had renneeded
+   and his.
+   A more radical,
+   a.
+   By the 1970s, the
+   and.
+Transcription Time: 12.19679 seconds
+Words per Second: 7.87092 WPS
+Inference Time: 67.31196 seconds
+Tokens per Second: 2.02044 TPS
+Overall Time: 79.50924
+Other Data Processing Time: 0.00049

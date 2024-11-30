@@ -1,0 +1,32 @@
+Audio File: question_22.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    Context, the variant forms of the name of the Rhine in modern languages are all derived from the Gollish.
+   Name Rinos, which was adapted in Roman era geography.
+   First century BC, as Greek Rinos, Rinos, Latin Rinos, Note 3, the spelling with R H and English Rhine as well as in German Rhine and French RIN is due to the influence of Greek orthography,
+   while the vocalisation I is due to the Proto-Germanic adoption of the Gollish name as asterisk Rinos.
+   The old Frankish giving old English RIN, Old High German RIN, Dutch RIN, formerly also spelled Rhine, the Diphthong in modern German Rhine, also adopted in Roman Shrain.
+   Rain, is a central German development of the early modern period.
+   The alle manic name RIN, N, retaining the older vocalism. Note 4, as does ripewarian RIN, while Palatine has Diphthongized RAY.
+   Roy, Spanish is with French in adopting the Germanic vocalism RIN.
+   While Italian, Occitan and Portuguese retain the Latin RIN, question.
+   What is the French name for the Rhine?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the variant forms of the name of the Rhine in modern languages are all derived from the Gollish.
+   Name Rinos, which was adapted in Roman era geography.
+   First century BC, as Greek Rinos, Rinos, Latin Rinos, Note 3, the spelling with R H and English Rhine as well as in German Rhine and French RIN is due to the influence of Greek orthography,
+   while the vocalisation I is due to the Proto-Germanic adoption of the Gollish name as asterisk Rinos.
+   The old Frankish giving old English RIN, Old High German RIN, Dutch RIN, formerly also spelled Rhine, the Diphthong in modern German Rhine, also adopted in Roman Shrain.
+   Rain, is a central German development of the early modern period.
+   The alle manic name RIN, N, retaining the older vocalism. Note 4, as does ripewarian RIN, while Palatine has Diphthongized RAY.
+   Roy, Spanish is with French in adopting the Germanic vocalism RIN.
+   While Italian, Occitan and Portuguese retain the Latin RIN, question.
+   What is the French name for the Rhine?
+Answer: The French name for the Rhine is "le Rhin." In French, the name of the river Rhine has been adapted from the historical and geographical influences over time. The term "Rhin" reflects the influence of both the
+Transcription Time: 12.83783 seconds
+Words per Second: 13.24212 WPS
+Inference Time: 89.17117 seconds
+Tokens per Second: 2.56809 TPS
+Overall Time: 102.00916
+Other Data Processing Time: 0.00016

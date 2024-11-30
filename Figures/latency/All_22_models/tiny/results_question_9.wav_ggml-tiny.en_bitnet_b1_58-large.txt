@@ -1,0 +1,31 @@
+Audio File: question_9.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context. The interpretation of Islam promoted by this funding was the strict. Conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not
+   only always oppose infidels in every way, but hate them for their religion. For all is
+   sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That she and other non-Wahabi Muslims were infidels. etc. while this effort has by no means converted
+   all. Or even most Muslims to the Wahhabist interpretation of Islam. It has done much to overwhelm
+   more moderate local interpretations. And has set the Saudi interpretation of Islam as the
+   gold standard of religion in minds of some. Or many Muslims question, what type of interpretation
+   of Islam de Salaphism promote.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. The interpretation of Islam promoted by this funding was the strict. Conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not
+   only always oppose infidels in every way, but hate them for their religion. For all is
+   sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That she and other non-Wahabi Muslims were infidels. etc. while this effort has by no means converted
+   all. Or even most Muslims to the Wahhabist interpretation of Islam. It has done much to overwhelm
+   more moderate local interpretations. And has set the Saudi interpretation of Islam as the
+   gold standard of religion in minds of some. Or many Muslims question, what type of interpretation
+   of Islam de Salaphism promote.
+Answer: Salafism is the ideology of Shari'ah, or the interpretation of the Quran.
+   Adopting the interpretations of the Quran, is a religion, not a set of rules, and
+Transcription Time: 8.83184 seconds
+Words per Second: 14.26656 WPS
+Inference Time: 8.09918 seconds
+Tokens per Second: 21.60712 TPS
+Overall Time: 16.93120
+Other Data Processing Time: 0.00017

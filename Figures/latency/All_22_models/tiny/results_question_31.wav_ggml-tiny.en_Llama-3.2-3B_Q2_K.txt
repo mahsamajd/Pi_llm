@@ -1,0 +1,35 @@
+Audio File: question_31.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q2_K.gguf
+Transcription:    Context, Harvard has purchased tracts of land in Alston, a walk across the Charles River from Cambridge.
+   With the intent of major expansion southward, the university now owns approximately 50% more land in Alston than in Cambridge.
+   Proposals to connect the Cambridge campus with the new Alston campus include new and enlarged.
+   Bridges, a shuttle service and/or a tram.
+   Plans also call for sinking part of Starrow Drive, at Harvard's expense, for replacement with park land and pedestrian access to the Charles River.
+   As well as the construction of bike paths, and buildings throughout the Alston campus,
+   the institution asserts that such expansion will benefit not only the school,
+   but surrounding community, pointing to such features as the enhanced transit infrastructure.
+   Possible shuttles open to the public.
+   And park space which will also be publicly accessible, question.
+   How much more land does the school own in Alston than Cambridge?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, Harvard has purchased tracts of land in Alston, a walk across the Charles River from Cambridge.
+   With the intent of major expansion southward, the university now owns approximately 50% more land in Alston than in Cambridge.
+   Proposals to connect the Cambridge campus with the new Alston campus include new and enlarged.
+   Bridges, a shuttle service and/or a tram.
+   Plans also call for sinking part of Starrow Drive, at Harvard's expense, for replacement with park land and pedestrian access to the Charles River.
+   As well as the construction of bike paths, and buildings throughout the Alston campus,
+   the institution asserts that such expansion will benefit not only the school,
+   but surrounding community, pointing to such features as the enhanced transit infrastructure.
+   Possible shuttles open to the public.
+   And park space which will also be publicly accessible, question.
+   How much more land does the school own in Alston than Cambridge?
+Answer: Harvard owns about 50,000 acres of land in Alston and less than 1% of that in Cambridge.
+   With the intent of major expansion southward, the university owns approximately 50,000 acres of land in Alston and less
+Transcription Time: 9.25076 seconds
+Words per Second: 16.10678 WPS
+Inference Time: 63.91197 seconds
+Tokens per Second: 3.24 TPS
+Overall Time: 73.16325
+Other Data Processing Time: 0.00051

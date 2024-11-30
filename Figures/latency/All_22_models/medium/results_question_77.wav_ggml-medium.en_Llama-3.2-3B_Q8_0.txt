@@ -1,0 +1,31 @@
+Audio File: question_77.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q8_0.gguf
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Breasted,
+   mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender
+   Friedrich Hayek, meteorologist Ted Fujita, chemists Glenn T. Seaborg,
+   the developer of the actinide concept and Nobel Prize winner Yuan T. Li,
+   Nobel Prize-winning novelist Saul Bellow, political philosopher and author Alan Bloom,
+   cancer researchers Charles Brenton Huggins and Janet Rowley, astronomer Gerard Kuiper,
+   one of the most important figures in the early development of the discipline of linguistics
+   Edward Sapper and the founder of McKinsey & Co., James O. McKinsey, question what mathematician was
+   also a part of the university's faculty.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Breasted,
+   mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender
+   Friedrich Hayek, meteorologist Ted Fujita, chemists Glenn T. Seaborg,
+   the developer of the actinide concept and Nobel Prize winner Yuan T. Li,
+   Nobel Prize-winning novelist Saul Bellow, political philosopher and author Alan Bloom,
+   cancer researchers Charles Brenton Huggins and Janet Rowley, astronomer Gerard Kuiper,
+   one of the most important figures in the early development of the discipline of linguistics
+   Edward Sapper and the founder of McKinsey & Co., James O. McKinsey, question what mathematician was
+   also a part of the university's faculty.
+Answer:    The answer to the question "What mathematician was also a part of the University's faculty" is
+    Albert Einstein. Albert Einstein was born on March 14, 1879 in Ulm, Germany and died on April 18,
+Transcription Time: 146.69617 seconds
+Words per Second: 0.69531 WPS
+Inference Time: 55.82839 seconds
+Tokens per Second: 2.83 TPS
+Overall Time: 202.52473
+Other Data Processing Time: 0.00017

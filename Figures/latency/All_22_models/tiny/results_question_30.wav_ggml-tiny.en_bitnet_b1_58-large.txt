@@ -1,0 +1,30 @@
+Audio File: question_30.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription. Many customers
+   order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+   Or to obtain medications which their doctors were unwilling to prescribe. However,
+   this practice has been criticized as potentially dangerous, especially by those who feel that only
+   doctors can reliably assess country indications. Risk benefit ratios, and an individual's overall
+   suitability for use of a medication. There also have been reports of such pharmacies dispensing
+   substandard products, question. What practice do some internet pharmacies engage in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription. Many customers
+   order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+   Or to obtain medications which their doctors were unwilling to prescribe. However,
+   this practice has been criticized as potentially dangerous, especially by those who feel that only
+   doctors can reliably assess country indications. Risk benefit ratios, and an individual's overall
+   suitability for use of a medication. There also have been reports of such pharmacies dispensing
+   substandard products, question. What practice do some internet pharmacies engage in?
+Answer:   Most internet pharmacies sell prescription drugs and require a valid prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor.
+   Or to obtain medications which
+Transcription Time: 8.00555 seconds
+Words per Second: 12.99098 WPS
+Inference Time: 7.38862 seconds
+Tokens per Second: 21.24888 TPS
+Overall Time: 15.39432
+Other Data Processing Time: 0.00015

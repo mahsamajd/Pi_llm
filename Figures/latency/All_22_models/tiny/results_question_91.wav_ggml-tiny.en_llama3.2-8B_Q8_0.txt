@@ -1,0 +1,30 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    context. From here, the situation becomes more complicated. As the Dutch name re-in no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine
+   flows farther west. Through the wall and then, via the moorweed and new moorweed,
+   Debis Bosch, merging with the muse, through the Holland's deep and herring fleet estuaries.
+   Into the north sea, the beneden-moorweed branches off. Near hardings filled geysundum and
+   continues as the nord. To join the lek, near the village of Kinderdeek. To form the new moss,
+   then flows past Rotterdam and continues via Hetcher in the new water wag.
+   To the north sea, the ud moss branches off. Near Dordricked, farther down rejoining the new moss
+   to form Hetcher, question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. From here, the situation becomes more complicated. As the Dutch name re-in no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine
+   flows farther west. Through the wall and then, via the moorweed and new moorweed,
+   Debis Bosch, merging with the muse, through the Holland's deep and herring fleet estuaries.
+   Into the north sea, the beneden-moorweed branches off. Near hardings filled geysundum and
+   continues as the nord. To join the lek, near the village of Kinderdeek. To form the new moss,
+   then flows past Rotterdam and continues via Hetcher in the new water wag.
+   To the north sea, the ud moss branches off. Near Dordricked, farther down rejoining the new moss
+   to form Hetcher, question. Which direction does two-thirds of the Rhine flow outside of Germany?
+Answer: Two-thirds of the Rhine flows west from Germany into the North Sea. This is due to the fact that the river is divided into two main channels: the Main Rhine and the Lower Rhine. The Main Rhine flows through the Netherlands and
+Transcription Time: 9.55838 seconds
+Words per Second: 14.12373 WPS
+Inference Time: 1000.96149 seconds
+Tokens per Second: 0.19881 TPS
+Overall Time: 1010.52010
+Other Data Processing Time: 0.00022

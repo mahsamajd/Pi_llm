@@ -1,0 +1,26 @@
+Audio File: question_14.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q4_K_M.gguf
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Answer: 1st Battle of the French and Indian War [end of text]
+Transcription Time: 6.03989 seconds
+Words per Second: 16.88772 WPS
+Inference Time: 11.99977 seconds
+Tokens per Second: 11.25022 TPS
+Overall Time: 18.03998
+Other Data Processing Time: 0.00032

@@ -1,0 +1,37 @@
+Audio File: question_96.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    context, each sitting day, normally at 5pm. MSPs decide on all the motions and amendments
+   that have been moved that day. This decision time is heralded by the sounding of the division bell,
+   which is heard throughout the parliamentary campus and alerts MSPs who are not in the chamber too.
+   Return and vote. At decision time, the presiding officer puts questions on the motions and
+   amendments by reading out the name of the motion or amendment as well as the
+   proposal and asking are we all agreed. Quote, to which the chamber first votes orally.
+   If there is audible dissent, the presiding officer announces there will be a division
+   and members vote by means of electronic consoles on their desks. Each MSP has a unique access
+   card with a microchip which, when inserted into the console, identifies them and allows them to
+   vote. As a result, the outcome of each division is known in seconds, question. How long does it
+   take to know the outcome of a division?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, each sitting day, normally at 5pm. MSPs decide on all the motions and amendments
+   that have been moved that day. This decision time is heralded by the sounding of the division bell,
+   which is heard throughout the parliamentary campus and alerts MSPs who are not in the chamber too.
+   Return and vote. At decision time, the presiding officer puts questions on the motions and
+   amendments by reading out the name of the motion or amendment as well as the
+   proposal and asking are we all agreed. Quote, to which the chamber first votes orally.
+   If there is audible dissent, the presiding officer announces there will be a division
+   and members vote by means of electronic consoles on their desks. Each MSP has a unique access
+   card with a microchip which, when inserted into the console, identifies them and allows them to
+   vote. As a result, the outcome of each division is known in seconds, question. How long does it
+   take to know the outcome of a division?
+Answer:
+Answer:
+
+1. To answer this question, you need to know what is meant by the term "division". In the context of the given information, a division is the process by which MSPs vote on a motion or amendment. The question
+Transcription Time: 17.34 seconds
+Words per Second: 9.68884 WPS
+Inference Time: 46.46800 seconds
+Tokens per Second: 4.94964 TPS
+Overall Time: 63.80773
+Other Data Processing Time: 0.00018

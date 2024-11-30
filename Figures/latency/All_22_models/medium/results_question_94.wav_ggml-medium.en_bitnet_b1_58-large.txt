@@ -1,0 +1,36 @@
+Audio File: question_94.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. Warsaw's name in the Polish language is Varsava. Approximately, Vrv, also formerly spelled
+   Warszewa and Warszawa, meaning "belonging to Warsh". Warsh being a shortened form of the masculine
+   name of Slavic origin Warchislaw. See also Etymology of Wroclaw. Folk etymology attributes
+   the city name to a fisherman. Warsz and his wife, Sawa. According to legend, Sawa was a mermaid
+   living in the Vistula River with whom Warsz fell in love. In actuality, Warsh was a 12th-13th century
+   nobleman who owned a village located at the modern day site of Marienstadt neighborhood. See also the
+   Versowczy family which had escaped to Poland. The official city name in full is Miasto Stoleczny
+   Varsava. English. The capital city of Warsaw. A native or resident of Warsaw is known as a
+   "Varsovian" in Polish Varsowiec. Male. Varsowiec. Female. Varsowiec. Plural. Question. What is the
+   full official city name of Warsaw.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Warsaw's name in the Polish language is Varsava. Approximately, Vrv, also formerly spelled
+   Warszewa and Warszawa, meaning "belonging to Warsh". Warsh being a shortened form of the masculine
+   name of Slavic origin Warchislaw. See also Etymology of Wroclaw. Folk etymology attributes
+   the city name to a fisherman. Warsz and his wife, Sawa. According to legend, Sawa was a mermaid
+   living in the Vistula River with whom Warsz fell in love. In actuality, Warsh was a 12th-13th century
+   nobleman who owned a village located at the modern day site of Marienstadt neighborhood. See also the
+   Versowczy family which had escaped to Poland. The official city name in full is Miasto Stoleczny
+   Varsava. English. The capital city of Warsaw. A native or resident of Warsaw is known as a
+   "Varsovian" in Polish Varsowiec. Male. Varsowiec. Female. Varsowiec. Plural. Question. What is the
+   full official city name of Warsaw.
+Answer:    Varsava.
+
+
+A: It is the old name of Warsaw, which was then called Varsava.
+The first mention of the name was in 1000. It was changed to Warsaw after
+Transcription Time: 206.86229 seconds
+Words per Second: 0.71062 WPS
+Inference Time: 10.16250 seconds
+Tokens per Second: 19.48340 TPS
+Overall Time: 217.02503
+Other Data Processing Time: 0.00025

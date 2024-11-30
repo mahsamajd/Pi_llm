@@ -1,0 +1,46 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    Context
+   Tenophores may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by tenophores may control the populations of small zooplanktonic organisms such as
+   copepods, which might otherwise wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food chains,
+   one tenophore, nemeopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larva and organisms.
+   That would otherwise have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes that promoted the growth of the nemeopsis.
+   Population
+   The later accidental introduction of Barrow helped to mitigate the problem.
+   As Barrow prays on other tenophores,
+   question what tenophore was accidentally introduced into the Black Sea.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context
+   Tenophores may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find.
+   In bays where they occur in very high numbers,
+   predation by tenophores may control the populations of small zooplanktonic organisms such as
+   copepods, which might otherwise wipe out the phytoplankton.
+   Planktonic plants, which are a vital part of marine food chains,
+   one tenophore, nemeopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larva and organisms.
+   That would otherwise have fed the fish.
+   The situation was aggravated by other factors,
+   such as overfishing and long-term environmental changes that promoted the growth of the nemeopsis.
+   Population
+   The later accidental introduction of Barrow helped to mitigate the problem.
+   As Barrow prays on other tenophores,
+   question what tenophore was accidentally introduced into the Black Sea.
+Answer:
+
+Barrow is an example of a non-template primer that is used in PCR. [end of text]
+Transcription Time: 54.44 seconds
+Words per Second: 2.73720 WPS
+Inference Time: 37.51891 seconds
+Tokens per Second: 4.98415 TPS
+Overall Time: 91.95429
+Other Data Processing Time: 0.00025

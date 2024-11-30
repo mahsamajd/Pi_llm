@@ -1,0 +1,32 @@
+Audio File: question_37.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context. Tena4s may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find. In bays where they occur in very high
+   numbers. Predation by Tena4s may control the populations of small zooplanktonic organisms such as
+   copods, which might otherwise wipe out the phytoplankton. Planktonic plants, which are a vital part of
+   marine food chains. One Tena4, nemiopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms.
+   That would otherwise have fed the fish. The situation was aggravated by other factors,
+   such as over fishing and long-term environmental changes that promoted the growth of the nemiopsis.
+   Population. The later accidental introduction of Baro helped to mitigate the problem.
+   As Baro preys on other Tena4s, question. What Tena4 was accidentally introduced into the Black Sea?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Tena4s may be abundant during the summer months in some coastal locations.
+   But in other places they are uncommon and difficult to find. In bays where they occur in very high
+   numbers. Predation by Tena4s may control the populations of small zooplanktonic organisms such as
+   copods, which might otherwise wipe out the phytoplankton. Planktonic plants, which are a vital part of
+   marine food chains. One Tena4, nemiopsis, has accidentally been introduced into the Black Sea,
+   where it is blamed for causing fish stocks to collapse by eating both fish larvae and organisms.
+   That would otherwise have fed the fish. The situation was aggravated by other factors,
+   such as over fishing and long-term environmental changes that promoted the growth of the nemiopsis.
+   Population. The later accidental introduction of Baro helped to mitigate the problem.
+   As Baro preys on other Tena4s, question. What Tena4 was accidentally introduced into the Black Sea?
+Answer: The Tena4s were accidentally introduced into the Black Sea. [end of text]
+Transcription Time: 19.00 seconds
+Words per Second: 7.89395 WPS
+Inference Time: 35.94467 seconds
+Tokens per Second: 5.11898 TPS
+Overall Time: 54.94692
+Other Data Processing Time: 0.00036

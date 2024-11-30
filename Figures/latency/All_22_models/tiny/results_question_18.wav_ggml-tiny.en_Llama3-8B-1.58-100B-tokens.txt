@@ -1,0 +1,28 @@
+Audio File: question_18.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established. Earning Jacksonville, the title of winter film
+   capital of the world. However, the emergence of Hollywood as a major film production center ended
+   the city's film industry. One converted movie studio site. Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville silent film museum at Norman Studios, question.
+   Who was drawn to Jacksonville in the 1910s?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established. Earning Jacksonville, the title of winter film
+   capital of the world. However, the emergence of Hollywood as a major film production center ended
+   the city's film industry. One converted movie studio site. Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville silent film museum at Norman Studios, question.
+   Who was drawn to Jacksonville in the 1910s?
+Answer: 1910s, new york based filmmakers were attracted to jacksonville's warm climate,
+exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+more than 30 silent film studios were established. Earning
+Transcription Time: 6.14448 seconds
+Words per Second: 15.29828 WPS
+Inference Time: 51.85692 seconds
+Tokens per Second: 2.89257 TPS
+Overall Time: 58.00162
+Other Data Processing Time: 0.00022

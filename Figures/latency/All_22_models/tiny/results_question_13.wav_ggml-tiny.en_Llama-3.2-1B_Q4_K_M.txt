@@ -1,0 +1,30 @@
+Audio File: question_13.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q4_K_M.gguf
+Transcription:    context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew. In part because
+   the government of the United Kingdom was controlled by the Conservative Party. While Scotland itself
+   elected relatively few conservative MPs, in the aftermath of the 1979 referendum defeat,
+   the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organizations such as Scottish
+   churches, political parties and representatives of industry taking part, publishing its blueprint
+   for devolution in 1995. The convention provided much of the basis for the structure of the Parliament,
+   question. When was the Scottish Constitutional Convention held?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew. In part because
+   the government of the United Kingdom was controlled by the Conservative Party. While Scotland itself
+   elected relatively few conservative MPs, in the aftermath of the 1979 referendum defeat,
+   the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organizations such as Scottish
+   churches, political parties and representatives of industry taking part, publishing its blueprint
+   for devolution in 1995. The convention provided much of the basis for the structure of the Parliament,
+   question. When was the Scottish Constitutional Convention held?
+Answer: The 1989 Scottish Constitutional Convention was held in 1989.
+Transcription:  The 1989 Scottish Constitutional Convention was held in 1989. The convention provided
+   much of the basis for the structure of the Parliament, including its
+Transcription Time: 7.70153 seconds
+Words per Second: 13.63366 WPS
+Inference Time: 16.57986 seconds
+Tokens per Second: 9.71057 TPS
+Overall Time: 24.28163
+Other Data Processing Time: 0.00024

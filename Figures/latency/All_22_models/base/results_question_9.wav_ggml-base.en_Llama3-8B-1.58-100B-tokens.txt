@@ -1,0 +1,30 @@
+Audio File: question_9.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict.
+   Conservative Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims
+   should not only always oppose infidels in every way, but hate them for their religion.
+   For all is sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahabi Muslims were infidels, etc., while this effort has by no means
+   converted all, or even most Muslims to the Wahhabist interpretation of Islam.
+   It has done much to overwhelm more moderate local interpretations,
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question, what type of interpretation of Islam does Salafism promote?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict.
+   Conservative Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims
+   should not only always oppose infidels in every way, but hate them for their religion.
+   For all is sake, that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahabi Muslims were infidels, etc., while this effort has by no means
+   converted all, or even most Muslims to the Wahhabist interpretation of Islam.
+   It has done much to overwhelm more moderate local interpretations,
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question, what type of interpretation of Islam does Salafism promote?
+Answer: Salafism is a branch of Wahhabism, a fundamentalist interpretation of Islam. It is one of the most strict and conservative Islamic movements in the world today. The movement originated in the 18th century in the Arabian city of Al-
+Transcription Time: 15.94678 seconds
+Words per Second: 7.90128 WPS
+Inference Time: 59.57499 seconds
+Tokens per Second: 3.13890 TPS
+Overall Time: 75.52195
+Other Data Processing Time: 0.00018

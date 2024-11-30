@@ -1,0 +1,26 @@
+Audio File: question_14.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    Context. In Europe, the North American theater of the Seven Years' War usually is not given a
+   separate name. The entire international conflict is known as the Seven Years' War. "Seven years"
+   refers to events in Europe, from the official declaration of war in 1756 to the signing of the
+   peace treaty in 1763. These dates do not correspond with the fighting on mainland North America,
+   where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760.
+   Question. What was first battle in 1754?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. In Europe, the North American theater of the Seven Years' War usually is not given a
+   separate name. The entire international conflict is known as the Seven Years' War. "Seven years"
+   refers to events in Europe, from the official declaration of war in 1756 to the signing of the
+   peace treaty in 1763. These dates do not correspond with the fighting on mainland North America,
+   where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760.
+   Question. What was first battle in 1754?
+Answer: The Battle of Fort William Henry. The Battle of Fort William Henry was a major battle of the French and Indian War. It took place in June 1756, about 12 miles (19 km) west of Lake George, New York. It
+Transcription Time: 32.75663 seconds
+Words per Second: 3.11387 WPS
+Inference Time: 17.70408 seconds
+Tokens per Second: 9.26340 TPS
+Overall Time: 50.46087
+Other Data Processing Time: 0.00016

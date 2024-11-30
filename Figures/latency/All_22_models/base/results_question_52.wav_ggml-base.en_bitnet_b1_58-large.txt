@@ -1,0 +1,32 @@
+Audio File: question_52.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context, the property of being prime, or not, is called primality, a simple but slow method of
+   verifying the primality of a given number n is known as trial division. It consists of testing
+   whether n is a multiple of any integer between two n. Algorithms much more efficient than trial
+   division have been devised to test the primality of large numbers. These include the Miller-Rabin
+   primality test, which is fast but has a small probability of error, and the AKS primality test,
+   which always produces the correct answer in polynomial time but is too slow to be practical.
+   Particularly fast methods are available for numbers of special forms, such as Merced numbers.
+   As of January 2016. Update, the largest known prime number has 22,338,618 decimal digits,
+   question. What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the property of being prime, or not, is called primality, a simple but slow method of
+   verifying the primality of a given number n is known as trial division. It consists of testing
+   whether n is a multiple of any integer between two n. Algorithms much more efficient than trial
+   division have been devised to test the primality of large numbers. These include the Miller-Rabin
+   primality test, which is fast but has a small probability of error, and the AKS primality test,
+   which always produces the correct answer in polynomial time but is too slow to be practical.
+   Particularly fast methods are available for numbers of special forms, such as Merced numbers.
+   As of January 2016. Update, the largest known prime number has 22,338,618 decimal digits,
+   question. What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Answer: 1-22,338,618-2
+
+You should be able to state the properties of a prime number using the rules you have learned so far. The following is a list of some of the properties of a
+Transcription Time: 14.43951 seconds
+Words per Second: 9.97263 WPS
+Inference Time: 8.11224 seconds
+Tokens per Second: 24.53083 TPS
+Overall Time: 22.55186
+Other Data Processing Time: 0.00011

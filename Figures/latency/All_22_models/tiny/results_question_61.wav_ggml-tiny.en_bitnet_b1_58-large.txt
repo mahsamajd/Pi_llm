@@ -1,0 +1,43 @@
+Audio File: question_61.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context, Monkey Kong commenced a military campaign against the Chinese Song dynasty in southern China.
+   The Mongol force that invaded southern China was far greater than the force they sent in
+   Vedda. Middle East in 1256, he died in 1259 without a successor. Kublai returned from
+   fighting the Song in 1260 when he learned that his brother.
+   Iraq broke, was challenging his claim to the throne. Kublai convened a corraltai in
+   Kaiping that elected him Great Khan. Arrival corraltai in Mongolia proclaimed
+   Iraq broke Great Khan. Beginning a civil war, Kublai depended on the cooperation of his Chinese
+   subjects to ensure that his army received ample. Resources, he bolstered his popularity
+   among his subjects by modeling his government on the bureaucracy of. Traditional Chinese dynasties
+   and adopting the Chinese air a name of Zhongtong. Iraq broke was hampered by inadequate supplies and
+   surrendered in 1264. All of the three western connates. Golden Horde, Chagatai Khanate and
+   Il-Khanate, became functionally autonomous, although only the Il-Khan's truly recognized Kublai as Great
+   Khan. Civil strife had permanently divided the Mongol Empire, Question. Where did Manki Khan attack
+   the Song Dynasty?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, Monkey Kong commenced a military campaign against the Chinese Song dynasty in southern China.
+   The Mongol force that invaded southern China was far greater than the force they sent in
+   Vedda. Middle East in 1256, he died in 1259 without a successor. Kublai returned from
+   fighting the Song in 1260 when he learned that his brother.
+   Iraq broke, was challenging his claim to the throne. Kublai convened a corraltai in
+   Kaiping that elected him Great Khan. Arrival corraltai in Mongolia proclaimed
+   Iraq broke Great Khan. Beginning a civil war, Kublai depended on the cooperation of his Chinese
+   subjects to ensure that his army received ample. Resources, he bolstered his popularity
+   among his subjects by modeling his government on the bureaucracy of. Traditional Chinese dynasties
+   and adopting the Chinese air a name of Zhongtong. Iraq broke was hampered by inadequate supplies and
+   surrendered in 1264. All of the three western connates. Golden Horde, Chagatai Khanate and
+   Il-Khanate, became functionally autonomous, although only the Il-Khan's truly recognized Kublai as Great
+   Khan. Civil strife had permanently divided the Mongol Empire, Question. Where did Manki Khan attack
+   the Song Dynasty?
+Answer: China, Mongol Empire, Kublai Khan.
+
+
+A: "Golden Horde, Chagatai Khanate and Il-Khanate, became functionally autonomous, although only the Il-Khan'
+Transcription Time: 13.23802 seconds
+Words per Second: 14.12598 WPS
+Inference Time: 11.75216 seconds
+Tokens per Second: 19.40069 TPS
+Overall Time: 24.99039
+Other Data Processing Time: 0.00021

@@ -1,0 +1,27 @@
+Audio File: question_35.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine gorge between Rudeshimam Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankh-Gorshausen, the Rhine flows around the famous Rock Lorelai,
+   with its outstanding architectural monuments, the slopes full of vines, settlements crowded on the
+   narrow river banks and scores of castles lined up along the top of the steep slopes.
+   The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+   Question. Where is the famous rock the Rhine flows around?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The dominant economic sectors in the Middle Rhine area are viniculture and tourism.
+   The Rhine gorge between Rudeshimam Rhine and Koblenz is listed as a UNESCO World Heritage Site.
+   Near Sankh-Gorshausen, the Rhine flows around the famous Rock Lorelai,
+   with its outstanding architectural monuments, the slopes full of vines, settlements crowded on the
+   narrow river banks and scores of castles lined up along the top of the steep slopes.
+   The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+   Question. Where is the famous rock the Rhine flows around?
+Answer:
+   Rock-Lorelai, where the river flows, is a cultural-scenic area, which was awarded the designation of a World Heritage Site in 1989, and has been a tourist-oriented attraction since 1988
+Transcription Time: 33.97 seconds
+Words per Second: 2.73757 WPS
+Inference Time: 36.10214 seconds
+Tokens per Second: 3.98868 TPS
+Overall Time: 70.07403
+Other Data Processing Time: 0.00016

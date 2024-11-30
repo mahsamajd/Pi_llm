@@ -1,0 +1,31 @@
+Audio File: question_100.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/Llama3-8B-1.58-100B-tokens/ggml-model-i2_s.gguf
+Transcription:    Context - Microorganisms or toxins that successfully enter an organism encounter the cells and
+   mechanisms of. The innate immune system - the innate response is usually triggered when microbes
+   are identified by pattern recognition. Receptors - which recognize components that are conserved
+   among broad groups of microorganisms. Or when damaged, injured or stressed cells send out alarm
+   signals. Many of which, but not all, are recognized by the same receptors as those that recognize
+   pathogens. Anate immune defenses are nonspecific. Meaning these systems respond to pathogens in a
+   generic way. This system does not confer long-lasting immunity against a pathogen. The innate immune
+   system is the dominant system of host defense in most organisms question.
+   The innate immune system responds in a generic way. Meaning it is what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context - Microorganisms or toxins that successfully enter an organism encounter the cells and
+   mechanisms of. The innate immune system - the innate response is usually triggered when microbes
+   are identified by pattern recognition. Receptors - which recognize components that are conserved
+   among broad groups of microorganisms. Or when damaged, injured or stressed cells send out alarm
+   signals. Many of which, but not all, are recognized by the same receptors as those that recognize
+   pathogens. Anate immune defenses are nonspecific. Meaning these systems respond to pathogens in a
+   generic way. This system does not confer long-lasting immunity against a pathogen. The innate immune
+   system is the dominant system of host defense in most organisms question.
+   The innate immune system responds in a generic way. Meaning it is what?
+Answer: The innate immune system responds in a generic way. Meaning it is what? This system does not confer long-lasting immunity against a pathogen. The innate immune system is the dominant system of host defense in most organisms.
+The innate immune system is the dominant
+Transcription Time: 15.73040 seconds
+Words per Second: 8.13711 WPS
+Inference Time: 58.87940 seconds
+Tokens per Second: 3.29487 TPS
+Overall Time: 74.61006
+Other Data Processing Time: 0.00026

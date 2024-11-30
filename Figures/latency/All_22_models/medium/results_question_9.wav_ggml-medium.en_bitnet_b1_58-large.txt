@@ -1,0 +1,32 @@
+Audio File: question_9.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict, conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not only
+   always oppose infidels in every way but hate them for their religion. For Allah's sake,
+   that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahhabi Muslims were infidels. etc.
+   While this effort has by no means converted all or even most Muslims to the Wahhabist
+   interpretation of Islam, it has done much to overwhelm more moderate local interpretations
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question what type of interpretation of Islam does Salafism promote.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The interpretation of Islam promoted by this funding was the strict, conservative
+   Saudi-based Wahhabism or Salafism. In its harshest form it preached that Muslims should not only
+   always oppose infidels in every way but hate them for their religion. For Allah's sake,
+   that democracy is responsible for all the horrible wars of the 20th century.
+   That Shia and other non-Wahhabi Muslims were infidels. etc.
+   While this effort has by no means converted all or even most Muslims to the Wahhabist
+   interpretation of Islam, it has done much to overwhelm more moderate local interpretations
+   and has set the Saudi interpretation of Islam as the gold standard of religion in minds of some.
+   Or many Muslims question what type of interpretation of Islam does Salafism promote.
+Answer:
+   Salafism is a religious and political philosophy that believes in the absolute supremacy of the Quran over all
+   other religions. The Saudi Wahhabism is based on the Saudi belief that the Q
+Transcription Time: 152.02517 seconds
+Words per Second: 0.82223 WPS
+Inference Time: 8.22270 seconds
+Tokens per Second: 21.76900 TPS
+Overall Time: 160.24805
+Other Data Processing Time: 0.00017

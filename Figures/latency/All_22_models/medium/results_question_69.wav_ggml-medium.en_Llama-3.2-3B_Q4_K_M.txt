@@ -1,0 +1,32 @@
+Audio File: question_69.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context. The executive summary of the WGI summary for policymakers report says they are certain
+   that emissions resulting from human activities are substantially increasing the atmospheric
+   concentrations of the greenhouse gases resulting on average in an additional warming of the earth's
+   surface. They calculate with confidence that CO2 has been responsible for over half the enhanced
+   greenhouse effect. They predict that under a "business as usual" (BOW) scenario, global mean
+   temperature will increase by about 0.3°C per decade during the 21st century. They judge that
+   global mean surface air temperature has increased by 0.3 to 0.6°C over the last 100 years, broadly
+   consistent with prediction of climate models, but also of the same magnitude as natural climate
+   variability. The unequivocal detection of the enhanced greenhouse effect is not likely for a
+   decade or more. Question. How much of the greenhouse effect is due to carbon dioxide?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The executive summary of the WGI summary for policymakers report says they are certain
+   that emissions resulting from human activities are substantially increasing the atmospheric
+   concentrations of the greenhouse gases resulting on average in an additional warming of the earth's
+   surface. They calculate with confidence that CO2 has been responsible for over half the enhanced
+   greenhouse effect. They predict that under a "business as usual" (BOW) scenario, global mean
+   temperature will increase by about 0.3°C per decade during the 21st century. They judge that
+   global mean surface air temperature has increased by 0.3 to 0.6°C over the last 100 years, broadly
+   consistent with prediction of climate models, but also of the same magnitude as natural climate
+   variability. The unequivocal detection of the enhanced greenhouse effect is not likely for a
+   decade or more. Question. How much of the greenhouse effect is due to carbon dioxide?
+Answer:  Carbon dioxide is the most abundant greenhouse gas. The greenhouse effect is the heating effect of greenhouse gases on the earth's surface. Carbon dioxide is the most abundant greenhouse gas. The greenhouse effect is the heating effect of greenhouse gases on the earth's
+Transcription Time: 151.14131 seconds
+Words per Second: 0.96598 WPS
+Inference Time: 58.67195 seconds
+Tokens per Second: 3.60 TPS
+Overall Time: 209.81345
+Other Data Processing Time: 0.00019

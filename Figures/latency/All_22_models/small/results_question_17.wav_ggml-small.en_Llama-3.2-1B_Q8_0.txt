@@ -1,0 +1,31 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under colonizing empires, the world could be split
+   into climatic zones. These scholars believed that northern Europe and the mid-Atlantic temperate
+   climate produced a "hard-working, moral, and upstanding human being." Alternatively, tropical
+   climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European Empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Answer:   The European Empire.
+Explanation:   The European Empire was responsible for the division of the world into climatic zones.
+The European Empire worked for the benefit of the "hard-working, moral, and upstanding human being."
+However, tropical climates yielded
+Transcription Time: 34.42589 seconds
+Words per Second: 3.13717 WPS
+Inference Time: 18.37301 seconds
+Tokens per Second: 9.08942 TPS
+Overall Time: 52.79913
+Other Data Processing Time: 0.00024

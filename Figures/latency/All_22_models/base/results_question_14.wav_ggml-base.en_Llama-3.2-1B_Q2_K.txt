@@ -1,0 +1,26 @@
+Audio File: question_14.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    context. In Europe, the North American Theatre of the Seven Years' War usually is not given a
+   separate name. The entire international conflict is known as the Seven Years' War. Seven Years
+   refers to events in Europe, from the official declaration of war in 1756 to the signing of
+   the Peace Treaty in 1763. These dates do not correspond with the fighting on mainland North
+   America. Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xumminville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In Europe, the North American Theatre of the Seven Years' War usually is not given a
+   separate name. The entire international conflict is known as the Seven Years' War. Seven Years
+   refers to events in Europe, from the official declaration of war in 1756 to the signing of
+   the Peace Treaty in 1763. These dates do not correspond with the fighting on mainland North
+   America. Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xumminville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Answer: It is a seven years war, from 1754, to 1754, that is, from the Battle of Xumminville, in 1754, to the capture of Montreal in 1754, the war was called, and
+Transcription Time: 10.25428 seconds
+Words per Second: 9.94707 WPS
+Inference Time: 16.81087 seconds
+Tokens per Second: 9.22022 TPS
+Overall Time: 27.06528
+Other Data Processing Time: 0.00013

@@ -1,0 +1,35 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q2_K.gguf
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rhian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west, through the Wall and then, via the Merweed and New Merweed, de Biesbosch, merging with the
+   Meuse, through the Hollands Deep and Herringvleet estuaries. Into the North Sea, the Benedyn Merweed
+   branches off, near Hardinksvild Giesendam and continues as the Nord, to join the Lech, near the
+   village of Kinderdijk, to form the New Moss, then flows past Rotterdam and continues via Het-Schurr
+   and the New Water Weg. To the North Sea, the Oud-Moss branches off, near Dordrecht, farther down
+   rejoining the New Moss to form Het-Schurr, question. Which direction does two-thirds of the Rhine flow
+   outside of Germany.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rhian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west, through the Wall and then, via the Merweed and New Merweed, de Biesbosch, merging with the
+   Meuse, through the Hollands Deep and Herringvleet estuaries. Into the North Sea, the Benedyn Merweed
+   branches off, near Hardinksvild Giesendam and continues as the Nord, to join the Lech, near the
+   village of Kinderdijk, to form the New Moss, then flows past Rotterdam and continues via Het-Schurr
+   and the New Water Weg. To the North Sea, the Oud-Moss branches off, near Dordrecht, farther down
+   rejoining the New Moss to form Het-Schurr, question. Which direction does two-thirds of the Rhine flow
+   outside of Germany.
+Answer:   The river Rhine flows northwards into the North Sea from the Netherlands. It's an estuary river.
+
+Thanks for the help.
+
+# 1
+# 1.1.1.1.1.1.1.1.
+Transcription Time: 45.79537 seconds
+Words per Second: 2.90422 WPS
+Inference Time: 144.99012 seconds
+Tokens per Second: 1.23457 TPS
+Overall Time: 190.78598
+Other Data Processing Time: 0.00049

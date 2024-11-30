@@ -1,0 +1,32 @@
+Audio File: question_39.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3.gguf
+Transcription:    context, but bounding the computation time above by some concrete function f.
+   n often yields complexity classes that depend on the chosen machine model.
+   For instance, the language xx x as any binary string can be solved in linear time on a multi-tape
+   Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines.
+   If we allow polynomial variations in running time,
+   Kaba Medman's thesis states that the time complexities in any two reasonable and general models.
+   Of computation are polynomially related. Goldreich 2008, chapter 1.2, this forms the basis for
+   the complexity class p, which is the set of decision problems solvable by a deterministic Turing machine
+   within polynomial. Time, the corresponding set of function problems is fp, question.
+   A multi-tape Turing machine requires what type of time for a solution.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, but bounding the computation time above by some concrete function f.
+   n often yields complexity classes that depend on the chosen machine model.
+   For instance, the language xx x as any binary string can be solved in linear time on a multi-tape
+   Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines.
+   If we allow polynomial variations in running time,
+   Kaba Medman's thesis states that the time complexities in any two reasonable and general models.
+   Of computation are polynomially related. Goldreich 2008, chapter 1.2, this forms the basis for
+   the complexity class p, which is the set of decision problems solvable by a deterministic Turing machine
+   within polynomial. Time, the corresponding set of function problems is fp, question.
+   A multi-tape Turing machine requires what type of time for a solution.
+Answer: The transcription discusses various aspects of computational complexity and time complexity in different machine models. Firstly, it mentions that n often results in complexity classes that are influenced by the chosen machine model. This means that the computational complexity, or the time it
+Transcription Time: 16.79711 seconds
+Words per Second: 8.03710 WPS
+Inference Time: 928.08197 seconds
+Tokens per Second: 0.21550 TPS
+Overall Time: 944.87933
+Other Data Processing Time: 0.00024

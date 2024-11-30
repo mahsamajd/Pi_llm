@@ -1,0 +1,30 @@
+Audio File: question_100.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context, microorganisms are toxins that successfully enter an organism encounter the cells and mechanisms of.
+   The innate immune system, the innate response is usually triggered when microbes are identified by pattern recognition.
+   Receptors, which recognize components that are conserved among broad groups of microorganisms,
+   or when damaged, injured or stressed cells send out alarm signals, many of which, but not all,
+   are recognized by the same receptors as those that recognize pathogens.
+   A innate immune defenses are nonspecific, meaning these systems respond to pathogens in a generic way.
+   This system does not confer long-lasting immunity against a pathogen.
+   The innate immune system is the dominant system of host defense in most organisms question.
+   The innate immune system responds in a generic way. Meaning it is what?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, microorganisms are toxins that successfully enter an organism encounter the cells and mechanisms of.
+   The innate immune system, the innate response is usually triggered when microbes are identified by pattern recognition.
+   Receptors, which recognize components that are conserved among broad groups of microorganisms,
+   or when damaged, injured or stressed cells send out alarm signals, many of which, but not all,
+   are recognized by the same receptors as those that recognize pathogens.
+   A innate immune defenses are nonspecific, meaning these systems respond to pathogens in a generic way.
+   This system does not confer long-lasting immunity against a pathogen.
+   The innate immune system is the dominant system of host defense in most organisms question.
+   The innate immune system responds in a generic way. Meaning it is what?
+Answer:   Microbes are toxins that successfully enter an organism encounter the cells and mechanisms of the organism. The innate response is usually triggered when microbes are identified by pattern recognition. Receptors, which recognize components that are conser
+Transcription Time: 8.64150 seconds
+Words per Second: 14.58080 WPS
+Inference Time: 8.17035 seconds
+Tokens per Second: 22.52044 TPS
+Overall Time: 16.81202
+Other Data Processing Time: 0.00016

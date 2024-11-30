@@ -1,0 +1,44 @@
+Audio File: question_40.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q8_0.gguf
+Transcription:    Context, in 2004, declassified documents revealed that the U.S. was so distraught by
+   the rise in oil prices and being. Challenged by underdeveloped countries that they briefly
+   considered military action to forcibly. C.'s Middle Eastern oil fields in late 1973,
+   although no explicit plan was mentioned, a conversation between U.S. Secretary of Defense
+   James Schlesinger and British Ambassador to the United States Lord Cromer revealed Schlesinger
+   had told him that "it was no longer obvious to him." That the U.S. could not use force.
+   British Prime Minister Edward Heath was so worried by this. Prospect that he ordered
+   a British intelligence estimate of U.S. intentions. Which concluded America,
+   might consider it could not tolerate a situation in which the U.S. and its.
+   Allies were at the mercy of a small group of unreasonable countries and that they would prefer
+   rapid operation to seize oil fields in Saudi Arabia and Kuwait. And possibly Abu Dhabi in
+   military action was decided upon, although the Soviet response to such an act would likely not
+   involve force. Intelligence warned the American occupation would need to last 10 years as the
+   West developed. Alternative energy sources and would result in the total alienation
+   of the Arabs and much of the rest of the third.
+   World, question, which country was worried that the U.S. would invade the Middle East?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, in 2004, declassified documents revealed that the U.S. was so distraught by
+   the rise in oil prices and being. Challenged by underdeveloped countries that they briefly
+   considered military action to forcibly. C.'s Middle Eastern oil fields in late 1973,
+   although no explicit plan was mentioned, a conversation between U.S. Secretary of Defense
+   James Schlesinger and British Ambassador to the United States Lord Cromer revealed Schlesinger
+   had told him that "it was no longer obvious to him." That the U.S. could not use force.
+   British Prime Minister Edward Heath was so worried by this. Prospect that he ordered
+   a British intelligence estimate of U.S. intentions. Which concluded America,
+   might consider it could not tolerate a situation in which the U.S. and its.
+   Allies were at the mercy of a small group of unreasonable countries and that they would prefer
+   rapid operation to seize oil fields in Saudi Arabia and Kuwait. And possibly Abu Dhabi in
+   military action was decided upon, although the Soviet response to such an act would likely not
+   involve force. Intelligence warned the American occupation would need to last 10 years as the
+   West developed. Alternative energy sources and would result in the total alienation
+   of the Arabs and much of the rest of the third.
+   World, question, which country was worried that the U.S. would invade the Middle East?
+Answer: The British [end of text]
+Transcription Time: 23.84252 seconds
+Words per Second: 9.35304 WPS
+Inference Time: 58.84682 seconds
+Tokens per Second: 4.25 TPS
+Overall Time: 82.68972
+Other Data Processing Time: 0.00038

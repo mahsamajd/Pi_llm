@@ -1,0 +1,30 @@
+Audio File: question_86.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q4_k_M.gguf
+Transcription:    Context. Western medicine was also practiced in China by the Nestorian Christians of the Yuan
+   court. Where it was sometimes labeled as Wei Wei or Muslim medicine, the Nestorian physician Jesus
+   the Interpreter founded the Office of Western Medicine in 1263 during the reign of Hubele.
+   Wei Wei doctors staffed at two imperial hospitals were responsible for treating the imperial family
+   and members of the court. Chinese physicians opposed western medicine because its humoral
+   system contradicted the yin yang and wuxing philosophy underlying traditional Chinese medicine.
+   No Chinese translation of western medical works is known, but it is possible that the Chinese had
+   access to Avicenna's the canon of medicine. Question. Who founded the Office of Western
+   medicine.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Western medicine was also practiced in China by the Nestorian Christians of the Yuan
+   court. Where it was sometimes labeled as Wei Wei or Muslim medicine, the Nestorian physician Jesus
+   the Interpreter founded the Office of Western Medicine in 1263 during the reign of Hubele.
+   Wei Wei doctors staffed at two imperial hospitals were responsible for treating the imperial family
+   and members of the court. Chinese physicians opposed western medicine because its humoral
+   system contradicted the yin yang and wuxing philosophy underlying traditional Chinese medicine.
+   No Chinese translation of western medical works is known, but it is possible that the Chinese had
+   access to Avicenna's the canon of medicine. Question. Who founded the Office of Western
+   medicine.
+Answer: The person who founded the Office of Western medicine was Jesus the Interpreter. [end of text]
+Transcription Time: 141.42360 seconds
+Words per Second: 0.83437 WPS
+Inference Time: 97.69386 seconds
+Tokens per Second: 1.59683 TPS
+Overall Time: 239.11770
+Other Data Processing Time: 0.00024

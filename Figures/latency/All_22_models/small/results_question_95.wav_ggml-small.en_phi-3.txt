@@ -1,0 +1,31 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3.gguf
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudaibi,
+   remained moderate and interested in political negotiation and activism,
+   fringe or splinter movements inspired by the final writings of QTB in the mid-1960s,
+   particularly the manifesto milestones, a.k.a. Maaleem Fayel Tariq, did, however,
+   develop and they pursued a more radical direction. By the 1970s, the Brotherhood had renounced
+   violence as a means of achieving its goals, question. When had the Brotherhood renounced
+   violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while QTB's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudaibi,
+   remained moderate and interested in political negotiation and activism,
+   fringe or splinter movements inspired by the final writings of QTB in the mid-1960s,
+   particularly the manifesto milestones, a.k.a. Maaleem Fayel Tariq, did, however,
+   develop and they pursued a more radical direction. By the 1970s, the Brotherhood had renounced
+   violence as a means of achieving its goals, question. When had the Brotherhood renounced
+   violence as a means of achieving its goals?
+   [BLANK_AUDIO]
+Answer:
+The Brotherhood renounced violence as a means of achieving its goals by the 1970s. This shift in approach was a notable change in the movement's strategy, moving away from the more radical actions that had been
+Transcription Time: 44.91601 seconds
+Words per Second: 2.13732 WPS
+Inference Time: 926.05475 seconds
+Tokens per Second: 0.16630 TPS
+Overall Time: 970.97091
+Other Data Processing Time: 0.00015

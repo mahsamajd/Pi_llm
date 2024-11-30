@@ -1,0 +1,34 @@
+Audio File: question_62.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. By July 1944, the Red Army was deep into Polish territory and pursuing the Germans
+   toward Warsaw. Knowing that Stalin was hostile to the idea of an independent Poland.
+   The Polish government in exile in London gave orders to the underground home army.
+   A.K. to try to seize control of Warsaw from the Germans before the Red Army arrived.
+   Thus, on 1 August 1944, as the Red Army was nearing the city,
+   the Warsaw uprising began. The armed struggle, planned to last 48 hours,
+   was partially successful, however it went on for 63 days. Eventually the home army fighters and
+   civilians assisting them were forced to capitulate. They were transported to POW camps in Germany,
+   while the entire civilian population was expelled. Polish civilian deaths are estimated at between
+   150,000 and 200,000, question. How many days did the Warsaw uprising last?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. By July 1944, the Red Army was deep into Polish territory and pursuing the Germans
+   toward Warsaw. Knowing that Stalin was hostile to the idea of an independent Poland.
+   The Polish government in exile in London gave orders to the underground home army.
+   A.K. to try to seize control of Warsaw from the Germans before the Red Army arrived.
+   Thus, on 1 August 1944, as the Red Army was nearing the city,
+   the Warsaw uprising began. The armed struggle, planned to last 48 hours,
+   was partially successful, however it went on for 63 days. Eventually the home army fighters and
+   civilians assisting them were forced to capitulate. They were transported to POW camps in Germany,
+   while the entire civilian population was expelled. Polish civilian deaths are estimated at between
+   150,000 and 200,000, question. How many days did the Warsaw uprising last?
+Answer: The Warsaw uprising lasted for 63 days.
+Explanation: The Warsaw uprising lasted for 63 days. This is because the uprising began on August 1, 1944 and ended on September 30, 1944.
+The Warsaw uprising was a
+Transcription Time: 15.69281 seconds
+Words per Second: 9.04873 WPS
+Inference Time: 995.08353 seconds
+Tokens per Second: 0.20099 TPS
+Overall Time: 1010.77660
+Other Data Processing Time: 0.00026

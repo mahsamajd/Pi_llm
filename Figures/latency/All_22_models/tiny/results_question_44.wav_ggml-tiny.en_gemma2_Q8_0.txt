@@ -1,0 +1,48 @@
+Audio File: question_44.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q8_0.gguf
+Transcription:    Context, larger drugs, greater than 500 daltons, can provoke a neutralizing immune response.
+   Particularly if the drugs are administered repeatedly or in larger doses,
+   this limits the effectiveness of drugs based on larger peptides and proteins,
+   which are typically larger than 6,000 daltons. In some cases,
+   the drug itself is not immunogenic, but may be co-administered with an immunogenic compound.
+   As is sometimes the case for taxol. Computational methods have been developed to predict the immunogenicity of peptides and proteins,
+   which are particularly useful in designing therapeutic antibodies,
+   assessing likely virulence of mutations in viral co-particles,
+   and validation of proposed peptide-based drug treatments. Early techniques relied mainly on the observation that hydrophilic amino acids are overrepresented.
+   In epitope regions than hydrophobic amino acids, however, more recent developments rely on machine learning techniques using databases of existing known.
+   Epitopes, usually on well-studied virus proteins. As a training set,
+   a publicly accessible database has been established for the cataloging of epitopes from pathogens.
+   Known to be recognizable by B cells, the emerging field of bioinformatics based studies of immunogenicity is referred to as.
+   Immunoinformatics, immunoproteomics is the study of large sets of proteins.
+   Proteomics, involved in the immune response, question.
+   What is the field of studying immunogenicity through bioinformatics known as?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, larger drugs, greater than 500 daltons, can provoke a neutralizing immune response.
+   Particularly if the drugs are administered repeatedly or in larger doses,
+   this limits the effectiveness of drugs based on larger peptides and proteins,
+   which are typically larger than 6,000 daltons. In some cases,
+   the drug itself is not immunogenic, but may be co-administered with an immunogenic compound.
+   As is sometimes the case for taxol. Computational methods have been developed to predict the immunogenicity of peptides and proteins,
+   which are particularly useful in designing therapeutic antibodies,
+   assessing likely virulence of mutations in viral co-particles,
+   and validation of proposed peptide-based drug treatments. Early techniques relied mainly on the observation that hydrophilic amino acids are overrepresented.
+   In epitope regions than hydrophobic amino acids, however, more recent developments rely on machine learning techniques using databases of existing known.
+   Epitopes, usually on well-studied virus proteins. As a training set,
+   a publicly accessible database has been established for the cataloging of epitopes from pathogens.
+   Known to be recognizable by B cells, the emerging field of bioinformatics based studies of immunogenicity is referred to as.
+   Immunoinformatics, immunoproteomics is the study of large sets of proteins.
+   Proteomics, involved in the immune response, question.
+   What is the field of studying immunogenicity through bioinformatics known as?
+Answer:
+
+Immunoinformatics
+
+Immunoinformatics is the field of studying immunogenicity through bioinformatics. [end of text]
+Transcription Time: 16.17 seconds
+Words per Second: 12.92388 WPS
+Inference Time: 46.85141 seconds
+Tokens per Second: 5.20795 TPS
+Overall Time: 63.02327
+Other Data Processing Time: 0.00025

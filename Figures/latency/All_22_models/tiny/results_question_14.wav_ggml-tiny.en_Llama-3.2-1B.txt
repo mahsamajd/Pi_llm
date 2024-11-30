@@ -1,0 +1,28 @@
+Audio File: question_14.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-tiny.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B.gguf
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. In Europe, the North American theater of the Seven Years' War usually is not given a separate name.
+   The entire international conflict is known as the Seven Years' War. Seven years refers to events in
+   Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763.
+   These dates do not correspond with the fighting on mainland North America.
+   Where the fighting between the two colonial powers was largely concluded in six years.
+   From the Battle of Xiamenville Glen in 1754 to the capture of Montreal in 1760, question.
+   What was first battle in 1754?
+Answer:   The first battle in the Seven Years' War was at Lexington, Massachusetts, on April 19, 1775.
+   The battle of Lexington was the first military engagement in the American Revolutionary War, which
+   began with the American colonists
+Transcription Time: 6.14608 seconds
+Words per Second: 16.59593 WPS
+Inference Time: 27.65901 seconds
+Tokens per Second: 5.78473 TPS
+Overall Time: 33.80524
+Other Data Processing Time: 0.00014

@@ -1,0 +1,36 @@
+Audio File: question_10.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q2_K.gguf
+Transcription:    Context Following the Cretaceous Palaeogene
+   extinction event, the extinction of the dinosaurs and the wetter climate may have allowed the
+   tropical rainforest to spread out across the continent. From 66 to 34 Maya, the rainforest
+   extended as far south as 45 degrees. Climate fluctuations during the last 34 million years
+   have allowed savanna regions to expand into the tropics. During the oligocene, for example,
+   the rainforests spanned a relatively narrow band. It expanded again during the middle Miocene,
+   then retracted to a mostly inland formation at the last glacial maximum. However, the rainforests
+   still managed to thrive during these glacial periods, allowing for the survival and evolution
+   of a broad diversity of species, question. During which period in history was the Amazon
+   rainforest a narrow band of forest?
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context Following the Cretaceous Palaeogene
+   extinction event, the extinction of the dinosaurs and the wetter climate may have allowed the
+   tropical rainforest to spread out across the continent. From 66 to 34 Maya, the rainforest
+   extended as far south as 45 degrees. Climate fluctuations during the last 34 million years
+   have allowed savanna regions to expand into the tropics. During the oligocene, for example,
+   the rainforests spanned a relatively narrow band. It expanded again during the middle Miocene,
+   then retracted to a mostly inland formation at the last glacial maximum. However, the rainforests
+   still managed to thrive during these glacial periods, allowing for the survival and evolution
+   of a broad diversity of species, question. During which period in history was the Amazon
+   rainforest a narrow band of forest?
+   [BLANK_AUDIO]
+Answer: The tropical rainforests were most extensive during the Cretaceous-Palaeogene
+extinction event, which began 66 million years ago. During this period, the dinosaurs were
+extinct and the climate was wetter. These conditions allowed
+Transcription Time: 52.11853 seconds
+Words per Second: 2.47513 WPS
+Inference Time: 131.21275 seconds
+Tokens per Second: 1.39468 TPS
+Overall Time: 183.33178
+Other Data Processing Time: 0.00050

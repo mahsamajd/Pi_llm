@@ -1,0 +1,34 @@
+Audio File: question_22.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    Context. The variant forms of the name of the Rhine in modern languages are all derived from the
+   Gaulish name Rhinos, which was adapted in Roman-era geography (1st century BC) as Greek Rhinos,
+   Rhinos, Latin Rhinos. Note 3. The spelling with Rh in English Rhine as well as in German Rhine
+   and French Rhine is due to the influence of Greek orthography, while the vocalization I is due to
+   the proto-Germanic adoption of the Gaulish name as *Rhinos via Old Frankish giving Old English Rhine,
+   Old High German Rhine, Dutch Rhien, formerly also spelled Rhine, the diphthong in modern German
+   Rhine, also adopted in Romansh Rhine. Rhine is a central German development of the early modern
+   period. The Alemannic name *Ri, en, retaining the older vocalism. Note 4. As does Ripuarian ring,
+   while Palatine has diphthongized *Rai, Roy, Spanish is with French in adopting the Germanic
+   vocalism *Rin, while Italian, Occitan and Portuguese retain the Latin *Ren,
+   question. What is the French name for the Rhine?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The variant forms of the name of the Rhine in modern languages are all derived from the
+   Gaulish name Rhinos, which was adapted in Roman-era geography (1st century BC) as Greek Rhinos,
+   Rhinos, Latin Rhinos. Note 3. The spelling with Rh in English Rhine as well as in German Rhine
+   and French Rhine is due to the influence of Greek orthography, while the vocalization I is due to
+   the proto-Germanic adoption of the Gaulish name as *Rhinos via Old Frankish giving Old English Rhine,
+   Old High German Rhine, Dutch Rhien, formerly also spelled Rhine, the diphthong in modern German
+   Rhine, also adopted in Romansh Rhine. Rhine is a central German development of the early modern
+   period. The Alemannic name *Ri, en, retaining the older vocalism. Note 4. As does Ripuarian ring,
+   while Palatine has diphthongized *Rai, Roy, Spanish is with French in adopting the Germanic
+   vocalism *Rin, while Italian, Occitan and Portuguese retain the Latin *Ren,
+   question. What is the French name for the Rhine?
+Answer: The French name for the Rhine is Rhin. This name derives from the Gaulish name Rhinos, which was adapted in Roman-era geography as Greek Rhinos, Rhinos, and Latin Rhinos. The spelling with
+Transcription Time: 161.35866 seconds
+Words per Second: 1.02876 WPS
+Inference Time: 93.99160 seconds
+Tokens per Second: 2.34063 TPS
+Overall Time: 255.35043
+Other Data Processing Time: 0.00017
