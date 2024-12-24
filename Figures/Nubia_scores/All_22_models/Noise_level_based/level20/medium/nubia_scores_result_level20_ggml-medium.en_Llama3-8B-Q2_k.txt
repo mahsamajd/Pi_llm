@@ -1,0 +1,145 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: I am not sure if you are asking about the "why" of private schools and their funding or the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.1929121387397923
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On Jan. 18, U.S. Secretary of State Henry Kissinger had negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula; the promise of a negotiated settlement between Israel and Syria was enough to convince Arab oil producers to lift the embargo in
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.45172439883648896
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the European Empires. The scholars believed that the European Empires were more evolved than other societies and were better suited to rule other societies. They believed that the societies in the Mid-Atlantic Temperate zone were capable
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.35094917057856745
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics states that energy transformations within a closed system will
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.18737254040133
+
+Question: What is the French name for the Rhine?
+Response: (1) The German name is Rhine, which was taken from the Latin name by the Romans,
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.15693859828882495
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Fresno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08916879077155748
+
+Question: How many prime numbers exist?
+Response: There are infinitely many primes, meaning that the number of primes is equivalent to the logarithm of the number of primes. The logarithmic distribution of primes can be modeled by the probability that a given number n is prime is inversely proportional to the number
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1171195090242817
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine flows around the Rock Lorelei. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1534109455836573
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: context. other components are often present. pumps. such as an injector, to supply water to
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09069715634172093
+
+Question: How many projects does the Centre currently realize a year?
+Response: I. There were 17th-century Royal Oege's Dow Castle currently houses Centre for Contemporary Art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06736033898288729
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.37993420118162546
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 95.9 men for every 100 women older than 18.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.16214739569894965
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol force that invaded southern China was far greater than the force they sent to invade the Middle East in 1256. He died in 1259 without a successor.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.26938685761631254
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: This is a basic context. The most basic method of checking the formality of a given integer n is called trial division.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.11352719837021064
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: A gastric mucin layer protects against ingested pathogens. The gastric mucin layer is made up of mucus produced by mucous cells in the stomach walls and stomach lining. The stomach mucin layer is made up of gastric mucus produced by gastric
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.40521604413467227
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krolotarnia Park is a popular strolling destination for the Barsobian. It was formerly a royal garden and is still a strolling destination for the Barsobian. The Saxon Garden is an old tree, black walnut,
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3341151082568742
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Each year, ENR compiles and reports on data about the size of design and construction companies. Engineering news record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.6298797336659296
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the rift system in the Alpine orogeny in southwest Germany are the Upper Rhine-Gravin, in southwest Germany and eastern France and the Lower Rhine and Baimen, in northwest Germany and the southeastern Netherlands. By the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4235759982630004
+
+Question: Who discovered this and where did they come from?
+Response: Context Kara Prada, Black Earth, which is distributed over large areas in the Amazon forest,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.054059535317272145
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the 1950s. It was designed to be built
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.394011503574893
+
+Question: What is stratigraphy?
+Response: In the field of geology, stratigraphy refers to the study of sedimentary rocks and their layers.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3978316057783655
+
+Question: What geometric shape is used in equations to determine net force?
+Response: context. Forces are additive vector quantities. When two forces act on an extended body,
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06991562582886024
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: context. When a T cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.12410909817439453
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: I'd say from the north to the south, since that's where most of it's flowing to. I'll leave it to you to
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1413234262776063
+
+Question: Levels of what things are used to determine emission factors?
+Response: the factors used to derive emissions estimates based on the levels of fuel consumption,
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.22275141385883757
+
+Question: Why does competition among workers drive down wages?
+Response: High demand, but there are few able or willing workers for the particular position.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.13362464516435058
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the Asuka period (538-710) and the early Nara period (710-794),
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.10267938331416027
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Innate immunity is the body's first line of defense against pathogens. This system does not confer long-lasting immunity against a pathogen. The innate immune system responds in a generic way. Meaning it is nonspecific. This is the system that is triggered
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.09168232648312302
+

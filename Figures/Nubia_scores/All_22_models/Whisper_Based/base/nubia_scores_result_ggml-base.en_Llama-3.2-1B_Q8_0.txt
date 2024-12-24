@@ -1,0 +1,170 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Los Angeles, California was the location of the Los Angeles Galaxy. The team played in the StubHub Center.
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.29735171481178735
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. private schools are funded by charging tuition 2. private schools are funded by charging tuition 3. private schools are funded by charging tuition 4. private schools are funded by charging tuition 5. private schools are funded by charging tuition
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.24097929062226642
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest expanded during the last glacial maximum, and retracted to a narrow band of forest during the last interglacial period. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.24426021688165023
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen (LOX) is a liquid oxygen gas. LOX is used to make high-quality liquid oxygen because it is a pure substance. Oxygen is a colorless gas, and therefore, it is not transparent and is not seen in the sky
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.5173315897688155
+
+Question: Who did the geographic scholars work for?
+Response: The colonial powers who were working for the interests of the European colonizing empires. The world could be split into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic temperate climate produced a hard-working, moral, and up
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3087665822143152
+
+Question: What makes energy changes in a closed system?
+Response: [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.40176948168592885
+
+Question: What is the French name for the Rhine?
+Response: Rhin (French) [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.09645915465412802
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination is the most effective way of stimulating the human immune system to develop a specific immunity to a particular pathogen or disease. The process of vaccination involves introducing a pathogen or disease-causing agent in the form of an antigen, which is a
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5931775387022178
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99 [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1113179420646554
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: This is correct. Polynomial time reductions are reductions that use polynomial time. The reduction process is polynomial time. The problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.08530810386388499
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7. Paragraph 4 of the Grüngazets and cannot be suspended even in a state of emergency. It is also not possible to abolish these rights. This unusual protection of private schools
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: It is assumed that there are infinitely many primes, because the theorem of the prime number theorem states that there are infinitely many prime numbers. The probability that a given randomly chosen number n is prime is inversely proportional to the number of digits of n,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08032383088679651
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine gorge is the narrowest part of the middle Rhine valley. It is a UNESCO World Heritage site. It is surrounded by the Rhine Romanticism question. The Rhine gorge is the narrowest part of the middle Rhine valley
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.08060072860529843
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Baro is a member of the family Gobiidae and is a small, fish-like creature that is sometimes referred to as a goby or
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.1141834287715009
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as Immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3669891393104031
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired 3.0 employees.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.09534314055778037
+
+Question: How many projects does the Centre currently realize a year?
+Response: 500
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.053706756703198466
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine gorge between Rudishaimum Rhine and Koblenz is listed as a UNESCO World Heritage site. Near Sank Ghorshausen, the Rhine flows around the famous rock Lorelai, with its outstanding architectural monuments
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.13923122594687387
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has direct effect on all member states. It is also indirectly effective on
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11670553511090886
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm used to conveniently test the primality of large numbers is known as the Miller-Rabin primality test. This algorithm is an example of a primality testing algorithm, which is a class of algorithms used to determine whether or not
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5998133420621938
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to create pure oxygen and hydrogen. However, the electrolysis of water produces a mixture of oxygen and hydrogen gas. Oxygen is a colorless gas that is heavier than air. Hydrogen is a colorless gas
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.15408435473703475
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 24,900 men 18 years and older for every 100 women.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.15491624256708691
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Kublay Khan (Mongol), 1227–1260. He was the Great Khan of the Mongol Empire from 1259 to 1260, and the founder of the Ilkhanate dynasty.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.18761279635233696
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days. [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.09590649818333519
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 2
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5694322564205129
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park is a popular strolling destination for the Varsovians. It is a place to relax and enjoy nature. The park is located at the end of the Saxon garden, and it has an interesting history. In the 19th century
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.4719091646210687
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States, TOP 40, and also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5426552029170401
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the Rhine rift system in southwest Germany is the upper Rhine Graben and the lower Rhine Embayment. In northwest Germany and the southeastern Netherlands, by the time of the Miocene, a river system had developed in the upper
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4735772482223519
+
+Question: Who discovered this and where did they come from?
+Response: The Shingu tribe was able to build a large settlement in the middle of the Amazon rainforest because of the fertile soil they had access to. The tribe was able to plant rice, sugar cane, coffee, and other crops in the fertile soil.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.30540513309312345
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the layers in the Earth and how they formed. The layers can be of different kinds depending on the type of rock that formed them. [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5172193985630511
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells extend a vitamin D receptor that binds to the active form of vitamin D. The steroid hormone calcitriol is responsible for the T cell's binding to calcitriol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.3516831105454863
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine is a tributary of the Danube River in Europe. The Rhine flows from Lake Constance to the North Sea at the port city of Rotterdam, Netherlands. The Rhine is a significant part of the European drainage system,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.20008270330667555
+
+Question: Why does competition among workers drive down wages?
+Response: Workers are willing to work a large number of hours to get a job. However, if there are many workers willing to work a large amount of time, the wages are lower. This is because competition between workers drives down the wage. A job where
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6482089026230915
+
+Question: What put a hierarchical structure in place?
+Response: pharmacists were highly respected. They were highly respected because they were trusted to be knowledgeable about medicine and the best way to provide it. They were trusted to be knowledgeable because they had to be knowledgeable. They were trusted to be knowledgeable because they had to
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

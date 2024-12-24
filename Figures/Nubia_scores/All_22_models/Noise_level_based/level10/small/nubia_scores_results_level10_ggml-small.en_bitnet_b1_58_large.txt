@@ -1,0 +1,155 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The Subhub Center is the home of the Los Angeles Galaxy. The Galaxy is a professional soccer team that plays in the Major League Soccer (MLS). The Galaxy was founded in 1999 and is based in
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.47512366671519635
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.13773995039869968
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest was a narrow band of forests. The rainforest was a narrow band of
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3835837237212003
+
+Question: What substance is used to make high quality liquid O2?
+Response: • The liquid oxygen is produced by condensation of air.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.19184442739683571
+
+Question: Who did the geographic scholars work for?
+Response: The geographic college work for the geographic college was to study the geographic
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1037133203157804
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. Long-term active memory is required following infection by activation of PMT cells.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.0625454671385266
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Transcription: We know it's the largest U.S. city not directly leased to an interstate highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08189964283163353
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The polynomial time reduction is the most common reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11833742321743568
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.2633931002740383
+
+Question: How many prime numbers exist?
+Response: The distribution of time, that is prepared, with statistical behavior of times in the large, can be modeled, the first result in that direction is the time number here. Thinking at the end of the 19th century,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: 1. Nymphaeopto
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.11574110895922429
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The firebox is a device that is used to raise the temperature of the stream above its saturated vapor points. The firebox is a device that is used to raise the temperature of the stream above its saturated vapor points.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.13578433507351806
+
+Question: What effect does European Union law have on laws of member states?
+Response: Transcription:
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5388713270669401
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Raben formality test is a fast and efficient way of testing the formality of large numbers.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.16703992008931057
+
+Question: An MSP may introduce a bill as what?
+Response: 1. The Scottish Government can introduce new laws or amendments to existing laws of the bill.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.13893479279412868
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 1. The oxygen gas produced by the electrolysis of water into molecular oxygen and hydrogen is
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.27241413261657466
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. 37 is prime.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5707288591936686
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. 1.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.4768920094157032
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. Many foreign infants have no prior exposure to microbes and are particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07729635600071705
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 1. ENR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.0788700611186256
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Grabber was a river system that was formed in the late 19th century.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.12431424454771511
+
+Question: Who discovered this and where did they come from?
+Response: Transcription: the Amagon Rainforest is a large area of the Amagon Forest, which is
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10509695994457857
+
+Question: Who develped the theory of relativity?
+Response: In simple machines, but thinkers such as Aristotle and Archimedes would seem fundamental areas in understanding force.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.06758159721214363
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The elements found in almost all biomolecules that are important here are generated by life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08327096040305193
+
+Question: What is stratigraphy?
+Response: Geologists use a number of fields, laboratories and numerical modeling methods to decipher earth history and understand the processes that occur on it.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.19780602039453044
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: When a few cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.11504833094691136
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The new waterway is the new waterway.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.08748951937943306
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The ICCC concentrates with activities on the tasks allotted there by the relevant WMO's vertebrates.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07261424082646628
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The job is a high demand position.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6662828760524131
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were the most important people in the society. 701, in the pre-health world, the pharmacists were the most important people in the society. 718, in
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.4177794737530435
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is the dominant system of host defense in most organisms' questions. The immune system is the dominant system of host defense in most organisms' questions. The immune system is the dominant system of host defense in most organ
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.11891633873104612
+

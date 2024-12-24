@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: 1. The name of the stadium that the teams play in is the "Los Angeles" because there are two major soccer teams in Los Angeles: the L.A. Galaxy and the Los Angeles "Chivos" (which are a "sub
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.43341059497119905
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: a. Private schools, also known as independent schools, are not administered by local, state, or national governments. Thus, they have the right to collect, as some, but not the right, of their, or, students, in
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.33109278190107905
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The main case was the question of whether the United States was ready to make a full-scale war in the Middle East against the USSR.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.10000678535740226
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: • During which period was the Amazon rainforest a narrow band?
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2487308176385088
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was a gathering of representatives of the different organizations, including churches, political parties and representatives of different industries, publishing exclusives for devolution in 1995, the convention provided much of the basis for the Parliament. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What makes energy changes in a closed system?
+Response: I have a non-conservative force which is a force that can change the internal energy of a system, and I have a system, which has a transparent heat, and I have a system, which makes a system. I have a system, which
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.07189065193880351
+
+Question: What is the French name for the Rhine?
+Response: Rhyme in:
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.22665259448687447
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The process of vaccination represents a process in which the immune system is manipulated in order to develop a protective immune system, which is specific, in the process of the vaccination, the immune system is provided with a particular antigen, which is in the process of
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6172003846328278
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: This route is in a region of the state that has been growing quickly in population and
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.10264753864715792
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The use of private schools in this country has increased to a great extent. The number of private schools has increased from 4811 to 14011, or a large number of schools. This was mainly due to
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.23622864852855663
+
+Question: How many prime numbers exist?
+Response: The first prime number, which is the number 2, is a number that has a one-digit number as the number of digits.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.29847854743455693
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock is located in the valley of the river-base. The river flows along the slope of the valley. The Middle Rhine Valley is located in the south-east of Germany. The Middle Rhine is a tourist region in Germany.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.09144720569932274
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Please, the drive engine of the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive, the drive,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.5431190263772927
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Larger protein, greater than 50000, can provoke a neutralizing immune-immune-immune-immune immune-immune-immune immune-immune-immune-immune-immune-immune-immune-immune immune-immune-immune-
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.14883842542458203
+
+Question: The average contractor hired how many employees?
+Response: First, we note that there are 50000000000000000000000000000000000000000
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.08492449915506317
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century royal leader Jack has the oldest art gallery in the world and the center for contemporary art, with the exhibition, the center has been able to conduct the exhibition, the center has been able to conduct a number of
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: * The region of the Middle Rhine, which includes the town of St. George, is not only a region of the Middle Rhine, but also a World Heritage Site of UNESCO.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.32473449323540327
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5014116198792506
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Question, in the case of the 2478044044444404404444444444444444444444
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.07298842529379435
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Maangchi was an army of the Song Dynasty.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0618673625309315
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The method of check, in the case of the number of a number, is based on the use of the
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.10984539839812879
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach, in addition to the powerful enzymes, has a protective layer of mucus and a lining of
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.17337042493722365
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a short-term, artificial protection provided by the mother by transporting antibodies from her own body via the percent of a short-term, and the antibodies from her to an example of a short-term, the baby with her own
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5504925123810336
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park of the park, which was founded in the 19th century, has been a popular destination for the barcobians. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.23059967981969764
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR compiles and reports on data on the size of design and construction companies. [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.30441296977270615
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of the E.A.T. are:
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.25422242016383867
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Phosphate, PO3- and, is a large-scale component of the cell and, in the, and, and, the, and, and, and, and, and, and, and, and, and, and,
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.1547557714229303
+
+Question: In what year was the Interstate Highway System created?
+Response: 1. When the Interstate Highway System was created in the 1950s, the decision was made to build
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.34377762831437564
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a study of the history of events in the Earth, related to the study of the structure of the Earth, the study of the study of the study of the study of the study of the study of the study of the study of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0769584571230908
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The forces, in order of their effects, are as follows:
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.08072775268975507
+
+Question: Levels of what things are used to determine emission factors?
+Response: -  The context is the functions, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks, tasks,
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4492088040793011
+
+Question: Why does competition among workers drive down wages?
+Response: The answer lies in the fact that the wages are based on the number of workers employed, not on the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1435079739901468
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system is the system of cells and processes of the body that is involved in the immune immune system. These include lymphocytes and, in a, in-depth study of the immune immune system, the body's, in-depth
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.22220893078182014
+

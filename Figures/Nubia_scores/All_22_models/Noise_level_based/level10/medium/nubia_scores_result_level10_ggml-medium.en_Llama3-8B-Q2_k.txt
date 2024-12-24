@@ -1,0 +1,160 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are not funded by local, state or national governments. They rely on the tuition paid by students and any talent they have such as sports talent, academic talent, financial need or tax credit scholarships.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.42656611698599056
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on the basis of an Israeli troop withdrawal from the Sinai Peninsula. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.44707777332044607
+
+Question: How many items is the University Library home to?
+Response: 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.1477543521537764
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forests during the period in which the rainforest formed a relatively narrow bane. It expanded again during the Middle Miocene. Then the tactics were mostly inland formation at the last wafer maximum. However,
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.10411656442295192
+
+Question: What substance is used to make high quality liquid O2?
+Response: oxygen is used to make liquid air tubes. They are made with liquid nitrogen as a tool and can be used to make oxygen. Oxygen is a highly reactive substance and must be segregated from combustible materials. It is usually obtained by the fractional distillation
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.2298881205297294
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In the late 1940s, an interstate highway was constructed from the south side of the Central Valley to Fresno. However, the decision was made to build the highway on the west side of the Central Valley. The inter-rapidly raising population
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4186171932212115
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3010400375904496
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock the Rhine flows around is the Lorelei.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1840840817290157
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Steam-boiler stoker is a stoker of wood, coal or other fuel in the furnace of a steam engine or steam engine. It is also called a steam-boiler stoker or steam-boiler stoker. It is a mechanical stoker
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0953853194509553
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.37717829954574633
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the industry in 2014 has around $960 billion in annual revenue, according to statistics tracked by the Census Bureau, of which $680 billion is private, with evenly between residential and non-residential, and the remainder is
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2529212543304291
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3803503170572178
+
+Question: What effect does European Union law have on laws of member states?
+Response: The three forces of European Union law are primary law, secondary law and supplementary law. The main forces of primary law are the treaties established in the European Union. The main forces of secondary law include regulations and directives, which are based on the treaties.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.48302302478210446
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: There are several algorithms that are useful for conveniently testing the formality of large numbers. One such algorithm is the Miller-Rabin test, which is fast but has a small probability of error. Another such algorithm is the AKS test, which always produces
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.45704448436188405
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: There are many different ways to obtain oxygen. The first is through the electrolysis of water, in which water is separated into hydrogen and oxygen. Another way is through the ceramic membrane, which absorbs air into the membrane and uses an electric current or pressure
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.06049403968259248
+
+Question: How many men older than 18 are there for every 100 women?
+Response: For every 100 females age 18 and older, there are 91.3 men older than 18.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.43852018946637994
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: By trial division method, we must take any integer N greater than or equal to
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.2712016240025381
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Newborn infants have no prior exposure to microbes and are particularly vulnerable to infection.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.08012844057010238
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Warsaw Ghetto Uprising monument is situated at the park. The region of the park covers the area of 76 hectares. The unique character and history of the park is reflected in its landscape architecture.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.26978137451347084
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The latest content engineering news record, ENR, is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4573482416634892
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In this context, from the E.A.T. monument, the ongoing alpine orogeny sparked an S-Rib system to develop in this zone.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.12873363023931572
+
+Question: Who discovered this and where did they come from?
+Response: [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4777546394122313
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Oxygen is the most abundant element in the atmosphere. It is also found in the most common biomolecules that are essential to life. Oxygen is also found in the most common biomolecules that are essential to life. Oxygen is the most abundant element in the
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.15513229719514599
+
+Question: In what year was the Interstate Highway System created?
+Response: In 1957, the Interstate Highway System was created. In 1957, the Interstate
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.3960914071580397
+
+Question: What is stratigraphy?
+Response: [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.402720289905694
+
+Question: What geometric shape is used in equations to determine net force?
+Response: (1) The resultant of the two forces can be determined by following the parallelogram rule of vector addition.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17239938786501807
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T-cell receptor, also known as the T-cell receptor complex, is a protein complex that functions as the primary signal transducer for the immune system. It is an integral component of the immune system and is required for the differentiation of T-cell subsets.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5639389600141226
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The main flow of the Rhine is westwards, away from Germany.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2488986402683201
+
+Question: Levels of what things are used to determine emission factors?
+Response: context. The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0856788528709771
+
+Question: Why does competition among workers drive down wages?
+Response: The above mentioned transcription states that wages tend to be low because of the expendable nature of the workers. The transcription also states that wages tend to be high because of the expendable nature of the worker. It also states that wages tend to be low
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.690442531428958
+
+Question: What put a hierarchical structure in place?
+Response: The Tuhai period was a time of great change for the Japanese Empire and the people who lived there. In this period, the Emperor was the head of state and had a great deal of power. The people who lived in the Empire were divided
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Microbial toxins are toxins that successfully enter an organism and counter the cells and mechanisms of the innate immune system. The innate response is usually triggered when microbes are identified by pattern recognition.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.2105993689721043
+

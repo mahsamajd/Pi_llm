@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The team that played in the new MLS stadium in Los Angeles in 2015 was called the Los Angeles Galaxy. The team that had previously played at the stadium was called the Los Angeles Galaxy. The Los Angeles Galaxy had a record of 3 wins
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2042404889800935
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The main difference between public and private schools is the way they are funded. Public schools are funded by the government, while private schools are funded by tuition and donations. This means that private schools have more flexibility in how they operate, as they do not
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.047265095816074854
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The U.S. was under a lot of pressure to end the embargo on oil because they were losing their influence in the Middle East. They were losing their influence because they were the only ones who had the ability to buy oil. They were also losing
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.3701477287841799
+
+Question: How many items is the University Library home to?
+Response: The University Library, founded in 1816, is called over two million items for those of which were designed by architects here at the June 2018. The building of Prabhakti, opened on the 15th of December 199
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.38416187170636373
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was established in 1989 and was active until 1997. It was established in 1989 by a group of parties, churches and voluntary organisations, who wished to see the establishment of a Scottish Parliament. The Convention was
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.04657030063899614
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is the high-quality substance used in the above text. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.25806363348116035
+
+Question: Who did the geographic scholars work for?
+Response: The geographical silence has a long history, with the earliest ideas coming from the Greeks. According to the Greek view, the world is divided into two climatic regions: hot and cold. The hot region was thought to be located in the Tropics
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.30143347205373516
+
+Question: What makes energy changes in a closed system?
+Response: The connection between massive topics non-concentrable sources and microtopics-concentrable sources is described by detailed treatment of statistical mechanics. In massive topics, there is fiction. Non-concentrable sources help to change the internal energies of the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.28401084126189413
+
+Question: What is the French name for the Rhine?
+Response: The name of the realm of modern languages was derived from the realm of the central history. This was adapted in many other geographies and had an increased meaning. The name of the realm was found as well as the remaining realm of the central alphabet
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Active immunity is a type of immunity in which immune system is stimulated to produce antibodies against the pathogen and this immunity lasts for a long period. This immunity is acquired following natural infection or vaccination. Vaccination is a process in which a specific antigen is
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5537280529090155
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: That may be the largest U.S. city not directly used to amend the state highway.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08169100609745983
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: A polynomial time reduction is one in which the reduction process takes polynomial time, for example, storing a musical can be reduced to the problem of multiplying two integers by using the multiplication algorithm. This can be done by giving the same input to both integers and
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.03580770558942559
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The speaker says that it is not possible to abolish these rights. The rights being spoken about are the rights that are in the U.S. Constitution. There are certain rights that the Constitution grants to all U.S. citizens and they cannot be taken away
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle Rhine Valley is a beautiful region located in Germany. It is a popular tourist destination, known for its stunning scenery and historical landmarks. The valley is home to many villages, towns, and cities, and is a popular destination for hiking and
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The text talks about the Pemucus, also known as the "sea squirt", a common organism that dies. During the summer months, the population of the Pemucus is abundant in certain places and in other places they are uncommon and difficult to
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Other components are often pleasant out of context.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06638401792113413
+
+Question: The average contractor hired how many employees?
+Response: According to the transcript, the following statistics are provided:
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.13572833558696906
+
+Question: How many projects does the Centre currently realize a year?
+Response: I am not sure whether it was the 17th century war or the 17th century war in South Africa. I think that the war in South Africa is the one that is more important because it has to do with the history of the country
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sector in the middle line area of our dinner concert in Zurich. The long road between Lieberstein and Rauge and Köbrenner is listed as a unipolar private sector. New St. George House is the long place
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.11863554701423806
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a political and economic union, consisting of 28 member states. It is the largest economic union in the world. It is located mostly in Europe but also includes Greenland and the island of Cyprus. The EU is governed by the European
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.479608224483026
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The property of being fired, or not, is called formality. But thinking of a full method of verifying the formality of a given number A is known as trial division. This consists of testing whether A is a multiple of any integer that can
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.30103547306527734
+
+Question: An MSP may introduce a bill as what?
+Response: This text is describing how bills can be introduced to polynomists. It explains that bills can be introduced in a number of ways. A bill can be introduced by the Scottish Government, a member of the polynomist, an outside society, or
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.08120228736008428
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water is the process that produces molecular oxygen and hydrogen using electricity. In this process, electric current is passed through water in the presence of an electrolyte, which is usually a strong acid or base. The water molecules dissociate into
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.09272378891731314
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The household of 1140% in April has an average number of 2.55 people and the average family size of 3.21. The population in this city is spread out with 22.9% under 18 years of
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.1321456966541027
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols are a nomadic group of people that lived in central Asia. In the 13th century, Mongol leader Kublai Khan led a massive military campaign against the Chinese Song dynasty in southern China. The Mongol force that invaded
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.19752226676460294
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Based on the provided transcription, passive immunity is provided to newborns in the form of antibodies in breast milk and colostrum. These antibodies help protect the newborn from infection, as the baby's immune system is not yet fully developed. The
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5202985851482194
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson Garden covers an area of 15.5 hectares. This was formerly a rural garden, but is now a more formal and structured garden. There is a row of trees along the avenue that is different from the rest of the garden. At
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.11960624824965349
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: In contrast, engineering news records, EMR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08341877163634204
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: Who develped the theory of relativity?
+Response: The passage describes the difference between philosophy and science. Philosophy is defined as the study of stationary and moving objects. In contrast, science is defined as a system of knowledge derived from observation, experience, and experimentation, often concerned with the material and functions of
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Organic molecules contain carbon and hydrogen. The carbon atoms in these molecules are often bonded to hydrogen and oxygen atoms. The element of oxygen is found in almost all biomolecules that are important here. A generated virus, like only a few common complex biomolecules
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Geologists use many different fields, methods, and techniques to decipher Earth history and understand the processes that occur on Earth. They use numerical modeling methods to reconstruct the history of the Earth and understand the processes that occur on the surface. They also use numerical
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.06647764193105843
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The results of the results of the next phase can be determined by the results of the next phase. The results of the results of the next phase can be determined by following the parallelogram in addition to two vectors represented by sides of the parallelog
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06916452063304179
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The C-cells shown when they encounter a foreign pathogen is the C-cells. When the C-cells encounter a foreign pathogen, it will go into the cell and destroy the foreign pathogen. The C-cells shown when they encounter
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5399404672740108
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: I believe the correct answer is C. The moon will lead the moon will lead, through each spot. This means that the moon will be able to lead the moon, through each spot, and continue just the north. This is because the moon will
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on this transcription, I would say that the ICCC is focused on counter-revolution and decision making, while also supporting other activities such as the UNF CTC process. The UNF CTC process is important because it helps to assess the
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.25039771656602194
+
+Question: Why does competition among workers drive down wages?
+Response: The relationship between supply and demand is the major determinant of the price of a good. In the case of labor, supply and demand for workers determine the wages they receive. For example, if there are many workers willing to work a long amount of time
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5455340324405844
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure of a table of courts refers to the status of the pharmacist in the early night of the period of 710 to 794, which is in the early night of the period of 710 to 794. The status of the pharmacist
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.060763865309673926
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the body's first line of defense. It is non-specific and does not confer long-lasting immunity. Innate immunity is found in all types of organisms, including plants, animals, and humans. The innate immune system recognizes components
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.16101718836162648
+

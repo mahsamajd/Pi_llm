@@ -1,0 +1,160 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The transcription provided does not mention the name of the stadium where the LA Galaxy and Chivas USA teams played. Therefore, based on the given information, it's not possible to specify the name of the stadium. However, tradition
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3818372366018786
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools, primarily fund themselves through tuition fees charged to their students. This means that parents or guardians pay for the education of their children
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.539855119018269
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The date Henry Kissinger negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula was January 18, 1 employee at a manufacturing facility has been found to have a rare skin condition linked to
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.3162142375874113
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention, also known as the Scottish Constitutional Convention (SCC), was held in the year 1989. It was a significant gathering that brought together representatives from various organizations such as Scottish churches, political parties
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.13405452922184224
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen (O2) is created by the liquefaction of atmospheric air through a process known as cryogenic distillation. This process involves the cooling of air until it liquefies and then
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4948871231151357
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars mentioned in the provided transcription were working for the Colonizing Empires. These empires were the European colonial powers that expanded their territories and influence around the world during various periods of history, most notably from
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4197459366371632
+
+Question: What makes energy changes in a closed system?
+Response: The energy changes in a closed system are primarily due to two types of forces: conservative and non-conservative forces. Conservative forces, such as gravity or electrostatic forces, are associated with potential energy, and they conserve
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.47222062377287954
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from the pathogen is introduced in order to develop a specific immunity. An antigen is a substance that triggers an immune response, allowing the immune system to recognize and remember the
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5792767978292097
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to the concept of polynomial time reduction, squaring an integer can ultimately be logically reduced to the problem of multiplying two integers. The reduction process takes polynomial time, which implies that the complexity of squaring an integer using this reduction is bound
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0820272641659966
+
+Question: How many prime numbers exist?
+Response: The transcription refers to the Prime Number Theorem, which states that the probability of a randomly chosen number n being a prime number is inversely proportional to its number of digits or the logarithm of n. This theorem does not give a specific
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.03498560541424822
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock, referred to as 'Rock Lorelai,' around which the Rhine flows is situated near St. Glorzhausen in the Rhine Gorge, which is between Lüdesheimen Rhine and Koblenz
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.35870925982752333
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea is Meneopsis. This incident has been linked to fish stock collapses due to the Meneopsis consuming fish larvae and other organisms that would have contributed
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.10403166259660757
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. This emerging field involves the use of computational methods and tools to predict the immunogenicity of peptides and proteins, which
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5873249894844845
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley, with its zinnaculture, tourism, and its inclusion as a UNESCO World Heritage Site, is considered the epitome of Rhine romanticism. It is characterized by its viney
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3940678660535686
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law, including treaties and legislation like regulations and directives, has direct and indirect effects on the laws of the member states of the European Union. The main sources of this law are primary, secondary, and supplementary
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.41290472416074664
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin formality test is one algorithm useful for conveniently testing the formality of large numbers. Although it is fast, it does have a small probability of error. Another efficient algorithm mentioned is the AKS formality test,
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.32434151635254294
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP (Member of the Scottish Parliament) may introduce a bill as a private member's bill. This means that a bill is introduced by a Member of the Scottish Parliament who is not a minister in the governing parties. Private member'
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.1270010009984287
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water is a method used to produce oxygen and hydrogen gases. This process involves the use of direct current (DC) electricity. In the electrolysis of water, water molecules (H2
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.6151168363122141
+
+Question: How many men older than 18 are there for every 100 women?
+Response: For every 100 women who are 18 and over, there are 91.3 men in the city. This means that the number of men older than 18 for every 100 women is 91
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.6055208751753649
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In the context of trial division for checking the formality of a given integer n, the integer n must be less than or equal to the square root of n when performing trial division. This means that if you want to test if n is a
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.48354051177222057
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Antibodies transported from the mother to an infant via the placenta is an example of passive immunity. Passive immunity is a form of short-lived immunity where the fetus or newborn does not produce
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5403270221469118
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden is a popular strolling destination for the Barsobian. This park, which covers an area of 76 hectares, was remodeled by Frantisek chamiers in the 19th
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.32891883043014025
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The Engineering News Record (ENR) compiles and reports on data about the size of design and construction companies. ENR is a trade magazine for the construction industry, and they publish a list of the largest companies in the United States as well as
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5737174696745375
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger and his colleagues, who are affiliated with the University of Florida, discovered evidence of large settlements in the middle of the Amazon forest in the region of the Xingu tribe back in 2003. They found
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.2551642967053238
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the greatest amount of oxygen by mass among the organic compounds discussed. This is because carbohydrates are structured to include a significant amount of carbon, hydrogen, and o
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5055921399355217
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the branch of geology concerned with the study of rock layers (strata) and layering (stratification). It is used to describe the sequential layering of sedimentary rocks, where each layer represents
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.4945957540286443
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine net force is a parallelogram. This is derived from the parallelogram rule of vector addition. This rule states that when two vectors (forces in this case) are represented by sides of
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4675938948162004
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T cell encounters a foreign pathogen, it extends a vitamin B receptor, essentially a signaling device that allows the T cell to bind to the active form of vitamin B. The T cell not only extends this re
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5374767882311716
+
+Question: Levels of what things are used to determine emission factors?
+Response: Emission factors are factors used to derive emissions estimates based on the levels of fuel consumption, industrial production, and other relevant activities. In the context of the Intergovernmental Panel on Climate Change (IPCC) and its support
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5828418683451408
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages primarily due to the dynamics of supply and demand in the labor market. When there is a high supply of workers willing to work for a job, and few workers are required for that job, there is an abund
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6223049440759727
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure put in place was influenced by the societal importance of pharmacists as defined in the Tuho Code and the Euro Code. According to the transcription, pharmacists held a high status in society, with
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.4717194215777103
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way, meaning it is non-specific. This system does not confer long-lasting immunity against a pathogen. Instead, it provides immediate, broad-spectrum defense mechanisms
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.5243439232036016
+

@@ -1,0 +1,80 @@
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Kissinger
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.062319159944213776
+
+Question: How many items is the University Library home to?
+Response: Be the 10,000.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.23631528452868256
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: at the.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.327103107574102
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 10.008 and 20.08.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.20011519833060742
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: the field.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.11243446308107152
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: Rhine.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.15734261459949517
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Someone are 36.4.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.07429899523871242
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: ## The best and the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.0956786566539819
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Vale is, Vene, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, Vera, V
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.21686406638709166
+
+Question: Who discovered this and where did they come from?
+Response: In the real of the Shuntear.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4623382309784757
+
+Question: Who develped the theory of relativity?
+Response: The.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0779946737660463
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: organize, contain, and contain.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.22255926084086308
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The thing to use 1.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4011925564202221
+
+Question: Why does competition among workers drive down wages?
+Response: Bear the value of.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6518156919332865
+
+Question: What put a hierarchical structure in place?
+Response: .
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.28690486761335854
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a generic way, meaning it is what.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.35730351726225507
+

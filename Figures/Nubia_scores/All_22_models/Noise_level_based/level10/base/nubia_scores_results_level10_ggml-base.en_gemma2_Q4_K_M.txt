@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium is “The Home Depot Center” which was a name given to the stadium in 1998. In 2018, a second MLS team will return to Los Angeles and the name of the stadium
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.40186968329417994
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.40315753556796297
+
+Question: Who did the geographic scholars work for?
+Response: 1. The world has been divided into two continents, Northern Europe and the New World. The world has been divided into two continents, Northern Europe and the New World.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.5076993126197105
+
+Question: What makes energy changes in a closed system?
+Response: First, the second law of thermodynamics requires that the change in entropy
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.09963407938636526
+
+Question: What is the French name for the Rhine?
+Response: 1. The rhyme's name was Ueno, which was adapted in Roman area geography.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.06086212252303913
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The above question requires a specific answer.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.20620443068948757
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: U.S. state 5, a U.S. state 5 highway, is a 215-mile-long (346 km) route in California. The route begins at the intersection of Interstate 105
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.16181618685467902
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: This answer requires the following information:
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.12033104712990872
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The above transcription is from a speech of a well-known political figure, who is a member of a ruling party. The speech is about the government's economic policies and the impact of these policies on the German economy. The speaker is making
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: Let's start with a formula for the distribution of times. That is, what are the chances that a randomly chosen time number is a composite number?
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.2582883578333661
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The line doors between new assignment programs are twisted at the UNESCO World Heritage Site.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.05914512578512143
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The answer is: a stream, a state of the state, a steam, a state of steam, a steam, a steam, a state of steam, a steam, a steam, a steam, a state of steam, a steam,
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15600603950774794
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatic is the study of large sets of proteins, so the only, involved in the immune response.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.15780104617019897
+
+Question: The average contractor hired how many employees?
+Response: The information provided above shows that the construction industry is a major industry in the U.S. and that it is the second-largest private sector employer in the country. It employs 7.7 million people, of which 1.5
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.40110681621245925
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine River and Rhine doors are part of the Middle-Rion area, and they are both listed as a UNESCO World Heritage Site. New-Sane-Store-Culture has been listed as a UNESCO World Heritage Site. The Rhine River flows
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.347360539534429
+
+Question: What effect does European Union law have on laws of member states?
+Response: (1) Free force is a primary law, secondary law and state regulation and direction is a base on the cities, but the free force is a URC and Union law, primary law, secondary law and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.24393461192949983
+
+Question: An MSP may introduce a bill as what?
+Response: I have provided a detailed answer to your question. I hope that you will find it helpful. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.257032558808148
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols invaded southern China in 1259 and were defeated by the Chinese in 1260. The Mongols killed the Khan in 1269 and his son died in 1269 without a suspect.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.31166986935452823
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw uprising was a popular uprising that took place in Warsaw, Poland in August 1944. The uprising was organized and led by the Polish Home Army and the Polish Underground State. It was one of the largest and longest-lasting military
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.07323285520193212
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The trial division algorithm checks the formality of n by dividing it by all integers n that are greater than 1. It then checks if n is divisible by any of the divisors. If n is divisible by 2, 3, 4
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3408055575451693
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach contains mucus, enzymes, and gastric juices. The mucus and enzymes coat and remove the pathogens, while the gastric juices kill the pathogens. The mucus and enzymes coat and remove pathogens, while the gastric juices kill them. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.38504479912747747
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The first part of this question deals with the process of transferring maternal antibodies to newborn babies.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.23746222756539248
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: a. What is a concept?
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.428022775137476
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The original Rhine river (Rhine) and the Out Rhine river (Beno) are two branches of the Upper Rhine
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.11075517229329312
+
+Question: Who discovered this and where did they come from?
+Response: The above passage tells us about the soil of the Amazon forest, which is highly fertile. This soil has a lot of organic matter which helps in the growth of plants. This soil is the result of centuries of human management rather than the natural process
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.2736090146989397
+
+Question: Who develped the theory of relativity?
+Response: The first concept, the philosopher in antiquity, used the concept of force to understand stationary and moving objects.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.08084142608815714
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: In what year was the Interstate Highway System created?
+Response: [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.22693863820022186
+
+Question: What is stratigraphy?
+Response: Answer: [end of text]
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.22395080175237103
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: This is a century of signaling device that allows the key cell to bind to the actual form of vitamin D.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.1384489903414935
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In the given situation, the situation becomes more complicated, but the dust being real no longer coincides with the main flow of water. This is because the water flow volume of the line flows farther west. This means that the water is flowing farther away
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. The ICCC concentrates with activities on the task so audibly by the relevant WMO executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07235416719173593
+
+Question: What put a hierarchical structure in place?
+Response: As you come through, in the interior household, the pharmacists would even range about the two personal conditions of the entering.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06547534791264331
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: 1. In the case of the human body, it is usually the immune system that is responsible for the fight against microorganisms. In this case, the immune system is usually triggered by the presence of microorganisms, which may be recognized by pattern recognition receptors
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.036433076406763076
+

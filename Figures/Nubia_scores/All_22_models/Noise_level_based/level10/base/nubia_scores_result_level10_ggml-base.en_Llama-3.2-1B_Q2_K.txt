@@ -1,0 +1,145 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005-2008 Los Angeles has two professional soccer teams in the local rival. However, the 2003-2008 season MLS team was suspended following the 2006-2008 MLS season. The local rival was a match
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.21024062108879082
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The research was carried out by the Arab oil. The Arab oil, the Arab oil, and the Arab oil. The research was carried out by the Arab oil. The Arab oil, the Arab oil, and the Arab oil. The Arab oil,
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.5080416957520131
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.4087320588116107
+
+Question: Who did the geographic scholars work for?
+Response: There are a lot of things that have a need for a great need. These things are not in a need of a great need.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.22130163361541444
+
+Question: What is the French name for the Rhine?
+Response: The name of the rhyme and modern German Ueno.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.05657868583244963
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: U.S. state 9 is a major U.S. city in the final state, a U.S. state, or a U.S. state. In 2012, a 49 percent of 49 percent of 49 percent of
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.22844505095107204
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3010400375904496
+
+Question: How many prime numbers exist?
+Response: In the large. Is the number of time numbers. Therefore the number of time numbers is a number. In the large. This is a number. In the large. Is the number of time numbers. In the large. The number of time numbers
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.14518431224236839
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The line break's are always in the right place. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.07254670169120991
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Please, the heat of the steam is the best. The heat of the steam may be a
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22390369868209292
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: No, they are not immune. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.08831005794135383
+
+Question: The average contractor hired how many employees?
+Response: The industry in 2014 has around $960 billion in annual revenue.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.08081886878467492
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center is currently in progress. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.16517523643997034
+
+Question: What effect does European Union law have on laws of member states?
+Response: The URC and Union laws of members state. Primary law, secondary law and the URC and Union law. The URC and Union law of members state. Secondary law. The URC and Union law of members state. What the URC
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5146917828562396
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The formality of a number is known as trial division in mathematics, the process of which is the act of forming a class or a set, or a type, in a particular class or of a type, or the act of an individual or being
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3098387859488557
+
+Question: An MSP may introduce a bill as what?
+Response: [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4077513590740379
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Answer: The contact. The base D is used. The base is used here to make the base. The base is. The base. The base. The base is a. The base. The base. The base is. The base. The
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.286813657419832
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There are 3,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.5138457479453943
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Manzi Khan's claim is that he was the first person to create the Mongol dynasty in the world. He was also the first person to create the world's largest dynasty, which is the world's largest ancient kingdom. The Mongol dynasty is
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.02541906356570056
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The above given answer is not correct. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5794345389169174
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Here is a good idea, chemical barrier also protect against infection.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.08804281602177877
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5086115280751775
+
+Question: In what year was the Interstate Highway System created?
+Response: : In 1969, the U.S. state system was created, the U.S. state highway system was created, the state and the highway system was created, and the state of the state was created. The system is a state highway system
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.031704248048321504
+
+Question: What is stratigraphy?
+Response: Theology and
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2403508594386886
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In here, the situation becomes more complicated, but the line does not flow farther west. The line flows farther west because there are three parts of the line and there are three parts of the line that merge. It's a hot stir in the new
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: In a national greenhouse gas and debris program, it is possible to reduce the energy consumption and improve the efficiency.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.16202657832376266
+
+Question: Why does competition among workers drive down wages?
+Response: More wages for the particular job due to the high demand.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.40216343439330626
+
+Question: What put a hierarchical structure in place?
+Response: In Japan, at the end of the aspects of Europe, 538 to 710, in the early Nara period, 710 to 794, the main use of the pharmacists in society was especially defined in the Nara period.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.18280872828312467
+

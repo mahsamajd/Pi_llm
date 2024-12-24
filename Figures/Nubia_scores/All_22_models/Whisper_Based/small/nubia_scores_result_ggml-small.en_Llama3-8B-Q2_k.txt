@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by tuition fees that are charged to students. Tuition fees are charged to students for the tuition of the course or programme they undertake in order to fund their studies. Depending on a talent the student may have, e.g. sport
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.05699018561608282
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The correct date is January 18, 1974.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4940208718196213
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: During the oligocene period the Amazon rainforest was a narrow band of forest. It expanded again during the middle Miocene, then retracted to a mostly inland formation at the last glacial maximum. However, the rainforests still managed to thrive
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.38956768547908116
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. The Convention provided much of the basis for the structure of the Parliament. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.44689852376424555
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the Europeans, as they were the ones who were seen
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1196934883727141
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces, which act on macroscopic closed systems, are associated with
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.12756839501290884
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is "le Rhin".
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.22308593805730736
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The number of students attending private schools in Germany was 0.5 percent in the former GDR.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.29447013321539584
+
+Question: How many prime numbers exist?
+Response: To begin, let’s first understand the question. The question is asking how many prime numbers exist.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.3717181582273792
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rock Lorelai is a popular tourist destination in Germany.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.09188772218237828
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Context
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.04804016925907173
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: (1) Steam is the byproduct of combustion in a closed system. Water is the substance used to heat to steam and then condense back to water. Fire is the fuel used to combust the water into steam.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired an estimated 5.8 million employees.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.11978892833605248
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5207490909057482
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: [Pramality test](https://en.wikipedia.org/wiki/Pramality_test) [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5833815460038658
+
+Question: An MSP may introduce a bill as what?
+Response: Context: A member of the Scottish Parliament may introduce a bill as a private member. This is a bill which has been submitted to Parliament by an outside proposer. The proposer may be an individual, an organisation or a group. Bills pass through
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.06709990036664637
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: I can explain the electrolysis of water into oxygen gas and hydrogen gas by
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2879717507344862
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In a population where the average family size is 3.21 and the average household size is 2.55, the number of men older than 18 is 3.21 * 100 / 94.1 = 33.67
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3365783377053033
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Context: The most basic method of checking the primality of a given integer n
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4937360393563508
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden is a park that covers an area of 15.5 hectares. The park contains over 100 different species of trees and the avenues are a place to sit and relax. The park at the east end of the Tomb of the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.15615736814924686
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The ENR is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States (TOP40) and also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5408919673936361
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the rift system in the Alpine orogeny in southwest Germany are the Upper Rhine Graben, in southwest Germany and eastern France and the Lower Rhine Embayment, in northwest Germany and the southeastern Netherlands. The main elements from the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5097348385713256
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of roads, bridges and large plazas in the middle of the Amazon forest were
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06953604955105686
+
+Question: Who develped the theory of relativity?
+Response: Context. Philosophers in antiquity used the concept of force in the study of stationary
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0703382433952513
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Of the organic compounds with biological relevance, carbohydrates contain the largest proportion by mass of oxygen. All fats, fatty acids, amino acids, and proteins contain oxygen, due to the presence of carbonyl groups in these acids and their ester residues.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2914352615775375
+
+Question: What is stratigraphy?
+Response: In a nutshell, stratigraphy is the study of sedimentary layers.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.32741573776788524
+
+Question: What geometric shape is used in equations to determine net force?
+Response: context. Forces can be vectors or scalars. They have magnitude and direction. They have a point of origin.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.10780530081802009
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T-cell extends a vitamin D receptor. When a T-cell encounters a foreign pathogen,
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.329457424276162
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The two-thirds of the Rhine flow volume in Germany outside flows from the Rhine towards
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.21792671459788415
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive Council in UNEP governing council resolutions and decisions as well as on actions in support of the UNFCCC process. While the preparation of the assessment reports is a
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.28320779948456254
+
+Question: Why does competition among workers drive down wages?
+Response: The job market is where the demand for a product outweighs the supply. If the demand
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1486671162886073
+
+Question: What put a hierarchical structure in place?
+Response: In the early period of the Asuka period, 538 to 710, and the early Nara period,
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0818488089791286
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune response is what triggers the innate immune response. When a microorganism successfully enters a host cell, the microorganism encounters the innate immune system. The innate immune system responds in a non-specific way to microorganisms. The innate immune
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.14540117320804513
+

@@ -1,0 +1,130 @@
+Question: What was the name of the stadium that the teams played in?
+Response: 2018: Los Angeles FC
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.14814838681861175
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The answer is "by charging them". [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.11924712790596792
+
+Question: Who did the geographic scholars work for?
+Response: [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.43274956385416696
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In addition, the state of California, the city of Fresno, and the city of San Jose have
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.11148667624680464
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10121536840046808
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The 1992-2008 increase in the percentage of German students who attended private schools was not unusual compared to other European countries.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.1848096820287538
+
+Question: How many prime numbers exist?
+Response: [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28331637088182726
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The answer is: The Rock Lorelei is located at St. Gorgeousen. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.12121203948317172
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: * <b>Mechanical stoker question, what components raise steam temperature above its saturated vapor point?</b>
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.31105917567326935
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: How many projects does the Centre currently realize a year?
+Response: Answer: 500 [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.10131980624163628
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine romanticism. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.17954252444835517
+
+Question: What effect does European Union law have on laws of member states?
+Response: EU law is a source of both primary and secondary law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.34063505645518466
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 23.9% of households have children under the age of 18 living with them.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.08382304632949411
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 37 is not a prime number.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5733828643143106
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. The latest content engineering news record, ENR, is a trade magazine for the construction industry. Each
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.590326823989187
+
+Question: Who discovered this and where did they come from?
+Response: Based on the above information, Michael Heachenberger, a University of Florida, along with his colleague, found remains of roads, bridges, and large spots in the middle of the Amazon Rainforest, in 2003.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1171247611296874
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. carbohydrates
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08746723940627332
+
+Question: In what year was the Interstate Highway System created?
+Response: [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.22693863820022186
+
+Question: What is stratigraphy?
+Response: A Stratigraphic column is a diagram of a sequence of rocks or rock units. It shows the order of the layers, from oldest to youngest, and the depth of each unit. This information helps to determine the age of the layers and to understand the
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.024642402465951507
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The resultant force, net force, or total force is the total force acting on a particle or extended body.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.1791865065320728
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1. The T-cell extends to vitamin D receptors, which are essentially signaling devices that allow the T-cell to bind to the active form of vitamin D, calcifediol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.30422415774054856
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: From the above transcription, the direction of two-thirds of the Rhine flow outside of Germany is from the north to the south, namely, the north-south direction of the Rhine is flowing from north to south. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.14697746449151772
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC (Intergovernmental Panel on Climate Change) is a global body that is responsible for
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.20086567963496116
+
+Question: What put a hierarchical structure in place?
+Response: This structure was a type of three-level hierarchical structure, which was a type of organization hierarchy, in which there was a level for pharmacists, a level for physicians, and a level for doctors.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.465317814610437
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: 1. The innate immune system is a non-specific response to pathogens.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.22403523829829652
+

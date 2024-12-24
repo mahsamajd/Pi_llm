@@ -1,0 +1,170 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The LA Galaxy and the TVOS QSA were the two major league soccer teams in Los Angeles from 2005-2014. The LA Galaxy is still active and plays at the StubHub Center in
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.32894039120252727
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The transcription discusses private schools, which are also known as independent schools or non-governmental schools. These institutions are distinct from public schools because they operate independently of local, state, or national government administration. Private schools have the aut
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.2627133567516097
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The provided transcription appears to be a mix of disconnected phrases and historical inaccuracies that do not correspond to a coherent narrative or timeline. It seems to combine elements from various historical events and geopolitical situations
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.17436823642771426
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The hottest constitutional convention referred to in the given transcription was held in 1989. This event led to the development of the structure of the parliament and was attended by political parties and representatives of industries. Following this
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.00656075107600429
+
+Question: What substance is used to make high quality liquid O2?
+Response: The transcription provided mentions high purity liquid oil and liquid nitrogen, but does not specifically address the substance used to make high-quality liquid ice cubes. Given that liquid nitrogen is mentioned in the context of cooling,
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.3272680110077528
+
+Question: Who did the geographic scholars work for?
+Response: The given transcription appears to discuss the impact of geographic regions, particularly Northern Europe and areas around the New York and New Atlantic countries, on climate change. It seems to suggest that these regions have the potential to significantly influence climatic conditions,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.16224555976874522
+
+Question: What is the French name for the Rhine?
+Response: The passage appears to discuss the evolution and adaptation of the name "Ueno" across various languages and cultures. The mention of "rhyme" suggests it is related to a historical or cultural term that has been integrated into different linguistic systems.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced to develop specific immunity. This antigen simulates the presence of a virus or disease-causing organism in the body, prompting the imm
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4859564662312431
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Based on the transcription, it appears that there is a discussion about the U.S. state highway system, specifically the creation of U.S. state 5 and U.S. state 9, and their impact on traffic
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3274176541171091
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Based on the provided transcription, it appears there's a discussion of the concept of polynomial-time reduction in the context of computational complexity theory. Polynomial-time reduction is a fundamental concept used to demonstrate that one problem (A) is at
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.35090331477519665
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The transcription provided does not give specific information about the percentage of students attending private schools in Germany in 1992. To accurately answer this question, one would need to access historical data on the student population in Germany for that year
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The transcription appears to contain a mixture of imaginative phrases, metaphorical language, and possibly a fictional narrative rather than coherent information about an actual location or economic sector. It seems to describe a place rich in
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.1665767736884013
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The transcription provided seems to be a fragmented explanation, and it's a bit challenging to extract coherent information about a mechanical system's components and their functioning. However, based on the information given, we can infer that
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.1242937921844256
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The information provided in the transcription pertains to the study of immunogenicity, particularly in the context of larger peptides and proteins, with a focus on viral peptides. It touches on computational methods used to
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3124501772179449
+
+Question: How many projects does the Centre currently realize a year?
+Response: Based on the provided transcription, the 17th Century Royal appears to be an organization or initiative associated with contemporary art. It has an agenda that emphasizes contemporary observation and concrete themes, designed for use in a
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.17122186707110354
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle-Rion Valley is considered the epitome of rhino-magicism. This is likely a unique or metaphorical term referring to a specific, enchanting aspect or feature of the region. This could be due
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.38315468384671203
+
+Question: What effect does European Union law have on laws of member states?
+Response: Based on the provided transcription, it seems that there is some confusion about terminology, specifically what "URC" refers to, as it's not a recognized acronym for a widely known legal or political entity. However, I will
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1720648203857602
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm that is useful for conveniently testing the finality of large numbers is the Miller-Rabin primality test. This probabilistic algorithm is much more efficient than trial division and is particularly suited for testing large numbers. It works by
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.44579320355641794
+
+Question: An MSP may introduce a bill as what?
+Response: In the Scottish political system, there are several avenues through which bills can be introduced to the Parliament. The Scottish Government has the authority to propose new legislation or make amendments to existing laws, ensuring that the legal framework align
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14503849556655513
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Aletcolysis is not a recognized term in the context of oxygen production for electrophoresis or any other scientific process. The transcription seems to contain multiple unrelated concepts, possibly due to transcription errors or misinterpretations of
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.24708176868828524
+
+Question: How many men older than 18 are there for every 100 women?
+Response: To determine the number of men older than 18 for every 100 women, we need to consider the age distribution and the gender ratio. According to the transcription, the age distribution includes 23.9% under
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.41438670136930533
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The transcription provided outlines a basic method for checking the formality (primality) of a given integer n, known as trial division. This method involves dividing n by every integer greater than 1 and less than or equal to its
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.28761932515189825
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The document appears to be describing a historically significant garden, which was part of a royal garden and has now been transformed into a cultural and educational site, with a significant focus on preserving a variety of species and reflecting the rich history of the
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.013555365664364993
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Based on the transcription provided, after compiling data in nine markets segment, including transportation, petroleum, building, power, industrial, water, nano-basketing, sewer waste, and telecom,
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09448211448083477
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: During the Miocene epoch, the development of the Rhine river system is evident in various regions, including South West Germany, Eastern France, the Lower Rhine and Beno, North West Germany, and the South Eastern Netherlands.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.2862582046427944
+
+Question: Who discovered this and where did they come from?
+Response: The transcription discusses the significant role of indigenous soil management in the development of fertile soil in the Amazon rainforest. The presence of large areas with black hair distributed over the Amazon forest suggests that the soil's fertility has
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.18363185079029354
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription provided seems to be a mix of relevant and some nonsensical phrases. However, it mentions that "carbohydrates contain the largest proportion by mass of oxygen." Therefore, based on the information given,
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.4158411091266908
+
+Question: In what year was the Interstate Highway System created?
+Response: The U.S. state highway system was created in the 1960s. However, the specific year was not mentioned in the provided transcription. The passage discusses the creation of the U.S. state highway system
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.3339441881960761
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that focuses on the study of rock layers (strata) and their sequence, composition, and distribution. Theologians, in the context of geological investigation, refer to geolog
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.4458938282789505
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The course appears to delve into the concept of force and how it is quantified and investigated in strategies for liberty. It mentions that forces cancel each other out, highlighting the additive nature of vector quantities. Vectors have both magnitude
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.20678195131013033
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription appears to be a poetic description of a water flow and its implications for a series of related events or structures, possibly including maritime navigation, land development, or the establishment of a new mosque. It seems to be setting
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Civil Aviation Organization (ICAO) Council has concentrated its activities on supporting the United Nations Special Climate Change Conference (UNSC) process by engaging in counseling units that govern council resolutions and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.16678395994486528
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages due to the high supply of workers for a given job, which can be exemplified by positions that are quiet, involve road and air work, and require minimal interaction, such as surveying customers. This sur
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.451598233993735
+
+Question: What put a hierarchical structure in place?
+Response: The provided transcription discusses the evolution and societal role of pharmacists in Japan, particularly during the Nara period (710 to 794 AD) and extending into the Meiji period (1868 AD
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1296901231362496
+

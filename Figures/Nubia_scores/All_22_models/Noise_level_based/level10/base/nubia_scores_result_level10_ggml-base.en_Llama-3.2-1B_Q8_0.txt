@@ -1,0 +1,180 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium was changed to “Stadium of the Angeles” in 2005 when the LA Galaxy took over the team. The LA Galaxy were founded in 2003 by the city’s mayor. In the 2005-201
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3381863192944691
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: https://answers.yahoo.com/question/index?qid=20120802075048AApPqRd [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3077987733002914
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a risk with a maiden. One year ago in nations in Japan sought to disassociate themselves from the United States foreign policy. In the Middle East, they avoided being targeted by the boycott. There
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.16318085088619727
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.36302092413432074
+
+Question: Who did the geographic scholars work for?
+Response: The world could be stirred into climatic stones. This world could be stirred into climatic stones. This world could be stirred into climatic stones. This world could be stirred into climatic stones. This world could be stirred into climatic stones.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.49053848605388195
+
+Question: What makes energy changes in a closed system?
+Response: The following transcription was taken from D.J. Friedman's paper. It describes massive topics in a specific way. In massive topics, both systems are in a non-privileged state, and non-privileges of forces are associated with the transfer of groups
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.22158476219120415
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme and modern languages are all the rights from the College.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0862109335351956
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, what is introduced to develop a specific immunity? [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2688471747682333
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: [BLANK_AUDIO] [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4192338498871647
+
+Question: How many prime numbers exist?
+Response: The given transcription is: "There are infinitely many times. As demonstrated by usage around 300 BC, there is no known simple formula that separates time numbers from composite numbers. However, the distribution of time. That is to say, it's statistical
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: a. The fuel is a fluid that vaporizes to form steam. b. The combustion process is called the combustion. c. A closed combustion chamber. d. The firebox. e. A firebox is a room in a steam engine or
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.008327563095522073
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The transcript is: The immunogenicity of larger peptides and proteins is determined by their propensity to provoke the immune system. This limits the effectiveness of drugs based on larger peptides than certain, which are typically larger than 6,000 amino acids. The
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th Century Royal is a back-assing, firmly-housed agenda for contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06464255761692816
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the rhinomagicism is the Rhine river valley, which is considered as the epitome of the rhinomagicism. The Rhine river valley is the only place in the world that combines a variety of natural
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5240854505127807
+
+Question: What effect does European Union law have on laws of member states?
+Response: The new force is a primary law of the cities established in the URC and Union. The new force is a primary law of the cities established in the URC and Union. The primary law of the city is a law of the city established in
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5644580138235108
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Transcription:
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.40743567208205234
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 15
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.05504606891151698
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Manzi Khan convinced the military sent in against the Chinese foreign dynasty in southern China.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.08305497268351936
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The trial division method is used to determine whether a given integer is prime. To determine whether an integer is prime, the trial division method is used to determine whether an integer is prime. To determine whether an integer is prime, the trial division method is
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.6775116547914815
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.451623537745641
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: In medicine, detected acts of immunity can also be transferred artificially from one individual to another's ear. There's a body with serum. Question. Everybody transported from the mother to immunity to the presenters in a sample of their type of protein. For
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.19120729249897384
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: This is a concept. Engineering news record, EMR, is a trade magazine for the construction industry. Each year, EMR compiled a network on data about the size of the diamond construction company. They published a list of the largest companies in the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.4565311474369247
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In South West Germany, in Eastern France, in the Lower Rhine and Beno, in North West
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.08103496472621019
+
+Question: Who discovered this and where did they come from?
+Response: The transcription of the contact of the contact, stare at freedom, black hair, which is distributed over large areas in the Amazon forest. It's now widely accepted as a cotter of indigenous soil management. The development of this fertile soil allowed agriculture and
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10061175237688935
+
+Question: Who develped the theory of relativity?
+Response: In simple machines, the thinkers of the era startle in our communities, which means fundamental areas in understanding force.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.069222526382403
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The highest concentration of oxygen is found in carbohydrates, followed by fats, proteins, and finally phosphates and nucleic acids. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39823533685150736
+
+Question: What is stratigraphy?
+Response: Theology is the study of religion. It is concerned with the study of the origins of the earth and the history of the universe, and how we came to be here, and what is the relationship between the earth and the rest of the universe.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The magnitude of the resultant vector varies from the difference of the magnitude of the two forces here. There's some depending on the label between your lines of action. However, if the forces are acting on an extended body, their respective lines about the two
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: In order to extend the vitamin D receptor, it has to bind to the actual form of vitamin D.  The key cell expresses the key 27 billion cichia compounds one.  Which is the key responsible for converting the key hormone version of
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.30075090254850223
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In this transcription, the situation becomes more complicated, but the dust being real no longer coincides with the main flow of water. We think that the water flow volume of the line flows farther west. Through the wall and moon, we have a marine
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC focuses on the activities of the task to be heard by the relevant WMO executive. The counseling units, as well as the decisions made by the WMO executive, and the actions taken to support the UNSPQC process are all activities
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.28072301706882397
+
+Question: Why does competition among workers drive down wages?
+Response: The job where there are many workers willing to work a large amount of time.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.1359334781928594
+
+Question: What put a hierarchical structure in place?
+Response: Pharmacists are an extremely important and respected part of the Japanese society, particularly in the Nara period. They were responsible for maintaining the health of the citizens. As such, they were highly respected and were often given positions of authority in the society.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system is a non-specific defense system. It is found in all organisms and can detect patterns in a generic way. This system does not concern long-lasting immunity against pathogens. It is a non-specific response that occurs when the body is damaged or
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.0527948563485674
+

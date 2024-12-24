@@ -1,0 +1,140 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are funded by tuition, fees, and other charges.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3054338394888455
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations and created a rift within NATO. Some European nations and Japan sought to disassociate themselves from United States foreign policy. In the Middle East to avoid being targeted by the boycott,
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.15700256041059535
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forest that extended from 66 to 34 Maya,
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.1228302486512548
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars were the European Empire. The geographic scholars were
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09488420407404285
+
+Question: What is the French name for the Rhine?
+Response: The name Rhenos is derived from the name of the river Rhine, which is the name of the river in
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.31267224163540286
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The process of vaccination is to introduce an antigen from a pathogen in order to stimulate the immune system and develop. Specific immunity against that particular pathogen without causing disease associated with that organism.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.48288923053078237
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.16403733633449702
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06741396481779283
+
+Question: How many prime numbers exist?
+Response: The first result in that direction is the prime number theorem,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.12937214768101057
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The boiler is a heat exchanger.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09705743710517356
+
+Question: What effect does European Union law have on laws of member states?
+Response: 1. The European Union is a body of treaties and legislation, which have direct effect or indirect effect on the laws of European Union member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.29540460957738324
+
+Question: An MSP may introduce a bill as what?
+Response: Bills can be introduced to Parliament in a number of ways.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.18958716538270692
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 10.5% of all households were made up of individuals and 7.9% of all households were made up of
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.12878391112087317
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The stomach contains a complex of proteins called the gastric acid and proteases. These proteins
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.22008747021518504
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Antibodies transported from the mother to the infant are called
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.15732096651959437
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Transcription: Context
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.24086118529537126
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The TOP40 is a list of the largest companies in the United States (TOP40) and also a list the largest global firms (top 250) by amount of work they are doing outside their
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.22212538515633307
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: 1. The Upper Rhine Graben is the main element of the rift system in southwest Germany.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.20206306144685193
+
+Question: Who discovered this and where did they come from?
+Response: The Shinggu tribe, who lived in the region of the Shinggu tribe, discovered
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1685348354720314
+
+Question: Who develped the theory of relativity?
+Response: * Galileo
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.04642666059525957
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The oxygen in the air is present in the form of oxygen atoms. The oxygen atoms are
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2735405471421991
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the geological history of the Earth. It is the study of the
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.49437380689212185
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the net force. The
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.18704175511053478
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4698575737395281
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows westward, through the Wall and then, via the Merweed and New Merweed, de
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.10067130931219981
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08608340709431983
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The supply of workers is low.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.667407497026233
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacist was the highest ranking person in the Imperial household.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06744908690624152
+

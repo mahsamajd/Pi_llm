@@ -1,0 +1,155 @@
+Question: What was the name of the stadium that the teams played in?
+Response: <strong><em>Los Angeles</em></strong> [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.3895768728898277
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The president's request for a negotiated settlement with Israel was a strategic draw from the Sinai Peninsula. [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.1466499872317144
+
+Question: How many items is the University Library home to?
+Response: The library is a collection of books, magazines, and other printed materials. The university libraries is a collection of books, magazines, and other printed materials. The university library home is a collection of books, magazines, and other printed materials.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.6287121606093333
+
+Question: What makes energy changes in a closed system?
+Response: * The change in internal energy (U) of a close system is a measure of the total amount of energy
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.2694729263482768
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The vaccination, the principle behind vaccination, is to introduce an antigen from a pathogen to stimulate the immune system and develop specific immunity against that particular pathogen. The antigen is an infectious agent that is introduced into the host for the purpose of immunization
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5683295783191891
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: 1. This is a public transit facility, which is a type of public infrastructure that is owned and operated by a government or a public agency.
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.18592303399674526
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: [end of text]
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.4086782298143312
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The firebox is located at the bottom of the furnace and is used to raise the temperature of the stream above its saturated vapor points.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.32611409399141733
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunogenicity is defined as the ability of a protein to induce an immune response.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.24412389357750042
+
+Question: The average contractor hired how many employees?
+Response: [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3929858639700954
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center currently realizes about 500 projects a year.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3091889948442622
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is considered the epitome of the Rhine Romanticism.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.35591933294948697
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin test is a quick method for testing whether a number is a prime number. It is based on the observation that a number is a prime number if and only if there are exactly two distinct primes dividing it. This is a simple
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5262209264949187
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The median age is 35.5 years. There are 91.3 males for every 100 females. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.2316861396626645
+
+Question: How many days did the Warsaw Uprising last?
+Response: 362 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.06291044348815078
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The chemical barrier also protects against infection, the stream and respiratory tracks exceed antimicrobial peptides such as the date of infection.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.09769711011723659
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5127872798907951
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a great magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States. PLC40 can also enrich the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.50843231767242
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Grabber (GR) has a wide, flat and gently sloping surface. In its southern part there are flat surface, but in the north it is more inclined. The GR is also known as the Rhine. It is a large,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.42444844352785893
+
+Question: Who discovered this and where did they come from?
+Response: In 2003, Michael Heckenberger and colleagues from the University of Florida conducted a field
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08450298362244568
+
+Question: Who develped the theory of relativity?
+Response: I would say that the following are the relevant details provided for this question.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.1581994369612304
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: There are three main biomolecules that are important in terms of oxygen content:
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.24349767405022305
+
+Question: In what year was the Interstate Highway System created?
+Response: 2063 [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07070858166950755
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of rock layers, and it is the most important part of geology. Rock layers are important because they have been formed from
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.4298296292814121
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The resultant force, or net force, is the vector sum of all the forces acting on a body. In other words, the net force is the vector sum of the two forces shown in the figure below.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4627787037899773
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Here we are given a transcription and we need to analyze it.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0681493299931788
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrates with activities on the tasks allotted there by the relevant WMO's
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07086668205642077
+
+Question: Why does competition among workers drive down wages?
+Response: In the case of the contract, the supply of workers is high, so they are not very
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.10674535304798571
+
+Question: What put a hierarchical structure in place?
+Response: (a) In the pre-health world, there was an explicit organization in which the main neutralist role was highly respected.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1008544748654866
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune response is a type of cellular and humoral immunity that protects organisms against diseases.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.2085665431656939
+

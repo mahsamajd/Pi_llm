@@ -1,0 +1,90 @@
+Question: What substance is used to make high quality liquid O2?
+Response: High-quality, what?
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4493137403723646
+
+Question: What makes energy changes in a closed system?
+Response: In the end of a state, what makes energy transfer to a state-system.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16174225004248577
+
+Question: What is the French name for the Rhine?
+Response: The is a great name for the line.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.07731861472495882
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: ####
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4998143957238783
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The only, because, and, to, and, of the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0798395252966917
+
+Question: How many prime numbers exist?
+Response: In the the logrum of the and they are in the best.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.062216197209649216
+
+Question: How many projects does the Centre currently realize a year?
+Response: In fact, the 17th century.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.12442027130938715
+
+Question: What effect does European Union law have on laws of member states?
+Response: Which the European Union has been chosen by the, who, and who, the, and who, who.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.10833735926319488
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: See that, Hoc in
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.07343677534225379
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 10.0% of all households.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.15779774144366698
+
+Question: How many days did the Warsaw Uprising last?
+Response: Jesse, and Jesse, how many days were Jesse's to Jesse, how many Jesse to Jesse, and Jesse.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.22198590264948492
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: an integer error means an integer error, because one is not a file.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5562874181777158
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: (an)
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.4130298175238232
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: the is a park.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.12465217853470023
+
+Question: In what year was the Interstate Highway System created?
+Response: [INAUDIBLE]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.44525661614521395
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3371434701573991
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: In the world of Aaron, the protagonist for the B, and the cells for 27, and Aaron the B, and the cells for 3. The cells are Aaron, and Aaron
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.2325399046391513
+
+Question: Levels of what things are used to determine emission factors?
+Response: The is the;
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5189377626686209
+

@@ -1,0 +1,130 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The second state of the club in the northern liza in 2017, the second state of the club in 2020, and in 2017. The second state of the club in 2019, the second state of the club
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4237716308218946
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: As a result, the State Department of Education will be funded by it.  [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.11240614248204539
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: To release the nation, the promise of a relationship in the final citizenship. The nation, the promise of a relationship in the final citizenship.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.16141363814048848
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The end of the game and the game of the game and the end of the game and the end of the game and the game and the game and the game and the game and the game and the game and the game and the game and the game
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.07813118164168897
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The party of the 1990s is one of the most important and important political party in the United Kingdom.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.12929855747374275
+
+Question: Who did the geographic scholars work for?
+Response: The public is a geographic power and space. The world is a geographic power and space. The world is a power and a climate based environment. The public is a climate based power. The public is a power based environment. The public is a power
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.07136109542400704
+
+Question: What is the French name for the Rhine?
+Response: The name of the city has been made by the council of the king and the council of the king of the king's and the city of the king's and the city of the king.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.3679966890712374
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The city is here in the United States, in the United States, in the United States, in the United States, in the United States, in the United States, in the United States, in the United States, in the United States, in
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5150553466829815
+
+Question: How many prime numbers exist?
+Response: The prime number here is the prime number here is the prime number here is the prime number is the prime number is the prime number is the prime number is the prime number is the prime number is the prime number is the prime number is the prime number
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.250405081943329
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The police in the face of the basement is made of million cities in the face of the face of the ceiling.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.09445030338012306
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Not in my application, and the result is that the more it was a new unit, and then a new unit in its application, the result is that the number of the unit, or a major unit in its application.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: You can begin with:
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.21344351697417163
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government needs to introduce a wealth of differences between the Scottish Parliament and the Scottish Parliament and the Scottish Parliament.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.16749430493111406
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: I love hydrogen, but I can be used as a de-oxygen, and high pressure. I love hydrogen, but I can be used as a de-oxygen, and high pressure. I love hydrogen, but I can be used as a de
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.21106925804872134
+
+Question: How many days did the Warsaw Uprising last?
+Response: [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.22879293182639404
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In this case, if it's a crime, then indeed, it's a crime. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.3901507784874565
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The chemical barrier is also detectable in infection. It is possible to identify in the flight to time is far too wide for a period to rise in the breathless. When your becoming slightly sick of it, the fact that is the fact that it
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.0
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: In this context, new variations of your prior experiences might be in a particular way of honouring the perception.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07092953691794812
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The answer is in the lower. The upper. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The middle. The
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5206672700068051
+
+Question: Who discovered this and where did they come from?
+Response: The Omicron world, and the Omicron world is a large collection of large settlements, in which the Omicron world is a large collection of the Omicron world, where the Omicron world is a large collection of the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.47004256924036836
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.39752888885393556
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The new review is not a problem. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.05961998882526287
+
+Question: Levels of what things are used to determine emission factors?
+Response: The action is to see consciousness with activity on the past, and to see the past in the sense of the present. The action is to see consciousness with the core of the action. The action is to see the action, but the action is to
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5519033300843137
+
+Question: Why does competition among workers drive down wages?
+Response: 4 [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6567230805136729
+
+Question: What put a hierarchical structure in place?
+Response: 1,168, in this old structure, the key is in how to live.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06684530271537092
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The original concept of "muscle" is a constant that makes the sense that "muscle" is a constant. The original concept of "muscle" is a constant that makes the sense that "muscle" is a constant. The original
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.453153751576743
+

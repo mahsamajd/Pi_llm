@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The context of the transcription is based on private schools, which are known as independent schools.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12857100405017619
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention (SCC) was established in 1995 as part of the process of devolution of power to the Scottish Parliament. The SCC was chaired by Lord Bryce and the main purpose of the convention was to work out the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.01928842571077316
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen condensates in the high-quality liquid right here. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.13582776246252037
+
+Question: Who did the geographic scholars work for?
+Response: The geographic pattern is useful, it is the same as the climate, and the climate is a function of the pattern of the earth. The earth's patterns are the climate, the climate is the pattern of the earth, the earth is the
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1715766079078198
+
+Question: What makes energy changes in a closed system?
+Response: * The connection between massive topics non-concentrable sources and microtopics-concentrable sources is described by a detailed treatment of statistical mechanics.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.08190320407582619
+
+Question: What is the French name for the Rhine?
+Response: The meaning of the name of the realm of modern languages is the realm.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.07359674601080546
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: a) Active immunity can be induced artificially (vaccination), but only to a limited extent.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.11832042527322983
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The first and second questions are the same as the following:
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.08852589999017835
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Step 1/2
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.3271514268356923
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: It is not possible to abolish these rights.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.056461719840005364
+
+Question: How many prime numbers exist?
+Response: [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28331637088182726
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The species of the Black Sea that was introduced to the Black Sea by a human accident. It is possible that they are also in the Black Sea. But this time, they are probably extinct because they are not common. They are called "
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.006534498122089838
+
+Question: The average contractor hired how many employees?
+Response: 960 billion, $680 billion, $667,000, 300,000, 38,000, 432,000, 5.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.09684122430359343
+
+Question: How many projects does the Centre currently realize a year?
+Response: The tradition of the South Africa War is a standard for contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06989838617646504
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The line is: The middle line area of the concert in Zurich. The long road between Lieberstein and Rauge and Köbrenner is listed as a unipolar private sector. New St. George House is the long place around the famous Rock
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.08992853189406336
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is an essential part of European Union law, which is based on the cv's.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.11614991217386106
+
+Question: An MSP may introduce a bill as what?
+Response: The correct answer is:
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.29949212621741206
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: a) The given statement is not clear. It seems that the statement is about the electrolysis of water. However, the statement does not mention any electrolysis process. Therefore, it is not clear what the statement is referring to.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3283503511544591
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: This is an example of a <strong>historical research</strong>.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.07720588749262924
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.578661681799499
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1- The passive protection of the mother can be passed to the infant through the placenta, or the transfer of passive immunity to the infant across the placenta.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.46330080682766883
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The area of 15.5 hectares of the park covers the Jackson Garden.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.0771435975855378
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: EMR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07325869729821777
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements of the river system in the out time were the lower line gravels.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.06817612810704599
+
+Question: Who discovered this and where did they come from?
+Response: Transcription:
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4693272920922841
+
+Question: Who develped the theory of relativity?
+Response: 1. The correct answer is the second one.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.10669378895021209
+
+Question: In what year was the Interstate Highway System created?
+Response: The sequence of the RNA strand is complementary to the DNA strand.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06069715588547131
+
+Question: What is stratigraphy?
+Response: 1) On top, geologists use a number of fields, lavatories and numerical modeling methods to decipher Earth history and understand the processes that occur on Earth.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.17601050592022716
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Explanation:
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4457280356443254
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The transcription factors bind to the steroid hormone base of the vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.06546148418995967
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The selection of keepers of the rhymes that go outside of Cinderbank are the ducks and the duckling. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06904481367561421
+
+Question: Levels of what things are used to determine emission factors?
+Response: Based on the above transcription, we can see that the ICCC is focused on the task of paraging, and it is highly important to have a WMO for a relevant ICCC. It is also important to counter UNIF government counter-
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.18870733852584232
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system, the innate response, is easily triggered when microbes are identified by pattern applications.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.13989720880783085
+

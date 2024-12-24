@@ -1,0 +1,140 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.13439486885099272
+
+Question: How many items is the University Library home to?
+Response: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.29279271423065856
+
+Question: What substance is used to make high quality liquid O2?
+Response: The liquid oxygen is produced by the condensation of air.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.24411234351633804
+
+Question: Who did the geographic scholars work for?
+Response: Geographic scholars under colonial empires believed that the world could be divided into
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.08432909855992643
+
+Question: What makes energy changes in a closed system?
+Response: 1. The energy of a closed system is conserved.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.11214173388283777
+
+Question: What is the French name for the Rhine?
+Response: Transcription:
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.3543283151524833
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The immune system is a complex system that is composed of many different cells and tissues.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.13138389761342184
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.16403733633449702
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7 of the Basic Law.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.08919206143811942
+
+Question: How many prime numbers exist?
+Response: The distribution of time, that is to say, the statistical behavior of
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.08530639751208835
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge is a natural area of the Rhine River. It is a UNESCO World Heritage Site. The Rhine Gorge is a natural area of the Rhine River. It is a UNESCO World Heritage Site.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.45267474708340394
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Memrioxic is a cenophore that is a member of the family Membricidae. It is a small,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.13599485119655763
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: 1. The field of immunogenicity is the study of large sets of proteins.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.16964325461132423
+
+Question: What effect does European Union law have on laws of member states?
+Response: Transcription: European Union law is a body of treaties and legislations, such as regulations and directives,
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.1192013562657116
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Raben formality test is a fast algorithm that is used to test the formality of large
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.18710908296670725
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 366,273 households out of which 11.8% were dating. 23.9% of households
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.056767229264192864
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol army invaded southern China in 1256. The Mongols were defeated in 1259.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.18422546735346168
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the formality of a given integer n is called trial division.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.10823385156396437
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a type of immunity that is passed from one individual to another via the placenta. It is a type of immunity that is passed from one individual to another via the placenta. It is a type of
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.7498394513741904
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: Context. Engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07820700471696096
+
+Question: Who discovered this and where did they come from?
+Response: The Shindu tribe, who are the indigenous people of the Amazon rainforest, have
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.14013933744075247
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds that contain the greatest amount of oxygen by mass are
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.3302273379215295
+
+Question: What is stratigraphy?
+Response: 1. The study of rocks, stratigraphy, and geology is called stratigraphy.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2477036683396261
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the magnitude of the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.11533373133045244
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: When a T-cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.14285271142846057
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08302125444154007
+
+Question: Why does competition among workers drive down wages?
+Response: A job where there are many workers willing to work a large amount of time
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.14319062487064538
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were the most respected and powerful members of society.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06680434963286985
+

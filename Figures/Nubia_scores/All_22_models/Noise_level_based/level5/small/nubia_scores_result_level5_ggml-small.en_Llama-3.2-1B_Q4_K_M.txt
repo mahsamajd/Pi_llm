@@ -1,0 +1,140 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The private schools' funding is through taxation. They do not have a specific type of funding. [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.2607860688301439
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: In the crisis that happened in the Middle East, where boys were imparted in the boycott, all of the oil producers used any future policy changes to keep between the relations. To address this, the next new administration is a multilateral negotiation.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.11539932191327618
+
+Question: How many items is the University Library home to?
+Response: The University Library is a very large and beautiful building. It is designed by the name of Odisha and is located at M2, 107,639.1 year-old, 14.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.19825880279420893
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The 1979 referendum for a Scottish declaration was initiated as a propaganda by the conservative party.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.07922583036906383
+
+Question: What substance is used to make high quality liquid O2?
+Response: 60.75°C, minus 318.79°C, minus 351.80°C.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.35806208027866115
+
+Question: What makes energy changes in a closed system?
+Response: I need to add this to my original answer.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.10411884420861794
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5157159963642656
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state highway system in California has been used to create new infrastructure in the state for the past 60 years. The system was created as a way to upgrade the infrastructure in the state and bring it up to par with other states. The system has
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.056942605675637914
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rhinoceros (Rhinosaurus) is a type of rhinoceros. Rhinoceros have a thick horn on the face of the skull. It also has a small horn on the nose. The rhinoceros
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.342076396319001
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: You can call the population the "small people" of common organisms that die. This time, this might otherwise wipe out the farther countries. So in common terms, this is a vital part of marine peace here. One thing I say, many of
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century war in South Africa certainly has a standard for contemporary art. It’s concerning the contemporary tradition. Confidence. Showing to you the first time. The center currently realizes about 500 projects a year. That’s at a national gallery
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The middle line area of our dinner concert in Zurich is dominated by the unipolar private sector. The long road between Lieberstein and Rauge and Köbrenner is listed as a unipolar private sector. New St. George
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.18475851037595503
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union (EU) is the body of law in the European Union and it has been established by the European Court of Justice (ECJ). The EU has its own set of rules called primary law, which has direct effect. It has its
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.49697867423554776
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The most common way of testing the formality of a given number A is known as trial division. Trial division consists of testing whether A is a multiple of any integer that can fill. How could it make much more efficient in trial division than testing the
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3713002073658548
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can introduce new laws around menus to assist in laws of a bill.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.08281965446392647
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: BCL
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1228007771974784
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monty Kong could have invaded the Chinese Song dynasty in southern China. He was a military leader in the Mongol Empire. The Mongol Empire was a large empire that was founded by Mongol tribes in Central Asia. The Mongol tribes were nom
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.009645627918161925
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. In the beginning of the story, the author describes a newborn infant as "a perfect specimen of the perfect fetus." The fetus is a human being who has developed from the beginning of pregnancy to the moment of birth. The infant is a
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.39844337566357946
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: In contrast, engineering news records, EMR is a great magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.08341877163634204
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In this context, the New Year came onward, beyond going out by mirage, a very nice route system to developing this place.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.06971116583227577
+
+Question: Who discovered this and where did they come from?
+Response: Transcription:
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4693272920922841
+
+Question: Who develped the theory of relativity?
+Response: In contrast, philosophy is in a typical use of contact of sorts in the study of stationary and moving objects. We think on the scene, but think of such a very subtle and vital meaning which means fundamental errors in understanding forms. In contrast, we
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: (a) The element is found in almost all biomolecules that are important here.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.0761843202258824
+
+Question: In what year was the Interstate Highway System created?
+Response: [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.22693863820022186
+
+Question: What is stratigraphy?
+Response: On the top, geologists use a number of fields, lavatories and numerical modeling methods to decipher Earth history and understand the processes that occur on Earth. They also use timely information related to geography, rock, stratigraphy, the study of sedimentary
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.05836782379624095
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The c-cells have a symbiotic relation to the vitamin B receptors. The c-cell unlocks the vitamin B receptors, the necessary factors bind to the steroid hormone base of the vitamin B. Calc to c-cells, if the c-cell expresses the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.3457748468682812
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The selection of keepers of the rhymes goes outside of Cinderbank are: "North, north, north, north, north, north, north, north, north, north, north, north, north, north, north, north, north
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.26709826298250006
+
+Question: What put a hierarchical structure in place?
+Response: The answer is a. The hierarchy structure means that the pharmacists have a position in the society. They are the people who make medicine. Pharmacists are the key people in the society. They are the people who can change the health of people.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

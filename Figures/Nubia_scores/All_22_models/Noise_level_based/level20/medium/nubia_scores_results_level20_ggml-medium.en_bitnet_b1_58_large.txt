@@ -1,0 +1,145 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.13773995039869968
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: On Jan. 18, 1974, U.S. Secretary of State Henry Kissinger had negotiated an Israeli troop withdrawal from parts of the Sinai Peninsula; the promise of a negoti
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.40393025651902625
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest is a broad band of forests that extends from the Amazon basin in the north to the Andes in the south. The Amazon rainforest is a broad band of forests that extends from the Amazon basin in
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.3344343534957924
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid nitrogen is used to make high quality liquid O, two.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.0917033656141567
+
+Question: Who did the geographic scholars work for?
+Response: Geographic scholars under Colonizing Empires, the world could be split into climatic zones. These scholars believe that northern Europe and the mid-Atlantic temperate climates produced a hardworking, moral,
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.17949682588985416
+
+Question: What is the French name for the Rhine?
+Response: The name Rhenos is derived from the Gallic name Rhenos, which was adapted in Roman-era geography (1st century BC) as Greek Rhenos.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1827642204435468
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. Long-term active memory is acquired following infection by activation of B and T cells
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.06563071295418876
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: 1. The most commonly used reduction is a polynomial time reduction. This means that the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.2411313066923806
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Ctenophore.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.23328147064162585
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: 1. The field of immunoproteomics is the study of large sets of proteins, proteomics, involved in the immune response. Question, what is the field of studying immunogenicity through bioinformat
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5055980850854573
+
+Question: How many projects does the Centre currently realize a year?
+Response: The Centre currently realises about 500 projects a year. Back at a National Gallery of Art, the oldest
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.2558997220027809
+
+Question: What effect does European Union law have on laws of member states?
+Response: The primary source of European Union law is the treaties establishing the European Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.13946142213594392
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin test is a simple but fast method of verifying the formality of a given number n.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.1528633005128024
+
+Question: An MSP may introduce a bill as what?
+Response: Bills are introduced in the Scottish Parliament by the Speaker of the House of Commons. Bills are
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2073201098060552
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. 2
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.573664290320637
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The stomach contains a complex of proteins called the glycoprotein complex. This complex is composed of a number of proteins. The most important of these proteins are the glycoproteins.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5077814052234737
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. Passive immunity is a type of immunity that is passed from one person to another. It is
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.22173863194888244
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: Context. Engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07820700471696096
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Alpine orogeny is the first major rift system in the Alps. It is the result of
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.16555428743734502
+
+Question: Who discovered this and where did they come from?
+Response: The Xingu tribe is a group of indigenous people who live in the Amazon rainforest. They are
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.09379760516901692
+
+Question: Who develped the theory of relativity?
+Response: * Galileo
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.04642666059525957
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. Carbohydrates contain the largest proportion by mass of oxygen. All fat. Fatty acid. Amino acid.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.17665621064052928
+
+Question: What is stratigraphy?
+Response: 1. Geologists use a number of fields, laboratories, and numerical modeling methods to decipher Earth history and understand the processes that occur on and inside the Earth.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.22641126690614422
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the net force. The
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.18704175511053478
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol. Calcitriol.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.4698575737395281
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow of water from the Rhine to the North Sea is not the same as the flow of water from the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3209931000227104
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08350768344904891
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The competition among workers tends to drive down wages due to the nature of the job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.19495353226038648
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were the most senior members of the imperial court. They were
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.09310962241883924
+

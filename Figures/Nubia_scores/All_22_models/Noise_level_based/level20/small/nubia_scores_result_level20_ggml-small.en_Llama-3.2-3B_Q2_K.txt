@@ -1,0 +1,130 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Context. Private schools, also known as independent schools, non-governmental or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.126785820337048
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The following answer should contain no more than one paragraph. The first paragraph should contain no more than three sentences. The second paragraph should not contain any more than two sentences. The third paragraph should not contain more than two sentences. [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.039873602743590864
+
+Question: What substance is used to make high quality liquid O2?
+Response: This answer is not a detailed and specific answer to the question. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.12712429069684028
+
+Question: Who did the geographic scholars work for?
+Response: European empires, as they worked to dominate and control the people of the Orient, also
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.11478700924487484
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, a new pathogen is introduced in order to stimulate the immune system and develop a specific immunity. This process is called immunization, and it is the most effective manipulation of the immune system. Vaccination represents the most effective
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6184360106255944
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.08203798881858615
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In the above diagram, the components of a firebox are indicated by the component in the boiler
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.18676896562802836
+
+Question: The average contractor hired how many employees?
+Response: It was found that the average contractor employed more than 10 employees. [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.20541384071114877
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine is a small river that flows through the valley of Germany. It is one of the most beautiful and scenic
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.22724053861495885
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislations, such as regulations and directives, which have direct effects or indirect effects on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5194491719334815
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: I am a bit confused by the word "formality" here. I think this is just a typo and "formality" is meant to say "formally" as in formal education. If this is the case, then I would say that
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3016177013269008
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: None of the above. The Mongol Empire was in a state of civil war. In 1256, Kublai and Aras both claimed the throne of China. Kublai won the support of his Chinese subjects and became the Great Kong
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.2910086551257086
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: n, m = 2, 3, 4, and 5, given that 4 and 6 are composite. This routine can be implemented
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.08148232892020302
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The answer will be given to the student as follows:
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.11436635258589378
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The lazing tea park covers the area of 76 hectares. The lazing tea park covers the area of 76 hectares.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3198521057102097
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: The contract engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.0974040098136747
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Grabbing and Lower Rhine Grabbing systems in southwest Germany and eastern
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.11451811230513054
+
+Question: Who discovered this and where did they come from?
+Response: It is quite possible that the area in the Amazon rainforest is now widely accepted as a product of indigenous soil management. The development of this fertile soil allowed agriculture and silviculture in the previously hostile environment. It has been previously supposed that large portions
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.21865752428171836
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given: Transcription: The element is found in almost all biomolecules that are important here are generated by life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.22114688324298326
+
+Question: In what year was the Interstate Highway System created?
+Response: The Federal Highway System, which is also known as Interstate Highway 5, was created in the 1950s.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.38903382041473733
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The net force is a vector that adds to the net force of all the other forces acting on it in the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.17517686896691875
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The German name Rhine no longer coincides with the main flow of water. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.11960234214381205
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC is the Inter-governmental Committee on Climate Change. As per WMO Executive Council and UNEP Governing Council decisions, it is responsible for the assessment reports, including the Data Distribution Center and the National Greenhouse Gas Inventories Program
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3378976500867117
+
+Question: Why does competition among workers drive down wages?
+Response: The reason why competition between workers drives down wages is because the workers are more expendable than the employers. If employers and workers are competing for jobs, the workers are more expendable because employers are more willing to let workers go if they need to get
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6900737269198268
+
+Question: What put a hierarchical structure in place?
+Response: 1
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2663238182133866
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms' questions.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.11730571398753242
+

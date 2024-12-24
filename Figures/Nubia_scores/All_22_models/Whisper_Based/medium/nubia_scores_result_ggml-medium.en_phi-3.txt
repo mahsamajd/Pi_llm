@@ -1,0 +1,165 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium that the LA Galaxy and Chivas USA teams played in was called the StubHub Center. This information is directly provided in the transcription where it states, "that both played at the StubHub Center and were local riv
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4582306740064054
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools, are largely funded by charging their students' tuition rather than relying on mandatory taxation through public government funding. This
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.5862529138914853
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen (O2) is obtained in high quality through the process of fractional distillation of liquefied air. Fractional distillation involves cooling the air until it liquefies and then
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4992138863115906
+
+Question: Who did the geographic scholars work for?
+Response: The transcription does not explicitly state the specific colonizing empires with which the geographic scholars worked. However, it's clear that these scholars were part of broader colonial and imperial frameworks, particularly during the period of European
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3952066610202557
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes are primarily caused by non-conservative forces. These forces act to change the internal energies of the system and are often associated with the transfer of heat. As the second law of thermodynamics states
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.45995906965460887
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhin. This is derived from the Gaulish name Rhinos, which was adopted as Rhin in French. The spelling with Rh in English Rhine as well as in German Rhine and Dutch
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1010142493777414
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced in order to develop a specific immunity. This deliberate introduction of an antigen stimulates the immune system to recognize and develop a defense mechanism against that
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6007670114643218
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion to upgrade to interstate standards is SR 99. There have been discussions about improving SR 99 to interstate standards and incorporating it into the Interstate Highway System, most likely as
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.6000746268939837
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Polynomial time reduction in computational complexity theory is a method for showing that one problem, A, is at least as difficult as problem B by demonstrating how an efficient algorithm for problem B could be used to solve problem A. This is typically done
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percentage of East German students attending private schools was 0.5%. This information is extracted from the provided transcription, which states that between 1992 and 2008, the
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.39399547664156187
+
+Question: How many prime numbers exist?
+Response: There are infinitely many prime numbers, a result first proven by Euclid around 300 BC. While there is no simple formula to distinguish prime numbers from composite numbers, the distribution of prime numbers can be modeled statistically.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.21623671977894
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea and is blamed for causing fish stocks to collapse by eating both fish larvae and other organisms that would otherwise have fed the fish is Nemeopsis. This
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.05087798074124539
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the temperature of the steam above its saturated vapor point, as mentioned in the transcription, are the superheaters. A superheater is a device that is used in steam boilers to increase the temperature of
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.10938810823521117
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the United States industry, as of the data provided, employed fewer than 10 employees. This statistic indicates that contractor firms within this sector typically operate with a small team, suggesting that they may handle various
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.43542251405872423
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism is considered to be the Middle Rhine Valley. This region, which stretches between Rudersheim am Rhine and Koblenz, showcases the dominant economic sectors of vinicult
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.33918239575849307
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm that is useful for conveniently testing the primality of large numbers is the Miller-Rabin primality test. This test is known for being fast, although it carries a small probability of error. It is more efficient than
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4520745997149256
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water can be used to produce oxygen and hydrogen. The process involves the use of Direct Current (DC) electricity to break down water (H2O) into its constituent elements, molecular oxygen
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.6476069740279904
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Hmong-Khan attacked the Song dynasty in southern China. This military campaign marked a significant expansion of Mongol military operations. The invasion force sent by Hmong-Khan was considerably larger than the force previously dispatch
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.4982962912015745
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing Trial Division to check the primality of a given integer n, the integer m must be less than or equal to the square root of n. This is because if n has a factor greater than its square root, then it must also
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5144014049140917
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach that protect against ingested pathogens are gastric acid and proteases. Gastric acid, primarily hydrochloric acid (HCl), creates a highly acidic environment with a
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.46097712468555996
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The antibodies transported from the mother to an infant via the placenta represent an example of passive immunity. This is a form of short-lived immunity as it typically lasts from a few days up to several
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5756837962644402
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Krasinski Palace Garden is a popular strolling destination for the Varsovians, who are the residents of Warsaw. The garden, located in the Saxon Garden, offers a variety of attractions including benches, flower car
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.43661067514734075
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR, which stands for Context Engineering News Record, compiles and reports on data about the size of design and construction companies. Each year, they publish a list of the largest companies in the United States, known as the TOP40,
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.49558985123418275
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The elements from the rift system in the Alpine orogeny in southwest Germany are the Upper Rhine Graben and the Lower Rhine Embayment. The Upper Rhine Graben extends into southwest Germany and eastern France, while
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.46823641379961234
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of Terra Preta and the large settlements in the Amazon forest was made by Michael Heckenberger and his colleagues from the University of Florida. They were not native to the region but were American researchers who made the significant finding in
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.323327155389571
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen among all organic compounds. They are essential in biological processes as a source of energy and structural components. In carbohydrates, the presence of
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5332997369420176
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that focuses on the study of sedimentary rock layers,
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.40328812061013297
+
+Question: What geometric shape is used in equations to determine net force?
+Response: In equations to determine the net force, the geometric shape used is a parallelogram. According to the parallelogram law of vector addition, when two forces are represented as vectors, their sum or resultant can be calculated by placing
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4194739982872937
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine's flow volume outside of Germany heads farther west, through the Wall, and then continues via the Merweed and New Merweed, De Biesbosch, into the North Sea. It mer
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3166874581042054
+
+Question: Levels of what things are used to determine emission factors?
+Response: The Intergovernmental Panel on Climate Change (IPCC) concentrates its activities on the tasks allotted to it by the relevant World Meteorological Organization (WMO) executive council and UNEP governing council resolutions
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2361402666330421
+
+Question: Why does competition among workers drive down wages?
+Response: The competition among workers drives down wages due to the surplus of available labor for jobs that require a large amount of time to complete. When there is a high supply of willing workers for a job, the competition among them intensifies, which in
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.614773493529458
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place during the Asuka period (538-710) and the early Nara period (710-794) in Japan was put into place by the establishment and restat
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.2986613722284879
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a non-specific manner. This means that it does not target or react to specific pathogens or individual microbes, but rather it responds in a general way to any microorganisms or
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.4145234685572958
+

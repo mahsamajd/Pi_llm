@@ -1,0 +1,180 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private Schools are not funded by the local, state or national government. They have the right to select their students and are funded in part by charging their students' tuition rather than relying on mandatory taxation for public, government, funding. [end of text]
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.058459197299914445
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The question asks about the events that led to the withdrawal of the Israeli army from the Sinai Peninsula in 1974. The given information is the negotiation between the US Secretary of State Henry Kissinger and Israeli officials. The information is ambiguous and needs
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.49072505626626994
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is the element that is used to make high-quality liquid O2.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.19729362653511762
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macroscopic non-conservative forces and microscopic conservative forces is described by detailed treatment with statistical mechanics, the macroscopic force system, non-conservative forces act to change the internal energies of the system and are often associated with the transfer of heat
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.0802646745059129
+
+Question: What is the French name for the Rhine?
+Response: Context. The various forms of the name of the rhyme in modern languages are all derived from the dollar.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.10175529937107275
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine is a product that contains a weakened or killed version of a pathogen that stimulates the immune system to develop immunity against that pathogen.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.35866993757276444
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: State Route 99
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1278847244536515
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: This answer is incorrect. A polynomial time reduction is one that can be implemented in polynomial time, which means that the time needed to do the reduction is proportional to the size of the input. This means that for a given input size, the time needed
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.27073505616828364
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, approximately 7% of German students attended private schools, according to the OECD. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.16734132960636816
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Context: The dominant economic sectors in the middle line area are agriculture and tourism. The rhyme board between new design and rhyme and program is listed as a UNESCO World Heritage Site. Near St. George housing, the rhymes flow around the famous rock line
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The answer to this question is Meniopsus, a species of copepod that was accidentally introduced into the Black Sea. Meniopsus has a negative impact on marine ecosystems, as it feeds on both fish larvae and phytoplankton
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.07426057011251763
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: the components that raise steam temperature above a saturated vapor point are the superheater and reheater. These are heat exchangers used in steam power plants to heat the steam before it enters the turbine, and then to heat it again after it exits
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.08488754141359922
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immuno-informatics is the study of large sets of proteins, involving the immune response. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2518186471613545
+
+Question: The average contractor hired how many employees?
+Response: There were about 667,000 firms in the construction industry in 2014 according to statistics
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.13482890586134355
+
+Question: How many projects does the Centre currently realize a year?
+Response: The transcription reads, "The 17th century royal Egypt Dow Castle currently houses centers for contemporary arts. With some permanent and temporary exhibitions, concerts, shows and creative workshops. The center currently realizes about 500 projects a year. That's at a
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0848406862829687
+
+Question: What effect does European Union law have on laws of member states?
+Response: This question is asking what effects does European Union law have on the laws of member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3121648141034429
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of one algorithm useful for conveniently testing the formality of large numbers is trial division.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.08523417345333029
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3712328332909629
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The electrolysis of water can be used to produce oxygen and hydrogen. This is because water can be converted into oxygen and hydrogen through electrolysis. Water can be decomposed into hydrogen and oxygen through electrolysis. Oxygen and hydrogen are produced by the electroly
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2824016339168046
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 10.5% from 18 to 24.
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.08593877291187857
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing file division, the integer n must be less than or equal to 16. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.11327074646253554
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden, covering the area of 16.5 hectares, with formerly a royal garden,
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.09440621107430469
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: A research context, engineering news records, ENR, is a trade magazine for the construction industry. Each year, ENR compiles in reports on data about the size of design and construction companies. They publish a list of the largest companies in the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.501846193104027
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Rhine system in the Alpine origami in southwest Germany had the upper Rhine Graben,
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1459598576734047
+
+Question: Who discovered this and where did they come from?
+Response: Terracotta is a type of pottery that has been used for thousands of years. It is made by firing clay at a high temperature, which causes it to shrink and become hard. This process gives terracotta its unique properties, such as
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3219372689625407
+
+Question: Who develped the theory of relativity?
+Response: Transcription: in our community which means fundamental errors in understanding force.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.05410175025616348
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen. All fat and amino acid contain oxygen. Proteins contain oxygen. And carbohydrates contain oxygen. In carbon dioxide and hydrogen phosphate and oxygen. And in bones of calcium phosphate and hydroxylac
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.26889758012353093
+
+Question: In what year was the Interstate Highway System created?
+Response: The state highway system created Interstate 5 in 1959. The state highway system created Interstate 5 in 1959. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.4948231390637836
+
+Question: What is stratigraphy?
+Response: (a) Theologists view the number of fields, laboratory, and numerical modeling methods to decipher Earth history and understand the processes that occur on. And inside the Earth, in typical geological investigations, geologists use primary information related to pathology, the study
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.0
+
+Question: What geometric shape is used in equations to determine net force?
+Response: A net force is the resultant of all the forces acting upon an object and is described by its magnitude and direction.
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.15629561584837348
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Key cells have a symbiotic relationship with vitamin B. Not only does the key cell extend a vitamin B receptor, the next thing’s asking to bind to the steroid hormone version of vitamin B. How to trial. But the key cell expresses the
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.3733512087980122
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription is: "In this context, from here, the situation becomes more complicated, as the ducks mean rear no longer coincide with the main flow of water. Two thirds of the water flow volume of the line slows farther west. Through the wall
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: Levels of greenhouse gases are used to determine emissions factors. [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.25158877329795526
+
+Question: Why does competition among workers drive down wages?
+Response: The high supply of workers competing for a job drives down the wage, because the competition between workers drives down the wages of the workers who are the most expendable in terms of their particular job. This is an example of a competitive labor market, where
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6915168435251422
+
+Question: What put a hierarchical structure in place?
+Response: In this period, the pharmacists were the most highly respected in society and they held a high position in the government. They were ranked higher than the emperor. The emperor was the leader of the government, but the pharmacists were also in charge of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.38298190732827575
+

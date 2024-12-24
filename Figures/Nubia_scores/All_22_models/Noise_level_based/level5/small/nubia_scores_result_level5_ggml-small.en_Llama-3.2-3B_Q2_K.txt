@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: PSO-TSA is the MLS team that has the "MLS Team" title. It has been the MLS team with the "MLS Team" title for quite some time now. The MLS team has not played a game in LA since 2005
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.33700442233311456
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: This answer is correct because it is completely comprehensive and specific. The answer is complete because it covers all the information given. It is specific because it mentions all the possible ways to obtain funding. The answer is specific because it does not mention any of the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.035763710323031606
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on international relations, and created a risk for their movement. One European nation from Japan had to disassociate themselves from United States foreign policy. In the Middle East, where boys were imparted inside the boycott, all of
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.13998643128490318
+
+Question: How many items is the University Library home to?
+Response: [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4357126234493489
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish constitutional convention is the structure of the parliament. In 1999, a referendum was opened to decide whether the UK government or the Conservative Party would control the Scottish constitution. The Scottish constitutional convention was created to provide a structure to the UK government
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.04168327285902318
+
+Question: What substance is used to make high quality liquid O2?
+Response: Oxygen is condensed at 90.20°C. After contact, it condenses at 60.75°C. It is oxygen that increases at 90.20°C. After contact, it is oxygen that decreases at 60.75°C.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.41050564458309546
+
+Question: Who did the geographic scholars work for?
+Response: The following is a transcription from the Geographic Silence and the “Charming Empire” in the World Could Be Saved by the Geographical Pattern.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.12850117634269898
+
+Question: What makes energy changes in a closed system?
+Response: Energy transfer from a state system is a phenomenon that occurs when the energy of an object or system changes. This can happen either by the object gaining or losing energy, or by the object's energy being transferred to or from another object or system. In
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.050122077212862215
+
+Question: What is the French name for the Rhine?
+Response: 1
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.13161868886304573
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The most important part of an answer is the most important part of an answer. The most important part of an answer is the most important part of an answer. The most important part of an answer is the most important part of an answer. The most
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6234547383755218
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The following is a list of the largest U.S. city not directly used to amend the state highway. In the region state highway system that created in the 1950s, the decision was made to build what is now registered child on the west
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.1586397432472787
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: "Transcription" is a reference to a specific point in time and space. The most commonly used reduction is the polynomial time reduction. For example, the problem of storing a musical can be reduced to the problem of multiplying two integers. This is an
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.0
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: (a) is not possible to abolish these rights
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.052552648619204945
+
+Question: How many prime numbers exist?
+Response: The information given in the question makes it very difficult to answer. Since there is no known simple formula that separates prime numbers from composite numbers, it is not possible to tell if a given number is prime or composite. This is the reason why we use
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.03746115608769918
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The rhinoceros are on the surface with its outstanding architectural monuments. It's close full of rhinoceros. Father means clouded on the narrow river bench to ensure the passage lined up along the top of them. Keep afloat.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.04056354488572056
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: As a result of the fact that the population of the population of the population of the population of the population of the population of the population of the population of the population of the population of the population of the population of the population of the population of the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0665365073691161
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The key components of the above transcription include "hum, suckers and injections" to keep the temperature of the steam "sufficient". The steam "sucks" and the "injection" of heat "sucks" to the "hum"
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.39630027237608834
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: In validation of peptide-type-based blood treatments, early techniques provide mainly a new observation of hydrochloric amino acids in order to represent them.
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.09794134503611551
+
+Question: How many projects does the Centre currently realize a year?
+Response: The 17th century war in the South Africa, the Transcription, and the 17th century war in the South Africa, the 17th century war in the South Africa, and the 17th century war in the South Africa,
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.5372949925789969
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: A) In the middle line area of our dinner concert in Zurich, the dominant economic sector in the middle line area of our dinner concert in Zurich. The long road between Lieberstein and Rauge and Köbrenner is listed as a un
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.08037527998873495
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union law is a body of cv's in this situation, such as regulations and dioceses.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.09377871828586393
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The property of being fired, or not, is called formality, but thinking of a full method of verifying the formality of a given number A, is known as trial division.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.12079696701401976
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government can introduce new laws around menus to assist in laws of a bill. The bills can be introduced to polonomists in a number of ways. If a member of the polonomists can defend a bill in one of the areas under
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.0
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 1. The gas is a new term and such the hydrogen and oxygen in the explosive ratio is 2 to 1.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.09353647923666386
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monty Kong can make a military campaign against the Chinese Song dynasty in southern China. The Mongol force that invaded southern China was far greater than the first industrial invasion. Middle east in 12 different states. He died in 1259 without a
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Red Army was seeking to pull its territory and concerning the Germans for war talks.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.06058875836281119
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The word "you" is used here to show that you can listen to the sound of the wind, which means that you have been in the situation where you can listen to the sound of the wind. You must have felt the wind blowing, or
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.0
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The most popular growing destination is the popular growing destination for the popular growing destination. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.21571883445669482
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The information given in the paragraph is about the construction industry. This is not the case. The information given in the paragraph is about the size of the diamond construction building. The information given in the paragraph is about the construction of the diamond construction building.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.39567234331145495
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this route were the upper line gravels. In southwest Germany, a nation turned from the lower line embalement to northwest Germany in the southeast wind weather. By the time of the monitoring, a river system had developed in the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.25553477355591947
+
+Question: Who discovered this and where did they come from?
+Response: This is a simple answer, with no specific information given. The answer is either "yes" or "no". The answer is either "yes" or "no". The answer is either "yes" or "no".
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.35401715600239547
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are important for life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.09716775202573102
+
+Question: In what year was the Interstate Highway System created?
+Response: The information provided is of a transcribe of a possible crime. The fact that the person is in a room by himself does not necessarily mean that he is guilty of the crime. The other people in the room, if there are any, may have
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: This is a response. On top, geologists use a number of fields, lavatories and numerical modeling methods to decipher Earth history and understand the processes that occur on Earth.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.20678493875846715
+
+Question: What geometric shape is used in equations to determine net force?
+Response: This answer is incorrect. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.08824631186392262
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The cell is a cell with a c-cell that binds to a cell that is not an active tone. The c-cell can express the gene for the calc to c-cell that binds to the active tone. The calc to c-cell can treat the other
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.44739882768231964
+
+Question: Levels of what things are used to determine emission factors?
+Response: 1. [end of text]
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5738925189566711
+
+Question: Why does competition among workers drive down wages?
+Response: This is because competition between employers can show you their drive up the road.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.0811889354655907
+
+Question: What put a hierarchical structure in place?
+Response: 2. The strength of pharmacists in society was especially defined in the table of courts. 701, in which state it was in Europe, 782, ranked the difference in the same highly-empirant court they established. [end of text]
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1397563730694229
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system is not specific, but it is generic. In the immune immune system, the innate immune system, the innate immune system, the innate immune system, the innate immune system, the innate immune system, and the innate immune system,
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.23004463716372447
+

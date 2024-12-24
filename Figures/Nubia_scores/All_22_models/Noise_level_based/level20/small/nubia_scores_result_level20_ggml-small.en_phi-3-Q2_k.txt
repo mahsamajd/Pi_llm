@@ -1,0 +1,40 @@
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In the region, lane width, and lane width, and other are currently
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.07470592073071203
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 6.1%
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.33292097462601833
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: A vaporizing, to vaporize, to vetrain, and to vetraner, to vetrate, and to vetra, to vetran, and to vetrane, and to v
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.34228468259200473
+
+Question: The average contractor hired how many employees?
+Response: The average contractor, as of 13.2%
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.08960292529573954
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: O, O
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3297582859021255
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: babies; bob, babes, bob, babies, bob, babies, bob, babies, babies, bob, bob, bob, bob, bob
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.1604616928764827
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Wilhenau Palace Park.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.07567262708942335
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Answer
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.04867964436602357
+

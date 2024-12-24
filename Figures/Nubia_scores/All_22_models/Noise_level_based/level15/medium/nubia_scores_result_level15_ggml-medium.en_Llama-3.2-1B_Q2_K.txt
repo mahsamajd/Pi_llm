@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium was named after a major league sports team, the LA
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.12120141574894039
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The tuition of a school is the amount of money a child or a person, or a family, or an institution or organization spends on educating the child or an institution or a non-profit institution or an organization. The student can be a person, animal
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.0044800658832463425
+
+Question: How many items is the University Library home to?
+Response: The University Library home to over 2 million items, with 10,000
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.24351165674933883
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The rainforest is a wide and varied natural habitat, but in the case of the Amazon rainforest, the species is the narrow band of forests.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2972803749343955
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held by the Scottish Parliament in Edinburgh in 1995 in the aftermath of the United Kingdom government's refusal to hold the first Scottish Assembly in Scotland for 40 days. The Scottish Parliament was a Scottish Parliament, in the aftermath
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.046827913093354545
+
+Question: What substance is used to make high quality liquid O2?
+Response: Substance
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.04879674402098255
+
+Question: Who did the geographic scholars work for?
+Response: Question. Who did the geographic scholars work for? The answer is "probably" or "most likely" the fact that they are "people who are incapable of such a feat as to be able to be split into climatic zones. These scholars believe
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.30564634314187167
+
+Question: What makes energy changes in a closed system?
+Response: The answer to this question is described in the following steps: 1. In a closed system, the
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.19784314380533896
+
+Question: What is the French name for the Rhine?
+Response: French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh, French rh
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.5656638977158459
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: In a polynomial time, the problem can be solved. If the problem is to reduce a problem to a polynomial in one time. And, by the nature of the problem. The reduction process is only polynomial. The only possibility to solve a problem in
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.07824635378342792
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, what percentage of East German students attended private schools?
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3398952495735871
+
+Question: How many prime numbers exist?
+Response: The probability of an integer n being prime is 0.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.10400571180746199
+
+Question: Where is the famous rock the Rhine flows around?
+Response: On the Rhine to Glaubau is a narrow valley between the Rhine and Glaubau. The Rhine to Glaubau can be considered the epitome of the Rhine Gorge. The Rhine to Gla
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.41230249855788326
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The accidental introduction of ctenophores into the Black Sea would have made the ctenophores a part of the fish preyed on by ctenophores. The ctenophores would have been a part of the fish preyed on
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.20739091740882465
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is referred to as
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.35892393303782866
+
+Question: The average contractor hired how many employees?
+Response: It is estimated that an industry that is employed between 35,000 and 75,000,000,000 women are employed in the United States of 2005. According to the industry of the United States, the average number of employees is
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.40774181757534256
+
+Question: How many projects does the Centre currently realize a year?
+Response: It can be a year. In 2017 the center realized 120,000 to 300,000 projects. The Center, Henn, and Henn, 2017. The Center. Henn, and Henn, 201
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.3597912645170771
+
+Question: What effect does European Union law have on laws of member states?
+Response: In the European Union, the European Union has a well established history of treaties and of laws of member states. In the European Union, the European Union has a well established history of treaties and of laws of member states.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.6631942925521817
+
+Question: An MSP may introduce a bill as what?
+Response: A number of bills may be introduced by a minister. Or a bill submitted to parliament by a minister. In a number of stages. A government bill is introduced by a minister. The Scottish government can introduce a bill in the governing party. A committee
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.04194519608719738
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Song dynasty of China were at war with the Mongol
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.1411469684206853
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Red Army was deep into Polish territory and pursuing the Germans toward Warsaw. The Red Army was pursuing the Germans toward Warsaw. The Red Army was in the German city and pursuing the Germans toward Warsaw, the Germans were in the German city and pursuing the
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.08632734647225304
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 37 is a prime. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5719756794432664
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: A is a false and B is a false. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.07682159956992463
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: A popular strolling destination for the Barsobian is the Krasinski Palace Garden. The current center of the Kolokarnia Palace is the monument of the Wilan Ghetto Uprising. The central area of the park is here. The
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3890846239465442
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine and the Lower Rhine and the South East Rhine are considered in the alpine orogeny. From the Middle Rhine to the south of the Rhine and from the Rhine to the Rhine of France and the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4886667711076318
+
+Question: Who discovered this and where did they come from?
+Response: The Amazon rainforest is a natural and attractive piece of nature. In fact, as a matter of matter. In the United States, it is a natural and attractive piece of nature. In fact, as a matter of matter. In the United States
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.39765355859667373
+
+Question: Who develped the theory of relativity?
+Response: 3/4
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.37074624508848486
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compounds of the carbon and oxygen atoms, 82 of the 104, are found in a wide variety of forms, from the organic and the organic to be. the organic and the organic are organic, to be a part of a wide
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.02755732129824362
+
+Question: In what year was the Interstate Highway System created?
+Response: Answer: In 1957 the Interstate System was created with 12
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.1093362841106651
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape of an object or body of matter, which has three or more surfaces of rotation with the geometric shape of an object, as opposed to a circle, as a geometric shape, is used in equations to determine the geometric shape of the object
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07001398497559275
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: It is a vitamin B receptor (vit-B receptor, vitamin B, vitamin B receptor), and vitamin B is a vitamin B receptor. The vitamin B receptor is a vitamin B receptor (vit-B receptor, vitamin B, vitamin B receptor), and vitamin
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5602134291620651
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: 1. The Rhine flows from west to east, with the Dutch name "Rij" of the Rhine, the Dutch name "Rien" of the Rhine, and "Rij" of the Rhine, and "R
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.4603961985140319
+
+Question: Levels of what things are used to determine emission factors?
+Response: In this context, the IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive, council, or executive, or unit, and so on, and so on, and on, and so on and so on and so on
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3283254654695177
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were in the end a very important in the health-related fields and in the rest, the rest of the household was in the end. The top in the interior household, the top of the emben in the rest of the household.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is a type of host defense
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.13702461365994134
+

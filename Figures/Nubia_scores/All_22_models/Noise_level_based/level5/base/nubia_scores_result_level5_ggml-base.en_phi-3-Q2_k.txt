@@ -1,0 +1,55 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The team in the Northern Liza, the third state of the Los Angeles, and
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.06444705088306524
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: To finance the state, 2004, and to finance the, 2004, 2004.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.12297054028310317
+
+Question: What is the French name for the Rhine?
+Response: I write.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.13232391656817355
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: That's been done in a vaccination, and those are in the a vaccination.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.10235086817302419
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: In a United States
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.23962964719143598
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: If a is a. Yes.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.08725327295841112
+
+Question: The average contractor hired how many employees?
+Response: 30,000 times.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.42374798208868514
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: If you were in.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4515369243143529
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Hey, there, and.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2767894325598743
+
+Question: Why does competition among workers drive down wages?
+Response: Why can we do everything?
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6548674740364835
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The original "muscle" is a constant.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.10187408711323953
+

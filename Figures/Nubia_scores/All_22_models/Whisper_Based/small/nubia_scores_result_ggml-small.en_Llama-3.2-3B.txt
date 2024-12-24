@@ -1,0 +1,200 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium that the teams played in is "The Home Depot Center" and was located in Carson, California. This stadium was built in 2003 and has a capacity of 27,000 seats. It was used by the Galaxy
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4678443900645267
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are not administered by local, state or national governments; thus, they retain the right to select their students and are funded in whole or in part by charging their students’ tuition, rather than relying on mandatory taxation through public government funding. At
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.034093398796550045
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: March 18, 1974.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.46996418599293466
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to two million items. The building was designed by architects Marek
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.28246321306462374
+
+Question: When was the Scottish Constitutional Convention held?
+Response: In 1989, the Scottish Constitutional Convention was held to provide a basis for devolution in Scotland. The Convention was initiated as a pressure group and brought together various organisations such as Scottish churches, political parties, and representatives of industry. The Convention published
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.043510664452730774
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high-quality liquid O, two is liquid nitrogen. This is done by condensing the liquid nitrogen into a closed container. Once the liquid nitrogen is condensed, it must be cooled. The liquid nitrogen is then put through a dist
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4505765423832344
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, the amount of energy is conserved, and the total energy is divided into two categories: kinetic energy and potential energy. The kinetic energy is the energy of motion, and the potential energy is the energy stored in an object because
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.06487406984220612
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is the Rhen. The French language is a Romance language that is spoken by about 120 million people worldwide, mostly in Europe, with additional speakers in the Americas and Asia. The language originated in Northern Italy and
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.04703442125213486
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: An antigen is introduced in order to develop a specific immunity through vaccination. Antigen is a substance that is recognized by the immune system as foreign. It is recognized by B and T cells and causes an immune response. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5771885532136936
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The answer to the question is multiplication.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.15617461461405913
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: It is not clear from the given data if the 0.5 percent of students in East Germany included private schools or not. If the 0.5 percent refers to private schools, then the percentage of East German students attending private schools in
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.04028276235655781
+
+Question: How many prime numbers exist?
+Response: [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.28331637088182726
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0828014126840263
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Steam generators are often used in power stations and other industrial processes to generate steam. Steam generators, also called boilers, use water to heat a fuel source, such as coal, natural gas, or oil. They use an internal combustion process to heat the
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.052984825536886326
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Bioinformatics is the study of immunogenicity through the field of immunoinformatics. Immunoinformatics is the study of large sets of proteins to answer questions about what proteins are involved in the immune response. Immunoproteomics is the study
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1563937867908819
+
+Question: How many projects does the Centre currently realize a year?
+Response: Context. The 17th-century royal Ujasdao castle currently houses center for contemporary art.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06712510108221215
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is considered the epitome of the Rhine Romanticism because it is a beautiful and scenic area that has been developed into an important tourist destination. The Rhine River flows through the valley, surrounded by cliffs and mountains, creating
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.377443946370398
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives, which
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.12667174871952536
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm useful for conveniently testing the Pramality of large numbers is known as
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.11570283281036897
+
+Question: An MSP may introduce a bill as what?
+Response: Context.
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.10504686161946186
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There were 366,273 households out of which 11.8% were vacant. 23.9% of households had children under the age of 18 living with them. 43.8% were married couples. 15.2
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.1579169152661799
+
+Question: How many days did the Warsaw Uprising last?
+Response: 1.5 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.08539334286141786
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the primality of a given integer n is called trial division. This routine consists of dividing n by each integer m that is greater than 1 and less than or equal to the square root of n. If the result
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.45383290405307686
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Antimicrobial peptides such as lysozyme and phospholipase A2 in saliva, tears, and breast milk are also antibacterials. Vaginal secretions serve as a chemical barrier following menarche, when they become slightly
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.23920625313268795
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a form of immunity in which foreign antigens are recognized by pre-formed antibodies.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.16004426342207256
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Context is a type of literature that provides information about the situation, time, or place where a story takes place. Context can help readers understand the meaning of a work of literature. Context can also help readers determine the meaning of words or phrases that are
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.037572176584530714
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Engineering News Record is a trade magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States (TOP40) and also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5198041848945645
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: Context From the Eocene onwards, the ongoing alpine orogeny caused the ANS rift system to develop in this zone. The main elements of this rift are the Upper Rhine Graben, in southwest Germany and eastern France and the Lower Rh
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.4591841248743046
+
+Question: Who discovered this and where did they come from?
+Response: The question asks who discovered this and where did they come from. Therefore, it is important to identify the correct answer choice. According to the question, the correct answer is Michael Heckenberger. Heckenberger is mentioned as the person who discovered this
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.6189731403660803
+
+Question: Who develped the theory of relativity?
+Response: Einstein developed the theory of relativity. [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2902809782929351
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates are the largest group of organic compounds. In carbohydrates, oxygen atoms
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2523875117189477
+
+Question: In what year was the Interstate Highway System created?
+Response: Context. Fresno is the largest U.S. city not directly linked to an interstate highway.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.07627487409598488
+
+Question: What is stratigraphy?
+Response: Stratigraphy, the study of stratified rocks, is a method for understanding the geologic
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.24056732455947505
+
+Question: What geometric shape is used in equations to determine net force?
+Response: I think you're referring to the triangle rule for finding net force. The parallelogram rule is
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.1753184187036666
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T-cell extends an antigen receptor when it encounters a foreign pathogen. When a T-cell encounters a foreign pathogen, it extends a vitamin D receptor. This is essentially a signaling device that allows the T-cell to bind to the active form of
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.6034359702070178
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the water flow volume of the Rhine flows farther west, through the Wall and then, via the Merweed and New Merweed, de Biesbosch, merging with the Meuse, through the Hollands Deep and Herring
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.30767678349553296
+
+Question: Levels of what things are used to determine emission factors?
+Response: IPCC is an international body that works in tandem with the UNFCCC to determine what emissions are being released by human activity. It does this through the development of comprehensive and accurate data, which it then uses to create emission inventories. These inventories
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5714429551173625
+
+Question: Why does competition among workers drive down wages?
+Response: It is because there are many workers willing to work a large amount of time. They compete for a job that few require. So the demand for the job is very low. This will result in a low wage. Competition between workers drives down the wage
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.635718829332632
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure came about because of the importance of the pharmacists in society and their role in society. They had the rank of a personal physician, which was very high rank. The emperor’s personal physicians were the most important people in the society.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.13529805304541564
+

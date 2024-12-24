@@ -1,0 +1,130 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: In the context of the given text, independent schools (private schools) are not administered by any local, state or national governments. Thus, they retain the right to collect their students and are funded in whole or in part by charging their students. This
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.008980622384705983
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.38179373235679526
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was the narrow band of forests during the Oligocene period. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.328990899322226
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid oxygen is used to produce high-quality O2. [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.23204668966101538
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the Colonizing Empires. They believed that the mid-Atlantic and temperate climates produced a hard-working, moral, and upstanding human beings, but the tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.2645878862534272
+
+Question: What makes energy changes in a closed system?
+Response: Changes in energy in a closed system come from work and heat. The amount of energy that
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.16242548899757747
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The answer to the question above is an antigen from the pathogen. Vaccination, also called immunization, is to introduce an antigen from the pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.6187648106490391
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Squaring an integer can be reduced to the problem of multiplying two integers in polynomial time.  Squaring is not more difficult than multiplication, because multiplication is a polynomial time reduction of squaring.  This means that squaring can be reduced to
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.09516756488303257
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 0.5% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.19196745685210226
+
+Question: How many prime numbers exist?
+Response: This question is asking me to determine the probability of a randomly chosen number, n, being prime.  According to the prime number theorem, this is inversely proportional to the number of digits.  So, I have to determine the number of digits
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.044054122034844934
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: In this context, ctenophores may be abundant during the summer months in some coastal locations. But in other places they are uncommon and difficult to find. In days where they occur in very high numbers. Credation by ctenophores
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Based on the given transcription, a mechanical stoker is a type of mechanical device that is used to feed solid fuel such as coal to a furnace or boiler. It is designed to automatically supply the fuel to the firebox of the boiler in order to
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.02029785370776438
+
+Question: The average contractor hired how many employees?
+Response: The industry in the United States has a revenue of $960 billion. In 2014, the Census Bureau stated that $680 billion is private, split evenly between residential and non-residential, and the remainder is government. In 2005,
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.27944882893724177
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is considered the epitome of the Rhine romanticism.
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.334366205344401
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effect of European Union law on laws of member states is that it is based on the treaties which establish the European Union. The main sources of primary law are the treaties establishing the European Union. The legislature of the European Union is principally composed of the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.46985131706166094
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS Algorithm is useful for testing the formality of large numbers. The AKS algorithm always provides the right answer in polynomial time, but is too slow to be practical. It was developed by Manindra Agrawal, Neeraj
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.30645375228773564
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: In 1258, Manci Khan launched a campaign against the Chinese Song dynasty in southern China. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.23032526688060084
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted for 63 days. The Red Army was deep into Polish territory and pursuing the Germans toward Warsaw. Knowing that Stalin was hostile to the idea of an independent Poland, the Polish government in exile in London gave orders to the Underground
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.019603586027019948
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: In the stomach, gastric acid and proteases serve as powerful chemical defenses against ingested pathogens. Proteases are enzymes that digest proteins. There are various types of proteases, including trypsin, chymotrypsin and pepsin
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5650299382712081
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger and colleagues of the University of Florida discovered the remains of large settlements in the middle of the Amazon forest in 2003. The remains of these settlements included roads, bridges, and large clogges. [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.23865297695294208
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology concerned with the study of rock layers and stratified deposits.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.34043253080404035
+
+Question: What geometric shape is used in equations to determine net force?
+Response: To answer this question, it is important to understand the parallelogram rule of vector addition. The parallelogram rule is used to add two vectors by drawing the two vectors as two adjacent sides of a parallelogram, and then drawing the diagonal
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.15832061650502738
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Two-thirds of the Rhine flows outside of Germany to the Netherlands.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.17071859870963724
+
+Question: Why does competition among workers drive down wages?
+Response: The reason that competition among workers drives down wages is because of the expendable nature of the workers in relation to the job. In other words, there are so many workers in the labor pool that a company doesn’t have to pay a lot to attract
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6293804112176211
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure was put in place by the Tuho Code which was a set of rules and regulations that were introduced in 701. This set of rules and regulations was restated in the Euro Code in 718. This organizational structure remained largely intact
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.016037302753041494
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms. The innate immune system responds in a generic way, meaning it is non-specific. In other words, it does not confer long lasting immunity against a pathogen, as does the
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.09731209201380142
+

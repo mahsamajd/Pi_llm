@@ -1,0 +1,170 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent schools, non-governmental or non-state schools, are not administered by local, state, or national governments. This allows them the freedom to select their students and generate a
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3081301557568258
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The transcription refers to a period during the 1970s when the crisis had a significant impact on international relations. Specifically, it mentions that some European nations and Japan sought to disassociate themselves from the United States' foreign policy.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.21030254033388762
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest and narrow bandic forests expanded during the middle biopsy period, as mentioned in the provided transcription. This period coincides with the time when the rainforest extended its range further south, reaching approximately
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.2925012461704395
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1995. This Convention, which included various organizations such as Scottish, Churchill, political parties, and industry representatives, played a crucial role in providing the foundation for the structure of the
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.01998905080415425
+
+Question: What substance is used to make high quality liquid O2?
+Response: The transcription mentions that liquid oxygen (O) is produced by condensation from air and can also be made using liquid nitrogen. Therefore, liquid nitrogen (N2) is the substance that can be used to make
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4880465716393281
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars mentioned in the transcription appear to have been working in the context of the European colonial empire. Their work was likely influenced by the prevailing imperialist ideologies and geopolitical interests of the time
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.4247448204222185
+
+Question: What makes energy changes in a closed system?
+Response: Energy changes in a closed system can occur due to various factors, particularly when non-conservative forces are at play. Non-conservative forces, unlike conservative forces, do not store energy; instead, they transform it from one form
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.49357562018164347
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is "rime." In the given text, it mentions that "Rhino," "Rhin," and "Rhees" are variations of the name in different languages, deriving from the term "
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.32610776245793993
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from the pathogen is introduced in order to develop a specific immunity. The antigen acts as a harmless mimic of the disease-causing organism, stim
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.45508251080285156
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion for being upgraded to interstate standards, as mentioned in the provided transcription, is State Route 99. The transcription specifically mentions that "State Route 99" has been rapidly gaining
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5380893371725914
+
+Question: How many prime numbers exist?
+Response: The statement refers to an important concept in number theory and statistics, particularly related to the distribution of prime numbers. The phenomenon you are referring to is known as the Prime Number Theorem (PNT), which describes the asymptotic distribution of the
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.07160434366904633
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The transcription provided seems to contain a mix of fictional and factual information that does not clearly relate to known biological entities or ecological events. The term "phytoplankton" mentioned in the transcription refers to microscop
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity in viral-informatics is referred to as immunoinformatics. This interdisciplinary field combines immunology, bioinformatics, and informatics to predict and understand
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.47985087083672007
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the U.S. construction industry as of the transcription's context, hired fewer than ten employees. This information, along with the statistics provided, paints a picture of a vast and varied industry. The total
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.5085029058378014
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The transcription you've provided seems to be an amalgamation of different topics, some of which appear to be misinterpretations or typographical errors, as they don't directly relate to the question at hand. Nevertheless
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3086168431747779
+
+Question: What effect does European Union law have on laws of member states?
+Response: The effects of European Union law on the laws of member states are significant. As outlined in the transcription, EU law has both direct and indirect access on the laws of the member states. This means that EU law can override national laws in certain
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5340945832417081
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: One algorithm useful for conveniently testing the formality of large numbers is the Miller-Rabin primality test. This algorithm is faster than trial division but has a very small probability of error. It is particularly designed to handle large numbers efficiently.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.40611695117095437
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription provided refers to the electrolysis of water (H2O) to produce hydrogen and oxygen gases, which is a fundamental process in chemistry. When water undergoes electrolysis using an electric current
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5409447712866702
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: According to the provided transcription, the Mongol force that invaded southern China attacked the Song dynasty in that region. The historical context indicates that Kublai Khan, who later became Great Khan, commenced the military campaign against the Song dynast
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.06235715641873718
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing file division to check the formality of a given integer n, the integer n must be less than or equal to the square root of n. This is because if n is composite, it will have a factor less than or equal to its
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.4173772171686988
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds mentioned in the stomach that protect against injected pathogens are gastric acid, specifically hydrochloric acid (HCl), and enzymes such as proteases. Gastric acid creates a highly
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.45315710454306024
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transportation of antibodies from a mother to her baby across the placenta is an example of passive immunity. This type of immunity is short-term and lasts from a few days up to several months. The
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5660666736584099
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR (Engineering News-Record) is a trade magazine that specializes in providing comprehensive data and reporting on the construction industry. Each year, ENR conducts extensive research and compiles detailed reports on various aspects of the industry, including
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.48465889577907373
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The transcription seems to contain a mix of geographical and hydrological terms, possibly referring to the historical development of river systems in Europe, particularly in the context of the Alpine region. Let's break down the provided text for
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.38409793635902567
+
+Question: Who discovered this and where did they come from?
+Response: The transcription discusses the discovery of evidence for large-scale indigenous settlements in the Amazon forest, which suggests that human management of the land, rather than natural processes, contributed to the development of fertile soils known as "terra
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.18851012921272237
+
+Question: Who develped the theory of relativity?
+Response: The transcription appears to reflect on historical misunderstandings and progressions in the conceptualization of physical forces, particularly as they relate to friction, natural motion, and the laws governing motion and force. It emphasizes that prior to the
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.010967375456683692
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The organic compound that contains the greatest amount of oxygen by mass is carbohydrates. This is evident from the provided transcription where it states, "Carbohydrates contain the largest proportion by mass of o
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5367476136964427
+
+Question: In what year was the Interstate Highway System created?
+Response: The U.S. state highway system created Interstate 5 on the west side of the Central Valley in the 1950s. However, the specific year within that decade when it was created is not mentioned in the transcription
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0499881323691963
+
+Question: What geometric shape is used in equations to determine net force?
+Response: In physics, when two forces act on a point particle, their effects can be determined using vector addition, specifically by the parallelogram rule. According to the transcription, forces have both magnitude and direction. The resulting force, commonly referred to
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.2966983980905167
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The provided transcription appears to be a series of disconnected statements discussing the interaction between cells, vitamin B, and steroid hormones. Based on the transcription, the key cell seems to have a role in binding to the active
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.24230368864720442
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: In the context described, the water flow situation has become complex due to the presence of ducks, which do not align with the main flow. The volume of water flow slows by two-thirds as it moves farther west, affecting the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0378603650792102
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC (Intergovernmental Panel on Climate Change) focuses on activities assigned by the WMO (World Meteorological Organization) executive. Specifically, it provides guidance on the actions taken by counseling units to ad
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.18174166960731164
+
+Question: Why does competition among workers drive down wages?
+Response: In an economic context, the scenario described in the transcription refers to the principles of supply and demand affecting wage levels in the labor market. The statement implies that when there is a high supply of workers willing to take a job, and the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5635857378895014
+
+Question: What put a hierarchical structure in place?
+Response: Based on the provided transcription, it appears to describe a historical perspective on the role and status of pharmacists in Japan during specific periods of its history, particularly focusing on the early Nara period and the time up until
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.15120057719223678
+

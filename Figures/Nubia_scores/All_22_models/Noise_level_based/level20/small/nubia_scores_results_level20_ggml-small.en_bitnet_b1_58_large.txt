@@ -1,0 +1,120 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental or non-state schools,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.13439486885099272
+
+Question: Who did the geographic scholars work for?
+Response: Geographic scholars under colonial empires believed that the world could be divided into
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.08432909855992643
+
+Question: What is the French name for the Rhine?
+Response: The name Rhenos is derived from the Gallus name, which was first used in the 1st century BC.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.12637575641523013
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The process of vaccination is to introduce an antigen from a pathogen in order to
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2845951581649774
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.2633931002740383
+
+Question: How many prime numbers exist?
+Response: The distribution of primes is not known. The first result in that direction is the prime number theorem,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.1958853562105829
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Transcription: In this context, pinafores may be abundant during the summer months in some coastal locations,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.06680871398463517
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The boiler.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07596327657664681
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoproteomics is the study of large sets of proteins. Proteomics involved in the immune response. Question. What is the field of studying immunogenicity through bioinformatics known as immunoin
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.5123558475450336
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller-Rabin test is a simple but fast method of verifying the formality of a given number n.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.1528633005128024
+
+Question: An MSP may introduce a bill as what?
+Response: Bills can be introduced to Parliament in a number of ways. The Scottish Government can
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.19973279687540824
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 1. The oxygen and hydrogen produced by the electrolysis of water is a mixture of hydrogen and oxygen.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.3743757412320582
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol Empire was divided into three western khanates, Golden Horde, Chagatai Khanate and Ilkhanate.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.08501173068183387
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The contract engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09223807280852636
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: 1. The RIF system in southwest Germany is the result of the ongoing alpine orogeny.
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.1664294531123508
+
+Question: Who discovered this and where did they come from?
+Response: The Xingu tribe is a group of indigenous people who live in the Amazon rainforest.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1156613378367719
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The most abundant organic compounds are those that are found in the cell membrane, in the cytoplasm, and in the nucleus.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.20138650922623946
+
+Question: What is stratigraphy?
+Response: 1. Geologists use a number of fields, laboratories, and numerical modeling methods to decipher Earth history and understand the processes that occur on.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.16443341562280978
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The magnitude of the resultant varies from the difference of the magnitudes of the two forces here. There's some, depending on the angle between their lines of action. However, if the forces are acting on an extended body,
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.2257329595466101
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: When a T-cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.14285271142846057
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine flows further west, through the Wall and then, near the Merweid and New Merweid, to
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.12101444652202897
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrates its activities on the tasks allotted to it by the relevant WMO Executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08302125444154007
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The supply of workers is low.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.667407497026233
+
+Question: What put a hierarchical structure in place?
+Response: 1. The pharmacist was the highest ranking person in the Imperial Household.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07162547899913818
+

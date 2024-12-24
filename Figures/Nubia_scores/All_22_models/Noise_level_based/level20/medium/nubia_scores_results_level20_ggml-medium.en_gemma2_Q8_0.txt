@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: "StubHub Center" [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2350386342641686
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also known as independent schools, non-governmental, or non-state schools, are not administered by local, state or national governments. Thus, they retain the right to select students and are funded in whole or in part by charging
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.32423647970220915
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: January 18, 1974 [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4804587913563838
+
+Question: How many items is the University Library home to?
+Response: 2 million items [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.11170679671343486
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: Oligocene [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.18879330026141372
+
+Question: When was the Scottish Constitutional Convention held?
+Response: In 1989 [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.08422362943221073
+
+Question: What substance is used to make high quality liquid O2?
+Response: A: Nitrogen [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.18178687205089217
+
+Question: Who did the geographic scholars work for?
+Response: The answer is A) the British Empire. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.08660612350482166
+
+Question: What makes energy changes in a closed system?
+Response: Energy transformations within a closed system occur through non-conservative forces acting to
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1905640402410843
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The introduction of an antigen from a pathogen in order to stimulate the immune system and develop specific immunity against that particular pathogen without causing disease associated with that organism. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.47986636570339947
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, 6.1% of East German students attended private schools. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.38495238042091384
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rock Lorelei, with its outstanding architectural monuments. [end of text]
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.08090725497554863
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore that was accidentally introduced into the Black Sea is Nemeopsis. It was introduced into the Black Sea by humans. The ctenophore is blamed for causing fish stocks to collapse by eating both fish larvae and organisms that would otherwise
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.02817812995004787
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.1148393865623012
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of Rhine romanticism is the Middle Rhine Valley. [end of text]
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.27058345267868034
+
+Question: What effect does European Union law have on laws of member states?
+Response: It has a direct effect in the sense that European Union law has a direct effect on the laws of member states, but not to the extent that European Union law has a direct effect on the laws of member states, but not to the extent that
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.6211638113679775
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Miller-Rabin
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.48786888371493153
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP may introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.2706120456094212
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water into molecular oxygen and hydrogen [end of text]
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.2677170030062215
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 94.1 males for every 100 females [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.08881292651031958
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.07980534692402019
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The integer m must be less than or equal to the square root of n. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.23588956761010949
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Stomach acid kills ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.1452922146201483
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular strolling destination for Barsobian is the Saxon Garden [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.08512961276269204
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine Gravin, the Lower Rhine and the Baimen. [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.08762195214960145
+
+Question: Who discovered this and where did they come from?
+Response: The answer to the question is:
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.4948630289416944
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in 1956. [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.17787516211957366
+
+Question: What is stratigraphy?
+Response: The word stratigraphy is a word that means “layers of rocks” in Greek. In geology, stratigraphy is the study of rock layers. This is done by studying the rock layers, such as the fossil layers of the sedimentary rocks of the Paleozoic era or
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.06962978743695347
+
+Question: What geometric shape is used in equations to determine net force?
+Response: the resultant force
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.06585442383630835
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.11910085619037636
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: a. I believe the answer is "through the Hollandsbeef and Herringslea estuaries".
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06301449333483322
+
+Question: Levels of what things are used to determine emission factors?
+Response: IPCC concentrates its activities on the tasks allotted to it by the relevant WMO executive
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07517360697685882
+
+Question: Why does competition among workers drive down wages?
+Response: Competition between workers drives down wages due to the expendable nature of the worker in relation to
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.20091285253594005
+
+Question: What put a hierarchical structure in place?
+Response: The Teiho Code (701) and restated in the Euro Code (718)
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0774438288275342
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: Innate immune response is a system of defense against a wide range of pathogens that is not species specific. It involves the activation of specific cell surface molecules by microbes, which triggers a cascade of reactions in cells of the innate immune system and is mainly
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.03501607682737384
+

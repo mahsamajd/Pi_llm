@@ -1,0 +1,210 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The information provided suggests a story of a sports team named PSO-TSA. This team, after starting as a local clubhouse in their local library, moved onto competitive play in Los Angeles during the period from 2005
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.19860289169073952
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The transcription you provided touches on the financial structure of private schools, also known as independent schools. These schools are characterized by their independence from state or national government administration. Instead of relying on mandatory taxation for public funding
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12599167428757385
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The provided transcription seems to describe a complex situation involving international relations, particularly focusing on a period marked by a crisis that affected multiple nations and policies. The crisis led to significant shifts in diplomatic relationships and strategies, including a European nation
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.24447896409171832
+
+Question: How many items is the University Library home to?
+Response: The University Library, which was founded in 1816, houses over two million items. The transcription seems to contain some errors and confusing statements. However, focusing on the clear information provided, the University Library, a significant library
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4806088684021693
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The transcription seems to be discussing the historical expansion of tropical rainforests across a continent following major environmental changes and the extinction of species such as dinosaurs. The text implies that after dinosaurs became extinct and certain climate sh
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.17386664785973271
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The provided transcription refers to the Scottish constitutional convention held in the late 1980s and early 1990s, which aimed at discussing proposals for a Scottish Parliament and devolution in Scotland. The
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.26346928420915494
+
+Question: What substance is used to make high quality liquid O2?
+Response: The transcription describes a process involving the condensation and separation of oxygen from air using temperature changes. When air is cooled, the different components condense at different temperatures due to their varying boiling points. The process mentioned
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.45066131648929797
+
+Question: Who did the geographic scholars work for?
+Response: The provided text seems to be an attempt to discuss the concept of "geographic silence" and its relationship with climate, culture, and social perceptions, as well as its connection to colonialism, Christianity, and justice. However
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.2960697970256153
+
+Question: What makes energy changes in a closed system?
+Response: The energy transfer within a state system, as described in the transcription, is influenced by the presence of non-concentrable sources. These sources lead to changes in the internal energy of the system, often associated with the transfer of heat. According
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.12360291385897226
+
+Question: What is the French name for the Rhine?
+Response: The transcription provided seems to discuss the evolution and significance of the term "world" as it pertains to modern languages and geography. The term originates from the Latin "mundus," which means "universe," "world," or
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.22066196037046482
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The transcription seems to be discussing the challenges and decisions related to the state highway system in the United States, specifically regarding State Route 99. It appears to touch upon various issues such as the allocation of federal funding
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4346505827156243
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The transcription refers to the concept of polynomial time reduction in computational complexity theory. It illustrates that certain computational problems can be reduced to others in a manner that can be performed in polynomial time, which is a measure of efficiency in computing.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.05789490959830379
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The provided transcription seems to suggest that the speaker is emphasizing that a certain set of rights cannot be abolished. This assertion indicates a belief in the inalienability and fundamental importance of these rights within a legal or moral framework. However,
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: The transcription appears to conflate concepts from number theory (prime and composite numbers) with metaphorical or hypothetical terminology about "fires." Based on the information provided, it seems there might be a misunderstanding or a
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.2313060847759313
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle Rhinoceros, a region rich in cultural and architectural heritage, is distinguished by its prominent economic passage through the prevalence of Democritus and Syrrhosis. These terms, which may refer
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.11119080727325925
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The species accidentally introduced into the Black Sea, as mentioned in the transcription, are fish flies. The document discusses how these fish flies, a common marine organism, have caused significant ecological disruption in the Black Sea
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.08777136018626153
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components mentioned in the transcription appear to be discussing parts of a fire suppression system, likely a fire sprinkler system. While the text is somewhat fragmented, it seems to describe the various components and processes involved in the operation
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The transcription appears to discuss several aspects of immunogenicity and computational methods used in predicting the immune response to peptides and proteins, particularly in the context of antibody design and blood treatments. Here'
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2953310482272149
+
+Question: The average contractor hired how many employees?
+Response: The average contractor in the United States, as of the data provided, employed fewer than 20 employees. This figure is derived from the text which states, "300,000 general contractors, 38,0
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.4367210923911864
+
+Question: How many projects does the Centre currently realize a year?
+Response: The provided transcription seems to be part of a conversation about the influence of South African war in the 17th century on contemporary art, the contemporary tradition, and the National Gallery of Art's involvement in the arts. Based
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.04204902997011761
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sector in the middle line area of the dinner concert in Zurich is the unipolar private sector. This indicates that private enterprises play a crucial role in the local economy, potentially including businesses such as restaurants
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.25841442435937845
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union (EU) law is a unique legal system that operates alongside and interacts with the laws of its member states. The main sources of EU law, as indicated in the transcription, are primary law, which includes the treaties
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.3875041764614451
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The information you provided is a bit mixed up, but it seems you are asking about trial division, which is a method to verify if a number is prime or not (i.e., its formality). However, your last question about a
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.2514762020846044
+
+Question: An MSP may introduce a bill as what?
+Response: In the context provided, there are several avenues through which bills can be introduced in the Scottish political system. Members of the Scottish Government have the authority to propose new laws regarding menus, which presumably refer to regulatory frameworks or
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.10318361889834571
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The question seems to be based on a fictional context and mixes elements from various historical and contemporary settings. As such, Monty Kong, a character from the "Kung Fu Panda" film franchise, does not have a
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.1875566160027483
+
+Question: How many days did the Warsaw Uprising last?
+Response: The North Side version lasted for 6 days. This information is stated in the passage where it says, "however, went on for 6 missing days." The missing days refer to the time period between the uprisings in
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.0032313099393149747
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: Based on the transcription provided, it appears to be discussing a method for determining whether a given integer is a "file" or not, using a concept referred to as "file division." The method involves dividing the given integer
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.25536319264771545
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: I'm sorry, but it seems like the provided transcription contains inaudible segments, which makes it impossible for me to understand the content you are referring to. If you have any other questions or need assistance with a different topic, please feel
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3031926786121646
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Jackson Garden is a park spanning an area of 15.5 hectares. It is located in a rural setting and is notable for its unique species of trees lining an avenue. The park's aesthetic and
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.31432532213908493
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The Engineering News-Record (ENR) magazine serves as a comprehensive source of information for professionals in the construction industry. It annually compiles detailed reports based on the initial data regarding the sizes of diamond construction buildings. The publication also
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5002291722358967
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: In the provided transcription, the narrative discusses the development of a river system in southwest Germany, specifically in relation to the region's topography and climate. The main elements mentioned for the route's development are the upper line gra
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.3826606488517368
+
+Question: Who discovered this and where did they come from?
+Response: It appears the transcription you've provided is fragmented and somewhat disjointed, making it challenging to extract clear context. However, I will attempt to formulate a coherent response based on the given information.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.12727760093986729
+
+Question: Who develped the theory of relativity?
+Response: The transcription appears to discuss the evolution of the philosophical and scientific understanding of motion and force. It contrasts the initial misconceptions about these concepts with the advancements made by notable figures in the history of physics.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.03280121472329467
+
+Question: In what year was the Interstate Highway System created?
+Response: I'm sorry, but the provided transcription consists solely of [INAUDIBLE] repeated multiple times. It does not contain any coherent information or context for me to formulate a detailed and specific answer. It seems like
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.15056396750255285
+
+Question: What is stratigraphy?
+Response: Geologists employ a variety of techniques and fields to study and understand Earth's history and the processes that occur on its surface and within it. On the surface, geologists use geographical fields, which involve studying the Earth's physical
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3003485313365435
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Based on the transcription provided, it appears to be discussing the principles of vector addition, particularly in the context of forces acting on an extended body (a rigid body that is not point-like). In physics, when dealing
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.21536870571217726
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Upon encountering a foreign pathogen, the C-cells (likely referring to parathyroid cells, given the context of vitamin B and hormone regulation) are expected to increase their secretion of parathyroid h
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.20639202714335714
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The selection of keepers of the rhymes who go outside of Cinderbank, according to the transcription, are those who are following the moon's guidance. As the moon leads, it suggests that these keepers of the rhym
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1562129636574875
+
+Question: Levels of what things are used to determine emission factors?
+Response: The given transcription appears to be discussing strategies related to the International Cooperation and Coordination Council (ICCC) and its activities, particularly in the context of a counter-revolution, support items, and the UNIF government
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.17254534983871628
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers can drive down wages primarily due to the nature of the job market and supply-and-demand dynamics. When there is a high supply of workers willing to work a large amount of time, and low demand for the job
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.6516296259239573
+
+Question: What put a hierarchical structure in place?
+Response: It appears there has been a misunderstanding or a transcription error, as the content provided does not form a coherent narrative or present clear information. The transcription contains a series of fragmented phrases that reference Japan, historical
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.24391613724835304
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The provided transcription seems to be discussing the innate immune system, a component of the immune system that reacts to pathogens in a generic and non-specific manner. It identifies microorganisms using pattern recognition
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.4570070773349555
+

@@ -1,0 +1,165 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Schools are funded through charges and tuition fees. The funding varies based on the student's ability to pay. They may be able to get a scholarship for a specific area of study. Schools are funded through charges and tuition fees. The funding varies based on
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.12633899639039436
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.4751557726555492
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The extinction of the dinosaurs in the wetted climate may have allowed the tropical rainforest to spread out across the continent. In 66 to 34 miles, the rainforest extended as far south as 45 degrees. Climate fluctuations in the last
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.17584636608809312
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid fuel is a substance that is used to make high-quality liquid fuels. It is a substance that is used to make high-quality liquid fuels. It is a substance that is used to make high-quality liquid fuels. It is a substance that is used
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.42634688076439253
+
+Question: Who did the geographic scholars work for?
+Response: The geographic college worked for European empires. The Europeans saw themselves as superior and
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.09960505557168131
+
+Question: What makes energy changes in a closed system?
+Response: 1. Non-conservative forces necessarily result in energy transformation within close systems from, according to more random conditions of entity and future.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.13818854990834895
+
+Question: What is the French name for the Rhine?
+Response: The various forms of the name of the rhyme in modern languages were all derived from the dollar.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.09833509725426037
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: St. Ruth 99 is a major east-west highway in the United States. It serves as a major connector for I-5, I-10, I-15, I-215, and I-405, and is part of the California
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.2746908033211468
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of students in private high schools reached 11.1%.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.07076916945800527
+
+Question: How many prime numbers exist?
+Response: As demonstrated by Luther around 300 BC, there is no known simple formula that separates
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.067888191217513
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous Rock is the Rhine Gorge between Ludacine and Rhine and Coburn is lifted at the UNESCO World Heritage Site. Near St. Thorthausen, the Rhine flows around the famous Rock Railroad with its outstanding architectural monument
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.19442422844437368
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Nymphaeopto
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.1035104485373729
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The boiler in this application has a 40 pound per hour firing rate. The pump in this application is a 1.0 HP, 115 volt, 1 phase, 60 Hz, single phase pump. This pump is driven by a
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.02749114740630587
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: A
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.07848904080652808
+
+Question: How many projects does the Centre currently realize a year?
+Response: 500 projects
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.05745522617673404
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is the legislative body of the European Union, which is composed of the European Parliament and the European Council. The European Parliament has the power to legislate on European Union law, which is enacted through the Council and ratified by the European Council
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5470202976819075
+
+Question: How many men older than 18 are there for every 100 women?
+Response: There were 19,000 men for every 100 women. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.12220523251503768
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Arahbo, with challenging his claim to the throne. [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.059777552314411286
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Human beings have a short-term immunity to the disease. In medicine, the immunity can be transferred to another person. Here, the sender is an example of the sender's title. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.27866269047685166
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR is a great magazine for the construction industry. Each year, ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States. PLC40 can also enrich the
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.50843231767242
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main elements of this rift were the Upper Rhine Grabber, in southwest Germany and eastern
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.155680363460732
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger and colleagues of the University of Florida [end of text]
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.23620451125650888
+
+Question: Who develped the theory of relativity?
+Response: Galileo and Newton, with his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved on for nearly 200 years. By the early 20th century, Einstein developed a theory of relativity that collectively predicted the action of forces
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The elements found in almost all biomolecules that are important here are generated by life.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08327096040305193
+
+Question: In what year was the Interstate Highway System created?
+Response: 2013, as the industry highway system is currently underway.
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06303107986004208
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of the different rock layers that make up the Earth. In other words, stratigraphy is a study of geologic history. Stratigraphy is also a field of study in geology. It can be used to determine the ages
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.1836349840109528
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The electric state is making the phrases to become a net force. The electric state is making the phrases to become a net force. [end of text]
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.4105476647886309
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The transcription above is correct. The cells involved in this symbiotic relationship are B-cells and T-cells. B-cells express the vitamin B receptor and are activated by the pathogen. T-cells are activated by B-cells and also
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.5050188503741209
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: From here, the situation becomes more complicated as the dust main ruin no longer coincides with the main flow of water.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.07789607541319565
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC concentrates with activities on the tasks allotted there by the relevant WMO's Council and UNIT govern in council resolutions and decisions as well as on actions in support of the UNIT CCCC process. While the separation of the assessment reports of the major
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.2522551825826209
+
+Question: Why does competition among workers drive down wages?
+Response: The main reason for competition among workers is that workers are not all equally able or willing to perform a particular job, so there is a need to have a competitive market. This is because in a competitive market, a job requires a certain amount of skill
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5278149473540679
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structures in place were a system of three layers. The first layer consisted of the emperor's palace and his closest court officials. The second layer consisted of the imperial household and its officials. The third layer consisted of the Imperial Household's Ministry of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.006822969260901868
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune immune system responds in a generic way, immunity is what?
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.28485594842467765
+

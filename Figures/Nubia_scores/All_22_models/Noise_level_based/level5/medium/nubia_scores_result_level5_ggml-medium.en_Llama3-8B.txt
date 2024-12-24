@@ -1,0 +1,190 @@
+Question: What was the name of the stadium that the teams played in?
+Response: In 2005, the LA Galaxy and TVOS USA were both founded as the MLS (Major League Soccer) teams in Los Angeles. However, TVOS was suspended following the 2014 NLS team and was scheduled to return in 201
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.19517139873685252
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are a type of school that is not funded by the government. In fact, private schools are not owned by the government. This means that they have the freedom to choose their own students. They also have the freedom to charge students and to
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.056218788155686594
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to over 2 million items.
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.38179373235679526
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The following transcript, in conjunction with other sources, would lead one to conclude that the tropical rainforest's expansion after the extinction of the dinosaurs was aided by the presence of the letter "China."  This letter's presence would have allowed the rainforest
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.0
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was an organisation that campaigned for Scottish devolution. It was founded in 1989, when Scotland had a devolved Parliament, and operated until 1997, when the Parliament was officially established. The Convention was a multi-party
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.013460485637662
+
+Question: Who did the geographic scholars work for?
+Response: The geographic plotters worked for the Nazis. The geographic columnists and columnists in the middle of the Central Harmony tradition were used to split the world into climatic forms. They claimed that these columns were used to divide the world into climatic
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.22546022011439737
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macro-tropic-non-contributive forces and micro-tropic-contributive forces is described by detailed treatment of statistical mechanics.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.1165762855547885
+
+Question: What is the French name for the Rhine?
+Response: The word “Lemur” is derived from the Greek word “Lemur”, which means “Lemur” or “Lemur”.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.187672470484064
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: Fresno is the largest U.S. city not directly linked to an interstate highway. When the interstate highway system was created in the 1960s, the decision was made to build Interstate 5 on the west side of the Central Valley. In that
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.3460474133518273
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: In this context, the most commonly used reduction is the polynomial time reduction. This means that the reduction process takes polynomial time. For example, the problem of scaling an integer can be revealed to the problem of multiplying two integers. This means an algorithm for
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.05277873822765944
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The percentage of youth students attending private schools in 1992 was 6.1% [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3283333931651895
+
+Question: How many prime numbers exist?
+Response: In this context, there are infinitely many times. As demonstrated by Newton's around 300 BC, there is no known simple formula that separates time numbers from composite numbers.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.26279248868833893
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Middle Rhine is a very unique part of Germany. The Rhine gorge that is located between Uyghur and Rhine is listed as a UNESCO World Heritage Site. This means that it is one of the most important landmarks in the world.
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The following are the components that raise the temperature of steam above the saturated vapor plate: [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.4055995854841824
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics. [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.12112904404776015
+
+Question: How many projects does the Centre currently realize a year?
+Response: The National Gallery of Art was founded in 1818, which was a time when Poland was partitioned between Russia, Germany, and Austria. It was a time when art in Poland was not allowed to be displayed publicly. It was a time when
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine Valley is considered the epitome of the rhino-manticism as it is a popular tourist attraction. It is a region that is known for its wine production and has a rich history. The region is also home to many medieval cast
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.3301341993441881
+
+Question: What effect does European Union law have on laws of member states?
+Response: The main focus of this primary law is the treaties established on the European Union. This is the primary focus of the regulations and directives which are based on the treaties. The registration of the European Union is principally composed of the European Parliament and the Hong Kong
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4215264775508635
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The process of testing whether a number is prime is called primality testing. There are many algorithms to determine whether a number is prime, and the largest known prime number is 22,388,618 digits long. One algorithm used for primality testing
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5034183482618839
+
+Question: An MSP may introduce a bill as what?
+Response: To start with the bill can be introduced to parliament by Scottish government and then it can be introduced by private member or private member's bill. They can also be introduced by the committee of the parliament. A private bill can be introduced by the outside proposal
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.05157867649343295
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The given information is about the production of oxygen gas. In the electrolysis of water, oxygen gas is produced as a product. The electrolysis of water involves the use of electricity in order to break down water into its constituents namely hydrogen and oxygen.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.10158946592475038
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The number of males per 100 females is given by 94.1/100 = 0.941, which rounds to 94.1%. There are thus 5.9% more males than females. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.33276031600700295
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Monkey Kong commenced a military campaign against the Chinese Song Dynasty in Southern China. The Mongol force that invaded Southern China was far greater than the course of Central invasion. Middle East in 12 different states. He died in 1259 without a procession
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.0
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising began on the 1st of August 1944, as the Red Army was nearing the city,
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.26853662487769914
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The test of finality by division of the file is a method that allows to know if a number is a prime number. For this, we have to divide a number n by each number between 1 and n that is not n.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.2817284244017646
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach acid and cortisol serve as powerful chemical defense against ingested bacteria. The gastric acid is composed of hydrochloric acid, which is very powerful and helps in breaking down the food that we eat. When food is ingested in the stomach,
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.47173074560501094
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The transcribed text is from a TED talk given by immunologist and professor Dr. E. Jill Roberts from the University of Buffalo. The main idea of the talk is that babies are born without any prior exposure to pathogens. Their mothers can protect them
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.3207900004380443
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular flowing destination for the Octavians is the Tracton Garden. It is a royal garden that was formerly situated in the area of 15.5 hectares. It was a popular destination for the kids in the lab. The two of
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.35789368257531595
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The main element of the bridge system of the Upper Rhine is the Rhine River. The Rhine River is the main river in central Europe and it flows from Switzerland to the North Sea. It is 1,236 km long and it is
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.40326117625273117
+
+Question: Who discovered this and where did they come from?
+Response: The development of a fitter soil allowed agriculture and servicopter in a previously hostile environment, meaning that large portions of the Amazon rainforest were probably built of centuries of green.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08001877288319847
+
+Question: Who develped the theory of relativity?
+Response: [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.2880003904576838
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The following questions are based on this transcription and your knowledge of biochemistry. Answer each question using complete sentences. Make sure your response fully addresses the information given.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.22977922721716681
+
+Question: What is stratigraphy?
+Response: Geologists use a variety of fields to logically decide where Earth is made and understand the processes that occur on it. In typical geological investigations, geologists use primary information related to topology, the study of rocks, radiography, the study of sedimentary
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.039615743582200214
+
+Question: What geometric shape is used in equations to determine net force?
+Response: Force is a vector quantity that has both magnitude and direction. It is denoted with an arrow above the symbol. If two forces act on a point particle, the resultant force (or the net force) can be determined by following the parallelogram
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.07777462554232462
+
+Question: Levels of what things are used to determine emission factors?
+Response: The International Council for Science Policy and Technology (ICPPT) is the main organization that coordinates and oversees all international climate change policies, research, and development. It is the primary intergovernmental organization for science and technology policy and it is responsible for
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5106998868857158
+
+Question: Why does competition among workers drive down wages?
+Response: When there is a high demand for workers, there is competition for workers.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5006630047166467
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure is an organizational structure that reflects the level of authority that an organization assigns to its employees. In a hierarchical structure, employees are arranged in a pyramid, with the most senior employees at the top and the least senior employees at the bottom.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.028570405953101896
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune system recognizes microbes through pattern recognition, or when stressed cells send out long signals. Immune systems are non-specific, responding to pathogens in a generic way. This means the immune system does not confer long-lasting immunity against the pathogen. [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.030378713335262986
+

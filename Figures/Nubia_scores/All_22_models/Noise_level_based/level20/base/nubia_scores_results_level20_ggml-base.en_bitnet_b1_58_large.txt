@@ -1,0 +1,135 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: 1. Private schools are not governed by local, state or national governments. They are
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.11697263940536184
+
+Question: Who did the geographic scholars work for?
+Response: 1. The geographic scholars were the colonialists. They were the ones who
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.1383485586285832
+
+Question: What is the French name for the Rhine?
+Response: The name Reno is derived from the gala, which was adapted in Roman era geography. First century D.C. has brief Reno.
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0724685906053969
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The vaccine is a specific immunization.
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.31533722222806304
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction. This means that
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.23597802952355618
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.06741396481779283
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Transcription: Tena4s are abundant in the Black Sea. They are abundant in the Black Sea. They are abundant in the Black Sea. They are abundant in the Black Sea. They are abundant in the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.15668714769153114
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: 1. The boiler.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.07596327657664681
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunogenicity is the ability of a drug to induce an immune response in a cell. The term is used to
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.3349284972550979
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Rhine romanticism is a romantic movement that emerged in the 19th century. It was a reaction against the romanticism of the time. It was a reaction against the romanticism of the time. It was
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5749159107678272
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The Miller Raven formality test is a fast algorithm for testing the formality of large numbers. It
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.13954643777205622
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 1. The gases in each room consist of hydrogen and oxygen in the explosive ratio 2 to 1.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.10351054104273028
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Transcription: context. Manki Khan commenced the military campaign against the Chinese song dynasty in southern China.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.17909000950827603
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. The stomach contains a number of proteins that are important in the defense of the
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.2925393413780887
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 1. Passive immunity is a type of immunity that is passed from one person to another. It is
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.22173863194888244
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: Transcription: The park around the Kolotarnia Palace is situated on the oldest apartment of the Viscua.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.07214826729868651
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The ENR is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07793508748399725
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Rift System in the alpine origin in Southwest Germany is the Rift System in the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.141274139699471
+
+Question: Who discovered this and where did they come from?
+Response: The Shindus, who are a tribe of the Amazon tribe, are known for their
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.0756934071890919
+
+Question: Who develped the theory of relativity?
+Response: 1. That's context. Philosophers and antiquities use the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as Aristotle and Archimedes, which mean fundamental
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.15154064759279695
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. The carbohydrates contain the largest proportion of oxygen by mass, all fat, fatty acids, amino acid, and proteins contain oxygen, due to the presence of carbonyl groups
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.4010607916723752
+
+Question: What is stratigraphy?
+Response: * Geologists use a number of fields, laboratory, and numerical modeling methods to decipher Earth history and understand the processes that occur on. And inside the Earth, in typical geological investigation, geologists use
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.36540767410403785
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the net force. The net force is
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.2641257474843717
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: When a T cell encounters a foreign packaging, it extends a vitamin D receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.16854670805671734
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The flow of the Rhine is now in the North Sea, and the flow of the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.17120251522270202
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICC is responsible for the preparation of the assessment reports.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.09256693017298179
+
+Question: What put a hierarchical structure in place?
+Response: 1. The pharmacists were the highest ranking positions in the Imperial household.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06796448717490888
+

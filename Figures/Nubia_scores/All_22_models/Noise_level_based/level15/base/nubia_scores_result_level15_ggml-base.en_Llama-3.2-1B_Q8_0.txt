@@ -1,0 +1,185 @@
+Question: What was the name of the stadium that the teams played in?
+Response: [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4428117099544394
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition and student scholarship programs. Students may be able to get a scholarship. Which makes the cost cheaper? Depending on a college a student may have, U.G. sports scholarship, arts scholarship, academic scholarship, financial needs
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.10197586211745935
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest and narrow bandic forests were during the middle biopsy, then retracted to a mostly immune formation of the last glacial maximum. [end of text]
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.14078568587232876
+
+Question: When was the Scottish Constitutional Convention held?
+Response: 1995 [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0600081889231352
+
+Question: What substance is used to make high quality liquid O2?
+Response: Liquid O [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.10657682621194464
+
+Question: What makes energy changes in a closed system?
+Response: The energy of a system is a measure of the average energy of its constituent atoms or molecules. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.25063977714354424
+
+Question: What is the French name for the Rhine?
+Response: Rino
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.059925365070566006
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: This concept, long term active memory is acquired following infection by activation of B and C cells. Active immunity can also be generated artificially through vaccination, the principle behind vaccination, also called immunization, is to introduce an antigen from the pathogen in order
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.4179586294448405
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The most commonly used reduction is a polynomial time reduction. This means that the reduction process takes polynomial time. For example, the problem of swearing in integers can be reduced to the problem of multiplying integers. This means an algorithm for multiplying integers can be used
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.07552145577124247
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: 1. The right to see a private school in Germany is in Article 7. 2. Turns out four of the deemed address and cannot be suspended even in a state of emergency. 3. It is also not possible to abolish these
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The answer is from the rhyme boards between new design and rhyme and
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.06336195619732732
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The "meniopsus" is a fish that is commonly eaten in some countries. It is a common food source for other animals, and can be consumed by humans. However, the fish itself is also consumed as a food source. The introduction
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.0
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: In super-eaters, the steam is usually heated by the flame, a chain of steam-stopping mechanism in its drive engine or motor may be impeded to make the fuel. From a supply bank, farther, to the firebox, the water
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.0
+
+Question: How many projects does the Centre currently realize a year?
+Response: 500. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.15320327018649116
+
+Question: What effect does European Union law have on laws of member states?
+Response: The main sources of primary law are the treaties establishing the European Union.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.09554953882281103
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The property of being prime is called the formality. To be prime is to be formality, the formality of a given number n is known as trial division. So in this context, the property of being prime are not, it's called
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3549607473310121
+
+Question: An MSP may introduce a bill as what?
+Response: 2. A private member is a bill introduced by a member of Parliament outside the normal political process. It is submitted by an individual rather than by a political party. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.4917794906904581
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen can also be produced for electrolysis of water into molecular oxygen and hydrogen. The gases in each room consist of hydrogen and oxygen when the explosive ratio is 2 to 1. Contrary to popular belief, the 2 to 1 ratio
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.057252170356291265
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: R. is both break Khan.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.05398898307009381
+
+Question: How many days did the Warsaw Uprising last?
+Response: 63 days
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.04919715532295055
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The stomach contains gastric acid and proteases. The stomach also contains defensins, which are antimicrobial peptides. These are the most important compounds in the stomach that protect against injected pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.5492615440652611
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: 3
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.46978612226261685
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Saxon Garden is a popular strolling destination to the Barnsogian. The monument of the worse are ghetto uprising is also situated here. The lazy part covers the area of 76 hectares. The unique character and history of the heart is
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.16805528579379048
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The data for ENR's POT250 is published in the Annual Report of Top 250, where there is a breakdown of the size of design and construction firms in each market segment. The market segments are: transportation, petroleum, buildings, power,
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.40048156205144647
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The lower Rhine river had been a source of water, and the Baynes river was a source of water. The Baynes river was the source of water that the lower Rhine river carried. The Baynes river was not the source of water
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.5225749030882337
+
+Question: Who discovered this and where did they come from?
+Response: The Shindi tribe is part of the indigenous Brazilian society that has lived in the Amazon for thousands of years. The Shindi tribe is currently facing problems with the environment, mainly caused by deforestation. The Shindi tribe has been living in the Amazon
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3455311814193418
+
+Question: Who develped the theory of relativity?
+Response: 1. Explain how a frictional force acts on a moving object. 2. Define momentum. 3. Define inertia. 4. Explain Newton’s first law of motion. 5. Explain Newton’s second law of motion.
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.348706410045206
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates contain the largest proportion by mass of oxygen. All fats and amino acids contain oxygen. Into the presence of carbon, in these acids in their extra residue. Oxygen also occurs in phosphate, CO3, minor. 4. This in
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.2982845723268832
+
+Question: In what year was the Interstate Highway System created?
+Response: 1959. The 1959 act created Interstate 5 from its current terminus in downtown Los Angeles to the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.14790839784873877
+
+Question: What is stratigraphy?
+Response: The three main branches of geology are stratigraphy, sedimentology, and structural geology. Stratigraphy is the study
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.3858138666134998
+
+Question: What geometric shape is used in equations to determine net force?
+Response: 1. The resulting force is given as the magnitude and direction of the force vector when two forces act on a point particle (point of action). The resultant vector of a parallelogram rule can be represented as the parallelogram rule. The
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.13582455930579884
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: This is essentially a signaling device that allows the key cell to bind to the active form of vitamin B.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.11948469641007209
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.3497882749640656
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC concentrates its activities on the task allotted to it by the relevant WMO executive.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.08424066107059658
+
+Question: Why does competition among workers drive down wages?
+Response: In the above transcription, there are two different situations that are taking place. The first situation is that of a job with a high supply and a large amount of workers willing to work that particular job. This situation is represented by the first paragraph of the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5586012382353136
+
+Question: What put a hierarchical structure in place?
+Response: The OPPEC period in Japan was the period between 538 to 710, in the early Nara period, 710 to 794, and the end of the period was 710 to 794. The manual fulfilled role similar to those of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.18494576982531485
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The amazing immune system responds in a generic way, meaning it is what? [end of text]
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.329533101369636
+

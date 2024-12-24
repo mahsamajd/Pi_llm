@@ -1,0 +1,205 @@
+Question: What was the name of the stadium that the teams played in?
+Response: Based on the transcription provided, from 2005 to 2014, the major league soccer teams in Los Angeles were the LA Galaxy and a team named TVOS USA. During this period, the
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.2113701292367366
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent, non-governmental, or non-state schools, operate independently of local, state, or national government administration. Consequently, these schools have the authority to set tuition fees and collect
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.4491373447170266
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The transcription refers to the historical expansion of tropical rainforests across various regions, including the Vanna region, during the last 34 million years, with significant fluctuations in their range. It particularly mentions the Oligocene
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.29479459300910926
+
+Question: What substance is used to make high quality liquid O2?
+Response: High-quality liquid oxygen is typically obtained through a process known as fractional distillation of liquid air. This method separates the various components of air based on their boiling points, resulting in the isolation of oxygen. The trans
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4605615910367592
+
+Question: Who did the geographic scholars work for?
+Response: The geographic plotters worked for the government, as indicated by the context where it is mentioned that "No human empire is aiding the government in a more evolved place of structure." This suggests that the geographic plotters, who
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3561779232440858
+
+Question: What makes energy changes in a closed system?
+Response: The connection between macro-tropic-non-contributive (also known as entropy-increasing or dissipative) forces and micro-tropic-contributive (also known as entropy-decreasing or cohes
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.21053767956516822
+
+Question: What is the French name for the Rhine?
+Response: It appears that you're seeking an analysis or interpretation of a specific text related to various names and their origins, particularly focusing on the term "Lemur" and its adaptations in different languages. However, the provided transcription seems
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.0
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced to develop a specific immunity. This antigen is a substance that the immune system can recognize and respond to, mimicking the pathogen
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5445275537200884
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The transcription provided discusses the situation regarding the interstate highway system and its impact on cities like Fresno in the United States. Specifically, it highlights that Fresno is the largest U.S. city that is not directly
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.349581801377449
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The transcription provided discusses the concept of polynomial time reductions in the context of algorithmic complexity. Specifically, it touches upon the idea that certain computational problems can be transformed into each other using an algorithmic reduction that also operates in polynomial
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.05787114038012797
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The transcription does not provide the specific percentage of youth students who attended private schools in 1992. It mentions that the percentage increased from 6.1% to 7.8% in Germany between 1992 and
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3217057628954777
+
+Question: How many prime numbers exist?
+Response: The provided transcription appears to touch on a variety of topics related to mathematics and time. However, it seems to include some inaccuracies or misinterpretations that could lead to confusion. Let's address the points raised in the
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.10854945702792063
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The transcription appears to describe various aspects of the Middle Rhine Valley, emphasizing its scenic beauty, cultural significance, and romantic charm. However, the phrase "dominant economic passage in the Middle Rhine area is imbecile
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.159185091082362
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The punicure species that was accidentally introduced into the Black Sea, as mentioned in the transcription, is the Asian tapeworm (Taenia saginata). This is a flatworm, which belongs to the phyl
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.32663109919437494
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The components that raise the steam temperature above the saturated vapor plate are the injection of water, the reinvigoration process, and the use of bioboxin environs mechanisms. The injection of water supplies water to the bo
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.22904431986886475
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of study in immunogenicity in bioinformatics is known as Amino Informatics. This field involves the study of large sets of proteins, specifically focusing on their role in the immune response. Amin
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.43179119439260183
+
+Question: How many projects does the Centre currently realize a year?
+Response: The text does not provide specific information on the number of projects currently realized and viewed by the center, which in this context refers to the National Gallery of Art in Warsaw. It mentions that the center organizes about 500 projects a year
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.03170372129803056
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the rhino-manticism is considered to be the middle Rhine Valley. The passage emphasizes the valley's characteristics, such as the dominance of ginnocostal and puritan economic factors, and
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.37354750238979995
+
+Question: What effect does European Union law have on laws of member states?
+Response: The primary focus of the primary law of the European Union (EU) is the treaties established that form the constitutional basis of the EU. These treaties set the objectives and principles that guide the EU's functioning and co
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.30445223879390426
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The transcription provided seems to discuss concepts related to number theory and computational complexity rather than formal mathematics. The term 'formality' as used in the transcription does not correspond to a commonly recognized property in mathematical formalism or number theory. However
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.3096817349569613
+
+Question: An MSP may introduce a bill as what?
+Response: Bills in the Scottish Parliament can be introduced through various channels and undergo multiple stages before becoming law. Initially, the Scottish Government, which includes the Cabinet and the First Minister, has the authority to propose new legislation and amendments
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.20598016051101276
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Oxygen gas can be produced through electrolysis of water, a process where water (H2O) is split into its constituent elements, hydrogen (H2) and oxygen (O2). This method requires electric
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.5795843167908008
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In the given information, it's mentioned that for every 100 females, there are 94.1 males. To find out how many more males are there to live with for every 100 females, you would
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.3558083673537976
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: Based on the given transcription, it appears there may be some confusion with the names and historical references, as the term "Monkey Kong" does not correspond to a known historical figure or event. It's possible that there's
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.11004341103510473
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The transcription you provided seems to be describing an algorithm for testing the primality of a given integer n, using a method that can be thought of as an early form of the "trial division" technique. Here's a detailed
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.24056388137125384
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The transcription discusses various chemical barriers and substances that protect against infections and ingested catheteric agents (likely a typographical error for "catheter" which usually refers to a tube inserted into the body,
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3776175912882087
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Newborn infants are born with a high level of maternal antibodies due to the transfer of AIDS (antibodies) from mother to baby during pregnancy. These antibodies provide protection against
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.4116206867002402
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The popular flowing destination for the Octavians is the Tracton Garden, which is the first Tracton Garden of the Tractobians. It is a park that covers 75 hectares and has a unique character and history
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3413260070265183
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The specific details provided in the transcription refer to the development of a river system in the Upper Rhine-Bravins region. This river system, which was under observation at a certain point in time, continued northward and came to be
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.3844705354102771
+
+Question: Who discovered this and where did they come from?
+Response: The development of "fitter soil" in the Amazon rainforest region facilitated agriculture and servicopter (presumably a typo for "service sectors") in an environment that was previously thought to be inhospitable.
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.09951035004493936
+
+Question: Who develped the theory of relativity?
+Response: The passage discusses the philosophical and scientific understanding of force in relation to motion and its implications on our comprehension of physics. The authors suggest that there has historically been a significant misunderstanding of the true nature of force, particularly in regards
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The transcription appears to be discussing the abundance and significance of oxygen in various biomolecules. Oxygen is a crucial element in many biological molecules and is particularly relevant for the structure and function of fats
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.41179589464948196
+
+Question: In what year was the Interstate Highway System created?
+Response: Based on the transcription provided, it appears there was a strategic decision made in the 1950s to construct what is now known as Interstate 5 along the west side of the Central Valley. This decision was influenced by the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: Stratification in geology refers to the layering that occurs in sedimentary rocks. This layering is typically caused by the different periods of sediment deposition over time, with each layer representing a specific period in Earth's history.
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.45990295351702704
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The transcription provided discusses the principle of vector addition in the context of forces acting on a particle. When multiple forces act on a point particle, these forces can be represented as vectors due to their magnitude and direction. Vector addition is used to combine
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Based on the provided transcription, which seems to describe a complex biological interaction involving T-cells, vitamin B, steroid hormones, and various cellular receptors, let's clarify the information and address
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.24495163714865087
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: Based on the provided transcription, it appears that there are elements of poetry or metaphoric language being used to describe geographical and directional concepts. The text does not give a straightforward answer about the direction in which people with the
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0
+
+Question: Levels of what things are used to determine emission factors?
+Response: The information provided appears to be related to various environmental and climate change initiatives led by the Intergovernmental Panel on Climate Change (IPCC) Panel Process (ICPP) and the United Nations System for Climate Change
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.3800274804415237
+
+Question: Why does competition among workers drive down wages?
+Response: The competition among workers for jobs, particularly those with lower demand or expendable nature, tends to drive down wages. This phenomenon can be attributed to several factors. Firstly, in jobs that are considered "weirder" or less
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.4272166579999004
+
+Question: What put a hierarchical structure in place?
+Response: A hierarchical structure in the context of the transcription would imply an organizational setup where individuals or roles are arranged based on levels of authority or importance. This structure typically follows a top-down approach, where there is a clear line of command
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.031345060616065124
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The immune response is a complex defense mechanism that identifies and neutralizes foreign pathogens, including microorganisms or toxins, when they enter an organism. The system can be triggered by pattern recognition, wherein it identifies
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.37584197552670795
+

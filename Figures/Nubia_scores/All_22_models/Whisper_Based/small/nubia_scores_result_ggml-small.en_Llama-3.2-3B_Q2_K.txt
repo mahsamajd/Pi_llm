@@ -1,0 +1,140 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium was the StubHub center in Los Angeles. This stadium was originally built as a soccer stadium, but it was also used for other events like concerts and professional wrestling. The name of the team was the LA Galaxy and Chivas
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.21645977571678465
+
+Question: How many items is the University Library home to?
+Response: The total number of items in the University Library is 2,096,039. [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.31187188797448084
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: It was the middle Miocene. The climate of the middle Miocene was cool, which
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.07911224300010744
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1995. The purpose of the Scottish Constitutional Convention was to provide a structure for the Scottish Parliament. It provided the blueprint for devolution. The Convention provided the basis of the structure of the Parliament. It was
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.08398065799485355
+
+Question: What substance is used to make high quality liquid O2?
+Response: The following answer will be used in the next answer. Make sure your response fully addresses the information given:
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.15614261278917563
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars worked for the European Empire. The people of these climates were believed to be in need of guidance and intervention from the European Empire to aid in the governing of a more evolved social structure. They were seen as incapable of such a feat.
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.002090322935276556
+
+Question: What makes energy changes in a closed system?
+Response: The second law of thermodynamics states that non-conservative forces change from ordered to
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.12057620930643309
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Transcription: Context - Active immunity is acquired following infection by activation
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.06626874530071514
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: None for now. [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.12872976372026212
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The right to create private schools in Germany is in Article 7. Paragraph 4 of the Grundgazettes cannot be suspended even in a state of emergency. It is also not possible to abolish these rights. This unusual protection of private schools was
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.0
+
+Question: How many prime numbers exist?
+Response: The prime number theorem, proved at the end of the 19th century, is that the probability that a given, randomly chosen number n is prime is inversely proportional to its number of digits, or to the logarithm of n, how many
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.046677876830784615
+
+Question: Where is the famous rock the Rhine flows around?
+Response: Sankh-Gorshausen
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.45550735797832553
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The following answer is to the following.
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.08712632636019624
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.2477844634366575
+
+Question: How many projects does the Centre currently realize a year?
+Response: The center for contemporary art is currently housed in Ujasdao castle. The center currently realizes about 500 projects a year. [end of text]
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.39396274006333876
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law is a body of treaties and legislation, such as regulations and directives, which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law, and supplementary law
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5081610653955297
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is a piece of legislation that is intended to be adopted by the Scottish Parliament. The Scottish Parliament can introduce new laws or amendments to existing laws as a bill. A committee of the Parliament can present a bill in one of the areas under its
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.06689407248741819
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Based on the information given, this is a description of a hydrogen and oxygen generator. As a matter of fact, it is an electrolytic generator.
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.42635251152541553
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: The most basic method of checking the primality of a given integer n is called trial division.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.1143228162115496
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: I am a bacteriophage, the only member of my family who did not die from disease during the pandemic, because I was the first of the virus. I am the only member of my family who did not die from disease during the pandemic,
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.14288966345670184
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States (TOP40) and also a list the largest global firms (top 250) by amount of work
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5056341323454074
+
+Question: Who discovered this and where did they come from?
+Response: The development of this fertile soil allowed agriculture and silviculture in the previously
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06055356881329843
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The element is found in almost all biomolecules that are important to life. Only a few common
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.08842372224510475
+
+Question: What is stratigraphy?
+Response: Stratigraphy, the study of sedimentary layers, is a branch of geology that involves studying the
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.34364572481956823
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The Rhine River originates in the northwestern European Alps, in the Swiss Alps. It flows down through
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.14759330448312713
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is an intergovernmental panel, which works under the UNFCCC process, to determine the emission factor of a particular activity. It concentrates on the tasks allotted to it by the UNFCCC process, and other activities that support the UN
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4321037280265012
+
+Question: Why does competition among workers drive down wages?
+Response: Based on the following transcription, provide a detailed and specific answer.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.3366908385382942
+
+Question: What put a hierarchical structure in place?
+Response: The answer is that the role of the pharmacist in Japanese society was
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0712888412643925
+

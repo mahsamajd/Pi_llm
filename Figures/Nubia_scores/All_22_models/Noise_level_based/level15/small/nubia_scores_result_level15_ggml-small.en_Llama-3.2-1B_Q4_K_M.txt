@@ -1,0 +1,130 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The name of the stadium was the Home Depot Center [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.14389330335851092
+
+Question: How many items is the University Library home to?
+Response: 2.3 million
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.4477849870980175
+
+Question: What substance is used to make high quality liquid O2?
+Response: [end of text]
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.4622821482094578
+
+Question: Who did the geographic scholars work for?
+Response: [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.43274956385416696
+
+Question: What makes energy changes in a closed system?
+Response: Non-conservative forces necessarily result in energy transformations within closed systems from, order to more random conditions of entropy in secret. [end of text]
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.18403202385794803
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: C-cells [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.45706964788382043
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The reduction is polynomial because squaring can be reduced to multiplication. If squaring can be reduced to multiplication, then squaring can be reduced to multiplication, multiplication can be reduced to multiplication, multiplication can be reduced to multiplication, multiplication can be reduced to
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.2358966031122387
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In Germany, the right to establish private schools has been recognized since the Federal Constitutional Court of Germany (Bundesverfassungsgericht) ruled in 1993 that the right to establish private schools is constitutional, since private schools are an
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.19011517554776924
+
+Question: How many prime numbers exist?
+Response: The number of times between 100 and 10,000 is 10,000-100=9000 times. [end of text]
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.19940178176819323
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The famous rock that the Rhine flows around is the Rhine Gorge between Ludicin and Rhine in Cobland, which is listed as a UNESCO World Heritage Site. Near St. George's housing, the Rhine flows around the famous
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.31124981557206655
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: Memrioxic is an example of a cephalopod. Cephalopods are a group of animals that have no brain. Instead, the cephalon is the brain of the cephalopod. Cephalon is the
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.3699478853317092
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine area is a UNESCO World Heritage Site. The Rhine gorge is listed as a UNESCO World Heritage Site. The Rhine is a major river in Germany, flowing through the German states of Rhineland-Palatinate, Saar
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.47582661183862096
+
+Question: What effect does European Union law have on laws of member states?
+Response: The three sources of European Union law are primary law, secondary law and supplementary law. The main sources of primary law are the treaties establishing the European Union. Secondary sources include regulations and directives, which are based on the treaties. The legislature of the European
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.4412062468839124
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS Formality Test. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.47153369001862644
+
+Question: An MSP may introduce a bill as what?
+Response: A [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14324371489486698
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The molecular formula of water is H2O. If the 2 to 1 ratio of hydrogen and oxygen is observed in the
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.18114116490008558
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 4. The trial divisions are by n equals 2, 3, 4, 5, and 6. None of these numbers divides 37. So 37 is prime. This routine can be implemented more efficiently with a complete
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.11484106179846743
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The answer is that stomach acid kills ingested pathogens. It is also a chemical barrier against infection. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3506530399864517
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The answer is A. Passive immunity is antibody-rich serum that is transferred from an individual to a fetus or infant to protect them from a certain disease or condition. [end of text]
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.41459348668690976
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Sisinshi Palace Garden is a popular strolling destination to the Barstovian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.14200650669359494
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Lower Rhine River and the Baymuth River are the first river systems to form the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.09034621049140967
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates, proteins, and lipids [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.11538046402545787
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a field in geology that deals with the layers of sedimentary rocks on Earth. It includes studies of the stratigraphy of the surface of Earth, including rocks and minerals. It also includes studies of the geology of the Earth’s
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.13195264860595923
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: 1. The first two thirds of the water flow is in the west, as it comes from the west, passing through the walls, and then, near the merid and new merid, to these spots, merging with the mues,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.0640404627869754
+
+Question: Why does competition among workers drive down wages?
+Response: In an economy where there are many workers willing to work a large amount of time, the supply of labor is high and the wage is low. This leads to a wage that is below the market level. This is because the wage is below the market
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7249733249761623
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure was one of the main reasons for the success of the Japanese pharmaceutical industry. As a result of a hierarchical structure, pharmacists had a high reputation and were highly respected by the people. In addition, the people had a high level of
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

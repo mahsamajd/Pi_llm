@@ -1,0 +1,110 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are not funded by taxation. They are funded by tuition, which is collected by the state. Private schools are not funded by taxation. They are funded by tuition, which is collected by the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.7083814622273973
+
+Question: What is the French name for the Rhine?
+Response: Reno. Latin Reno. Note 3. The spelling with rh in English, rhyme as well as in German, rhyme and
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.08115152892130362
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: 1. The process of vaccination is to introduce an antigen from the pathogen in order to
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.2859419785756093
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: *
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.10757650772796923
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The Rhine Gorge is a natural area of the Rhine River. It is a natural area of the Rhine River. The Rhine Gorge is a natural area of the Rhine River. The Rhine Gorge is a natural area
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.3672491423699755
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The superheater is a device that is used to raise the temperature of the steam above its saturated vapor point. The superheater is a device that is used to raise the temperature of the steam above its saturated vapor
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.1847057692102112
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immuno-plopiomics is the study of large sets of proteins, proteomics, involved in the immune response. Question, what is the field of studying immunogenicity through bioinformatics known
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.43040967887128256
+
+Question: The average contractor hired how many employees?
+Response: The industry in 2014 has around $960 billion in annual revenue according to Statistics Track 5. The Census Bureau, of which $680 billion is private, split evenly between residential and
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.13953059790529754
+
+Question: An MSP may introduce a bill as what?
+Response: A bill is a bill that is introduced by a minister in the governing party. A bill is a bill that is introduced by a minister in the governing party. A bill is a bill that is introduced by a minister in the governing party
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.14131206439386512
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongol army invaded southern China in 1256. The Mongols were defeated in the Battle of the Yellow River in 1259. The Mongols were defeated in the Battle of the Yellow River in
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.5436429251162553
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: 1. 37
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5708199834157218
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: 1. lysozyme
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.37733167424999936
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: Passive immunity is a type of immunity that is passed from one person to another.
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.21692930588947523
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Transcription: Context. Engineering news record, ENR, is a trade magazine for the construction industry.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.07820700471696096
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine grabbing is the main element of the rift system in southwest Germany. The main elements of the rift system in the alpine orogeny in southwest Germany are the Upper Rhine grabbing, the
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.6017456215277399
+
+Question: Who discovered this and where did they come from?
+Response: The Xingu tribe, who lived in the region of the Xingu tribe, discovered the remains of these roads and clogs in 2003. They were found in the middle of the Amazon forest. They were found in the middle of
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.1921347739393794
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: 1. Carbohydrates
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.43674060664521464
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule of vector addition is used to determine the magnitude of the resultant vector. The magnitude of the resultant varies from the difference of the magnitudes of the two forces here. There's some, depending on the
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3893744354446095
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: Transcription: context. When a T cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.12374719726378491
+
+Question: Levels of what things are used to determine emission factors?
+Response: The IPCC is responsible for the preparation of the assessment reports. The IPCC is also responsible for the publication of the default emission factors. The IPCC is also responsible for the Data Distribution Center and the National Greenhouse Gas Inventories
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5078357723323963
+
+Question: Why does competition among workers drive down wages?
+Response: 1. The competition among workers tends to drive down wages due to the nature of the job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.19495353226038648
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacists were the most respected physicians in society. They were the most senior physicians in the pre-hyen interior court. They were the most senior physicians in the pre-hyen interior court. They were the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.39250708366576537
+

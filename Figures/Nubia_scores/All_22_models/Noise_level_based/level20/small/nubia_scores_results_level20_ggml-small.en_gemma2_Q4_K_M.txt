@@ -1,0 +1,110 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The stadium was the StubHub Center. [end of text]
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.1583317449589592
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Public schools receive the bulk of their funding from the government.
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.10523579016941131
+
+Question: When was the Scottish Constitutional Convention held?
+Response: [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.14216689575710706
+
+Question: What makes energy changes in a closed system?
+Response: When a closed system is exposed to non-conservative forces, the internal energy of the system
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.2500658358263771
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: An antigen from the pathogen is introduced. [end of text]
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.11035724827006876
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The polynomial time reduction to squaring can ultimately be logically reduced to multiplication. The reason for this is that we can reduce squaring to multiplication by giving the same input to both inputs of the multiplication algorithm. In order to do this, we need to
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.08868410775326474
+
+Question: How many prime numbers exist?
+Response: Probability distribution of primes, number of primes, primes, probability of a number being a prime, prime number theorem,
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.44782869791985347
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Immunoinformatics [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.10075167396562357
+
+Question: The average contractor hired how many employees?
+Response: In the United States, the industry in 2014 has around $960 billion in annual revenue
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.10011725175434083
+
+Question: How many projects does the Centre currently realize a year?
+Response: 17th-century Royal Leaguesdale Castle currently houses centers for contemporary art
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.06510983409527915
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The epitome of the Rhine Romanticism refers to the Middle Rhine Valley. It is located along the
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.27655429372451
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The name of the algorithm is trial division. [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.14039451764642707
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The Mongols entered southern China in 1255 and launched a series of invasions from 1256 to 1258. In 1260, Kublai Khan, the Great Kong of the Mongol Empire,
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.3905460953472091
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: ENR, is a trade magazine for the construction industry. [end of text]
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.09107771193322711
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: - Upper Rhine Grabbing
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.24196764666655146
+
+Question: Who discovered this and where did they come from?
+Response: Michael Heckenberger and colleagues from the University of Florida found Cara Prata. The road was
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.06413582867697132
+
+Question: Who develped the theory of relativity?
+Response: Isaac Newton [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.0689082096903405
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: Carbohydrates, fats, fatty acids, amino acids, and proteins contain oxygen, the greatest proportion by mass of the biomolecule. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.4190489187375518
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The net force acting on an extended body can be determined by specifying the direction
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.0905361314578701
+
+Question: Levels of what things are used to determine emission factors?
+Response: The ICCC also contributes to the development of databases for monitoring and reporting inventories.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.0974565034338587
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchy was put in place by the Keiho Code and the Euro Code. These codes were based on the teachings of the Tenjin school. The Tenjin school was a Japanese school of Buddhism that taught that the best way to reach enlightenment was to
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.017534672978986143
+

@@ -1,0 +1,235 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The first state of the club soccer team in Los Angeles, the second state of the club soccer team in Los Angeles, the third state of the club soccer team in Los Angeles, the fourth state of the club soccer team in Los Angeles, the fifth
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.08878842738248882
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: The following transcription is provided for the following question: What is the difference between a private school and a public school?
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.21875747537097923
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: The crisis had a major impact on leading us to our relations and created a risk that they made out of.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.06559712350009217
+
+Question: How many items is the University Library home to?
+Response: The University Library is home to more than 3,500,000 items.The University Library is home to more than 3,500,000 items. The University Library is home to more than 3,500,000 items. The
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.8488338920233621
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The last of the dinosaurs and the letter "time" near the last of the nations here.
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.06206298733800453
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The last 1980s, in 1990s, the most part of the island is here. In fact, you touched the government of the United Kingdom that's been told by the conservative party. While fighting with self-elective rights is
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.0
+
+Question: What substance is used to make high quality liquid O2?
+Response: The answer is 90.20. Minus 180.25. 95 degrees Celsius. Minus 180.21 degrees Celsius. In 3.66.36.9. Minus 180.7.9 degrees Celsius.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.1492149378504748
+
+Question: Who did the geographic scholars work for?
+Response: The public is a geographic power and a climate-based environment. The world should be safe and a climatic zone. These colors will use a northern year and the middle range of complex climate, reducing. I agree with you. More. Enough family women
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.02091578391896276
+
+Question: What makes energy changes in a closed system?
+Response: In the often associated with a transfer of heat to the surface.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.06415103787653531
+
+Question: What is the French name for the Rhine?
+Response: The name of the moon is the name of the moon. The name of the moon is the name of the moon. The name of the moon is the name of the moon. The name of the moon is the name of the moon. The name
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1432742690679656
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: The immune system is a system that protects the body from disease and infection. It is made up of a variety of cells, tissues, and organs that work together to fight off invaders. The immune system is made up of two main parts: the innate
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5222111835047127
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The United States is the largest few of cities in the United States island. In the United States island system that's created in the 1960s, the city is here in Brazil, where the city is now riverside and on the left side
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.18094120257376967
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The reduction of sharing can be done by giving the same reason to open the instance of the multiplication of the algorithm.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.11898091629993013
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: The 5th of the 5th students from the 5th students from the 5th students from the 5th students from the 5th students from the 5th students from the 5th students from the 5
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.4395941541895425
+
+Question: How many prime numbers exist?
+Response: There are no known simple formula except its prime numbers for some type of language.The district's root of prime, that is the same, the statistics that were written in the model.  The district's root of prime, that is the same
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.0010784252874096456
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The line is the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line of the line
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.048313722764167455
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The Black Sea is a body of water that is located in the southern part of the United States. It is a popular tourist destination and is known for its beautiful beaches and crystal clear waters. The Black Sea is also home to a variety of marine life
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.03722239433911001
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The other can play with an awesome presence.
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.06171274757698075
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The answer is a unit, and it's a unit in its application, and it's a unit in its application, and it's a unit in its application, and it's a unit in its application, and it's a unit in its application
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.11759539284595599
+
+Question: The average contractor hired how many employees?
+Response: The United States, we are about 60,000 times. 30,000 times. 30,000 times. 30,000 times. 30,000 times. 30,000 times. 30,000 times.
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.2764733154285385
+
+Question: How many projects does the Centre currently realize a year?
+Response: The seven-two-century world reaches that castle, turning up the standards of the center of the island. It's concerned living in temporary positions, concerts, stores and creative workshops. The center of the world is about five hundred projects a year. That's
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.0
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The dominant economic sector in the little winery, our dinner concert is here. The line there is between little time and line and children. The line stayed around between the cross world. You could stop standing on potential winery. The schools stay fine
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.0
+
+Question: What effect does European Union law have on laws of member states?
+Response: The sea beast is the sea beast and the sea beast is the sea beast and the sea beast is the sea beast and the sea beast is the sea beast and the sea beast is the sea beast and the sea beast is the sea beast and the sea
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.6942654605092087
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The finality of the smallest number is the finality of the smallest number.
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.20110598052265938
+
+Question: An MSP may introduce a bill as what?
+Response: The Scottish Government needs to introduce a greater wealth.The Scottish Government needs to introduce a greater wealth. The Scottish Government needs to introduce a greater wealth. The Scottish Government needs to introduce a greater wealth. The Scottish Government needs to introduce a greater wealth
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.11027584531042756
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: I think that's a good question. I think that's a good question. I think that's a good question. I think that's a good question. I think that's a good question. I think that's a good question. I think
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.36168200437377773
+
+Question: How many men older than 18 are there for every 100 women?
+Response: The country has a strange health. After, there is even 66,000 community-70,000 households have a great 11 per year for 7 years of data. Twenty-three-four years of 9 percent of households have made up a
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.051069025623223574
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The monster song remains familiar with his own song, then the train is found by his own in southern finding.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.06496509034720899
+
+Question: How many days did the Warsaw Uprising last?
+Response: The war style of London is the war style of the city of London.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.21436015807128228
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: In this case, if it's a crime, then indeed, it's a crime.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5962621494584521
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The chemical barrier is also detectable in infection. It's purely respiratory stress to keep the region of mycovial infection and to facilitate a tension.
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.07780835143401099
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The mother is scared of the mother, and the mother is scared of the mother, and the mother is scared of the mother, and the mother is scared of the mother, and the mother is scared of the mother, and the mother is scared of
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.6040875612658317
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The park is growing back to the nation because of slavery.
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.05862486973817349
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The US has been a very large company. In 2016, the US has been a very large company. In 2016, the US has been a very large company. In 2016, the US has been a very large company
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5527347807962797
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The ongoing outcome arises of the inner trick system to develop in this form. The main elements of this work are the upper-lying gravity. In southwest swimming, the eastern turn, and the lower-lying abeyment. In northwest swimming, in
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.23112418445103444
+
+Question: Who discovered this and where did they come from?
+Response: The University of Florida, where did they come from?
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.5432430559005401
+
+Question: Who develped the theory of relativity?
+Response: The period of relativity is a period of relativity that is a period of relativity that is a period of relativity that is a period of relativity that is a period of relativity that is a period of relativity that is a period
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.1536201108026446
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The answer is the ribbons of RNA and DNA.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.059809636112557185
+
+Question: In what year was the Interstate Highway System created?
+Response: The largest view of city is not directly east, nor native state island. In the eastern state island that's been most creative in the 1960s, the distinction is made to build what is now inter-state file from the west side of the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.0
+
+Question: What is stratigraphy?
+Response: The scientists make a number of fear, and they make a number of fear. The scientists make a number of fear, and they make a number of fear. The scientists make a number of fear, and they make a number of fear. The scientists
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.15416030364100042
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The amount of space that's used in a vision to determine that space is the amount of space that's used in a vision to determine that space is the amount of space that's used in a vision to determine that space is the amount of space that
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.10128527978181734
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: The fight on?
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.45227757683020053
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The new review is not a problem.
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.06359644445542179
+
+Question: Levels of what things are used to determine emission factors?
+Response: The action is to see consciousness with activity on the past, a lot of things like the relevant W&O receptacle.
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.07514238965010811
+
+Question: Why does competition among workers drive down wages?
+Response: Competition amongst horses, once you drive up the road, you could be the mutual of the job.
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.07998816102529205
+
+Question: What put a hierarchical structure in place?
+Response: The concept of the object area is the 5003, and you really are not a fool.
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.06760481121558726
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The original concept of "muscle" is a constant. The original concept of "muscle" is a constant. The original concept of "muscle" is a constant. The original concept of "muscle" is a constant. The original
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.5114079392328308
+

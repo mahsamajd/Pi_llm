@@ -1,0 +1,165 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are largely funded by tuition payments, and scholarships, tax credits, and other
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.3019502196291519
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: 18 January 1974 [end of text]
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.46831590389062927
+
+Question: How many items is the University Library home to?
+Response: 11,386,924.12 items [end of text]
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.09690018067143469
+
+Question: When was the Scottish Constitutional Convention held?
+Response: 1989 [end of text]
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.07549661345467618
+
+Question: What substance is used to make high quality liquid O2?
+Response: <blockquote>Liquefied oxygen is made using liquid nitrogen to keep the oxygen in the gaseous phase.
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.20126997170945338
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars work for the European empires. [end of text]
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.10877804306056216
+
+Question: What makes energy changes in a closed system?
+Response: The non-conservative forces that affect closed systems are the internal forces. They do not
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.10494524827302598
+
+Question: What is the French name for the Rhine?
+Response: The French name for the rhyme is Rin. [end of text]
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.1342148875775092
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: <strong>State Route 99.</strong> [end of text]
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.22870144769284784
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: * The right to create private schools in Germany is in Article 7.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.07085820947957033
+
+Question: How many prime numbers exist?
+Response: The first question is how many time numbers there are. To answer this question, I have to define a time number. A time number is a natural number written in the form of n x 10^n, where n is a nonnegative
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.09853901977437385
+
+Question: Where is the famous rock the Rhine flows around?
+Response: The answer to the above question is:
+Correct Answer: {'text': ['Sankt Goarshausen', 'Near Sankt Goarshausen', 'Lorelei'], 'answer_start': [187, 182, 245]}
+NUBIA Score: 0.12867688267498711
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Steam temperature above a saturated vapor point is achieved by superheater and reheaters. Superheater raises temperature above saturated steam. [end of text]
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.39346771971011574
+
+Question: The average contractor hired how many employees?
+Response: 5 [end of text]
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.16496780039289505
+
+Question: How many projects does the Centre currently realize a year?
+Response: I need to know the exact answers.
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.08547437578659167
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. The Middle Rhine Valley has been on the UNESCO World Heritage List since 2002. The Middle Rhine Valley is a river valley on the Rhine river in Rhineland
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4360872795658576
+
+Question: What effect does European Union law have on laws of member states?
+Response: There is no direct or indirect effect of European Union law on the laws of member states. The EU has no direct effect on national legislation because EU law can only be directly applicable in the European Union, whereas national law is directly applicable in all the
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.41705976010925705
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Miller-Rabin algorithm [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.49463401284610475
+
+Question: An MSP may introduce a bill as what?
+Response: A member of the Scottish Parliament can introduce a bill as a private member. [end of text]
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.3712328332909629
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: Electrolysis of water into molecular oxygen and hydrogen. DC electricity must be used. If AC is used, the gases in each limb consist of hydrogen and oxygen in the explosive ratio of 2 to 1. Contrary to popular belief, the
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.14620953401464254
+
+Question: How many men older than 18 are there for every 100 women?
+Response: 78.84% of all males aged 18 and over. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.10621200457659707
+
+Question: How many days did the Warsaw Uprising last?
+Response: 11 days [end of text]
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.064568901674662
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: m must be a prime. [end of text]
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5782349946886165
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Gastric acid and proteases serve as powerful chemical barriers against ingested pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.3069675328753738
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Raisinshi Park (formerly the Palace Park) is a popular strolling destination to the Barstovian. [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.18834620775789945
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of these structures was made by a team led by Michael Heckenberger and colleagues from the University of Florida in 2003. The structures were found in the middle of the Amazon rainforest, in the vicinity of the Shindu
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.3433796649448613
+
+Question: Who develped the theory of relativity?
+Response: Albert Einstein [end of text]
+Correct Answer: {'text': ['Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein', 'Einstein'], 'answer_start': [782, 782, 782, 782, 782, 782]}
+NUBIA Score: 0.11269870181822095
+
+Question: In what year was the Interstate Highway System created?
+Response: 1956 [end of text]
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.06812439308323415
+
+Question: What is stratigraphy?
+Response: Stratigraphy is a branch of geology that describes the origin and distribution of
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.22550647139534252
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: 1. When a T-cell encounters a foreign pathogen, it extends a vitamin B receptor.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.13018546826938548
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The answer is: The new mosque continues at the north, to form the new waterway, which branches off into the new waterway, and continues to the north sea. [end of text]
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.19094507606200473
+
+Question: Why does competition among workers drive down wages?
+Response: Competition between workers drives down the wages. This is because the workers in a job where there are many workers willing to work a large amount of time will result in a low wage for that job. This is because the competition amongst workers tends to drive down
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7291552207876162
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is the dominant system of host defense in most organisms' questions. Meaning it is the system of host defense against pathogens.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.2733333608163153
+

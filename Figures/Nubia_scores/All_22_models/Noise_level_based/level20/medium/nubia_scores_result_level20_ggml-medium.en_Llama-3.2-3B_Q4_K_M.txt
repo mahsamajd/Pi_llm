@@ -1,0 +1,185 @@
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools are not administered by local, state or national governments. Thus, they retain the right to select their students and are funded in whole or in part by charging their students’ tuition, rather than relying on mandatory taxation through public, government funding,
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.03726570380775929
+
+Question: On what date did Henry Kissinger negotiate an Israeli troop withdrawal from the Sinai Peninsula?
+Response: Henry Kissinger negotiated an Israeli troop withdrawal from the Sinai Peninsula on Jan. 18, 1974.
+Correct Answer: {'text': ['January 18, 1974,', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974', 'January 18, 1974'], 'answer_start': [519, 519, 519, 519, 519]}
+NUBIA Score: 0.3724223074074672
+
+Question: How many items is the University Library home to?
+Response: The University library is home to around 2 million items. This is because of the transcription given which says that the building was designed by architects Smerich Bejinsky and Zbigniew Badowski, and that it was opened on the
+Correct Answer: {'text': ['over two million', 'over two million', 'over two million'], 'answer_start': [80, 80, 80]}
+NUBIA Score: 0.44642596536766344
+
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: The Amazon rainforest was a narrow band of forests during the Oligocene period. The reason behind this is that during the Oligocene period, the rainforest had shrunk to a narrow band due to climate fluctuations. However, during this period
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.5488815198232895
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention was held in 1989. The convention was held to determine the structure of the Scottish Parliament. The convention was held to provide the basics for the structure of the Scottish Parliament.
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.12636491621542478
+
+Question: What substance is used to make high quality liquid O2?
+Response: The substance used to make high quality liquid oxygen is liquid nitrogen. Liquid nitrogen is produced by liquefying air at -195.78°C, -320.42°F. It is then cooled by surrounding it with a liquid. The liquid nitrogen is
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.47315020472615055
+
+Question: What makes energy changes in a closed system?
+Response: A closed system is a thermodynamic system that does not exchange matter with its surroundings.
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.11848195471452871
+
+Question: What is the French name for the Rhine?
+Response: The French name for the Rhine is Rhine. It is derived from the Gallic name Rhenos, which was adapted in Roman-era geography (1st century BC) as Greek Rhenos. Rhenos. Latin Rhenis
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.4491211763540416
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: A vaccine is an antigenic preparation that is usually administered to induce active immunity, i.e. long-term active memory is acquired following infection by activation of B and T cells
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.34337645428811303
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: Context is a key in a reduction. The most commonly used reduction is a polynomial time reduction.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.19389874437045485
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: In 1992, the percent of East German students attending private schools was 0.5%. [end of text]
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.3221242555506002
+
+Question: How many prime numbers exist?
+Response: The prime numbers are an infinite set of positive integers. The number of primes is unknown, but conjectures abound. Some conjectures have been proven, but none have been proven. The conjectures include the Riemann hypothesis, which is the most
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.19783010768265785
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The ctenophore Nemeopsis is one of the largest known organisms to have been accidentally introduced into the Black Sea. The ctenophore was accidentally introduced when it was in the cargo hold of an oil tanker. The ctenophore
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.14878629957475809
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: Answer: [end of text]
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.12026182819068854
+
+Question: The average contractor hired how many employees?
+Response: The average contractor hired 5.8 million employees. This question is based on the following passage. In the United States, the construction industry has an annual revenue of around $960 billion. Of this amount, $680 billion is private. The remaining
+Correct Answer: {'text': ['fewer than 10 employees', 'fewer than 10', 'fewer than 10'], 'answer_start': [434, 434, 434]}
+NUBIA Score: 0.3688460000903975
+
+Question: How many projects does the Centre currently realize a year?
+Response: The Centre for Contemporary Art currently realises about 500 projects a year. The 500 refers to the number of projects that the Centre realises a year. Projects refers to the projects that are realised a year. The Centre has an exhibition site that
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.1102814185921136
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley can be considered the epitome of the Rhine romanticism. The Middle Rhine Valley is the epitome of the Rhine romanticism because it is the perfect blend of beautiful scenery, historical landmarks, and rich cultural heritage
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.5998593724122266
+
+Question: What effect does European Union law have on laws of member states?
+Response: The European Union is a legal entity that has a body of laws and legislation, such as directives and regulations, that have direct effects on the laws of European Union member states. This is referred to as European Union law.
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5387411136405024
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: [end of text]
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.5014116198792506
+
+Question: An MSP may introduce a bill as what?
+Response: Context. Bills can be introduced to parliament in a number of ways. The Scottish government can
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.1861476574345028
+
+Question: How many men older than 18 are there for every 100 women?
+Response: In the city, 91.3 men were present for every 100 women. This means that for every 100 women, 91.3 men were present. This is because the question asked for the ratio between men and women. Therefore,
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.41993808155984913
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: [end of text]
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.36206845355782113
+
+Question: How many days did the Warsaw Uprising last?
+Response: The Warsaw Uprising lasted 63 days. The uprising began on August 1, 1944 and ended on October 2, 1944. This was the uprising that the Polish government in exile had ordered. However, the uprising was not
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.19858771749515314
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing trial division, the number m must be less than or equal to the square root of n. This is because if m is greater than the square root of n, then m can never be a factor of n. Therefore, the most efficient
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.49955096306336644
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: [end of text]
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.41767407215773944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: Engineering News Record (ENR) compiles and reports on data about the size of design and construction companies. It is a trade magazine for the construction industry and publishes a list of the largest companies in the United States (POP40) and also a
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.5085012724426277
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The Upper Rhine-Gravin, the Lower Rhine and the Baimen are elements from the rift system in the Alpine orogeny in southwest Germany. [end of text]
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.3121239120857503
+
+Question: Who discovered this and where did they come from?
+Response: The discovery of the Kara Prada site, which is distributed over large areas in the Amazon forest, is now widely accepted as the result of indigenous soil management. The development of this fertile soil allowed agriculture and silviculture in the previously hostile environment,
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.17561240944303258
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: In the complex biomolecules, such as squalene and the carotene. Contain no oxygen. [end of text]
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.09206843878321547
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate Highway System was created in the 1950s. This is the most recent year that the system was created, and the one that is most relevant for the context of the sentence. The system was created in 1956, but the
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.05654526084930678
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the study of sedimentary layers. Geologists study stratigraphy to understand how sedimentary layers formed and to decipher Earth history. Stratigraphy is an important method of geological investigation, which can be used in conjunction with other methods. In this
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.2508591894263007
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The parallelogram rule is used to determine the net force. The parallelogram rule is a
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.3891439805662208
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: A T cell extends a vitamin B receptor when it encounters a foreign pathogen. This is essentially a signaling device that allows the T cell to bind to the active form of vitamin B, the steroid hormone calcitriol. T cells have a symb
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.523089192298203
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The correct answer is that two-thirds of the Rhine flows west into the North Sea. In the Netherlands, the Rhine enters the North Sea at the mouth of the Meuse, a tributary of the Rhine. The Dutch name for
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.13446200480359383
+
+Question: Levels of what things are used to determine emission factors?
+Response: Context is the IPCC (Intergovernmental Panel on Climate Change) is a global body that was established in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP). Its main objective is to
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.4208192823287469
+
+Question: Why does competition among workers drive down wages?
+Response: The reason why competition among workers drives down wages is because there is a large supply of workers competing for a job. This competition results in a low demand for the job. As a result, the job will not pay a high wage. [end of text]
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.7061332883078992
+
+Question: What put a hierarchical structure in place?
+Response: The pharmacist’s place in society was defined and preserved by a code of ethics that was written in the 7th century AD and remained in place until the 19th century. The code stated that the pharmacist was to be the highest ranked health professional
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.0
+

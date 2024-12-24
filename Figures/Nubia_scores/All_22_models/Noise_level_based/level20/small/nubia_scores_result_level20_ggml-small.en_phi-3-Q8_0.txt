@@ -1,0 +1,175 @@
+Question: What was the name of the stadium that the teams played in?
+Response: The text does not provide explicit information about the name of the stadium where the LA Galaxy and Chivas USA teams played. It only mentions that they both played at a "subhub center" but doesn't specify the name of the
+Correct Answer: {'text': ['StubHub Center', 'the StubHub Center', 'StubHub Center'], 'answer_start': [132, 128, 132]}
+NUBIA Score: 0.4515812870472071
+
+Question: Rather than taxation, what are private schools largely funded by?
+Response: Private schools, also referred to as independent schools, non-governmental or non-state schools, are entities that do not fall under the administration of local, state, or national governments. Given their independent nature, these schools have the
+Correct Answer: {'text': ['tuition', 'charging their students tuition', 'tuition'], 'answer_start': [268, 244, 268]}
+NUBIA Score: 0.41866660063563244
+
+Question: When was the Scottish Constitutional Convention held?
+Response: The Scottish Constitutional Convention, also known as the Convention, was established in 1989. Its creation was a response to the growing demand for a Scottish Parliament, and it aimed to explore the possibility of devolution, which would
+Correct Answer: {'text': ['1989', '1989', '1989'], 'answer_start': [364, 364, 364]}
+NUBIA Score: 0.04714708043443905
+
+Question: What substance is used to make high quality liquid O2?
+Response: High-quality liquid Oxygen (O2) is typically produced by the fractional distillation of liquefied air. Fractional distillation is a separation process that takes advantage of the different boiling points of substances within
+Correct Answer: {'text': ['liquefied air', 'liquefied air', 'liquefied air', 'air', 'liquefied air'], 'answer_start': [384, 384, 384, 394, 384]}
+NUBIA Score: 0.5130375631878258
+
+Question: Who did the geographic scholars work for?
+Response: The geographic scholars mentioned in the transcription appear to have worked for European colonizing empires. They divided the world into various climatic zones and associated certain characteristics with those in tropical climates, believing them to be lazy, sex
+Correct Answer: {'text': ['colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires', 'colonizing empires'], 'answer_start': [39, 39, 39, 39, 39]}
+NUBIA Score: 0.3370623868889463
+
+Question: What makes energy changes in a closed system?
+Response: In a closed system, energy changes occur due to the action of non-conservative forces. These forces are capable of changing the internal energies of the system and are typically associated with the transfer of heat. According to the second law of therm
+Correct Answer: {'text': ['nonconservative forces', 'nonconservative forces', 'nonconservative forces', 'nonconservative forces'], 'answer_start': [361, 361, 361, 361]}
+NUBIA Score: 0.154679914895808
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: In the process of vaccination, an antigen from a pathogen is introduced in order to develop a specific immunity. This deliberate induction of an immune response aims to exploit the natural specificity of the immune system
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5361560100759608
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: The state route that has been in discussion to upgrade to interstate standards is State Route 99. The context provided indicates that due to the rapidly increasing population and traffic, there has been much discussion around the desirability of federal funding
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.5111578626702161
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: According to polynomial time reduction, squaring can ultimately be logically reduced to the problem of multiplying two integers. This is demonstrated by the fact that an algorithm for multiplying two integers can be employed to square an integer. This is achieved by
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.1556266849148552
+
+Question: How many prime numbers exist?
+Response: The transcription discusses the nature of prime numbers, asserting that there are infinitely many primes. This was demonstrated by Euclid around 300 BC. The transcription also mentions that there is no known simple formula that separ
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.3243185315685677
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: The pinafore that was accidentally introduced into the Black Sea is called 'memeopsis'. This invasive species has negatively impacted the local marine ecosystem by feeding on both fish larvae and other organisms,
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.27322693927615416
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: The component that raises the steam temperature above its saturated vapor point is known as a superheater. A superheater is a device that increases the heat content of the steam generated in a boiler. It does this by passing
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.08368323874061989
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: The field of studying immunogenicity through bioinformatics is known as immunoinformatics. This field combines principles from immunology and computational biology to understand and predict the immune response to various substances, including pe
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.44587533665553236
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley, which flows between Rudesheim and Rhine in Koblenz and includes the Rock Lorelei, is considered the epitome of Rhine Romanticism. This region is known for its outstanding architectural
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.4087855856756917
+
+Question: What effect does European Union law have on laws of member states?
+Response: European Union law has both direct and indirect effects on the laws of member states. Direct effects are immediate consequences that occur when the European Union law applies to individuals or companies within the member states. Indirect effects, on the other hand, involve
+Correct Answer: {'text': ['direct effect or indirect effect', 'direct effect or indirect effect on the laws of European Union member states', 'direct effect or indirect effect', 'direct effect or indirect effect'], 'answer_start': [105, 105, 105, 105]}
+NUBIA Score: 0.5070895376912479
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: The AKS formality test, which always produces the correct answer in polynomial time, is one algorithm useful for conveniently testing the formality of large numbers. This algorithm is known for being too slow to be practical, but it always provides the correct
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.43636987240323344
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP, which stands for Member of the Scottish Parliament, may introduce a bill as a private member's bill. Private members' bills are those that are not government bills and are proposed by individual Members of Parliament rather than by
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.21287080007761372
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: The transcription provided discusses various methods of oxygen gas production, but the specific question asked is "electrolysis of what can be used to produce oxygen and hydrogen?". Based on the given text, the answer is water
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.34232549357459907
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: The transcription does not mention a 'monkey pon' attacking the Song Dynasty. It speaks about Mongol invasions and civil wars, with a focus on Kublai Khan's challenges for the throne against his
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.22921865324650403
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: When performing trial division to check the proportionality of a given integer n, the integer m must be less than or equal to the square root of n. This method involves dividing n by each integer m that is greater than 1 and less than
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5178040195722736
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: The compounds in the stomach that protect against ingested pathogens include gastric acid and proteases. Gastric acid, which is primarily composed of hydrochloric acid, creates a highly acidic environment that can den
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.46387182936320825
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: The antibodies that are transported from the mother to an infant via the placenta is an example of passive immunity. Passive immunity is short-lived, typically lasting from a few days up to several months
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.5623576187452214
+
+Question: What is a popular strolling destination for the Varsovians?
+Response: The Csinsky Palace Garden is a popular strolling destination for the Varsovians. This park covers an area of 15.5 hectares and was formerly a royal garden. Over 100 different species of trees can
+Correct Answer: {'text': ['Krasiński Palace Garden', 'Krasiński Palace Garden', 'Krasiński Palace Garden'], 'answer_start': [579, 579, 579]}
+NUBIA Score: 0.3995155300384944
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: The construction industry trade magazine ENR (Engineering News-Record) compiles and reports on data about the size of design and construction companies. They publish a list of the largest companies in the United States, known as POT40, and
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.48955853553248374
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The element from the Rift Initiation (RIF) system in the alpine orogeny in southwest Germany, specifically mentioned in the transcription, is the Upper Rhine Grabbing. The Upper Rhine Grabbing
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.47750859526782186
+
+Question: Who discovered this and where did they come from?
+Response: Cara prata, also known as black herb, is a product of indigenous soil management that has been accepted widely. It is believed that the development of this fertile soil allowed agriculture and silviculture in the previously host
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.10310429595375448
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: According to the information provided, carbohydrates contain the largest proportion by mass of oxygen. This is due to the fact that carbohydrates have a high number of carbonyl groups, which are
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.5673423365610688
+
+Question: What is stratigraphy?
+Response: Stratigraphy is the branch of geology concerned with the study of rock layers (strata) and layering (stratification). It involves analyzing the sequence of strata to understand the chronological sequence of geological events and
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.5161232398161314
+
+Question: What geometric shape is used in equations to determine net force?
+Response: The geometric shape used in equations to determine the net force when two forces act on a point particle is a parallelogram. This is based on the parallelogram rule of vector addition. The two vectors representing the forces are positioned head
+Correct Answer: {'text': ['parallelogram', 'parallelogram', 'parallelogram', 'parallelogram', 'parallelogram'], 'answer_start': [506, 506, 413, 625, 413]}
+NUBIA Score: 0.2493310473914514
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: When a T-cell encounters a foreign pathogen, it extends a vitamin B receptor. This receptor acts as a signaling device that allows the T-cell to bind to the active form of vitamin B, specifically
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.507022870752533
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The transcription provided appears to contain a mix of geographical, cultural, and possibly historical references. However, there are several inaccuracies and nonsensical statements that need to be corrected or clarified. Here's a structured
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.1920734432788216
+
+Question: Levels of what things are used to determine emission factors?
+Response: In the context provided, the emission factors required under the UNFCCC involve levels of fuel consumption, industrial production, and other relevant factors that are used to estimate emissions. The Intergovernmental Panel on Climate Change (IP
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.5557157957834147
+
+Question: Why does competition among workers drive down wages?
+Response: Competition among workers drives down wages because when there is a high supply of workers willing to work for a particular job, employers have more options to choose from. As a result, employers can offer lower wages, knowing that
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.5352410672833561
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure in place for pharmacists and health-related professions in Japan during the Asta period (538 to 710) and the early Nara period (710 to 79
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.1926404235025394
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system responds in a non-specific manner. This means that it does not tailor its defense mechanisms to a particular pathogen, but rather provides a generic defense against a wide range of pathogens. It doesn
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3286829573249207
+

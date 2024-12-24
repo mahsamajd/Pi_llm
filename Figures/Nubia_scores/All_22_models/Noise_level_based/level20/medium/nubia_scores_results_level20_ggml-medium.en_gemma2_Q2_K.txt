@@ -1,0 +1,165 @@
+Question: During which period in history was the Amazon rainforest a narrow band of forest?
+Response: • The Amazon region is not a narrow band of forest, but a diverse region of tropical rain forest
+Correct Answer: {'text': ['Oligocene', 'Oligocene', 'Oligocene'], 'answer_start': [368, 368, 368]}
+NUBIA Score: 0.13669643415842203
+
+Question: What is the French name for the Rhine?
+Response: In 1492, the first and second notes are provided with the correct German and the correct Spanish, respectively, according to the
+Correct Answer: {'text': ['Rhin', 'Rhin', 'Rhin', 'Rhin', 'Rhin'], 'answer_start': [290, 290, 290, 290, 290]}
+NUBIA Score: 0.08952127974208945
+
+Question: In the process of vaccination, what is introduced in order to develop a specific immunity?
+Response: Vaccination represents the most effective manipulation of the immune system by man, so to answer the question, the vaccine must be an introduction of a vaccine, which is an infection-inducing agent, which will develop an immune system, and it is a process
+Correct Answer: {'text': ['an antigen from a pathogen', 'antigen', 'antigen from a pathogen'], 'answer_start': [237, 240, 240]}
+NUBIA Score: 0.5544147530807977
+
+Question: Which State Route has been in discussion to upgrade to interstate standards?
+Response: 1. Interstate 5:
+Correct Answer: {'text': ['99', 'State Route 99', 'State Route 99'], 'answer_start': [411, 330, 330]}
+NUBIA Score: 0.4058553688557507
+
+Question: According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Response: The problem of squaring an integer is a problem that has a reduction to a related problem.
+Correct Answer: {'text': ['multiplication', 'multiplication', 'multiplication'], 'answer_start': [392, 520, 520]}
+NUBIA Score: 0.28924487266045307
+
+Question: In 1992, what percentage of East German students attended private schools?
+Response: This article explains the function and uses of the private school in the 30s and 40s. The article explains how the function of the private schools changed in the 30s and 40s.
+Correct Answer: {'text': ['0.5', '0.5%', '6.1'], 'answer_start': [531, 531, 497]}
+NUBIA Score: 0.40388770362333004
+
+Question: How many prime numbers exist?
+Response: The first is based on the number of digits and the second on the number of factors, as well as on the number of prime factors.
+Correct Answer: {'text': ['infinitely many', 'infinitely', 'infinitely many', 'infinitely', 'infinitely many'], 'answer_start': [10, 10, 10, 10, 10]}
+NUBIA Score: 0.4070578845529069
+
+Question: What ctenophore was accidentally introduced into The Black Sea?
+Response: [end of text]
+Correct Answer: {'text': ['Mnemiopsis', 'Mnemiopsis', 'Mnemiopsis'], 'answer_start': [424, 424, 424]}
+NUBIA Score: 0.19150277883622158
+
+Question: What components raise steam temperature above its saturated vapor point?
+Response: Answer:
+Correct Answer: {'text': ['superheaters', 'superheaters', 'superheaters'], 'answer_start': [197, 197, 197]}
+NUBIA Score: 0.15750987008156248
+
+Question: What is the field of studying immunogenicity through bioinformatics known as?
+Response: This is a 2000-2005 study, which was conducted to generate a set of 2000-2005 immunogenomic-type peptides, which was used to validate the field of immunogen
+Correct Answer: {'text': ['immunoinformatics', 'immunoinformatics', 'immunoinformatics'], 'answer_start': [1238, 1238, 1238]}
+NUBIA Score: 0.30112825960426315
+
+Question: How many projects does the Centre currently realize a year?
+Response: I have a few problems with this:
+Correct Answer: {'text': ['about 500', '500', 'about 500'], 'answer_start': [201, 207, 201]}
+NUBIA Score: 0.08887851220718324
+
+Question: What is considered the epitome of the Rhine romanticism?
+Response: The Middle Rhine Valley is known as a region of the Upper Middle Rhine and a region of the Lower Middle Rhine, which is a region of the Lower Middle Rhine. The Upper Middle Rhine is an area of the Upper Middle Rhine and a region
+Correct Answer: {'text': ['Middle Rhine Valley', 'Middle Rhine Valley', 'Middle Rhine Valley'], 'answer_start': [442, 442, 442]}
+NUBIA Score: 0.09939608672954425
+
+Question: What is the name of one algorithm useful for conveniently testing the primality of large numbers?
+Response: Context:
+Correct Answer: {'text': ['the Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test', 'Miller–Rabin primality test'], 'answer_start': [359, 363, 363, 363, 363]}
+NUBIA Score: 0.4839800645300435
+
+Question: An MSP may introduce a bill as what?
+Response: An MSP (Members of the Scottish Parliament) may introduce a bill as:
+Correct Answer: {'text': ['a private member', 'a private member', 'private member'], 'answer_start': [294, 294, 296]}
+NUBIA Score: 0.28135621997399585
+
+Question: Electrolysis of what can be used to produce oxygen and hydrogen?
+Response: 100% of the air is a pure O2 gas. A 100% is an air separation technology involving a 100%
+Correct Answer: {'text': ['water', 'water', 'water', 'water'], 'answer_start': [56, 56, 56, 56]}
+NUBIA Score: 0.1177436419180855
+
+Question: How many men older than 18 are there for every 100 women?
+Response: Please explain the answer and specify. [end of text]
+Correct Answer: {'text': ['91.3', '91.3', '91.3'], 'answer_start': [769, 769, 769]}
+NUBIA Score: 0.058541383774843636
+
+Question: Where did Mongke Khan attack the Song dynasty?
+Response: 1. The Mongols would have been happy to see a good part of the world, and they would have been happy to see a good part of the world, and they would have been happy to see the Song dynasty.
+Correct Answer: {'text': ['southern China', 'southern China', 'in southern China'], 'answer_start': [78, 78, 75]}
+NUBIA Score: 0.11685487793971361
+
+Question: How many days did the Warsaw Uprising last?
+Response: First, they were not allowed to have the right to live out the remainder of the battle.
+Correct Answer: {'text': ['63 days', '63', '63 days'], 'answer_start': [519, 519, 519]}
+NUBIA Score: 0.10925699980021097
+
+Question: What must the integer m be less than or equal to when performing trial division?
+Response: First, m must be less than or equal to 10000.
+Correct Answer: {'text': ['less than or equal to the square root of n', 'the square root of n', 'square root of n', 'the square root of n.', 'the square root of n.'], 'answer_start': [176, 198, 202, 198, 198]}
+NUBIA Score: 0.5861741510991096
+
+Question: What compounds in the stomach protect against ingested pathogens?
+Response: Stomach protects against pathogens. [end of text]
+Correct Answer: {'text': ['gastric acid and proteases', 'gastric acid and proteases', 'gastric acid'], 'answer_start': [418, 418, 418]}
+NUBIA Score: 0.19126227633100779
+
+Question: Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?
+Response: An immune-protected, short-term, and easily-transportable, is a short-term, easily-
+Correct Answer: {'text': ['passive immunity', 'passive', 'passive immunity'], 'answer_start': [726, 726, 726]}
+NUBIA Score: 0.19933280371005047
+
+Question: What compiles and reports on data about the size of design and construction companies?
+Response: 1. The construction industry news and engineering news-record is a magazine that provides information on the size of construction and engineering companies.
+Correct Answer: {'text': ['ENR', 'Engineering News-Record (ENR)', 'Engineering News-Record (ENR)'], 'answer_start': [92, 0, 0]}
+NUBIA Score: 0.27815268040115193
+
+Question: What elements from the rift system in the Alpine orogeny in Southwest Germany?
+Response: The <i>Alpine orogeny</i> is a mountain-forming process of the <i>Alpine orogen</i>. The
+Correct Answer: {'text': ['Upper Rhine Graben', 'Upper Rhine Graben', 'Upper Rhine Graben'], 'answer_start': [141, 141, 141]}
+NUBIA Score: 0.15322553589024912
+
+Question: Who discovered this and where did they come from?
+Response: The research team, which included three graduate students, was able to look at the environment of the
+Correct Answer: {'text': ['Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida', 'Michael Heckenberger and colleagues of the University of Florida'], 'answer_start': [577, 577, 577]}
+NUBIA Score: 0.08508157179369769
+
+Question: Which organic compounds contain the greatest amount of oxygen by mass?
+Response: The most oxygen-containing compound is the biomolecule. The oxygen-containing compound is a protein.
+Correct Answer: {'text': ['carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates', 'carbohydrates'], 'answer_start': [241, 241, 241, 241, 241]}
+NUBIA Score: 0.17396194363901685
+
+Question: In what year was the Interstate Highway System created?
+Response: The Interstate 99 was created in 1955 as part of the Interstate 999, which is a route of the Interstate 999999999999999999
+Correct Answer: {'text': ['1950s', 'in the 1950s'], 'answer_start': [132, 125]}
+NUBIA Score: 0.22964138519432797
+
+Question: What is stratigraphy?
+Response: The study of geology, or the Earth, is a specialized branch of the scientific,
+Correct Answer: {'text': ['the study of sedimentary layers', 'study of sedimentary layers', 'the study of sedimentary layers'], 'answer_start': [298, 302, 298]}
+NUBIA Score: 0.1571333550374885
+
+Question: What does a T cell extend when it encounters a foreign pathogen?
+Response: T cells are a type of white blood cell that helps protect your body against foreign pathogens, such as viruses, bacteria and parasites.
+Correct Answer: {'text': ['a vitamin D receptor', 'extends a vitamin D receptor', 'vitamin D receptor'], 'answer_start': [56, 48, 58]}
+NUBIA Score: 0.34859254761073
+
+Question: Which direction does two thirds of the Rhine flow outside of Germany?
+Response: The first part of the answer was provided, as it was derived from the context of the question, in this case, this was the situation,
+Correct Answer: {'text': ['west', 'west', 'west'], 'answer_start': [186, 186, 186]}
+NUBIA Score: 0.2348988699559167
+
+Question: Levels of what things are used to determine emission factors?
+Response: -  Emission factors are a function of the number of industrial activities required for the production of goods or services and
+Correct Answer: {'text': ['fuel consumption, industrial production and so on', 'Greenhouse Gas Inventories', 'fuel consumption, industrial production and so on'], 'answer_start': [567, 375, 567]}
+NUBIA Score: 0.26277819398193847
+
+Question: Why does competition among workers drive down wages?
+Response: Because competition between workers drives down the wages. Because of the
+Correct Answer: {'text': ['expendable nature of the worker', '(high supply) competing for a job that few require (low demand)', 'the expendable nature of the worker in relation to his or her particular job'], 'answer_start': [384, 74, 380]}
+NUBIA Score: 0.4044049716374727
+
+Question: What put a hierarchical structure in place?
+Response: The hierarchical structure of the pharmaceutical profession was reinforced by the
+Correct Answer: {'text': ['the pre-Heian Imperial court', 'Taihō Code', 'pre-Heian Imperial court'], 'answer_start': [318, 243, 322]}
+NUBIA Score: 0.07621929545849915
+
+Question: The innate immune system responds in a generic way, meaning it is what?
+Response: The innate immune system is an immune system, which is not like the immune system, but has a system of cells that have been protected with a skin cell.
+Correct Answer: {'text': ['non-specific', 'non-specific', 'non-specific'], 'answer_start': [507, 507, 507]}
+NUBIA Score: 0.3209737438647158
+
