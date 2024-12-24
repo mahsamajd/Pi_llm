@@ -1,0 +1,28 @@
+Audio File: question_18.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established, earning Jacksonville the title of "Winter Film
+   Capital of the World". However, the emergence of Hollywood as a major film production center
+   ended the city's film industry. One converted movie studio site, Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville Silent Film Museum at Norman Studios' question.
+   Who was drawn to Jacksonville in the 1910s?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. In the 1910s, New York-based filmmakers were attracted to Jacksonville's warm climate,
+   exotic locations, excellent rail access, and cheap labor. Over the course of the decade,
+   more than 30 silent film studios were established, earning Jacksonville the title of "Winter Film
+   Capital of the World". However, the emergence of Hollywood as a major film production center
+   ended the city's film industry. One converted movie studio site, Norman Studios, remains in Arlington,
+   it has been converted to the Jacksonville Silent Film Museum at Norman Studios' question.
+   Who was drawn to Jacksonville in the 1910s?
+Answer:   Jacksonville's warm weather and proximity to the Atlantic Ocean made it an ideal location for
+   silent filmmaking. The city's location near the Atlantic made it easy to transport equipment
+   and equipment. The city's proxim
+Transcription Time: 11.22852 seconds
+Words per Second: 8.37154 WPS
+Inference Time: 7.03068 seconds
+Tokens per Second: 21.33505 TPS
+Overall Time: 18.25943
+Other Data Processing Time: 0.00022

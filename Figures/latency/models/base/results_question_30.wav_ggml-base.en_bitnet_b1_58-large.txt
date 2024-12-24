@@ -1,0 +1,32 @@
+Audio File: question_30.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while most internet pharmacies sell prescription drugs and require a valid prescription.
+   Some internet pharmacies sell prescription drugs without requiring a prescription.
+   Many customers order drugs from such pharmacies to avoid the inconvenience of visiting a doctor
+   or to obtain medications which their doctors were unwilling to prescribe.
+   However, this practice has been criticized as potentially dangerous, especially by those who
+   feel that only doctors can reliably assess contraindications, risk-benefit ratios,
+   and an individual's overall suitability for use of a medication.
+   There also have been reports of such pharmacies dispensing substandard products,
+   question. What practice do some internet pharmacies engage in?
+Answer:    Generally speaking, internet pharmacies do not dispense substandard products.
+   On the contrary, they offer quality pharmacies at a lower price.
+   They also offer a broad range of medications that can be purchased at
+Transcription Time: 15.45578 seconds
+Words per Second: 6.59947 WPS
+Inference Time: 7.44237 seconds
+Tokens per Second: 21.09542 TPS
+Overall Time: 22.89840
+Other Data Processing Time: 0.00024

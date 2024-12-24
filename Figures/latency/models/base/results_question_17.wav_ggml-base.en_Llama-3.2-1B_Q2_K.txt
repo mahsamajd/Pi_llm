@@ -1,0 +1,30 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, according to geographic scholars under colonizing empires. The world could be split
+   into climatic zones. These scholars believed that Northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being,
+   alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture,
+   and moral degeneracy. The people of these climates were believed to be in need of
+   guidance and intervention from the European Empire to aid in the governing of a more
+   evolved social structure. They were seen as incapable of such a feat. Similarly, Orientalism is a
+   view of a people based on their geographical location. Question, who did the geographic scholars work for?
+Answer:    They are often the geographical scholars who work for who.
+The geographical scholars who work for who was the case of the first country. In the first country, the geographical
+scholar who worked for who, with the aid of a man who lived
+Transcription Time: 15.28010 seconds
+Words per Second: 7.06802 WPS
+Inference Time: 19.12315 seconds
+Tokens per Second: 9.04663 TPS
+Overall Time: 34.40343
+Other Data Processing Time: 0.00018

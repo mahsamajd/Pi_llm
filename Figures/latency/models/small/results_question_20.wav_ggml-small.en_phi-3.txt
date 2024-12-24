@@ -1,0 +1,38 @@
+Audio File: question_20.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3.gguf
+Transcription:    Context Another important role of the immune system
+   is to identify and eliminate tumors. This is called immune surveillance.
+   The transformed cells of tumors express antigens that are not found on normal cells.
+   To the immune system, these antigens appear foreign,
+   and their presence causes immune cells to attack the transformed tumor cells.
+   The antigens expressed by tumors have several sources. Some are derived from oncogenic viruses
+   like human papillomavirus, which causes cervical cancer, while others are the organism's own
+   proteins that occur at low levels in normal cells but reach high levels in tumor cells.
+   One example is an enzyme called tyrosinase that, when expressed at high levels, transforms certain
+   skin cells (e.g. melanocytes) into tumors called melanomas. A third possible source
+   of tumor antigens are proteins normally important for regulating cell growth and survival,
+   that commonly mutate into cancer-inducing molecules called oncogenes.
+   Question. What is the process by which the immune system identifies tumors called?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context Another important role of the immune system
+   is to identify and eliminate tumors. This is called immune surveillance.
+   The transformed cells of tumors express antigens that are not found on normal cells.
+   To the immune system, these antigens appear foreign,
+   and their presence causes immune cells to attack the transformed tumor cells.
+   The antigens expressed by tumors have several sources. Some are derived from oncogenic viruses
+   like human papillomavirus, which causes cervical cancer, while others are the organism's own
+   proteins that occur at low levels in normal cells but reach high levels in tumor cells.
+   One example is an enzyme called tyrosinase that, when expressed at high levels, transforms certain
+   skin cells (e.g. melanocytes) into tumors called melanomas. A third possible source
+   of tumor antigens are proteins normally important for regulating cell growth and survival,
+   that commonly mutate into cancer-inducing molecules called oncogenes.
+   Question. What is the process by which the immune system identifies tumors called?
+Answer: The process by which the immune system identifies and eliminates tumors is called immune surveillance. This mechanism involves immune cells recognizing and attacking the transformed tumor cells because they express antigens that are not present in
+Transcription Time: 66.71299 seconds
+Words per Second: 2.35336 WPS
+Inference Time: 948.55356 seconds
+Tokens per Second: 0.22666 TPS
+Overall Time: 1015.26673
+Other Data Processing Time: 0.00018

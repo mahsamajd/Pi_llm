@@ -1,0 +1,30 @@
+Audio File: question_13.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B.gguf
+Transcription:    context, throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish Churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the basis
+   for the structure of the Parliament, question. When was the Scottish Constitutional Convention
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish Churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the basis
+   for the structure of the Parliament, question. When was the Scottish Constitutional Convention
+Answer:    The Scottish Constitutional Convention was a forum of representatives of churches, political parties,
+   trade unions and industry, which was convened on 14 June 1989, as a pressure group for devolution in Scotland.
+   It was the precursor of the
+Transcription Time: 9.43340 seconds
+Words per Second: 11.02466 WPS
+Inference Time: 1790.15766 seconds
+Tokens per Second: 0.09161 TPS
+Overall Time: 1799.59119
+Other Data Processing Time: 0.00013

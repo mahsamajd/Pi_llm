@@ -1,0 +1,32 @@
+Audio File: question_77.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich
+   Hayek. Meteorologist Ted Fujita, chemist's Glenn T. Seaborg, the developer of the Actenide
+   Concept and Nobel Prize winner Yuan T. Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline
+   of linguistics Edward. Sapper, and the founder of McKinsey & Company.
+   James O. McKinsey, question. What mathematician was also a part of the university's faculty?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Past faculty have also included Egyptologist James Henry Breasted.
+   Mathematician Alberto Calderon, Nobel Prize-winning economist and classical liberalism defender Friedrich
+   Hayek. Meteorologist Ted Fujita, chemist's Glenn T. Seaborg, the developer of the Actenide
+   Concept and Nobel Prize winner Yuan T. Lee, Nobel Prize-winning novelist Saul Bello.
+   Political philosopher and author Alan Bloom.
+   Cancer researchers Charles Brenton Huggins and Janet Rowley.
+   Astronomer Gerard Kuiper, one of the most important figures in the early development of the discipline
+   of linguistics Edward. Sapper, and the founder of McKinsey & Company.
+   James O. McKinsey, question. What mathematician was also a part of the university's faculty?
+Answer: 1. It seems that the only person mentioned who was not a faculty member was Glenn T. Seaborg.
+    2. This is because Seaborg was the director of the University of Chicago's Enrico Fermi
+        Institute
+Transcription Time: 12.19119 seconds
+Words per Second: 8.36670 WPS
+Inference Time: 50.64939 seconds
+Tokens per Second: 3.12 TPS
+Overall Time: 62.84076
+Other Data Processing Time: 0.00018

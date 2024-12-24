@@ -1,0 +1,33 @@
+Audio File: question_38.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. In 2005, parts of the Amazon basin experienced the worst drought in 100 years.
+   And there were indications that 2006 could have been a second successive year of drought.
+   A July 23, 2006 article in the UK newspaper The Independent reported Woods Hole Research
+   Centre results. Showing that the forest in its present form could survive only three years of
+   drought. Scientists at the Brazilian National Institute of Amazonian Research argue in the
+   article that this. Drought response, coupled with the effects of deforestation on regional climate,
+   are pushing the rainforest towards a tipping point where it would irreversibly start to die.
+   It concludes that the forest is on the brink of being turned into savannah or desert.
+   With catastrophic consequences for the world's climate, question. What organisation
+   predicted that the Amazon forest could survive only three years of drought?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. In 2005, parts of the Amazon basin experienced the worst drought in 100 years.
+   And there were indications that 2006 could have been a second successive year of drought.
+   A July 23, 2006 article in the UK newspaper The Independent reported Woods Hole Research
+   Centre results. Showing that the forest in its present form could survive only three years of
+   drought. Scientists at the Brazilian National Institute of Amazonian Research argue in the
+   article that this. Drought response, coupled with the effects of deforestation on regional climate,
+   are pushing the rainforest towards a tipping point where it would irreversibly start to die.
+   It concludes that the forest is on the brink of being turned into savannah or desert.
+   With catastrophic consequences for the world's climate, question. What organisation
+   predicted that the Amazon forest could survive only three years of drought?
+Answer: The organisation that predicted that the Amazon forest could survive only three years of drought
+is the Woods Hole Research Centre. [end of text]
+Transcription Time: 48.49243 seconds
+Words per Second: 2.90767 WPS
+Inference Time: 530.78906 seconds
+Tokens per Second: 0.35231 TPS
+Overall Time: 579.28178
+Other Data Processing Time: 0.00029

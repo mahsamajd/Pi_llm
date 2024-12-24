@@ -1,0 +1,30 @@
+Audio File: question_86.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B.gguf
+Transcription:    context. Western medicine was also practiced in China by the Nestorian Christians of the Yuan
+   Court. Where it was sometimes labeled as Wei Wei or Muslim medicine, the Nestorian physician
+   Jesus the interpreter founded the Office of Western Medicine in 1263 during.
+   The reign of Kublai, Wei Wei doctors staffed at two Imperial hospitals were responsible for
+   treating the Imperial family. And members of the court, Chinese physicians opposed Western
+   medicine because its humeral system contradicted the Yin Yang. And Wuxing philosophy underlying
+   traditional Chinese medicine. No Chinese translation of Western medical works is known,
+   but it is possible that the Chinese had access to Avocenas the canon of medicine,
+   Question Who founded the Office of Western Medicine?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. Western medicine was also practiced in China by the Nestorian Christians of the Yuan
+   Court. Where it was sometimes labeled as Wei Wei or Muslim medicine, the Nestorian physician
+   Jesus the interpreter founded the Office of Western Medicine in 1263 during.
+   The reign of Kublai, Wei Wei doctors staffed at two Imperial hospitals were responsible for
+   treating the Imperial family. And members of the court, Chinese physicians opposed Western
+   medicine because its humeral system contradicted the Yin Yang. And Wuxing philosophy underlying
+   traditional Chinese medicine. No Chinese translation of Western medical works is known,
+   but it is possible that the Chinese had access to Avocenas the canon of medicine,
+   Question Who founded the Office of Western Medicine?
+Answer: Jesus the interpreter founded the Office of Western Medicine. [end of text]
+Transcription Time: 12.64410 seconds
+Words per Second: 9.33241 WPS
+Inference Time: 503.12696 seconds
+Tokens per Second: 0.30211 TPS
+Overall Time: 515.77118
+Other Data Processing Time: 0.00012

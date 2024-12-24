@@ -1,0 +1,26 @@
+Audio File: question_43.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B_Q4_K_M.gguf
+Transcription:    Context. Other components are often present. Pumps, such as an injector, to supply water to
+   the boiler during operation; condensers to recirculate the water and recover the latent
+   heat of vaporization; and superheaters to raise the temperature of the steam above its saturated
+   vapor point; and various mechanisms to increase the draft for fireboxes. When coal is used,
+   a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel
+   from a supply bin/bunker to the firebox.
+   C. Mechanical stoker question. What components raise steam temperature above its saturated vapor
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Other components are often present. Pumps, such as an injector, to supply water to
+   the boiler during operation; condensers to recirculate the water and recover the latent
+   heat of vaporization; and superheaters to raise the temperature of the steam above its saturated
+   vapor point; and various mechanisms to increase the draft for fireboxes. When coal is used,
+   a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel
+   from a supply bin/bunker to the firebox.
+   C. Mechanical stoker question. What components raise steam temperature above its saturated vapor
+Answer: There are many different components that contribute to the temperature of steam in a boiler. One of these components is the superheater. The superheater is a device that is used to increase the temperature of the steam after it has been heated in the
+Transcription Time: 100.49431 seconds
+Words per Second: 0.96523 WPS
+Inference Time: 47.71044 seconds
+Tokens per Second: 3.42 TPS
+Overall Time: 148.20493
+Other Data Processing Time: 0.00018

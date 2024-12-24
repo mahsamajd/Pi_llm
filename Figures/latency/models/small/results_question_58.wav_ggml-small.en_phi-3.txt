@@ -1,0 +1,40 @@
+Audio File: question_58.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3.gguf
+Transcription:    context. Oxygen gas can also be produced through electrolysis of water into molecular oxygen and
+   hydrogen. DC electricity must be used. If AC is used, the gases in each limb consist of hydrogen
+   and oxygen in the explosive ratio 2 to 1. Contrary to popular belief, the 2 to 1 ratio
+   observed in the DC electrolysis of acidified water does not prove that the empirical
+   formula of water is H2O unless certain assumptions are made about the molecular
+   formulae of hydrogen and oxygen themselves. A similar method is the electrocatalytic O2
+   evolution from oxides and oxoacids. Chemical catalysts can be used as well, such as in chemical
+   oxygen generators or oxygen candles that are used as part of the life support equipment on submarines
+   and are still part of standard equipment on commercial airliners in case of depressurization.
+   Emergencies. Another air separation technology involves forcing air to dissolve through
+   ceramic membranes based on zirconium dioxide by either high pressure or an electric current
+   to produce nearly pure O2 gas. Question. Electrolysis of what can be used to produce
+   oxygen and hydrogen.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context. Oxygen gas can also be produced through electrolysis of water into molecular oxygen and
+   hydrogen. DC electricity must be used. If AC is used, the gases in each limb consist of hydrogen
+   and oxygen in the explosive ratio 2 to 1. Contrary to popular belief, the 2 to 1 ratio
+   observed in the DC electrolysis of acidified water does not prove that the empirical
+   formula of water is H2O unless certain assumptions are made about the molecular
+   formulae of hydrogen and oxygen themselves. A similar method is the electrocatalytic O2
+   evolution from oxides and oxoacids. Chemical catalysts can be used as well, such as in chemical
+   oxygen generators or oxygen candles that are used as part of the life support equipment on submarines
+   and are still part of standard equipment on commercial airliners in case of depressurization.
+   Emergencies. Another air separation technology involves forcing air to dissolve through
+   ceramic membranes based on zirconium dioxide by either high pressure or an electric current
+   to produce nearly pure O2 gas. Question. Electrolysis of what can be used to produce
+   oxygen and hydrogen.
+Answer: Electrolysis of water can be used to produce oxygen and hydrogen. 
+
+ [end of text]
+Transcription Time: 63.39065 seconds
+Words per Second: 2.85531 WPS
+Inference Time: 481.22748 seconds
+Tokens per Second: 0.45093 TPS
+Overall Time: 544.61885
+Other Data Processing Time: 0.00071

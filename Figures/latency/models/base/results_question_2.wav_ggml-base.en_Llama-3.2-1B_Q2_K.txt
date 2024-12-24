@@ -1,0 +1,28 @@
+Audio File: question_2.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    context, the Catholic Church in France and many of its members opposed the Huguenots.
+   Some Huguenot preachers and congregants were attacked as they attempted to meet for worship.
+   The height of this persecution was the Saint Bartholomew's day massacre when 5,000 to 30,000 were
+   killed, although there were also underlying political reasons for this as well.
+   As some of the Huguenots were nobles trying to establish separate centers of power in southern
+   France, retaliating against the French Catholics. The Huguenots had their own militia,
+   question. What event was the worst example of Huguenot persecution?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, the Catholic Church in France and many of its members opposed the Huguenots.
+   Some Huguenot preachers and congregants were attacked as they attempted to meet for worship.
+   The height of this persecution was the Saint Bartholomew's day massacre when 5,000 to 30,000 were
+   killed, although there were also underlying political reasons for this as well.
+   As some of the Huguenots were nobles trying to establish separate centers of power in southern
+   France, retaliating against the French Catholics. The Huguenots had their own militia,
+   question. What event was the worst example of Huguenot persecution?
+Answer:    The greatest form of Huguenot Persecution was the most violent and most
+   violent. The result of Huguenot Persecution was that the Huguenots would
+   be on the road, and the H
+Transcription Time: 11.07546 seconds
+Words per Second: 8.48723 WPS
+Inference Time: 18.50166 seconds
+Tokens per Second: 7.89118 TPS
+Overall Time: 29.57730
+Other Data Processing Time: 0.00018

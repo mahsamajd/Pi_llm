@@ -1,0 +1,32 @@
+Audio File: question_66.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    Context. AUSTPAC was an Australian public buy.25 network operated by Telstra.
+   Started by Telecom Australia in the early 1980s. AUSTPAC was Australia's first public
+   packet switched data network. Supporting applications such as online betting,
+   financial applications, the Australian Tax Office made use of AUSTPAC.
+   And remote terminal access to academic institutions.
+   Who maintained their connections to AUSTPAC up until the mid-late 1990s in some cases.
+   Access can be via a dial-up terminal to a pad or by linking a permanent buy.25 node to the network.
+   Citation needed. Question. What did AUSTPAC support?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. AUSTPAC was an Australian public buy.25 network operated by Telstra.
+   Started by Telecom Australia in the early 1980s. AUSTPAC was Australia's first public
+   packet switched data network. Supporting applications such as online betting,
+   financial applications, the Australian Tax Office made use of AUSTPAC.
+   And remote terminal access to academic institutions.
+   Who maintained their connections to AUSTPAC up until the mid-late 1990s in some cases.
+   Access can be via a dial-up terminal to a pad or by linking a permanent buy.25 node to the network.
+   Citation needed. Question. What did AUSTPAC support?
+Answer:    AUSTPAC supported the Australian government and various state
+   government agencies. The following is a list of the supported agencies:
+   National aboriginal and community development
+   National, AUSTPAC supported the Australian government
+   and various
+Transcription Time: 14.87614 seconds
+Words per Second: 6.18440 WPS
+Inference Time: 18.65957 seconds
+Tokens per Second: 7.82440 TPS
+Overall Time: 33.53595
+Other Data Processing Time: 0.00025

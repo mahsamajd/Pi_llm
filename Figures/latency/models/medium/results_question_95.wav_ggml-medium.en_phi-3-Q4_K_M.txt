@@ -1,0 +1,26 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    context, while QTb's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudeibi,
+   remained moderate and interested in political negotiation and activism. Fringe or splinter
+   movements inspired by the final writings of QTb in the mid-1960s, particularly the manifesto
+   Milestones, aka Ma'aleem Fa'il Tariq, did, however, develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals.
+   Question. When had the Brotherhood renounced violence as a means of achieving its goals?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while QTb's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudeibi,
+   remained moderate and interested in political negotiation and activism. Fringe or splinter
+   movements inspired by the final writings of QTb in the mid-1960s, particularly the manifesto
+   Milestones, aka Ma'aleem Fa'il Tariq, did, however, develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals.
+   Question. When had the Brotherhood renounced violence as a means of achieving its goals?
+Answer:The text does not specify the exact year when the Brotherhood renounced violence as a means of achieving its goals. It only indicates that by the 1970s, the Brotherhood had renounced violence. Therefore, based
+Transcription Time: 139.99783 seconds
+Words per Second: 0.67858 WPS
+Inference Time: 70.65336 seconds
+Tokens per Second: 2.12304 TPS
+Overall Time: 210.65151
+Other Data Processing Time: 0.00032

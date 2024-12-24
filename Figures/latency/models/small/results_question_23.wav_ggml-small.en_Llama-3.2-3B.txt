@@ -1,0 +1,30 @@
+Audio File: question_23.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B.gguf
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor
+   of Science degrees in 50 academic majors and 28 minors. The college's academics are divided
+   into five divisions. The Biological Sciences Collegiate Division, the Physical Sciences
+   Collegiate Division, the Social Sciences Collegiate Division, the Humanities Collegiate Division,
+   and the New Collegiate Division. The first four are sections within their corresponding graduate
+   divisions, while the New Collegiate Division administers interdisciplinary majors and studies
+   which do not fit in one of the other four divisions. Question. What division offers
+   more than one branch of studies that don't fit in with the other four?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. The College of the University of Chicago grants Bachelor of Arts and Bachelor
+   of Science degrees in 50 academic majors and 28 minors. The college's academics are divided
+   into five divisions. The Biological Sciences Collegiate Division, the Physical Sciences
+   Collegiate Division, the Social Sciences Collegiate Division, the Humanities Collegiate Division,
+   and the New Collegiate Division. The first four are sections within their corresponding graduate
+   divisions, while the New Collegiate Division administers interdisciplinary majors and studies
+   which do not fit in one of the other four divisions. Question. What division offers
+   more than one branch of studies that don't fit in with the other four?
+Answer: 1. The first four branches of studies are offered by their corresponding graduate
+   divisions. These divisions include the Biological Sciences Collegiate Division, the Physical
+   Sciences Collegiate Division, the Social Sciences Collegiate Division, and the Humanities
+Transcription Time: 33.56635 seconds
+Words per Second: 3.12813 WPS
+Inference Time: 324.25803 seconds
+Tokens per Second: 0.50 TPS
+Overall Time: 357.82470
+Other Data Processing Time: 0.00032

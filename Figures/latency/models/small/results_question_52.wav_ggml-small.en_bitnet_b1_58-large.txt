@@ -1,0 +1,39 @@
+Audio File: question_52.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+BitNet Model: /home/icas/Desktop/BitNet/models/bitnet_b1_58-large/ggml-model-i2_s.gguf
+Transcription:    Context, the property of being prime, or not, is called Pramality, a simple but slow
+   method of verifying the Pramality of a given number n is known as Trial Division.
+   It consists of testing whether n is a multiple of any integer between 2n.
+   Algorithms much more efficient than Trial Division have been devised to test the Pramality of large
+   numbers. These include the Miller-Rabon Pramality test, which is fast but has a small probability
+   of error, and the AKS Pramality test, which always produces the correct answer in polynomial time but
+   is too slow to be practical. Particularly fast methods are available for numbers of special
+   forms, such as Mersenne numbers. As of January 2016 update, the largest known prime number has
+   22,338,618 decimal digits. Question. What is the name of one algorithm useful
+   for conveniently testing the Pramality of large numbers?
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, the property of being prime, or not, is called Pramality, a simple but slow
+   method of verifying the Pramality of a given number n is known as Trial Division.
+   It consists of testing whether n is a multiple of any integer between 2n.
+   Algorithms much more efficient than Trial Division have been devised to test the Pramality of large
+   numbers. These include the Miller-Rabon Pramality test, which is fast but has a small probability
+   of error, and the AKS Pramality test, which always produces the correct answer in polynomial time but
+   is too slow to be practical. Particularly fast methods are available for numbers of special
+   forms, such as Mersenne numbers. As of January 2016 update, the largest known prime number has
+   22,338,618 decimal digits. Question. What is the name of one algorithm useful
+   for conveniently testing the Pramality of large numbers?
+   [BLANK_AUDIO]
+Answer: The Miller-Rabon test for prime numbers.
+
+
+
+A: The Miller-Rabon test is a special case of the AKS test.
+As the title says, it's an algorithm that checks whether the number
+Transcription Time: 63.62835 seconds
+Words per Second: 2.26314 WPS
+Inference Time: 9.27438 seconds
+Tokens per Second: 21.13350 TPS
+Overall Time: 72.90291
+Other Data Processing Time: 0.00018

@@ -1,0 +1,31 @@
+Audio File: question_91.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rhian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west, through the Wall and then, via the Merweed and New Merweed, de Biesbosch, merging with the
+   Meuse, through the Hollands Deep and Herringvleet estuaries. Into the North Sea, the Benedyn Merweed
+   branches off, near Hardinksvild Giesendam and continues as the Nord, to join the Lech, near the
+   village of Kinderdijk, to form the New Moss, then flows past Rotterdam and continues via Het-Schurr
+   and the New Water Weg. To the North Sea, the Oud-Moss branches off, near Dordrecht, farther down
+   rejoining the New Moss to form Het-Schurr, question. Which direction does two-thirds of the Rhine flow
+   outside of Germany.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. From here, the situation becomes more complicated, as the Dutch name Rhian no longer
+   coincides with the main flow of water. Two-thirds of the water flow volume of the Rhine flows farther
+   west, through the Wall and then, via the Merweed and New Merweed, de Biesbosch, merging with the
+   Meuse, through the Hollands Deep and Herringvleet estuaries. Into the North Sea, the Benedyn Merweed
+   branches off, near Hardinksvild Giesendam and continues as the Nord, to join the Lech, near the
+   village of Kinderdijk, to form the New Moss, then flows past Rotterdam and continues via Het-Schurr
+   and the New Water Weg. To the North Sea, the Oud-Moss branches off, near Dordrecht, farther down
+   rejoining the New Moss to form Het-Schurr, question. Which direction does two-thirds of the Rhine flow
+   outside of Germany.
+Answer:    Two-thirds of the flow of the Rhine flows through the Wall, the Merweed, the New Merweed, the
+   Meuse, the Hollands Deep, the Herringvleet, the Benedyn Merweed, the Nord,
+Transcription Time: 50.03642 seconds
+Words per Second: 2.65806 WPS
+Inference Time: 1005.77932 seconds
+Tokens per Second: 0.18195 TPS
+Overall Time: 1055.81597
+Other Data Processing Time: 0.00024

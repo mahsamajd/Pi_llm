@@ -1,0 +1,41 @@
+Audio File: question_95.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q2_k.gguf
+Transcription:    context, while QTb's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudeibi,
+   remained moderate and interested in political negotiation and activism. Fringe or splinter
+   movements inspired by the final writings of QTb in the mid-1960s, particularly the manifesto
+   Milestones, aka Ma'aleem Fa'il Tariq, did, however, develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals.
+   Question. When had the Brotherhood renounced violence as a means of achieving its goals?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, while QTb's ideas became increasingly radical during his imprisonment prior to his
+   execution in 1966. The leadership of the Brotherhood, led by Hassan al-Hudeibi,
+   remained moderate and interested in political negotiation and activism. Fringe or splinter
+   movements inspired by the final writings of QTb in the mid-1960s, particularly the manifesto
+   Milestones, aka Ma'aleem Fa'il Tariq, did, however, develop and they pursued a more radical direction.
+   By the 1970s, the Brotherhood had renounced violence as a means of achieving its goals.
+   Question. When had the Brotherhood renounced violence as a means of achieving its goals?
+Answer:
+
+
+
+## The answer to the 1970s, the Brotherhood had renneased violence as a means of achieving its
+   The
+
+
+
+
+##
+
+
+
+
+####
+Transcription Time: 133.71676 seconds
+Words per Second: 0.71046 WPS
+Inference Time: 69.37498 seconds
+Tokens per Second: 1.97478 TPS
+Overall Time: 203.09237
+Other Data Processing Time: 0.00063

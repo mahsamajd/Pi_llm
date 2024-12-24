@@ -1,0 +1,30 @@
+Audio File: question_17.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q8_0.gguf
+Transcription:    Context. According to geographic scholars under Colonizing Empires, the world could
+   be split into climatic zones. These scholars believed that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being. Alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. According to geographic scholars under Colonizing Empires, the world could
+   be split into climatic zones. These scholars believed that northern Europe and the mid-Atlantic
+   temperate climate produced a hard-working, moral, and upstanding human being. Alternatively,
+   tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy.
+   The people of these climates were believed to be in need of guidance and intervention from the
+   European empire to aid in the governing of a more evolved social structure.
+   They were seen as incapable of such a feat. Similarly, Orientalism is a view of a people
+   based on their geographical location. Question. Who did the geographic scholars work for?
+Answer:    The geographic scholars worked for the European empires to justify and further the expansion of
+   these empires. They were working in the interests of the European empires. They were justifying
+   the colonial rule. They were giving the Europeans
+Transcription Time: 142.56477 seconds
+Words per Second: 0.75755 WPS
+Inference Time: 1021.05961 seconds
+Tokens per Second: 0.16453 TPS
+Overall Time: 1163.62469
+Other Data Processing Time: 0.00032

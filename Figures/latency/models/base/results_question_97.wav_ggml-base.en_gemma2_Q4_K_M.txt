@@ -1,0 +1,53 @@
+Audio File: question_97.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q4_K_M.gguf
+Transcription:    Context. A job where there are many workers willing to work a large amount of time.
+   High supply. Competing for a job that few require.
+   Low demand. Will result in a low wage for that job.
+   This is because competition between workers drives down the wage.
+   An example of this would be jobs such as dishwashing or customer service.
+   Competition amongst workers tends to drive down wages due to the expendable nature of
+   the worker in. Relation to his or her particular job.
+   A job where there are few able or willing workers.
+   Low supply. But a large need for the positions.
+   High demand. Will result in high wages for that job.
+   This is because competition between employers for employees will drive up the wage.
+   Examples of this would include jobs that require highly developed skills.
+   Rare abilities. Or a high level of risk. Competition amongst employers tends
+   to drive up wages due to the nature of the job.
+   Since there is a relative shortage of workers for the particular position.
+   Professional and labor organizations may limit the supply of workers which results in higher
+   demand. And greater incomes for members. Members may also receive higher wages through collective
+   bargaining. Political influence. Or corruption. Question.
+   Why does competition among workers drive down wages?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. A job where there are many workers willing to work a large amount of time.
+   High supply. Competing for a job that few require.
+   Low demand. Will result in a low wage for that job.
+   This is because competition between workers drives down the wage.
+   An example of this would be jobs such as dishwashing or customer service.
+   Competition amongst workers tends to drive down wages due to the expendable nature of
+   the worker in. Relation to his or her particular job.
+   A job where there are few able or willing workers.
+   Low supply. But a large need for the positions.
+   High demand. Will result in high wages for that job.
+   This is because competition between employers for employees will drive up the wage.
+   Examples of this would include jobs that require highly developed skills.
+   Rare abilities. Or a high level of risk. Competition amongst employers tends
+   to drive up wages due to the nature of the job.
+   Since there is a relative shortage of workers for the particular position.
+   Professional and labor organizations may limit the supply of workers which results in higher
+   demand. And greater incomes for members. Members may also receive higher wages through collective
+   bargaining. Political influence. Or corruption. Question.
+   Why does competition among workers drive down wages?
+Answer:
+The supply of workers is lower than the demand for workers. In this case, workers who are unemployed
+do not have jobs. This is due to the high demand for workers who are willing to work a large amount of time.
+Workers with
+Transcription Time: 23.90 seconds
+Words per Second: 8.91384 WPS
+Inference Time: 51.79679 seconds
+Tokens per Second: 5.36713 TPS
+Overall Time: 75.69241
+Other Data Processing Time: 0.00020

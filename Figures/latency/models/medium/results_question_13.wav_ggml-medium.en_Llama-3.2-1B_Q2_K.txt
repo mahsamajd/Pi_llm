@@ -1,0 +1,33 @@
+Audio File: question_13.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q2_K.gguf
+Transcription:    Context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the
+   basis for the structure of the Parliament. Question. When was the Scottish Constitutional
+   convention held.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the convention provided much of the
+   basis for the structure of the Parliament. Question. When was the Scottish Constitutional
+   convention held.
+Answer:   The Scottish constitutional convention was held at the University of the West
+   of Scotland in April 1995. The Scottish Constitutional Convention with various
+   organisations and representatives from the industry was initiated as a
+   pressure group. It was the first
+Transcription Time: 141.70204 seconds
+Words per Second: 0.74099 WPS
+Inference Time: 19.57839 seconds
+Tokens per Second: 8.47874 TPS
+Overall Time: 161.28057
+Other Data Processing Time: 0.00014

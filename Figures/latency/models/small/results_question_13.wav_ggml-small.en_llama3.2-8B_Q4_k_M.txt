@@ -1,0 +1,30 @@
+Audio File: question_13.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-8B Model: /home/icas/Desktop/llama.cpp/models/llama3.2-8B_Q4_k_M.gguf
+Transcription:    Context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the Convention provided much of the basis for the
+   structure of the Parliament, question when was the Scottish Constitutional Convention held.
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Throughout the 1980s and 1990s, demand for a Scottish Parliament grew,
+   in part because the government of the United Kingdom was controlled by the Conservative Party.
+   While Scotland itself elected relatively few Conservative MPs, in the aftermath of the 1979
+   referendum defeat, the campaign for a Scottish Assembly was initiated as a pressure group.
+   Leading to the 1989 Scottish Constitutional Convention with various organisations such as
+   Scottish churches, political parties and representatives of industry taking part,
+   publishing its blueprint for devolution in 1995, the Convention provided much of the basis for the
+   structure of the Parliament, question when was the Scottish Constitutional Convention held.
+Answer:    The Scottish Constitutional Convention (SCC) was a group set up in 1989 to campaign for a
+   Scottish Parliament. It was a pressure group that held the blueprint for devolution, which formed
+   the basis for the structure of
+Transcription Time: 31.82490 seconds
+Words per Second: 3.29930 WPS
+Inference Time: 105.89904 seconds
+Tokens per Second: 1.54864 TPS
+Overall Time: 137.72420
+Other Data Processing Time: 0.00026

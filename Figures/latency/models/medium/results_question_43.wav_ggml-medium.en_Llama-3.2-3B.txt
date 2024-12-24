@@ -1,0 +1,26 @@
+Audio File: question_43.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-medium.en.bin
+Llama-3.2-3B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-3B.gguf
+Transcription:    Context. Other components are often present. Pumps, such as an injector, to supply water to
+   the boiler during operation; condensers to recirculate the water and recover the latent
+   heat of vaporization; and superheaters to raise the temperature of the steam above its saturated
+   vapor point; and various mechanisms to increase the draft for fireboxes. When coal is used,
+   a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel
+   from a supply bin/bunker to the firebox.
+   C. Mechanical stoker question. What components raise steam temperature above its saturated vapor
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. Other components are often present. Pumps, such as an injector, to supply water to
+   the boiler during operation; condensers to recirculate the water and recover the latent
+   heat of vaporization; and superheaters to raise the temperature of the steam above its saturated
+   vapor point; and various mechanisms to increase the draft for fireboxes. When coal is used,
+   a chain or screw stoking mechanism and its drive engine or motor may be included to move the fuel
+   from a supply bin/bunker to the firebox.
+   C. Mechanical stoker question. What components raise steam temperature above its saturated vapor
+Answer: Pumps, such as an injector, to supply water to the boiler during operation; condensers to recirculate the water and recover the latent heat of vaporization; and superheaters to raise the temperature of the steam above its saturated vapor
+Transcription Time: 103.21405 seconds
+Words per Second: 0.93979 WPS
+Inference Time: 312.93493 seconds
+Tokens per Second: 0.50 TPS
+Overall Time: 416.14911
+Other Data Processing Time: 0.00012

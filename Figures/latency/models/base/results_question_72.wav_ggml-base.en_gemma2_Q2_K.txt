@@ -1,0 +1,36 @@
+Audio File: question_72.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-base.en.bin
+Gemma Model: /home/icas/Desktop/llama.cpp/models/gemma2_Q2_K.gguf
+Transcription:    Context. In science, alumni include astronomers Carl Sagan, a prominent contributor to the
+   scientific research of extraterrestrial life. And Edwin Hubble, known for Hubble's law.
+   NASA astronaut John M. Grunsfeld, geneticist James Watson, best known as one of the
+   co-discoverers of the structure of DNA. Experimental physicist Luis Alvarez,
+   popular environmentalist David Suzuki, balloonist Jeanette Picard, biologist Ernest Everett just
+   and Lynn Margolis. Computer scientist Richard Hamming, the creator of the Hamming Code.
+   Lithium-ion battery developer John B. Goodenough, mathematician and fields metal recipient Paul
+   Joseph Cohen. And geochemist Claire Cameron Patterson. Who developed the uranium lead dating method into
+   lead-led dating. Nuclear physicist and researcher Stanton Friedman. Who worked on some early
+   projects involving nuclear-powered spacecraft propulsion systems.
+   As also a graduate, M.S.C. question. What popular environmentalist is also a university alumni member?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context. In science, alumni include astronomers Carl Sagan, a prominent contributor to the
+   scientific research of extraterrestrial life. And Edwin Hubble, known for Hubble's law.
+   NASA astronaut John M. Grunsfeld, geneticist James Watson, best known as one of the
+   co-discoverers of the structure of DNA. Experimental physicist Luis Alvarez,
+   popular environmentalist David Suzuki, balloonist Jeanette Picard, biologist Ernest Everett just
+   and Lynn Margolis. Computer scientist Richard Hamming, the creator of the Hamming Code.
+   Lithium-ion battery developer John B. Goodenough, mathematician and fields metal recipient Paul
+   Joseph Cohen. And geochemist Claire Cameron Patterson. Who developed the uranium lead dating method into
+   lead-led dating. Nuclear physicist and researcher Stanton Friedman. Who worked on some early
+   projects involving nuclear-powered spacecraft propulsion systems.
+   As also a graduate, M.S.C. question. What popular environmentalist is also a university alumni member?
+Answer:  Alumni: a graduate
+   Who has a graduate school, a university, and a university of the institution of a
+   school, is a school of school. Who is a school of school is school of school, school of school, school
+Transcription Time: 17.33 seconds
+Words per Second: 7.73060 WPS
+Inference Time: 46.94847 seconds
+Tokens per Second: 4.13219 TPS
+Overall Time: 64.28254
+Other Data Processing Time: 0.00035

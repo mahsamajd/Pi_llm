@@ -1,0 +1,34 @@
+Audio File: question_10.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q4_K_M.gguf
+Transcription:    Context Following the Cretaceous Palaeogene
+   extinction event, the extinction of the dinosaurs and the wetter climate may have allowed the
+   tropical rainforest to spread out across the continent. From 66 to 34 Maya, the rainforest
+   extended as far south as 45 degrees. Climate fluctuations during the last 34 million years
+   have allowed savanna regions to expand into the tropics. During the oligocene, for example,
+   the rainforests spanned a relatively narrow band. It expanded again during the middle Miocene,
+   then retracted to a mostly inland formation at the last glacial maximum. However, the rainforests
+   still managed to thrive during these glacial periods, allowing for the survival and evolution
+   of a broad diversity of species, question. During which period in history was the Amazon
+   rainforest a narrow band of forest?
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context Following the Cretaceous Palaeogene
+   extinction event, the extinction of the dinosaurs and the wetter climate may have allowed the
+   tropical rainforest to spread out across the continent. From 66 to 34 Maya, the rainforest
+   extended as far south as 45 degrees. Climate fluctuations during the last 34 million years
+   have allowed savanna regions to expand into the tropics. During the oligocene, for example,
+   the rainforests spanned a relatively narrow band. It expanded again during the middle Miocene,
+   then retracted to a mostly inland formation at the last glacial maximum. However, the rainforests
+   still managed to thrive during these glacial periods, allowing for the survival and evolution
+   of a broad diversity of species, question. During which period in history was the Amazon
+   rainforest a narrow band of forest?
+   [BLANK_AUDIO]
+Answer: The Amazon rainforest was a narrow band of forest during the Oligocene period. This time frame is around 34 million years ago. During the Oligocene, the rainforests spanned a relatively narrow band before expand
+Transcription Time: 56.98622 seconds
+Words per Second: 2.26371 WPS
+Inference Time: 77.82797 seconds
+Tokens per Second: 2.37704 TPS
+Overall Time: 134.81436
+Other Data Processing Time: 0.00018

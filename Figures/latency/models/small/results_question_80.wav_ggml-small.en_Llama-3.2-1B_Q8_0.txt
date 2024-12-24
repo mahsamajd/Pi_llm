@@ -1,0 +1,32 @@
+Audio File: question_80.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Llama-3.2-1B Model: /home/icas/Desktop/llama.cpp/models/Llama-3.2-1B_Q8_0.gguf
+Transcription:    Context, terra preta, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management.
+   The development of this fertile soil allowed agriculture and silviculture in the previously
+   hostile environment, meaning that large portions of the Amazon rainforest are probably the result
+   of centuries of human management, rather than naturally occurring as has previously been
+   supposed. In the region of the Shinggu tribe, remains of some of these large settlements in
+   the middle of the Amazon forest were found in 2003 by Michael Heckenberger and colleagues
+   of the University of Florida. Among those were evidence of roads, bridges and large plazas,
+   Question. Who discovered this and where did they come from?
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    Context, terra preta, black earth, which is distributed over large areas in the Amazon forest,
+   is now widely accepted as a product of indigenous soil management.
+   The development of this fertile soil allowed agriculture and silviculture in the previously
+   hostile environment, meaning that large portions of the Amazon rainforest are probably the result
+   of centuries of human management, rather than naturally occurring as has previously been
+   supposed. In the region of the Shinggu tribe, remains of some of these large settlements in
+   the middle of the Amazon forest were found in 2003 by Michael Heckenberger and colleagues
+   of the University of Florida. Among those were evidence of roads, bridges and large plazas,
+   Question. Who discovered this and where did they come from?
+Answer:  The Shinggu tribe found and described these settlements in the middle of the Amazon rainforest,
+   in the mid-1990s, and since then many have been identified by archaeologists, who have also
+   discovered similar settlements in other
+Transcription Time: 47.02201 seconds
+Words per Second: 2.59453 WPS
+Inference Time: 18.97370 seconds
+Tokens per Second: 9.43411 TPS
+Overall Time: 65.99603
+Other Data Processing Time: 0.00032

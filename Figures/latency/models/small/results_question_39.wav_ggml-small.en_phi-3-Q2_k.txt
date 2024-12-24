@@ -1,0 +1,55 @@
+Audio File: question_39.wav
+Whisper Model: /home/icas/Desktop/whisper.cpp/models/ggml-small.en.bin
+Phi3 Model: /home/icas/Desktop/llama.cpp/models/phi-3-Q2_k.gguf
+Transcription:    context, but bounding the computation time above by some concrete function f(n) often yields
+   complexity classes that depend on the chosen machine model. For instance, the language xx(x)
+   as any binary string can be solved in linear time on a multi-tape Turing machine, but necessarily
+   requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations
+   in running time, Kaba-Medman's thesis states that the time complexities in any two reasonable
+   and general models of computation are polynomially related. Goldreich 2008, chapter 1.2, this forms
+   the basis for the complexity class P, which is the set of decision problems solvable by a
+   deterministic Turing machine within polynomial. Time. The corresponding set of function problems
+   is f(p). Question. A multi-tape Turing machine requires what type of time for a solution.
+   [BLANK_AUDIO]
+Response: Based on the following transcription, provide a detailed and specific answer. Make sure your response fully addresses the information given:
+
+Transcription:    context, but bounding the computation time above by some concrete function f(n) often yields
+   complexity classes that depend on the chosen machine model. For instance, the language xx(x)
+   as any binary string can be solved in linear time on a multi-tape Turing machine, but necessarily
+   requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations
+   in running time, Kaba-Medman's thesis states that the time complexities in any two reasonable
+   and general models of computation are polynomially related. Goldreich 2008, chapter 1.2, this forms
+   the basis for the complexity class P, which is the set of decision problems solvable by a
+   deterministic Turing machine within polynomial. Time. The corresponding set of function problems
+   is f(p). Question. A multi-tape Turing machine requires what type of time for a solution.
+   [BLANK_AUDIO]
+Answer:
+
+
+
+
+
+
+[P]]
+
+[A]
+
+]
+[A, B, C]
+
+
+
+
+
+[A, B, C]
+
+
+
+
+[A, B,
+Transcription Time: 54.96361 seconds
+Words per Second: 2.41978 WPS
+Inference Time: 76.38565 seconds
+Tokens per Second: 2.17318 TPS
+Overall Time: 131.34974
+Other Data Processing Time: 0.00049
